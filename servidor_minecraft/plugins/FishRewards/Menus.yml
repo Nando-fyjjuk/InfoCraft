@@ -1,0 +1,107 @@
+ver: 1.2
+update: true
+#Hace automáticamente copias de seguridad
+
+menus:
+  main-menu:
+    title: "§3Menú de Administración"
+    packs-item:
+      title: "§bPacks"
+      #description:
+      #  - "línea1"
+      #  - "línea2"
+    reload-pack-item:
+      title: "§bRecargar packs"
+      description:
+        - "§aSi hubo cambios editando el archivo de configuración"
+  packs-menu:
+    title: "§3Packs"
+    list-template-items:
+      title: "{title}"
+      list:
+        - "§aProbabilidad de drop§f: §b{chance}§a%"
+        - "§aArchivo de configuración: §b{filename}.yml"
+    creation-pack:
+      title: "Crear nuevo pack"
+    back-item:
+      title: "Volver"
+  edit-pack-menu:
+    title: "Editar {packname}"
+    add-chance-item:
+      title: "§bAñadir §a5% §bde probabilidad"
+    subruct-chance-item:
+      title: "§bRestar §45% §bde probabilidad"
+    chance-status-item:
+      title: "§bProbabilidad §a{chance}%"
+    change-pack-name-item:
+      title: "§bCambiar nombre visible"
+    rewards-item:
+      title: "§bRecompensas"
+    remove-pack-item:
+      title: "§bEliminar pack"
+    reload-pack-item:
+      title: "§bRecargar pack"
+    save-pack-item:
+      title: "§bGuardar"
+    get-pack-item:
+      title: "§bObtener pack"
+    back-item:
+      title: "§cVolver"
+  rewards-menu:
+    title: "Recompensas"
+    list-template-items:
+      - "§6Probabilidad {1}%"
+      - "§3Clic izquierdo para editar"
+      - "§3Clic izquierdo + shift para eliminar"
+    save-item:
+      title: "§bGuardar"
+    back-item:
+      title: "§cVolver"
+    additem-item:
+      title: "§6Añadir un ítem"
+    addentity-item:
+      title: "§6Añadir una entidad"
+    addcommand-item:
+      title: "§6Añadir un comando"
+  put-item-menu:
+    title: "§3Coloca el ítem"
+    back-item:
+      title: "§cVolver"
+    add-to-pack-item:
+      title: "§3Añadir este ítem al Pack"
+  edit-item-menu:
+    title: "Editar ítem"
+    edit-name-item:
+      title: "§3Editar nombre del ítem"
+    add-amount-item:
+      title: "§3Añadir cantidad"
+    edit-drop-chance-item:
+      title: "§3Probabilidad de drop {1}%"
+      description:
+        - "§2Clic izquierdo +5%"
+        - "§2Clic derecho -5%"
+    subtruct-amount-item:
+      title: "§3Restar"
+    back-item:
+      title: "§cVolver"
+  entity-menu:
+    back-item:
+      title: "§cVolver"
+    title: "Seleccionar entidad"
+    entity-items:
+      description:
+        - "§3Clic izquierdo para añadir"
+  edit-entity-menu:
+    title: "Editar entidad {1}"
+    back-item:
+      title: "§cVolver"
+    edit-entity-amount:
+      title: "§6Cantidad: {1}"
+      description:
+        - "§3Clic izquierdo +1"
+        - "§3Clic derecho -1"
+    spawn-chance-item:
+      title: "§6Probabilidad {1}%"
+      description:
+        - "§3Clic izquierdo +5%"
+        - "§3Clic derecho -5%"

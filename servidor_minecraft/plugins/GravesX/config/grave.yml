@@ -1,0 +1,1558 @@
+#################
+# Default Grave #
+#################
+# Las opciones por defecto para las tumbas que no son sobrescritas por las configuraciones de la entidad o permisos.
+settings:
+  default:
+    default:
+      #########
+      # Tumba #
+      #########
+      grave:
+        # (Segundos) Por cuánto tiempo deben permanecer las tumbas, 300 = 5 minutos, 10800 = 3 horas, -1 dura para siempre.
+        time: 10800
+        # La cantidad máxima de tumbas que una entidad puede tener.
+        max: 18
+        # ¿Pueden las tumbas ser rotas?
+        break: true
+        # ¿Pueden las tumbas ser voladas?
+        explode: false
+        # ¿Debería habilitarse la protección de radio de la tumba?
+        should-protect-radius: false
+        # El radio que una tumba puede proteger. Un valor inferior a 2 podría permitir bloques flotantes al saquear. Es mejor mantenerlo al menos en más de dos. Para deshabilitarlo, simplemente pon should-protect-radius en false.
+        # Ten en cuenta que radios de protección más altos pueden causar caídas de TPS. Es mejor mantenerlo por debajo de 5 a menos que lo necesites específicamente más alto.
+        protection-radius: 5
+        # ¿Deberían los bloques ser protegidos cuando ocurre una explosión? Esto no afecta a la tumba en absoluto, pero permite el comportamiento de explosión de bloques alrededor de la tumba sin importar si el radio está protegido.
+        explode-protection: true
+        # ¿Deberíamos reemplazar la tumba más antigua con una nueva cuando un jugador alcanza el límite máximo? Esto también eliminará las tumbas abandonadas y todo su contenido se perderá.
+        replace-oldest: false
+        # ¿Debería permitirse a un jugador previsualizar una tumba?
+        preview: false
+        # ¿Deberíamos lanzar un rayo donde el jugador ha muerto?
+        smite-death-location: true
+        # ¿Deberíamos realmente lanzar un rayo en el lugar de la muerte? Ten en cuenta que habilitar esto dañará entidades o destruirá objetos en el suelo si los objetos son ignorados. Se mantiene ya que algunos lo usan.
+        actually-smite-death-location: false
+        # Configuración de la economía de la tumba
+        economy:
+          # ¿Deberíamos requerir economía para las tumbas?
+          requires-economy: false
+          # Costo de abrir la tumba
+          open-cost: 200
+          # Costo de auto-saqueo de la tumba
+          autoloot-cost: 500
+
+      #############
+      # Colocación #
+      #############
+      placement:
+        # Solo crear tumbas donde la entidad pueda construir, debería funcionar con todos los plugins de protección.
+        can-build: false
+        # Solo crear tumbas donde la entidad pueda construir (según ProtectionLib).
+        can-build-protectionlib: false
+        # Si la entidad muere en el aire, ¿debería la tumba caer al suelo?
+        ground: true
+        # Si la entidad muere en el vacío, ¿debería colocar una tumba en el aire si no encuentra otro lugar?
+        void: true
+        # Si la entidad muere en la lava, ¿debería la tumba flotar a la superficie?
+        lava-top: true
+        # Si la entidad se ahoga en el agua, ¿debería la tumba flotar a la superficie?
+        water-top: false
+        # Si la entidad muere en el vacío, ¿debería colocar una tumba en el aire si no encuentra otro lugar? (versión inteligente)
+        void-smart: true
+        # Si la entidad muere en la lava, intenta colocar la tumba en el último bloque sólido en el que se paró. (Solo funciona para jugadores)
+        lava-smart: true
+        # Si la entidad se ahoga en el agua, intenta colocar la tumba en el último bloque sólido en el que se paró. (Solo funciona para jugadores)
+        water-smart: false
+        # ¿Permitir la colocación de tumbas sobre el techo del Nether? (No recomendado, ya que las tumbas colocadas aquí pueden ser inaccesibles.)
+        nether-roof: false
+        # Si se intenta crear una tumba y no se encuentra una ubicación válida, ¿debería el jugador conservar su inventario?
+        failure-keep-inventory: true
+        offset:
+          # Desplazamiento de colocación X, esto afectará a todos los demás desplazamientos.
+          x: 0
+          # Desplazamiento de colocación Y, esto afectará a todos los demás desplazamientos.
+          y: 0
+          # Desplazamiento de colocación Z, esto afectará a todos los demás desplazamientos.
+          z: 0
+
+      #########
+      # Mundo #
+      #########
+      world:
+        # En qué mundos aparecerá una tumba. ALL permitirá todos los mundos
+        #- world
+        #- world_nether
+        #- world_the_end
+        - ALL
+
+      ########
+      # Caída #
+      #########
+      drop:
+        # ¿Debería una tumba soltar su contenido cuando es destruida por las siguientes razones?
+        auto-loot:
+          # Si un jugador la rompe, ¿deberíamos intentar auto-saquear el contenido de la tumba?
+          enabled: false
+          # Si no se pueden recoger todos los objetos al auto-saquear una tumba, ¿deberíamos romper la tumba de todos modos y soltarlos en el suelo?
+          break: true
+        # Cuando una tumba expira, suelta todo lo que contiene. Si es falso, se destruye.
+        timeout: true
+        # Cuando una tumba expira, ¿debería pasar a un estado de abandono en lugar de soltar todo? Si es falso, nada cambia. drop.timeout debe estar deshabilitado.
+        abandon: false
+        # ¿Debería una tumba perder toda su experiencia cuando pasa a estado abandonado?
+        abandon-lose-experience: true
+        # Cuando una tumba explota, suelta todo lo que contiene. Si es falso, se destruye.
+        explode: true
+        # Cuando una tumba es rota, suelta todo lo que contiene. Si es falso, se destruye.
+        break: true
+        # ¿Deberían las tumbas soltar su contenido cuando son golpeadas por un proyectil?
+        projectile:
+          enabled: false
+          # ¿Deberían los proyectiles de los jugadores hacer que la tumba se rompa?
+          player: true
+          # ¿Deberían los proyectiles de una entidad viva hacer que la tumba se rompa? (Esqueletos u otros mobs)
+          living-entity: true
+          # ¿Deberían los proyectiles de otras fuentes hacer que la tumba se rompa? (Dispensador)
+          other: false
+        # ¿Deberían los pistones romper las tumbas?
+        piston-extend: true
+        # ¿Debería ocurrir un efecto de explosión al saquear una tumba?
+        looted-explosion-effect: false
+
+      #########
+      # Bloque #
+      #########
+      # Opciones de bloque, esto se puede deshabilitar si solo quieres hologramas.
+      block:
+        # ¿Deberían los bloques de tumba estar habilitados?
+        enabled: true
+        # Material: PLAYER_HEAD, CHEST, BEACON.
+        material: PLAYER_HEAD
+        # ¿Deberían las tumbas ser saqueadas si se camina sobre el bloque?
+        walk-over: false
+        offset:
+          # Desplazamiento del bloque X.
+          x: 0
+          # Desplazamiento del bloque Y.
+          y: 0
+          # Desplazamiento del bloque Z.
+          z: 0
+        head:
+          # 0 = Cabeza de jugador/entidad, (1 = Textura personalizada o 2 = Nombre de usuario de jugador establecido en 'name').
+          type: 1
+          base64: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdjYWI1NmM4MmNiODFiZGI5OTc5YTQ2NGJjOWQzYmEzZTY3MjJiYTEyMmNmNmM1Mjg3MzAxMGEyYjU5YWVmZSJ9fX0="
+          # Si el tipo está configurado en 2.
+          name: "MHF_Chest"
+
+      ############
+      # Holograma #
+      ############
+      # Si estás usando PaperMC, puedes establecer armor-stands-tick en false para mejorar el rendimiento sin afectar ninguna funcionalidad. Si los hologramas permanecen después de saquear las tumbas, es posible que necesites volver a habilitar armor-stands-tick poniéndolo en true.
+      hologram:
+        # ¿Deberían crearse hologramas?
+        enabled: true
+        # ¿Debería el holograma ser un marcador? No se puede interactuar con los marcadores.
+        marker: true
+        # ¿Qué tan separados deben estar los hologramas entre sí?
+        height-line: 0.28
+        offset:
+          # Desplazamiento del holograma X.
+          x: 0
+          # Desplazamiento del holograma Y.
+          y: -0.28
+          # Desplazamiento del holograma Z.
+          z: 0
+        # Los marcadores de posición para el holograma incluyen
+        # %item% - para la cantidad de objetos
+        # %level% - para la cantidad de niveles caídos
+        # %owner_name_display% - para el nombre del dueño de la tumba
+        # %time_alive_remaining_formatted% - para el tiempo restante en la tumba
+        # %killer_name_display% - para la causa de la muerte
+        # %state_protection% - Estado de la protección de la tumba
+        line:
+          - "&7Tumba de %owner_name_display%&r &c☠"
+          - "&7%time_alive_remaining_formatted% &r| %state_protection%"
+          - "&fAsesinado por &c%killer_name_display%"
+
+      ##############
+      # Protección #
+      ##############
+      # Opciones de protección, protege las tumbas de los jugadores, esto no protege de las explosiones, busca grave: explode: para deshabilitarlo.
+      protection:
+        # Habilita la característica de protección de tumbas.
+        enabled: false
+        # Segundos, 300 = 5 minutos. Ponlo en -1 para que siempre esté bloqueada.
+        time: 300
+        open:
+          # ¿Puede el dueño abrir la tumba del dueño?
+          owner: true
+          # ¿Puede el asesino abrir la tumba del dueño?
+          killer: true
+          # ¿Pueden otras entidades abrir la tumba del dueño?
+          other: false
+          missing:
+            # Si no se puede encontrar un asesino, ¿debería permitirse al dueño abrir la tumba?
+            owner: true
+            # Si no se puede encontrar un asesino, ¿debería permitirse a todos abrir la tumba?
+            other: false
+        state:
+          # Mensaje para las tumbas protegidas.
+          protected: "&c✘"
+          # Mensaje para las tumbas no protegidas.
+          unprotected: "&a✔"
+        # ¿Debería permitirse a los jugadores previsualizar una tumba en estado protegido?
+        preview: false
+
+      ############
+      # Teletransporte #
+      ############
+      # Opciones de teletransportación.
+      teleport:
+        # ¿Puede la entidad teletransportarse a su tumba desde la GUI de Graves?
+        enabled: true
+        # Cuánto cuesta teletransportarse a una tumba, necesitas Vault para esto.
+        cost: 2
+        # Cuánto tiempo (en segundos) debe pasar antes de que un jugador sea teletransportado a una tumba. Pon 0 para que la teletransportación sea instantánea.
+        delay: 0
+        # ¿Deberíamos detectar el 'yaw' y 'pitch' cuando el retraso está habilitado? Se recomienda dejar esto en falso, ya que puede afectar a los jugadores que usan Vivecraft o mods que permiten controladores (deriva del stick).
+        strict: false
+        # Costo extra añadido además del costo si la tumba está en un mundo diferente.
+        cost-different-world: 0
+        # Aumentar el precio cuanto más lejos esté la tumba.
+        cost-distance-increase: false
+        # ¿Debería permitirse a las entidades teletransportarse siempre a una tumba incluso si no es seguro?
+        unsafe: false
+        # Si la tumba está en una ubicación insegura, ¿debería la entidad ser teletransportada a la parte superior?
+        top: true
+
+      ###########
+      # Almacenamiento #
+      ###########
+      # Cómo se guardan los objetos en las tumbas.
+      storage:
+        # COMPACT - apila todos los objetos y los coloca en el inventario más pequeño posible.
+        # EXACT - coincide con el inventario del jugador exactamente.
+        # CHESTSORT - Ordena automáticamente todos los objetos en las tumbas de manera ordenada. Esto no tendrá el mismo comportamiento que EXACT. Actúa más como COMPACT, pero lo ordena todo si es necesario. (ChestSort debe estar instalado)
+        mode: EXACT
+
+      ##############
+      # Experiencia #
+      ##############
+      # Si 'store' es falso, almacenará lo que Minecraft normalmente soltaría. Si quieres deshabilitarlo por completo, pon 'store' en 0.0
+      # Valores válidos entre 0.01 y 1.00
+      experience:
+        store: 0.8
+
+      ###########
+      # Reaparición #
+      ###########
+      respawn:
+        # ¿Debería dársele a las entidades una brújula hacia su última tumba cuando reaparecen? (Solo funciona para jugadores)
+        compass: true
+        # Por cuánto tiempo debería dársele a la entidad una brújula al reaparecer después de que la tumba fue creada.
+        compass-time: 300
+        # ¿Deberíamos ejecutar una función después de reaparecer? Puedes usar 'menu' y 'list' entre otras funciones.
+        function: "none"
+
+        # ¿Debería dársele a las entidades un efecto de poción cuando reaparecen? (Solo funciona para jugadores)
+        potion-effect: false
+        # Por cuánto tiempo debería dársele a la entidad tiempo para reaparecer después de que la tumba fue creada.
+        potion-effect-time-limit: 300
+        # ¿Cuánto tiempo (en segundos) debería durar el efecto?
+        potion-effect-duration: 15
+
+      ############
+      # Partícula #
+      ############
+      particle:
+        # Habilita la característica de partículas.
+        enabled: true
+        # Lista de partículas (debe estar en mayúsculas) https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html
+        type: "ENCHANTMENT_TABLE"
+        # Cantidad de partículas.
+        count: 4
+        # Las opciones a continuación solo se aplican a REDSTONE o DUST.
+        dust-size: 4
+        # Colores heredados: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Color.html
+        # Para usar colores hexadecimales, solo establece #rrggbb. Esto solo funciona en 1.16 o más reciente donde los colores hexadecimales son compatibles.
+        dust-color: "RED"
+        # dust-color: "#FF0000"
+        offset:
+          # Desplazamiento de la partícula X.
+          x: 0
+          # Desplazamiento de la partícula Y.
+          y: 0
+          # Desplazamiento de la partícula Z.
+          z: 0
+
+      ###########
+      # Brújula #
+      ###########
+      # Brújula que apunta a la ubicación más cercana de una tumba, solo compatible con 1.16.2+.
+      compass:
+        # La función que se ejecuta al hacer clic derecho.
+        function: "distance"
+        # Ignorar la brújula si una entidad muere con ella, suéltala normalmente.
+        ignore: true
+        # ¿Debería destruirse una brújula anterior al crear una nueva tumba?
+        destroy: true
+        # ¿Debería la brújula ser una brújula de recuperación? Solo 1.19+. Las versiones anteriores recurrirán a una brújula regular.
+        recovery: true
+        # Nombre de la brújula.
+        name: "Tumba de %owner_name%"
+        # ¿Debería brillar la brújula?
+        glow: true
+        # Datos del modelo personalizado para la brújula, -1 es ninguno.
+        model-data: -1
+        # Texto de la brújula.
+        lore:
+          - "%world_formatted%, %x%x, %y%y, %z%z"
+
+        # Manejo de Partículas
+        particles:
+          # ¿Debería al hacer clic derecho en una brújula generar partículas que lleven al sitio de la tumba?
+          enabled: false
+          # ¿Qué partícula deberíamos usar? Tipos de partículas válidos: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html
+          particle: "FLAME"
+          # ¿Cuántas partículas deberían generarse? Ten en cuenta que establecer un valor muy alto puede disminuir el rendimiento en los clientes y el servidor.
+          count: 5
+          # ¿Qué tan rápido deberían ir las partículas del jugador a la ubicación de la tumba?
+          speed: 0.3
+          # ¿Cuánto tiempo, en milisegundos, debe durar la animación de la partícula?
+          duration: 100
+
+      ############
+      # Obituario #
+      ############
+      # Pone un obituario para una entidad en la tumba.
+      obituary:
+        # ¿Deberían los obituarios estar habilitados? Ten en cuenta que esto agregará un objeto a los inventarios de las personas.
+        enabled: true
+        # Probabilidad de que se cree un obituario, 0.2 = 20%, 1 = 100%, 0 = 0%.
+        percent: 1
+        # ¿Deberían los obituarios caer al suelo en lugar de ser guardados en la tumba del jugador?
+        drop: false
+        # Título del obituario.
+        title: "Obituario de &c%owner_name%&r"
+        # Autor del obituario.
+        author: "%killer_name%"
+        # ¿Debería brillar el obituario?
+        glow: true
+        # Datos del modelo personalizado, -1 es ninguno.
+        model-data: -1
+        # Líneas del obituario.
+        line:
+          - "         Obituario         "
+          - "-------------------"
+          - "  Nombre: %owner_name%"
+          - "  Causa: %killer_name%"
+          - "  Fecha: %time_creation_formatted%"
+          - "  Objetos: %item%"
+          - "  Exp: %experience%"
+          - "  Ubicación:"
+          - "    Mundo: %world_formatted%"
+          - "    X: %x%"
+          - "    Y: %y%"
+          - "    Z: %z%"
+        # Texto del obituario.
+        lore:
+          - "&7Fecha: %time_creation_formatted%"
+
+      ########
+      # Cabeza #
+      ########
+      # Suelta una cabeza que pertenece al dueño de la tumba.
+      head:
+        # ¿Deberían las cabezas estar habilitadas?
+        enabled: false
+        # Probabilidad de que se cree una cabeza, 0.2 = 20%, 1 = 100%, 0 = 0%.
+        percent: 0.2
+        # ¿Deberían las cabezas caer al suelo en lugar de ser guardadas en la tumba del jugador?
+        drop: false
+        # Datos del modelo personalizado, -1 es ninguno.
+        model-data: -1
+        # Nombre de la cabeza.
+        name: "Cabeza de &e%owner_name%&r"
+        # Texto de la cabeza.
+        lore:
+          - "&7Asesinado por %killer_name%"
+          - '&7Fecha: %time_creation_formatted%'
+
+      ##########
+      # Zombi #
+      ##########
+      zombie:
+        # Tipos de zombis válidos. Debe estar en mayúsculas. https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/LivingEntity.html
+        type: ZOMBIE
+        # Nombre del zombi.
+        name: "Zombi de %owner_name%"
+        # ¿Debería una tumba generar un zombi cuando es saqueada por su dueño?
+        spawn-owner: false
+        # ¿Debería una tumba generar un zombi si es saqueada por otro jugador?
+        spawn-other: true
+        # ¿Debería un zombi solo aparecer si el jugador rompió la tumba, no si la abrió?
+        only-break: false
+        # ¿Debería una tumba generar un zombi si es volada? Esto solo funciona si la tumba puede ser volada.
+        explode: false
+        # ¿El zombi tendrá la cabeza del dueño?
+        owner-head: true
+        # Cuánta salud tiene el zombi.
+        health: 20
+        # ¿Puede el zombi recoger objetos caídos?
+        pickup: false
+        # ¿Los zombis de las tumbas sueltan objetos? Esto puede incluir la cabeza que llevan puesta.
+        drop: false
+
+      #########
+      # Ficha #
+      #########
+      # Debes definir una ficha para ser usada en el archivo token.yml.
+      token:
+        # ¿Deben las tumbas requerir fichas para su creación?
+        enabled: false
+        # Nombre de la ficha definida en token.yml.
+        name: "basic"
+
+      ###########
+      # Virtual #
+      ###########
+      # Opciones para el inventario virtual.
+      virtual:
+        # Distancia mínima a la que las entidades deben estar de una tumba para abrirla virtualmente. -1 para distancia infinita.
+        distance: 15
+
+      ###############
+      # Soporte de Armadura #
+      ###############
+      # Esta opción te permite establecer que un soporte de armadura con un objeto personalizado equipado aparezca en una tumba.
+      armor-stand:
+        # ¿Deberían usarse soportes de armadura?
+        enabled: false
+        # https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/inventory/EquipmentSlot.html
+        slot: HEAD
+        # Objeto colocado en el soporte de armadura.
+        material: PAPER
+        # Datos del modelo personalizado, -1 es ninguno.
+        model-data: -1
+        # ¿Debería el soporte de armadura ser un marcador? No se puede interactuar con los marcadores.
+        marker: false
+        # ¿Debería el soporte de armadura ser pequeño?
+        small: false
+        offset:
+          # Desplazamiento del soporte de armadura X.
+          x: 0
+          # Desplazamiento del soporte de armadura Y.
+          y: 0
+          # Desplazamiento del soporte de armadura Z.
+          z: 0
+
+      ###############
+      # Marco de Objeto #
+      ###############
+      # Esta opción te permite establecer que un marco de objeto con un objeto personalizado colocado dentro aparezca en una tumba.
+      item-frame:
+        # ¿Deberían usarse marcos de objeto?
+        enabled: false
+        # Objeto colocado en el marco de objeto.
+        material: PAPER
+        # Datos del modelo personalizado, -1 es ninguno.
+        model-data: -1
+        offset:
+          # Desplazamiento del marco de objeto X.
+          x: 0
+          # Desplazamiento del marco de objeto Y.
+          y: 0
+          # Desplazamiento del marco de objeto Z.
+          z: 0
+
+      ################
+      # FurnitureLib #
+      ################
+      # Esta opción requiere FurnitureLib, debes tenerlo instalado para usar modelos.
+      furniturelib:
+        # ¿Debería usarse mobiliario de FurnitureLib?
+        enabled: true
+        # ID del objeto.
+        name: "Grave1"
+        head:
+          replace: true
+          material:
+            - PLAYER_HEAD
+            - SKULL
+            - SKELETON_SKULL
+            - ZOMBIE_HEAD
+        # Si el modelo contiene un cartel, este es el texto que le aplicaremos.
+        line:
+          - "%owner_name% Murió"
+          - "Por %killer_name%"
+
+      ###################
+      # FurnitureEngine #
+      ###################
+      # Esta opción requiere FurnitureEngine, debes tenerlo instalado para usar modelos.
+      furnitureengine:
+        # ¿Debería usarse mobiliario de FurnitureEngine?
+        enabled: false
+        # Nombre del mobiliario.
+        name: "grave"
+
+      ##############
+      # ItemsAdder #
+      ##############
+      # La opción requiere ItemsAdder, debes tenerlo instalado para usar modelos.
+      # Graves agrega automáticamente modelos a ItemsAdder. Si quieres usarlo, necesitarás regenerar tu paquete y usar "graves:grave" como el nombre del mobiliario.
+      itemsadder:
+        furniture:
+          # ¿Deberíamos usar mobiliario de ItemsAdder?
+          enabled: true
+          # Nombre del mobiliario.
+          name: "graves:grave"
+        block:
+          # ¿Deberíamos usar bloques de ItemsAdder?
+          enabled: false
+          # Nombre del bloque.
+          name: "itemsadder:nice_stone"
+
+      ##########
+      # Oraxen #
+      ##########
+      # La opción requiere Oraxen, debes tenerlo instalado para usar modelos.
+      # Graves agrega automáticamente modelos a Oraxen. Si quieres usarlo, necesitarás regenerar tu paquete y usar "grave" como el nombre del mobiliario.
+      oraxen:
+        furniture:
+          # ¿Deberíamos usar mobiliario de Oraxen?
+          enabled: false
+          # Nombre del bloque.
+          name: "grave"
+        block:
+          # ¿Deberíamos usar bloques de Oraxen?
+          enabled: false
+          # Nombre del bloque.
+          name: "caveblock"
+
+      ##########
+      # Nexo #
+      ##########
+      # La opción requiere Nexo, debes tenerlo instalado para usar modelos.
+      # Graves agrega automáticamente modelos a Nexo. Si quieres usarlo, necesitarás regenerar tu paquete y usar "grave" como el nombre del mobiliario.
+      nexo:
+        furniture:
+          # ¿Deberíamos usar mobiliario de Nexo?
+          enabled: false
+          # Nombre del bloque.
+          name: "grave"
+        block:
+          # ¿Deberíamos usar bloques de Nexo?
+          enabled: false
+          # Nombre del bloque.
+          name: "caveblock"
+
+      #############
+      # PlayerNPC #
+      #############
+      # La opción requiere PlayerNPC, debes tenerlo instalado para usar cadáveres, solo compatible con 1.17+.
+      playernpc:
+        corpse:
+          # ¿Deberíamos crear un cadáver?
+          enabled: false
+          # ¿Qué pose debería usar la entidad? https://sergiferry.github.io/PlayerNPC/dev/sergiferry/playernpc/api/NPC.Pose.html
+          pose: "SLEEPING"
+          # Desplazamiento del cadáver X.
+          offset:
+            x: -0.5
+            # Desplazamiento del cadáver Y.
+            y: 0
+            # Desplazamiento del cadáver Z.
+            z: -0.5
+          # ¿Debería el cadáver llevar la armadura del jugador?
+          armor: true
+          # ¿Debería el cadáver sostener los objetos del jugador?
+          hand: true
+          # ¿Deberían los cadáveres ser colisionables?
+          collide: false
+          # ¿Deberían los cadáveres brillar?
+          glow:
+            # Color del brillo.
+            color: RED
+            # ¿Deberían los cadáveres brillar?
+            enabled: false
+
+      #############
+      # FancyNpcs #
+      #############
+      # La opción requiere FancyNpcs, solo compatible con 1.19.4+.
+      fancynpcs:
+        corpse:
+          enabled: false
+          offset:
+            x: -0.5
+            y: 0
+            z: -0.5
+          armor: true
+          hand: true
+
+      ############
+      # Citizens #
+      ############
+      # La opción requiere Citizens, debes tenerlo instalado para usar cadáveres, solo compatible con 1.17+.
+      citizens:
+        corpse:
+          # ¿Deberíamos crear un cadáver?
+          enabled: false
+          # ¿Qué pose debería usar la entidad? https://jd.citizensnpcs.co/net/citizensnpcs/util/PlayerAnimation.html
+          pose: "SLEEP"
+          # Desplazamiento del cadáver X.
+          offset:
+            x: -0.5
+            # Desplazamiento del cadáver Y.
+            y: 0
+            # Desplazamiento del cadáver Z.
+            z: -0.5
+          # ¿Debería el cadáver llevar la armadura del jugador?
+          armor: true
+          # ¿Debería el cadáver sostener los objetos del jugador?
+          hand: true
+          # ¿Deberían los cadáveres ser colisionables?
+          collide: false
+          # ¿Deberían los cadáveres brillar?
+          glow:
+            # Color del brillo.
+            color: RED
+            # ¿Deberían los cadáveres brillar?
+            enabled: false
+
+      #############
+      # Esquema #
+      #############
+      # Opciones de esquema, esta característica está en beta. Los esquemas no se limpian cuando se elimina la tumba.
+      schematic:
+        # ¿Deberían los esquemas estar habilitados?
+        enabled: false
+        # Nombre del archivo de esquema.
+        name: "grave_default"
+        # Radio para deshacer.
+        radius: 10
+        # Desplazamiento del esquema X.
+        offset:
+          x: 0
+          # Desplazamiento del esquema Y.
+          y: 0
+          # Desplazamiento del esquema Z.
+          z: 0
+        # ¿Deberíamos ignorar los bloques de aire? En la mayoría de los casos, esto debería ser verdadero, pero con algunos esquemas, es posible que necesites establecerlo en falso.
+        ignore-air: true
+
+      ################
+      # NoteBlockAPI #
+      ################
+      noteblockapi:
+        # ¿Debería NoteblockAPI estar habilitado?
+        enabled: false
+        # ¿Debería el sonido de noteblock reproducirse localmente?
+        play-locally: true
+        # Sonido .nbs para reproducir. Debe colocarse en /plugins/GravesX/nbs/.
+        nbs-sound: "examplesound"
+        # ¿Qué sonido .nbs debería reproducirse al morir? Debe colocarse en /plugins/GravesX/nbs/.
+        death-causes:
+          - "SUICIDE: ExampleSuicideSound"
+
+      #########
+      # Sonido #
+      #########
+      # Efectos de sonido para varias interacciones con la tumba.
+      sound:
+        open: "BLOCK_FENCE_GATE_OPEN"
+        close: "BLOCK_FENCE_GATE_CLOSE"
+        teleport: "ENTITY_ENDERMAN_TELEPORT"
+        menu-open: "UI_BUTTON_CLICK"
+        protection: "BLOCK_CHEST_LOCKED"
+        protection-change: "UI_BUTTON_CLICK"
+        grave-create: ""
+        
+        # Los sonidos para grave-create incluían anteriormente BLOCK_BELL_USE y ENTITY_ZOMBIE_AMBIENT.
+        
+      ##########
+      # Efecto #
+      ##########
+      # Efectos visuales para las interacciones de saqueo.
+      effect:
+        loot: MOBSPAWNER_FLAMES
+
+      #########
+      # Evento #
+      #########
+      # Ejecutar comandos en eventos de la tumba.
+      event:
+        command:
+          loot:
+            # Comandos para ejecutar al saquear una tumba.
+            - ""
+            #- "say %interact_name% saqueó la tumba de %owner_name%"
+          create:
+            # Comandos para ejecutar al crear una tumba.
+            - ""
+            #- "say %owner_name% fue asesinado por %killer_name% en %x%x %y%y %z%z, la tumba dura %time_alive_remaining_formatted%."
+          block:
+            # Comandos para ejecutar al colocar un bloque de tumba.
+            - ""
+            #- "say el bloque de tumba de %owner_name% fue colocado en %x%x %y%y %z%z."
+          open:
+            # Comandos para ejecutar al abrir una tumba.
+            - ""
+            #- "say %interact_name% está saqueando la tumba de %owner_name%."
+          break:
+            # Comandos para ejecutar al romper una tumba.
+            - ""
+            #- "say %interact_name% rompió la tumba de %owner_name%."
+          explode:
+            # Comandos para ejecutar cuando una tumba explota.
+            - ""
+            #- "say %interact_name% explotó la tumba de %owner_name%."
+          teleport:
+            # Comandos para ejecutar al teletransportarse a una tumba.
+            - ""
+            #- "say %interact_name% se teletransportó a la tumba de %owner_name%."
+          autoloot:
+            # Comandos para ejecutar al auto-saquear una tumba.
+            - ""
+            #- "say %interact_name% auto-saqueó la tumba de %owner_name%."
+          zombiespawn:
+            # Comandos para ejecutar cuando los zombis aparecen en una tumba.
+            - ""
+            #- "say %interact_name% hizo que los zombis aparecieran en la tumba de %owner_name%."
+          pistonextend:
+            # Comandos para ejecutar cuando un pistón extendido destruye una tumba.
+            - ""
+            #- "say un pistón rompió la tumba de %owner_name%."
+
+      ##########
+      # Ignorar #
+      ##########
+      # Objetos que las tumbas ignorarán del inventario, estos objetos serán manejados normalmente.
+      ignore:
+        item:
+          # Ignorar objetos basados en su tipo de material.
+          material:
+            - ""
+            #- BEDROCK  # https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+
+          # Ignorar objetos con una coincidencia exacta de nombre de visualización.
+          name:
+            - ""
+            #- "&4Espada de Admin"
+
+          # Ignorar objetos con una coincidencia exacta de línea de texto.
+          lore:
+            - ""
+            #- "Ligado al alma"
+
+          # Ignorar objetos con una coincidencia exacta de encantamiento (namespace:key@level).
+          # Ejemplos:
+          # - "minecraft:sharpness@1" para un encantamiento de Minecraft vainilla
+          # - "myplugin:custom_enchant@1" para un encantamiento de plugin personalizado
+          enchantment:
+            - "minecraft:vanishing_curse@1"
+            - "minecraft:binding_curse@1"
+            #- "minecraft:sharpness@1"
+            #- "myplugin:custom_enchant@1"
+
+          # Ignorar objetos si su nombre de visualización contiene esta subcadena.
+          name-contains:
+            - ""
+            #- "Super Pico"
+
+          # Ignorar objetos si alguna línea de texto contiene esta subcadena.
+          lore-contains:
+            - ""
+            #- "Ignorar Texto"
+
+          # Ignorar objetos si alguna clave de encantamiento contiene esta subcadena.
+          enchantment-contains:
+            - ""
+            #- "Custom"
+
+        block:
+          # Materiales en los que no se crearán tumbas.
+          material:
+            - ""
+            #- LAVA
+
+      #########
+      # Muerte #
+      #########
+      # Crea tumbas basándose en las causas de daño de la entidad.
+      death:
+        # Crea una tumba si una entidad muere por un jugador.
+        player: true
+        # Crea una tumba si una entidad muere por otra entidad.
+        entity: false
+        # Crea una tumba si una entidad muere por causas ambientales.
+        environmental: false
+        # Solo crea tumbas para entidades que fueron asesinadas por estas razones. Si usas alguna razón, asegúrate de deshabilitar ALL ya que causará problemas.
+        reason:
+          #- CONTACTO
+          #- ENTITY_ATTACK
+          #- ENTITY_SWEEP_ATTACK
+          #- PROJECTILE
+          #- ASFIXIA
+          #- CAÍDA
+          #- FUEGO
+          #- FUEGO_TICK
+          #- FUSION
+          #- LAVA
+          #- AHOGAMIENTO
+          #- EXPLOSIÓN_DE_BLOQUE
+          #- EXPLOSIÓN_DE_ENTIDAD
+          #- VACÍO
+          #- RAYO
+          #- SUICIDIO
+          #- HAMBRE
+          #- VENENO
+          #- MAGIA
+          #- WITHER
+          #- BLOQUE_QUE_CAE
+          #- ESPINAS
+          #- ALIENTO_DE_DRAGÓN
+          #- PERSONALIZADO
+          #- VOLAR_CONTRA_PARED
+          #- PISO_CALIENTE
+          #- AMONTONAMIENTO
+          #- SEQUEDAD
+          #- CONGELACIÓN
+          - ALL # Todas las razones.
+        # Se requiere Vault y un plugin de Economía para usar esta característica.
+        economy:
+          # ¿Debería el saldo del jugador ser afectado al morir?
+          enabled: false
+          # ¿Usar un porcentaje del saldo del jugador? De lo contrario, una cantidad fija.
+          use-as-percentage: true
+          # Cuánto dinero debería perder un jugador al morir. Para cada opción, el jugador necesitará graves.deduct.<nombre> en los costos.
+          costs:
+            - "newbie:50"
+            - "vip:15"
+
+      #########
+      # Generar #
+      #########
+      # Solo crea tumbas para entidades de criaturas que tienen una razón de generación de la lista a continuación.
+      spawn:
+        reason:
+          - NATURAL
+          - PREDETERMINADO
+          - JOCKEY
+          - GENERACIÓN_DE_CHUNK
+          - HUEVO
+          - HUEVO_DE_SPAWNER
+          - RAYO
+          - CONSTRUIR_MUÑECO_DE_NIEVE
+          - CONSTRUIR_GOLEM_DE_HIERRO
+          - CONSTRUIR_WITHER
+          - DEFENSA_DE_ALDEA
+          - INVASIÓN_DE_ALDEA
+          - CRÍA
+          - DIVISIÓN_DE_SLIME
+          - REFUERZOS
+          - PORTAL_DEL_NETHER
+          - DISPENSAR_HUEVO
+          - INFECCIÓN
+          - CURADO
+          - BEBÉ_OCELOTE
+          - BLOQUE_DE_PECECILLO_DE_PLATA
+          - MONTAJE
+          - TRAMPA
+          - PERLA_DE_ENDER
+          - ENTIDAD_EN_HOMBRO
+          - AHOGADO
+          - ESQUILADO
+          - EXPLOSIÓN
+          - ASALTO
+          - PATRULLA
+          - COLMENA
+          - ZOMBIFICADO_PIGLIN
+          - COMANDO
+          - PERSONALIZADO
+          #- SPAWNER
+          #- ALL
+
+      ###########
+      # Mensaje #
+      ###########
+      # Mensajes y formatos para varias interacciones y eventos.
+      message:
+        # Prefijo para los mensajes.
+        prefix: "&c☠ &r"
+        # Mensajes para diferentes interacciones.
+        looted: "Saqueaste la tumba de &c%owner_name%&r en &c%x%&rx, &c%y%&ry, &c%z%&rz en &c%world_formatted%&r."
+        experience: "Saqueados &c%level% &r niveles de la tumba."
+        empty: "No tienes ninguna tumba."
+        death: "Fuiste asesinado en &c%world_formatted% &r por &c%killer_name%&r."
+        block: "Tumba creada en &c%x%&rx, &c%y%&ry, &c%z%&rz en &c%world_formatted%&r."
+        timeout: "Tu tumba en &c%x%&rx, &c%y%&ry, &c%z%&rz en &c%world_formatted%&r ha expirado con &c%item% &robjetos y &c%experience% &r de Experiencia."
+        ignore: "No se creó una tumba porque moriste en &c%name%&r."
+        max: "No se creó una tumba, has alcanzado el máximo."
+        failure-keep-inventory: "Una tumba no pudo encontrar una ubicación adecuada, conservando el inventario."
+        failure: "Una tumba no pudo encontrar una ubicación adecuada, los objetos cayeron al suelo."
+        no-money: "No tienes suficiente dinero, necesitas &c%teleport_cost%&r."
+        no-token: "No se creó una tumba porque no tenías una ficha de tumba."
+        give-token: "Te fue dada una Ficha de Tumba."
+        distance: "Estás a &c%distance% &r bloques de distancia."
+        distance-world: "No se puede medir la distancia, mundo incorrecto."
+        teleport: "Te teletransportaste a tu tumba."
+        teleport-waiting: "Teletransportándose a la tumba..."
+        teleport-top: "La tumba está en una ubicación insegura, has sido teletransportado cerca."
+        teleport-failure: "Fallo de teletransporte, la ubicación es insegura."
+        teleport-disabled: "La teletransportación a la tumba está deshabilitada."
+        teleport-cancelled: "Teletransporte cancelado debido a movimiento."
+        build-denied: "No se creó una tumba porque no tienes permiso para construir donde moriste."
+        distance-virtual: "Estás demasiado lejos para abrir esta tumba virtualmente."
+        permission-denied: "Permiso denegado."
+        protection: "Esta tumba está protegida por %time_protection_remaining_formatted%."
+        grave-abandoned: "Tu tumba en &c%x%&rx, &c%y%&ry, &c%z%&rz en &c%world_formatted%&r ha sido abandonada con &c%item% &robjetos y &c%experience% &r de Experiencia."
+        grave-oldest-replaced: "Tu tumba más antigua ha sido eliminada ya que has alcanzado el límite máximo."
+        grave-plugin-version-latest: "Estás usando la última versión de %plugin_name%."
+        grave-plugin-version-outdated:
+          - "&cEstás usando una versión desactualizada de %plugin_name%."
+          - "&cObtén la última versión de https://www.spigotmc.org/resources/%spigot_id%/"
+        grave-plugin-version-development:
+          - "&cEstás ejecutando la versión %plugin_version% de %plugin_name%, la cual es una versión de desarrollo y no es segura para producción."
+          - "&cNO HABRÁ SOPORTE SI PIERDES DATOS DE LA TUMBA POR VERSIONES DE DESARROLLO O COMPILADAS. ESTA VERSIÓN ES SOLO PARA PRUEBAS."
+          - "&cTen en cuenta que estás usando una versión de desarrollo cuando reportes errores."
+          - "&cSi el mismo problema ocurre en %public_version%, entonces háznoslo saber en https://discord.ranull.com/."
+        open-insufficient-balance: "No tienes suficiente saldo para abrir tu tumba."
+        autoloot-insufficient-balance: "No tienes suficiente saldo para auto-saquear tu tumba."
+
+        # Formato de mensaje del mundo
+        # Formato: NOMBRE_DEL_MUNDO: Nombre del Mundo
+        world:
+          - "world: Mundo Normal"
+          - "world_nether: Nether"
+          - "world_the_end: El End"
+
+        # Razones de muerte
+        # Formato: RAZÓN_DE_MUERTE: Mensaje de Reemplazo
+        death-reason:
+          - "ENTITY_ATTACK: Atacado"
+          - "ENTITY_SWEEP_ATTACK: Atacado con barrido"
+          - "PROJECTILE: Golpeado por proyectil"
+          - "SUFFOCATION: Asfixiado"
+          - "FALL: Caída"
+          - "FIRE: Quemado"
+          - "FIRE_TICK: Quemado"
+          - "MELTING: Derretido"
+          - "LAVA: Quemado"
+          - "DROWNING: Ahogado"
+          - "BLOCK_EXPLOSION: Explotó"
+          - "ENTITY_EXPLOSION: Explotó"
+          - "VOID: Caído al vacío"
+          - "LIGHTNING: Zeus"
+          - "SUICIDE: Suicidio"
+          - "STARVATION: Muerto de hambre"
+          - "POISON: Envenenado"
+          - "MAGIC: Misil mágico"
+          - "WITHER: Consumido"
+          - "FALLING_BLOCK: Aplastado"
+          - "THORNS: Espinado"
+          - "DRAGON_BREATH: Aliento de dragón"
+          - "CUSTOM: Magia oscura"
+          - "FLY_INTO_WALL: Estrellado contra la pared"
+          - "HOT_FLOOR: Pies quemados"
+          - "CRAMMING: Aplastado"
+          - "DRYOUT: Secado"
+          - "FREEZE: Congelado"
+          - "SONIC_BOOM: Boom sónico"
+          - "STALAGMITE: Empalado"
+          - "OUTSIDE_BORDER: Cruzó la frontera"
+          - "FALLING_STALACTITE: Empalado"
+          - "GENERIC: Murió"
+          - "ENTITY_HIT: Golpeado por entidad"
+          - "ENTITY_BURN: Quemado por entidad"
+          - "ENDER_DRAGON: Dragón"
+          - "WITHER_SKULL: Cráneo de Wither"
+          - "CONSTRUCTION: Error de construcción"
+          - "SLIME: Golpeado"
+          - "ELDER_GUARDIAN: Ataque de guardián anciano"
+          - "KILL: Asesinado"
+          - "CONTACT: Tocado"
+
+      ########
+      # Tiempo #
+      ########
+      # Formato de tiempo para varias duraciones.
+      time:
+        second: "&7%second%&fs "
+        minute: "&7%minute%&fm "
+        hour: "&7%hour%&fh "
+        day: "&7%day%&fd "
+        infinite: "&7Para siempre"
+        date: "dd-MM-yyyy"
+
+      #######
+      # GUI #
+      #######
+      # Configuración de la GUI para diferentes interfaces.
+      gui:
+        grave:
+          # Título de la GUI de la tumba.
+          title: "Tumba de %owner_name%"
+
+        menu:
+          list:
+            item:
+              # Opciones para el objeto del menú.
+              block: true
+              material: CHEST
+            # Título para el menú de la lista de tumbas.
+            title: "Lista de Tumbas"
+            function: "menu"
+            name: "Tumba"
+            glow: false
+            model-data: -1
+            empty: "No tienes ninguna tumba."
+            lore:
+              - "&7Creada hace %time_lived_formatted% &7"
+
+          grave:
+            # Título para el menú de la tumba individual.
+            title: "Tumba"
+            slot:
+              0:
+                enabled: true
+                material: "PAPER"
+                function: "distance"
+                name: "Información"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Objetos: &f%item%"
+                  - "Niveles: &f%level%"
+                  - "Ubicación de Muerte: &f%world_formatted%, %x%x, %y%y, %z%z"
+
+              1:
+                enabled: true
+                material: "ENDER_PEARL"
+                function: "teleportation"
+                name: "Teletransportarse"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Teletransportarse a esta tumba"
+
+              2: # Alterna la protección.
+                enabled: false
+                material: "TRIPWIRE_HOOK"
+                function: "protection"
+                name: "Alternar Protección %state_protection%"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Alternar la protección de la tumba"
+
+              3: # Abrir tu tumba remotamente.
+                enabled: false
+                material: "CHEST"
+                function: "virtual"
+                name: "Abrir tumba"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Abrir tu tumba remotamente"
+
+              4: # Abandonar tu tumba.
+                enabled: false
+                material: "COMPASS"
+                function: "abandoned"
+                name: "Abandonar tumba"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Alternar Abandonado %state_abandoned%"
+
+              5:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              6:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              7:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              8:
+                enabled: true
+                material: "BARRIER"
+                function: "list"
+                name: "Volver"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Volver a la lista"
+
+              9:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              10:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              11:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              12:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              13:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              14:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              15:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              16:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              17:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              18:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              19:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              20:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              21:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              22:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              23:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              24:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              25:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              26:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              27:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              28:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              29:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              30:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              31:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              32:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              33:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              34:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              35:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              36:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              37:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              38:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              39:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              40:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              41:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              42:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              43:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              44:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              45:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              46:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              47:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              48:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              49:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              50:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              51:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              52:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"
+
+              53:
+                enabled: false
+                material: "PAPER"
+                function: ""
+                name: "Objeto de Ejemplo"
+                glow: false
+                model-data: -1
+                lore:
+                  - "Texto de Ejemplo"

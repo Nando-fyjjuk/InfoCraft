@@ -1,0 +1,8 @@
+isEnabled: true
+pluginName: ResourcePackManager
+encrypts: false
+distributes: false
+zips: true
+reloadCommand: rspm reload
+resourcePackUpdated: false
+localPath: ResourcePackManager/blueprint/blueprint.zip

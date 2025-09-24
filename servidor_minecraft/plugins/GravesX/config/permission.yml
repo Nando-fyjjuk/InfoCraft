@@ -1,0 +1,66 @@
+#######################
+# Anulación de Permisos #
+#######################
+# Anula las opciones de configuración para los jugadores con estos permisos, "graves.permission.{nombre}".
+# Si un jugador tiene múltiples permisos, las opciones se seleccionan de arriba hacia abajo.
+# Por ejemplo, si un jugador tiene permisos de administrador y de VIP, la configuración del administrador anulará a la del VIP,
+# porque "admin" está listado primero. Coloca los grupos con los permisos más altos en la parte superior para asegurar una jerarquía correcta y evitar
+# redundancia al definir la configuración para cada grupo.
+# Recuerda que puedes copiar opciones de la sección predeterminada.
+
+settings:
+  permission:
+    # graves.permission.admin
+    admin:
+      grave:
+        time: -1
+      block:
+        material: BEDROCK
+
+    # graves.permission.vip
+    vip:
+      grave:
+        time: 21600
+        explode: false
+      block:
+        material: BEACON
+      gui:
+        grave:
+          title: "Tumba de VIP %owner_name%"
+
+    # graves.permission.schem
+    schem:
+      placement:
+        offset:
+          y: 1
+      hologram:
+        line:
+          - "&c☠ &rAquí Yace &2%owner_name% &c☠"
+          - "&rAsesinado por &c%killer_name%"
+      schematic:
+        enabled: true
+        name: "grave_default"
+
+    # graves.permission.holo
+    holo:
+      block:
+        enabled: false
+        walk-over: true
+      hologram:
+        enabled: true
+        line:
+          - "&7Tumba de &r%owner_name%"
+          - "Asesinado por &7%killer_name%"
+          - "%time_alive_remaining_formatted%"
+
+    # graves.permission.dirt
+    dirt:
+      grave:
+        time: 30
+      block:
+        material: DIRT
+
+    # graves.permission.disabled
+    disabled:
+      grave:
+        enabled: false

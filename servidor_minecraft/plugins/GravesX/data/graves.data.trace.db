@@ -1,0 +1,6 @@
+2025-09-22 03:03:29.436609Z jdbc[5]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE grave ADD COLUMN IF NOT EXISTS owner_type VARCHAR(255) [42102-232]
+2025-09-22 03:03:29.436894Z jdbc[3]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE grave ADD COLUMN IF NOT EXISTS uuid VARCHAR(255) UNIQUE [42102-232]
