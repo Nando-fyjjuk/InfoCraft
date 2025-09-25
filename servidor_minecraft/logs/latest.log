@@ -924,3 +924,67 @@ LagFixer - Best Performance Solution!
 [03:21:26] [Server thread/INFO]: Luiscue has made the advancement [Suit Up]
 [03:22:08] [Server thread/INFO]: thegeomusic has made the advancement [Enchanter]
 [03:22:17] [Server thread/INFO]: Luiscue has made the advancement [Isn't It Iron Pick]
+[03:22:44] [Server thread/INFO]: BlackWhite_J issued server command: /home
+[03:22:53] [Server thread/INFO]: [SeeMore] Set view distance of Luiscue to 10 (client view distance is 4).
+[03:23:55] [Server thread/INFO]: Luiscue issued server command: /back
+[03:24:18] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml has been queued!
+[03:24:18] [Server thread/INFO]: ¡Un Goblin de Monedas ha sido avistado!
+[03:24:30] [Server thread/INFO]: snevev issued server command: /elitemobs track boss 5a6f432d-6cdf-4246-a7df-cfd416c8a381
+[03:26:32] [Server thread/INFO]: Ph4nt0m_User lost connection: Disconnected
+[03:26:32] [Server thread/INFO]: Ph4nt0m_User has left!
+[03:26:32] [Server thread/INFO]: [Veinminer] [DEBUG] Saving player data for Ph4nt0m_User: Level=1, XP=0, Blocks=0
+[03:26:32] [Server thread/INFO]: [Veinminer] [DEBUG] Saved player data to database for Ph4nt0m_User, rows updated: 1
+[03:26:32] [Server thread/INFO]: [Veinminer] [Debug] Saved achievements for player e97c743e-a8cd-3ce5-bc1e-00579a77a95a
+[03:26:32] [Server thread/INFO]: [Veinminer] [DEBUG] Removing player data from memory for Ph4nt0m_User
+[03:26:32] [Server thread/INFO]: [Veinminer] [Debug] Saved and removed data for player Ph4nt0m_User
+[03:26:32] [Server thread/INFO]: [vane-admin] [broadcast] Ph4nt0m_User [193ms] ha abandonado el servidor
+[03:28:01] [Server thread/INFO]: Luiscue has made the advancement [Diamonds!]
+[03:28:23] [Server thread/INFO]: HOYO has made the advancement [Monster Hunter]
+[03:28:39] [Server thread/INFO]: [SeeMore] Set view distance of ChristianJVR to 10 (client view distance is 20).
+[03:29:06] [Server thread/INFO]: HOYO died
+[03:30:18] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[03:30:18] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[03:30:22] [Server thread/INFO]: snevev issued server command: /elitemobs track boss 82a637ba-7066-4867-80b1-3f0e0fa43fd4
+[03:30:27] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 6'/27808, uuid='096c8f3c-976a-4f74-b486-e31d7e1c6997', l='ServerLevel[world]', x=387.18, y=64.00, z=-3099.07, cpos=[24, -194], tl=347, v=true] died: Zombi de Elite Nivel 6 was slain by thegeomusic
+[03:30:29] [User Authenticator #5/INFO]: UUID of player Silver_servi is 8c1d60db-0677-3e33-8e2b-6f857dd2ea16
+[03:30:31] [Server thread/INFO]: [vane-admin] [broadcast] Silver_servi se ha unido al servidor
+[03:30:31] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Silver_servi. rspUUID is null: false. done: true. firstUpload: false.
+[03:30:31] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Silver_servi
+[03:30:31] [Server thread/INFO]: Detención automática no programada
+[03:30:31] [Server thread/INFO]: Silver_servi has joined!
+[03:30:31] [Server thread/INFO]: Silver_servi[/127.48.84.221:54783] logged in with entity id 28552 at ([world]57.510730395064435, 69.0, 3.8890566696857958)
+[03:30:31] [Server thread/INFO]: [Veinminer] [DEBUG] Executing SQL query to load player data for Silver_servi
+[03:30:31] [Server thread/INFO]: [Veinminer] [DEBUG] Loaded player data from database for Silver_servi: Level=1, XP=0, Blocks=0
+[03:30:31] [Server thread/INFO]: [Veinminer] [DEBUG] Added player data to memory map for Silver_servi
+[03:30:31] [Server thread/INFO]: [Veinminer] [Debug] Loaded 0 achievements for Silver_servi
+[03:30:31] [Server thread/INFO]: [Veinminer] [Debug] Loaded data for player Silver_servi
+[03:30:32] [Craft Scheduler Thread - 52 - EliteMobs/INFO]: [EliteMobs] User 8c1d60db-0677-3e33-8e2b-6f857dd2ea16 data successfully read!
+[03:31:12] [Server thread/INFO]: ¡「1」 Duende de Encantamientos llegó a los cerebros de HOYO!
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 18.649629081292687,0.0,-7.984244197931275
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 19.024500390589935,0.0,-8.123595155673229
+[03:31:28] [Server thread/WARN]: Ro0dr1 moved too quickly! 9.547133890821556,-1.3660233650462743,-8.513692823350539
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 19.3994100871991,0.0,-8.262861452727066
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 19.774354332388043,0.0,-8.40205155516378
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 20.14932967129795,0.0,-8.541173082446676
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 20.52433432448464,0.0,-8.68022929439394
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 20.89936536051971,0.0,-8.819226722540407
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 21.27442014111773,0.0,-8.95817124526775
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 21.649496291821833,0.0,-9.09706815311938
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 22.02459167562091,0.0,-9.235922207583371
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 22.399704369204983,0.0,-9.374737694000032
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 22.774833967798486,0.0,-9.513514871475763
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 23.149978780900085,0.0,-9.652257570905476
+[03:31:28] [Server thread/WARN]: Dark Oak Boat (vehicle of thegeomusic) moved too quickly! 23.525137287058556,0.0,-9.79096924009491
+[03:31:28] [Server thread/WARN]: BlackWhite_J moved too quickly! 2.3498171840230953,-0.7967356006687112,-9.753686281315368
+[03:31:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3118ms or 62 ticks behind
+[03:31:29] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_HiddenChamber_Tundra_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[03:32:58] [Server thread/INFO]: ---------------------------------------------
+[03:32:58] [Server thread/INFO]: ¡El Duende Con Armadura ha sido saqueado!
+[03:32:58] [Server thread/INFO]:     1er Dañador: ¡snevev con 167.76 daño!
+[03:32:58] [Server thread/INFO]: 
+[03:32:58] [Server thread/INFO]: 
+[03:32:58] [Server thread/INFO]: Asesinos: snevev
+[03:32:58] [Server thread/INFO]: ---------------------------------------------
+[03:32:58] [Server thread/INFO]: Named entity Zombie['「7」 Goblin con Armadura'/28286, uuid='7c18928f-5454-4a94-8831-e801afd9ba0b', l='ServerLevel[world]', x=694.11, y=35.00, z=-3059.50, cpos=[43, -192], tl=3121, v=true] died: 「7」 Goblin con Armadura was slain by snevev
+[03:32:59] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[03:33:00] [Server thread/INFO]: Silver_servi has made the advancement [Monster Hunter]
