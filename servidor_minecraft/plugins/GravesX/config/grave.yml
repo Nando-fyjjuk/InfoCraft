@@ -209,7 +209,7 @@ settings:
       # Opciones de teletransportación.
       teleport:
         # ¿Puede la entidad teletransportarse a su tumba desde la GUI de Graves?
-        enabled: true
+        enabled: false
         # Cuánto cuesta teletransportarse a una tumba, necesitas Vault para esto.
         cost: 2
         # Cuánto tiempo (en segundos) debe pasar antes de que un jugador sea teletransportado a una tumba. Pon 0 para que la teletransportación sea instantánea.

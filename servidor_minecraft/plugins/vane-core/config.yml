@@ -203,7 +203,7 @@ resource_pack:
   # Individual players can be exempt from this rule by giving them the permission
   # 'vane.core.resource_pack.bypass'.
   # Default: true
-  force: true
+  force: false
 
   message_delaying:
     # Enable delaying messages to players until their resource pack is fully
