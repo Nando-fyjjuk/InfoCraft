@@ -5,7 +5,9 @@ level: dynamic
 uniqueLootList:
 - dwarven_greed.yml:1
 powers:
-- summonable:summonType=ON_HIT:chance=0.5:filename=raug.yml
+- summonType: ON_HIT
+  chance: 0.5
+  filename: raug.yml
 trails:
 - LARGE_SMOKE
 - LARGE_SMOKE

@@ -92,7 +92,7 @@ general:
   # Settings for the /back command
   back_command:
     # Whether /back should work to teleport the user to where they died
-    return_by_death: true
+    return_by_death: false
     # Whether /back should work with other plugins that use the PlayerTeleportEvent (can conflict)
     save_on_teleport_event: false
     # List of world names where the /back command cannot RETURN the player to. 
