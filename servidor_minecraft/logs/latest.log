@@ -803,3 +803,124 @@ LagFixer - Best Performance Solution!
 [03:09:49] [Server thread/INFO]: BlackWhite_J issued server command: /tpa Ro0dr1
 [03:10:22] [Server thread/INFO]: BlackWhite_J has made the advancement [Best Friends Forever]
 [03:11:21] [Server thread/INFO]: HOYO died
+[03:11:38] [Server thread/INFO]: [SeeMore] Set view distance of HOYO to 10 (client view distance is 12).
+[03:11:41] [Server thread/INFO]: Ph4nt0m_User died
+[03:11:59] [Server thread/INFO]: [SeeMore] Set view distance of shadowMax to 10 (client view distance is 12).
+[03:12:02] [Server thread/INFO]: BlackWhite_J issued server command: /tpa Ro0dr1
+[03:12:10] [Server thread/INFO]: Ro0dr1 issued server command: /huskhomes:tpaccept BlackWhite_J
+[03:12:12] [Server thread/INFO]: Ro0dr1 issued server command: /huskhomes:tpaccept BlackWhite_J
+[03:12:25] [Server thread/INFO]: BlackWhite_J issued server command: /tpa Ro0dr1
+[03:12:28] [Server thread/INFO]: Ro0dr1 issued server command: /huskhomes:tpaccept BlackWhite_J
+[03:12:56] [Server thread/INFO]: Ro0dr1 issued server command: /tpa snevev
+[03:13:01] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept Ro0dr1
+[03:13:15] [Server thread/INFO]: Ro0dr1 issued server command: /tpa snevev
+[03:13:21] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept Ro0dr1
+[03:14:05] [Server thread/INFO]: [Not Secure] [Server] algun problema que quieran repostar?
+[03:14:05] [Server thread/INFO]: Luiscue was slain by Lvl 10 | Spider
+[03:14:11] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml has been queued!
+[03:14:11] [Server thread/INFO]: ¡Un Goblin del Tesoro ha sido avistado!
+[03:14:11] [Server thread/INFO]: Luiscue issued server command: /death
+[03:14:28] [Async Chat Thread - #3/INFO]: [Not Secure] <snevev> es licito grifear ?
+[03:14:42] [Server thread/INFO]: HOYO died
+[03:14:52] [Server thread/INFO]: BlackWhite_J issued server command: /tpa thegeomusic
+[03:14:55] [Server thread/INFO]: thegeomusic issued server command: /huskhomes:tpaccept BlackWhite_J
+[03:14:58] [Server thread/INFO]: thegeomusic issued server command: /huskhomes:tpaccept BlackWhite_J
+[03:15:09] [Server thread/INFO]: [Not Secure] [Server] no
+[03:15:11] [User Authenticator #3/INFO]: UUID of player Scyther190 is a82af51d-a5c8-32dc-a772-26c761f289c2
+[03:15:12] [Server thread/INFO]: [vane-admin] [broadcast] Scyther190 se ha unido al servidor
+[03:15:12] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190. rspUUID is null: false. done: true. firstUpload: false.
+[03:15:12] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190
+[03:15:12] [Server thread/INFO]: Detención automática no programada
+[03:15:12] [Server thread/INFO]: Scyther190 has joined!
+[03:15:12] [Server thread/INFO]: Scyther190[/127.212.126.52:47339] logged in with entity id 8996 at ([world]-92.7849794086639, -52.0, -225.54589382451513)
+[03:15:12] [Server thread/INFO]: [Veinminer] [DEBUG] Executing SQL query to load player data for Scyther190
+[03:15:12] [Server thread/INFO]: [Veinminer] [DEBUG] Loaded player data from database for Scyther190: Level=1, XP=0, Blocks=0
+[03:15:12] [Server thread/INFO]: [Veinminer] [DEBUG] Added player data to memory map for Scyther190
+[03:15:12] [Server thread/INFO]: [Veinminer] [Debug] Loaded 0 achievements for Scyther190
+[03:15:12] [Server thread/INFO]: [Veinminer] [Debug] Loaded data for player Scyther190
+[03:15:13] [Craft Scheduler Thread - 30 - EliteMobs/INFO]: [EliteMobs] User a82af51d-a5c8-32dc-a772-26c761f289c2 data successfully read!
+[03:15:23] [Server thread/INFO]: Scyther190 died
+[03:15:24] [Server thread/INFO]: ChristianJVR lost connection: Disconnected
+[03:15:24] [Server thread/INFO]: ChristianJVR has left!
+[03:15:24] [Server thread/INFO]: [Veinminer] [DEBUG] Saving player data for ChristianJVR: Level=1, XP=0, Blocks=0
+[03:15:24] [Server thread/INFO]: [Veinminer] [DEBUG] Saved player data to database for ChristianJVR, rows updated: 1
+[03:15:24] [Server thread/INFO]: [Veinminer] [Debug] Saved achievements for player 8d5b884e-b3f0-38ed-9f90-e66025f8f126
+[03:15:24] [Server thread/INFO]: [Veinminer] [DEBUG] Removing player data from memory for ChristianJVR
+[03:15:24] [Server thread/INFO]: [Veinminer] [Debug] Saved and removed data for player ChristianJVR
+[03:15:24] [Server thread/INFO]: [vane-admin] [broadcast] ChristianJVR [179ms] ha abandonado el servidor
+[03:15:32] [Server thread/INFO]: There are 9 of a max of 20 players online: thegeomusic, snevev, BlackWhite_J, shadowMax, Ro0dr1, Ph4nt0m_User, Luiscue, HOYO, Scyther190
+[03:15:35] [Server thread/INFO]: Scyther190 issued server command: /grave
+[03:16:02] [Server thread/INFO]: HOYO died
+[03:16:19] [User Authenticator #4/INFO]: UUID of player ChristianJVR is 8d5b884e-b3f0-38ed-9f90-e66025f8f126
+[03:16:21] [Server thread/INFO]: [vane-admin] [broadcast] ChristianJVR se ha unido al servidor
+[03:16:21] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to ChristianJVR. rspUUID is null: false. done: true. firstUpload: false.
+[03:16:21] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to ChristianJVR
+[03:16:21] [Server thread/INFO]: Detención automática no programada
+[03:16:21] [Server thread/INFO]: ChristianJVR has joined!
+[03:16:21] [Server thread/INFO]: ChristianJVR[/127.24.183.160:55581] logged in with entity id 10007 at ([world]230.65615518791938, 7.0, -1165.1435364140875)
+[03:16:22] [Server thread/INFO]: [Veinminer] [DEBUG] Executing SQL query to load player data for ChristianJVR
+[03:16:22] [Server thread/INFO]: [Veinminer] [DEBUG] Loaded player data from database for ChristianJVR: Level=1, XP=0, Blocks=0
+[03:16:22] [Server thread/INFO]: [Veinminer] [DEBUG] Added player data to memory map for ChristianJVR
+[03:16:22] [Server thread/INFO]: [Veinminer] [Debug] Loaded 0 achievements for ChristianJVR
+[03:16:22] [Server thread/INFO]: [Veinminer] [Debug] Loaded data for player ChristianJVR
+[03:16:22] [Craft Scheduler Thread - 34 - EliteMobs/INFO]: [EliteMobs] User 8d5b884e-b3f0-38ed-9f90-e66025f8f126 data successfully read!
+[03:16:27] [Server thread/INFO]: Villager Villager['Villager'/1953, uuid='e3cdfc91-1c37-4177-95b7-7bc3199e0230', l='ServerLevel[world]', x=119.35, y=62.94, z=-1274.69, cpos=[7, -80], tl=12869, v=true] died, message: 'Villager was slain by Goblin del Tesoro 「6」'
+[03:16:41] [Server thread/INFO]: Ph4nt0m_User has made the advancement [Stone Age]
+[03:17:08] [Server thread/INFO]: Ph4nt0m_User has made the advancement [Getting an Upgrade]
+[03:17:18] [Server thread/INFO]: Luiscue was slain by Lvl 7 | Zombie
+[03:17:22] [Server thread/INFO]: Luiscue issued server command: /death
+[03:17:50] [Server thread/INFO]: thegeomusic issued server command: /sethome
+[03:17:57] [Server thread/INFO]: Villager Villager['Villager'/1878, uuid='856cc563-daff-4170-9cb5-a2a37917ce20', l='ServerLevel[world]', x=161.97, y=63.00, z=-1301.35, cpos=[10, -82], tl=14934, v=true] died, message: 'Villager was slain by Goblin del Tesoro 「6」'
+[03:17:58] [Server thread/INFO]: snevev issued server command: /sethome home 2
+[03:18:02] [Server thread/INFO]: Ro0dr1 issued server command: /sethome
+[03:18:06] [Server thread/INFO]: snevev issued server command: /home home 2
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Running auto-save task...
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saving all player data, count: 10
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saving player data for Luiscue: Level=1, XP=0, Blocks=0
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saved player data to database for Luiscue, rows updated: 1
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saving player data for shadowMax: Level=1, XP=0, Blocks=0
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saved player data to database for shadowMax, rows updated: 1
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saving player data for Scyther190: Level=1, XP=0, Blocks=0
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saved player data to database for Scyther190, rows updated: 1
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saving player data for ChristianJVR: Level=1, XP=0, Blocks=0
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saved player data to database for ChristianJVR, rows updated: 1
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saving player data for HOYO: Level=1, XP=0, Blocks=0
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saved player data to database for HOYO, rows updated: 1
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saving player data for snevev: Level=1, XP=0, Blocks=0
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saved player data to database for snevev, rows updated: 1
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saving player data for BlackWhite_J: Level=1, XP=0, Blocks=0
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saved player data to database for BlackWhite_J, rows updated: 1
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saving player data for Ro0dr1: Level=1, XP=0, Blocks=0
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saved player data to database for Ro0dr1, rows updated: 1
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saving player data for thegeomusic: Level=1, XP=0, Blocks=0
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saved player data to database for thegeomusic, rows updated: 1
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saving player data for Ph4nt0m_User: Level=1, XP=0, Blocks=0
+[03:18:11] [Server thread/INFO]: [Veinminer] [DEBUG] Saved player data to database for Ph4nt0m_User, rows updated: 1
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Saved achievements for player 845369e1-bc09-3801-a39e-6c8d160e41a6
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Saved achievements for player 2e987b91-87b2-32b3-98e0-37aef9266de4
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Saved achievements for player 8d5b884e-b3f0-38ed-9f90-e66025f8f126
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Saved achievements for player a82af51d-a5c8-32dc-a772-26c761f289c2
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Saved achievements for player 66fb5759-9c5f-3fd6-b2eb-8c57aeea7b6a
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Saved achievements for player 81969a47-12b6-3577-8d85-ca9d23372ee6
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Saved achievements for player de65cb10-d375-316a-91b2-8bc48f8b832d
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Saved achievements for player 288da723-d4ff-3e72-b6d9-6d7a94642daf
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Saved achievements for player e2188d3f-2e3c-3805-ad41-e887f69a659c
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Saved achievements for player e97c743e-a8cd-3ce5-bc1e-00579a77a95a
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Auto-saved all player achievements.
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Triggered data synchronization.
+[03:18:11] [Server thread/INFO]: [Veinminer] [Debug] Auto-save completed.
+[03:18:13] [Server thread/INFO]: BlackWhite_J issued server command: /sethome
+[03:18:35] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_6.PaperweightStarlightRelighterFactory as relighter factory.
+[03:18:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2948ms or 58 ticks behind
+[03:19:03] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_HiddenChamber_Grasslands_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[03:19:14] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml has been queued!
+[03:19:14] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
+[03:19:28] [Server thread/WARN]: snevev moved too quickly! -9.131387918136966,-4.327795738867406,0.6670654399372324
+[03:19:32] [Server thread/INFO]: thegeomusic issued server command: /spawn
+[03:19:39] [Server thread/WARN]: HOYO moved too quickly! 7.144875932138319,0.0,-7.111967735603457
+[03:19:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4542ms or 90 ticks behind
+[03:19:44] [Server thread/WARN]: HOYO moved too quickly! 10.952622729728091,-1.0,-0.5995976273221686
+[03:20:25] [Server thread/INFO]: Luiscue has made the advancement [Acquire Hardware]
+[03:21:26] [Server thread/INFO]: Luiscue has made the advancement [Suit Up]
+[03:22:08] [Server thread/INFO]: thegeomusic has made the advancement [Enchanter]
+[03:22:17] [Server thread/INFO]: Luiscue has made the advancement [Isn't It Iron Pick]
