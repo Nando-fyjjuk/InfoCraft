@@ -1,49 +1,50 @@
-# Mensaje que aparece cuando no hay suficientes jugadores presentes para comenzar una arena.
-notEnoughPlayersMessage: '&8[EliteMobs] &c¡Necesitas al menos $amount para comenzar la partida!'
-# Título que aparece cuando una arena está comenzando.
+# Message that appears when not enough players are present to start an arena.
+notEnoughPlayersMessage: '&8[EliteMobs] &c¡Necesitas al menos $amount para comenzar
+  la partida!'
+# Title that appears when an arena is starting.
 startingMessage: '&2¡Comenzando!'
-# Subtítulo que aparece cuando una arena está comenzando.
+# Subtitle that appears when an arena is starting.
 startingSubtitle: '&2en $count...'
-# Mensaje que aparece cuando una arena está llena.
+# Message that appears when an arena is full.
 arenaFullMessage: '&4[EliteMobs] &c¡La arena está llena! ¡Puedes espectar mientras
   esperas que termine!'
-# Mensaje que aparece cuando un jugador intenta unirse a una arena activa.
-arenasOngoingMessage: '&4[EliteMobs] &cNo puedes unirte a la arena ahora - ¡hay una partida
-  en curso! ¡Puedes espectar mientras esperas que termine!'
-# Mensaje que aparece para recordar a los jugadores cómo comenzar una arena después de unirse como jugador.
+# Message that appears when a player attempts to join an active arena.
+arenasOngoingMessage: '&4[EliteMobs] &cNo puedes unirte a la arena ahora - ¡hay una
+  partida en curso! ¡Puedes espectar mientras esperas que termine!'
+# Message that appears to remind players how to start an arena after joining as a player.
 instanceStartHintMessage: '&2[EliteMobs] &aPuedes iniciar la instancia haciendo &2/em
   start'
-# Mensaje que aparece para recordar a los jugadores cómo salir de una arena.
+# Message that appears to remind players how to leave an arena.
 instanceQuitHintMessage: '&4[EliteMobs] &cPuedes salir de la instancia haciendo &4/em
   quit'
-# Mensaje que aparece cuando los jugadores se unen a una arena.
+# Message that appears when players join an arena.
 arenaJoinPlayerMessage: "&2[EliteMobs] &aPuedes iniciar la arena haciendo &2/em start\
   \ &asi hay al menos &2$count &ajugadores en ella. \nPuedes salir de la arena haciendo\
   \ &c/em quit"
-# Mensaje que aparece para recordar a los jugadores cómo salir de una arena después de unirse como espectador.
-arenaJoinSpectatorMessage: '&2[EliteMobs] &aPuedes salir de la arena en cualquier momento
-  usando &2/em quit'
-# Mensaje de título que aparece cuando una oleada está comenzando.
+# Message that appears to remind players how to leave an arena after joining as a spectator.
+arenaJoinSpectatorMessage: '&2[EliteMobs] &aPuedes salir de la arena en cualquier
+  momento usando &2/em quit'
+# Title message that appears when a wave is starting.
 waveTitle: '&aOleada &2$wave'
-# Mensaje de subtítulo que aparece cuando una oleada está comenzando.
+# Subtitle message that appears when a wave is starting.
 waveSubtitle: ''
-# Título que aparece cuando una arena se completa.
+# Title that appears when an arena is completed.
 victoryTitle: '&2¡Victoria!'
-# Subtítulo que aparece cuando una arena se completa.
+# Subtitle that appears when an arena is completed.
 victorySubtitle: '&a¡Completaste &2$wave &aoleadas!'
-# Título que aparece cuando los jugadores fallan una arena.
+# Title that appears when players fail an arena.
 defeatTitle: '&4¡Derrota!'
-# Subtítulo que aparece cuando los jugadores fallan una arena.
-defeatSubtitle: '¡&cAlcanzaste la oleada &4$wave&c!'
-# Mensaje difundido cuando los jugadores superan una arena.
+# Subitle that appears when players fail an arena.
+defeatSubtitle: ¡&cAlcanzaste la oleada &4$wave&c!
+# Message broadcasted when players beat an arena.
 victoryBroadcast: ¡La Arena $arenaName fue conquistada por $players!
-# Título que aparece cuando un jugador se une a una arena.
-joinPlayerTitle: '¡&aComienza con &2/em start &a!'
-# Subtítulo que aparece cuando un jugador se une a una arena.
-joinPlayerSubtitle: '¡&cSal con &4/em quit &c!'
-# Título que aparece cuando un espectador se une a una arena.
+# Title that appears when a player joins an arena.
+joinPlayerTitle: ¡&aComienza con &2/em start &a!
+# Subtitle that appears when a player joins an arena.
+joinPlayerSubtitle: ¡&cSal con &4/em quit &c!
+# Title that appears when a spectator joins an arena.
 joinSpectatorTitle: '&a¡Ahora espectando!'
-# Subtítulo que aparece cuando un espectador se une a una arena.
-joinSpectatorSubtitle: '¡&cSal con &4/em quit &c!'
-# Establece el mensaje enviado a los jugadores si no tienen permiso para entrar en una arena.
+# Subtitle that appears when a spectator joins an arena.
+joinSpectatorSubtitle: ¡&cSal con &4/em quit &c!
+# Sets the message sent to players if they do not have permission to enter an arena.
 noArenaPermissionMessage: '[EliteMobs] ¡No tienes permiso para entrar en esta arena!'
