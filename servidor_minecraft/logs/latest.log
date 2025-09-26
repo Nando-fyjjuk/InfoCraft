@@ -937,3 +937,77 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [15:04:35] [Server thread/INFO]: Villager Villager['Villager'/17210, uuid='67e99219-9225-4e41-99cd-da778799dcf3', l='ServerLevel[world]', x=16039.28, y=80.19, z=-16044.02, cpos=[1002, -1003], tl=77236, v=true] died, message: 'Villager was slain by Zombie'
 [15:04:35] [Server thread/INFO]: Named entity Wolf['〔6〕 Omega Lobo'/149162, uuid='4660b595-6717-4e08-a6bc-199625a66876', l='ServerLevel[world]', x=16079.67, y=71.09, z=-16112.33, cpos=[1004, -1008], tl=1603, v=true] died: 〔6〕 Omega Lobo was slain by ChristianJVR
 [15:04:47] [Server thread/INFO]: BlackWhite_J issued server command: /home
+[15:04:51] [Server thread/INFO]: ¡〔6〕 Omega Lobo destrozó a ChristianJVR!
+[15:05:22] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/147670, uuid='bbc251aa-47ff-4b77-9e39-919b1e2eada3', l='ServerLevel[world]', x=16027.32, y=80.00, z=-16186.15, cpos=[1001, -1012], tl=3337, v=true] died: 〔7〕 Omega Lobo was shot by Skeleton
+[15:05:23] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/151367, uuid='33beaa91-2182-43d4-aa9a-dcfde02a33a9', l='ServerLevel[world]', x=16082.70, y=68.00, z=-16051.61, cpos=[1005, -1004], tl=1358, v=true] died: 〔7〕 Omega Lobo was shot by Skeleton
+[15:05:55] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/150605, uuid='a7f91149-aa90-4951-bc8a-4fea8d66da0b', l='ServerLevel[world]', x=620.04, y=68.00, z=-1416.25, cpos=[38, -89], tl=2031, v=true] died: 〔7〕 Omega Lobo was shot by Skeleton
+[15:05:55] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/152155, uuid='106eef5a-9344-4e85-9387-af4093271df7', l='ServerLevel[world]', x=605.85, y=62.57, z=-1437.18, cpos=[37, -90], tl=1604, v=true] died: 〔7〕 Omega Lobo was slain by Rastf_MC
+[15:07:31] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml has been queued!
+[15:07:31] [Server thread/INFO]: ¡Un Goblin de Monedas ha sido avistado!
+[15:07:35] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 527dc644-e339-431d-aa9c-f730de61f321
+[15:07:37] [Server thread/INFO]: Rastf_MC issued server command: /elitemobs track boss 527dc644-e339-431d-aa9c-f730de61f321
+[15:07:41] [Server thread/INFO]: luxfoo has made the advancement [Glow and Behold!]
+[15:07:56] [Server thread/INFO]: Named entity Wolf['〔6〕 Omega Lobo'/155782, uuid='28d2e70b-966d-4661-85fe-b94b241ad12b', l='ServerLevel[world]', x=-44.47, y=68.00, z=127.23, cpos=[-3, 7], tl=1818, v=true] died: 〔6〕 Omega Lobo was shot by Skeleton
+[15:08:04] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/157823, uuid='7bf9ac35-ca8b-4e6a-96e3-e774e2834336', l='ServerLevel[world]', x=16063.37, y=71.00, z=-16081.49, cpos=[1003, -1006], tl=783, v=true] died: 〔1〕 Omega Lobo was shot by Skeleton
+[15:08:11] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/157146, uuid='e518e96c-e603-4392-97ae-1a8fb6a7c90d', l='ServerLevel[world]', x=16067.90, y=71.00, z=-16079.01, cpos=[1004, -1005], tl=1330, v=true] died: 〔1〕 Omega Lobo was shot by Skeleton
+[15:08:31] [Server thread/INFO]: Fernando_fyjjuk died
+[15:08:32] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 8'/157093, uuid='19152ea2-ec72-4ab6-a25b-fec40efbeaeb', l='ServerLevel[world]', x=490.70, y=71.00, z=-1264.82, cpos=[30, -80], tl=1771, v=true] died: Esqueleto de Elite Nivel 8 was slain by 〔7〕 Omega Lobo
+[15:08:46] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/160135, uuid='278c5f43-6327-45c5-b60b-abe9638d8745', l='ServerLevel[world]', x=16009.88, y=104.00, z=-15976.50, cpos=[1000, -999], tl=422, v=true] died: 〔1〕 Omega Lobo was shot by Skeleton
+[15:09:02] [Server thread/INFO]: Named entity Wolf['〔7〕 Hombre-Lobo Gamma'/155778, uuid='ecf7bb41-3242-424b-9782-dd50ce7fbd5c', l='ServerLevel[world]', x=617.24, y=67.00, z=-3088.70, cpos=[38, -194], tl=3148, v=true] died: 〔7〕 Hombre-Lobo Gamma was slain by BlackWhite_J
+[15:09:21] [Server thread/INFO]: ¡〔7〕 Hombre-Lobo Gamma destrozó a BlackWhite_J!
+[15:09:22] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/159374, uuid='ea3febbb-faf2-44cb-ad89-2c796f3a41a0', l='ServerLevel[world]', x=16037.79, y=74.00, z=-16097.86, cpos=[1002, -1007], tl=1546, v=true] died: 〔1〕 Omega Lobo was shot by Skeleton
+[15:09:26] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/160137, uuid='c2de6fd6-b7b3-414a-b3f6-e6540f6d1535', l='ServerLevel[world]', x=-633.10, y=62.57, z=-1028.46, cpos=[-40, -65], tl=1228, v=true] died: 〔7〕 Omega Lobo was slain by Scyther190 using [Imponente Hacha]
+[15:09:33] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/161479, uuid='3b8c7972-a524-45da-9e9b-95d184a245cd', l='ServerLevel[world]', x=16019.86, y=96.00, z=-15983.86, cpos=[1001, -999], tl=760, v=true] died: 〔1〕 Omega Lobo was shot by Skeleton
+[15:09:37] [Async Chat Thread - #23/INFO]: [Not Secure] <luxfoo> el hombre lobo es fuerte?
+[15:09:46] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/161481, uuid='9759a09c-c21c-45e6-875c-e2250be299be', l='ServerLevel[world]', x=16018.63, y=80.94, z=-16083.93, cpos=[1001, -1006], tl=1017, v=true] died: 〔1〕 Hombre-Lobo Gamma was shot by Skeleton
+[15:09:50] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/157462, uuid='0d40a1d1-6888-4c48-80a4-25d79d57ccc1', l='ServerLevel[world]', x=16056.70, y=71.94, z=-16070.30, cpos=[1003, -1005], tl=3092, v=true] died: 〔1〕 Omega Lobo was shot by Fernando_fyjjuk
+[15:09:52] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/158554, uuid='68f25aa6-e183-4a0b-a21a-45898141416c', l='ServerLevel[world]', x=16055.92, y=71.94, z=-16071.15, cpos=[1003, -1005], tl=2534, v=true] died: 〔1〕 Omega Lobo was shot by Fernando_fyjjuk
+[15:09:52] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[15:09:52] [Server thread/INFO]: luxfoo has left!
+[15:09:52] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [126ms] ha abandonado el servidor
+[15:09:56] [Server thread/INFO]: Named entity Wolf['〔6〕 Omega Lobo'/163117, uuid='64639bcb-7356-4631-926f-f052271cb784', l='ServerLevel[world]', x=15887.33, y=62.51, z=-15745.59, cpos=[992, -985], tl=498, v=true] died: 〔6〕 Omega Lobo was slain by ChristianJVR
+[15:10:05] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/163118, uuid='67540199-472f-4aec-82c6-451e3ca38113', l='ServerLevel[world]', x=15886.10, y=62.49, z=-15745.50, cpos=[992, -985], tl=677, v=true] died: 〔7〕 Omega Lobo was slain by ChristianJVR
+[15:10:06] [Server thread/INFO]: Named entity Wolf['〔7〕 Hombre-Lobo Gamma'/155434, uuid='ddddb7b4-9e04-45fe-9ed7-c0f74cb999d8', l='ServerLevel[world]', x=15886.21, y=62.45, z=-15743.77, cpos=[992, -984], tl=4621, v=true] died: 〔7〕 Hombre-Lobo Gamma was slain by ChristianJVR
+[15:10:09] [Async Chat Thread - #23/INFO]: [Not Secure] <Rastf_MC> que fue gara
+[15:10:11] [Server thread/INFO]: Named entity Wolf['〔7〕 Hombre-Lobo Gamma'/156129, uuid='5b110387-e72b-4c9e-a336-24bbf4495fa2', l='ServerLevel[world]', x=15887.76, y=62.61, z=-15744.33, cpos=[992, -985], tl=4315, v=true] died: 〔7〕 Hombre-Lobo Gamma was slain by ChristianJVR
+[15:10:11] [Server thread/INFO]: ¡〔1〕 Omega Lobo destrozó a Fernando_fyjjuk!
+[15:10:24] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/162271, uuid='20a52254-819c-499f-97b5-89bb1c3d041c', l='ServerLevel[world]', x=16078.19, y=69.00, z=-16049.54, cpos=[1004, -1004], tl=1383, v=true] died: 〔1〕 Omega Lobo was shot by Skeleton
+[15:10:25] [Async Chat Thread - #23/INFO]: [Not Secure] <GaRa> klk
+[15:10:33] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/156499, uuid='6fabbe5c-8225-479a-9dc5-09f5dd6f4dbc', l='ServerLevel[world]', x=15896.30, y=64.40, z=-15747.34, cpos=[993, -985], tl=4569, v=true] died: 〔7〕 Omega Lobo was slain by ChristianJVR
+[15:10:38] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/161871, uuid='67efb1b6-fb26-4a94-9e02-fffe6fc9e40c', l='ServerLevel[world]', x=16079.59, y=64.00, z=-16058.32, cpos=[1004, -1004], tl=1867, v=true] died: 〔1〕 Hombre-Lobo Gamma was shot by Skeleton
+[15:10:42] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/166092, uuid='06acc74c-6447-4f14-ae9a-56f0bccdb41f', l='ServerLevel[world]', x=-618.70, y=62.49, z=-1031.74, cpos=[-39, -65], tl=118, v=true] died: 〔7〕 Omega Lobo was slain by Scyther190 using [Imponente Hacha]
+[15:10:44] [Async Chat Thread - #23/INFO]: [Not Secure] <Rastf_MC> que parte estas
+[15:10:45] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/166093, uuid='6e7599df-6642-4865-8434-7814a3e445ab', l='ServerLevel[world]', x=-619.06, y=62.59, z=-1031.88, cpos=[-39, -65], tl=164, v=true] died: 〔7〕 Omega Lobo was slain by Scyther190 using [Imponente Hacha]
+[15:10:46] [Server thread/INFO]: Named entity Wolf['〔7〕 Hombre-Lobo Gamma'/156501, uuid='c0025565-86a8-41f6-a512-d2d6182529e3', l='ServerLevel[world]', x=-618.44, y=62.59, z=-1033.06, cpos=[-39, -65], tl=4822, v=true] died: 〔7〕 Hombre-Lobo Gamma was slain by Scyther190 using [Imponente Hacha]
+[15:11:05] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/161104, uuid='ac29771a-568a-4e42-a34a-8869bc379815', l='ServerLevel[world]', x=448.92, y=62.70, z=-1101.30, cpos=[28, -69], tl=2799, v=true] died: 〔7〕 Omega Lobo was slain by Rastf_MC
+[15:11:10] [User Authenticator #13/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[15:11:11] [Server thread/INFO]: BlackWhite_J lost connection: Disconnected
+[15:11:11] [Server thread/INFO]: BlackWhite_J has left!
+[15:11:11] [Server thread/INFO]: [vane-admin] [broadcast] BlackWhite_J [146ms] ha abandonado el servidor
+[15:11:11] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[15:11:11] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[15:11:11] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[15:11:11] [Server thread/INFO]: Detención automática no programada
+[15:11:11] [Server thread/INFO]: luxfoo has joined!
+[15:11:11] [Server thread/INFO]: luxfoo[/127.109.168.5:59455] logged in with entity id 167778 at ([world]-701.6999999880791, 63.0, -75.2092443909869)
+[15:11:12] [Craft Scheduler Thread - 82 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[15:11:13] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/164256, uuid='586cd8f6-6603-4ef9-8cad-bd108b2fc088', l='ServerLevel[world]', x=-688.31, y=62.56, z=-981.97, cpos=[-44, -62], tl=1570, v=true] died: 〔7〕 Omega Lobo was shot by Skeleton
+[15:11:18] [Server thread/INFO]: Named entity Wolf['〔7〕 Hombre-Lobo Gamma'/161102, uuid='373d1460-82a5-4998-9c50-ef738d146d95', l='ServerLevel[world]', x=-620.31, y=62.60, z=-1014.71, cpos=[-39, -64], tl=3064, v=true] died: 〔7〕 Hombre-Lobo Gamma was slain by Scyther190 using [Imponente Hacha]
+[15:11:27] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/157148, uuid='462ab76c-0072-49fb-b66b-ed76d048164c', l='ServerLevel[world]', x=-632.75, y=62.48, z=-1024.34, cpos=[-40, -65], tl=5242, v=true] died: 〔7〕 Omega Lobo was slain by Scyther190 using [Imponente Hacha]
+[15:11:36] [Server thread/INFO]: [EliteMobs] Event full_moon.yml ended!
+[15:11:57] [Server thread/INFO]: Fernando_fyjjuk was shot by Lvl 36 | Skeleton
+[15:12:00] [Server thread/INFO]: Named entity Parrot['Palomo'/167825, uuid='118bd886-3ca3-435e-9eab-5bef12f486a7', l='ServerLevel[world]', x=-700.84, y=60.02, z=-76.56, cpos=[-44, -5], tl=960, v=true] died: Palomo drowned
+[15:12:13] [Server thread/INFO]: ---------------------------------------------
+[15:12:13] [Server thread/INFO]: ¡El Goblin de Monedas ha sido saqueado!
+[15:12:13] [Server thread/INFO]:     1er Dañador: ¡Scyther190 con 191.38 daño!
+[15:12:13] [Server thread/INFO]: 
+[15:12:13] [Server thread/INFO]: 
+[15:12:13] [Server thread/INFO]: Asesinos: Scyther190
+[15:12:13] [Server thread/INFO]: ---------------------------------------------
+[15:12:13] [Server thread/INFO]: Named entity Zombie['「7」 Goblin de Monedas'/158023, uuid='6f7c75bf-e79f-4bf0-ab14-991fca586869', l='ServerLevel[world]', x=-625.23, y=47.90, z=-1021.38, cpos=[-40, -64], tl=5628, v=true] died: 「7」 Goblin de Monedas was slain by Scyther190 using [Imponente Hacha]
+[15:12:13] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml ended!
+[15:12:17] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[15:12:17] [Server thread/INFO]: luxfoo has left!
+[15:12:17] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [125ms] ha abandonado el servidor
+[15:13:33] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Scyther190
+[15:13:43] [Server thread/INFO]: Scyther190 issued server command: /huskhomes:tpaccept Fernando_fyjjuk
