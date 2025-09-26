@@ -747,3 +747,69 @@ LagFixer - Best Performance Solution!
 [21:22:05] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 2
 [21:22:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Fernando_fyjjuk> verga
 [21:22:30] [Async Chat Thread - #15/INFO]: [Not Secure] <shadowMax> tenia 4 mochilas de diamante lleno de cosas :c
+[21:22:56] [Async Chat Thread - #15/INFO]: [Not Secure] <Fernando_fyjjuk> oe el x-ray esta prihibido
+[21:23:27] [Server thread/INFO]: shadowMax lost connection: Disconnected
+[21:23:27] [Server thread/INFO]: shadowMax has left!
+[21:23:27] [Server thread/INFO]: [vane-admin] [broadcast] shadowMax [127ms] ha abandonado el servidor
+[21:23:35] [Server thread/INFO]: Fernando_fyjjuk lost connection: Timed out
+[21:23:35] [Server thread/INFO]: Fernando_fyjjuk has left!
+[21:23:35] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [125ms] ha abandonado el servidor
+[21:23:59] [User Authenticator #4/INFO]: UUID of player shadowMax is 2e987b91-87b2-32b3-98e0-37aef9266de4
+[21:24:00] [Server thread/INFO]: [vane-admin] [broadcast] shadowMax se ha unido al servidor
+[21:24:00] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to shadowMax. rspUUID is null: false. done: true. firstUpload: false.
+[21:24:00] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to shadowMax
+[21:24:00] [Server thread/INFO]: Detención automática no programada
+[21:24:00] [Server thread/INFO]: shadowMax has joined!
+[21:24:00] [Server thread/INFO]: shadowMax[/127.190.69.79:52543] logged in with entity id 18719 at ([world]16990.348283568823, 12.0, -15743.300000011921)
+[21:24:01] [Craft Scheduler Thread - 21 - EliteMobs/INFO]: [EliteMobs] User 2e987b91-87b2-32b3-98e0-37aef9266de4 data successfully read!
+[21:24:09] [User Authenticator #4/INFO]: UUID of player Ro0dr1 is 288da723-d4ff-3e72-b6d9-6d7a94642daf
+[21:24:10] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 se ha unido al servidor
+[21:24:10] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1. rspUUID is null: false. done: true. firstUpload: false.
+[21:24:10] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1
+[21:24:10] [Server thread/INFO]: Detención automática no programada
+[21:24:10] [Server thread/INFO]: Ro0dr1 has joined!
+[21:24:10] [Server thread/INFO]: Ro0dr1[/127.73.52.125:49695] logged in with entity id 18865 at ([world]607.5101381913723, 57.5625, -3090.4825829422557)
+[21:24:11] [Craft Scheduler Thread - 4 - EliteMobs/INFO]: [EliteMobs] User 288da723-d4ff-3e72-b6d9-6d7a94642daf data successfully read!
+[21:24:17] [User Authenticator #4/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[21:24:18] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[21:24:18] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[21:24:18] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[21:24:18] [Server thread/INFO]: Detención automática no programada
+[21:24:18] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[21:24:18] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:36071] logged in with entity id 18969 at ([world]-1467.255794221798, 88.0, 1009.0406472511336)
+[21:24:19] [Craft Scheduler Thread - 26 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[21:24:33] [Async Chat Thread - #16/INFO]: [Not Secure] <shadowMax> estaba en la mina 3 horas :v
+[21:24:38] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Silver_servi
+[21:24:38] [User Authenticator #4/INFO]: UUID of player Scyther190 is a82af51d-a5c8-32dc-a772-26c761f289c2
+[21:24:40] [Server thread/INFO]: [vane-admin] [broadcast] Scyther190 se ha unido al servidor
+[21:24:40] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190. rspUUID is null: false. done: true. firstUpload: false.
+[21:24:40] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190
+[21:24:40] [Server thread/INFO]: Detención automática no programada
+[21:24:40] [Server thread/INFO]: Scyther190 has joined!
+[21:24:40] [Server thread/INFO]: Scyther190[/127.212.126.52:33289] logged in with entity id 19347 at ([world_nether]-80.49697054919632, 44.0, -117.36428487700863)
+[21:24:41] [Craft Scheduler Thread - 4 - EliteMobs/INFO]: [EliteMobs] User a82af51d-a5c8-32dc-a772-26c761f289c2 data successfully read!
+[21:24:46] [Async Chat Thread - #16/INFO]: [Not Secure] <shadowMax> esa mina volcanica hay demasiados minerales
+[21:24:59] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Silver_servi
+[21:25:05] [Async Chat Thread - #16/INFO]: [Not Secure] <shadowMax> y las mochilas estaban llenas de materiales de construccion
+[21:25:16] [Async Chat Thread - #17/INFO]: [Not Secure] <shadowMax> entre las cosas de nether
+[21:25:23] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Scyther190
+[21:25:46] [Async Chat Thread - #17/INFO]: [Not Secure] <Fernando_fyjjuk> y yo con solo herramientas de hierro xd
+[21:25:54] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa luxfoo
+[21:26:04] [Server thread/INFO]: luxfoo issued server command: /huskhomes:tpaccept Fernando_fyjjuk
+[21:26:04] [Async Chat Thread - #17/INFO]: [Not Secure] <shadowMax> ya perdi todas mis cosas :v
+[21:26:09] [Async Chat Thread - #17/INFO]: [Not Secure] <shadowMax> ya fue el server
+[21:26:34] [Server thread/INFO]: Ro0dr1 issued server command: /home
+[21:26:48] [Server thread/INFO]: shadowMax lost connection: Disconnected
+[21:26:48] [Server thread/INFO]: shadowMax has left!
+[21:26:48] [Server thread/INFO]: [vane-admin] [broadcast] shadowMax [127ms] ha abandonado el servidor
+[21:26:48] [Server thread/INFO]: [EliteMobs] Event full_moon.yml has been queued!
+[21:27:05] [Async Chat Thread - #17/INFO]: [Not Secure] <Fernando_fyjjuk> XD
+[21:27:46] [Server thread/INFO]: Ro0dr1 issued server command: /msg thegeomusic xd
+[21:28:00] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml ended!
+[21:30:59] [Async Chat Thread - #18/INFO]: [Not Secure] <thegeomusic> estaba en clase
+[21:31:04] [Async Chat Thread - #18/INFO]: [Not Secure] <Ro0dr1> xd
+[21:31:05] [Server thread/INFO]: Silver_servi has made the advancement [Sneak 100]
+[21:31:08] [Async Chat Thread - #18/INFO]: [Not Secure] <thegeomusic> XD
+[21:31:19] [Async Chat Thread - #18/INFO]: [Not Secure] <Ro0dr1> toma
+[21:32:22] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml ended!
+[21:32:28] [Server thread/INFO]: Ro0dr1 issued server command: /msg thegeomusic abajo hay mas cofres
