@@ -886,3 +886,54 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [14:52:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3229ms or 64 ticks behind
 [14:52:34] [Server thread/INFO]: ChristianJVR has made the advancement [What a Deal!]
 [14:53:04] [Server thread/WARN]: luxfoo moved too quickly! -6.830050040549395,-1.1212968405391912,7.284226725255024
+[14:54:59] [Server thread/INFO]: Fernando_fyjjuk has made the advancement [What a Deal!]
+[14:56:53] [Server thread/WARN]: BlackWhite_J moved too quickly! -14.508111303204998,-5.127890238205481,-3.8054038264826886
+[14:56:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4357ms or 87 ticks behind
+[14:57:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3822ms or 76 ticks behind
+[14:57:15] [Server thread/WARN]: ChristianJVR moved too quickly! -3.5432624707646028,-1.6984652763372168,22.727941589140755
+[14:57:15] [Server thread/WARN]: BlackWhite_J moved too quickly! -9.780237251373705,-0.9769118908984495,-24.778314719098034
+[14:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8257ms or 165 ticks behind
+[14:58:58] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk hey deja necesito encontrar el desadio
+[14:59:16] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tell ChristianJVR se estan escapando
+[14:59:26] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk aaa
+[14:59:39] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk gracias
+[15:00:17] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk no puedo salir
+[15:01:25] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk ayudame a buscar un desafio
+[15:01:43] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tell ChristianJVR raids?
+[15:01:48] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tell ChristianJVR go pe
+[15:01:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3314ms or 66 ticks behind
+[15:01:59] [Server thread/WARN]: Fernando_fyjjuk moved too quickly! -11.218435400012822,0.8232407249357578,-11.378595928845243
+[15:01:59] [Server thread/WARN]: BlackWhite_J moved too quickly! 9.115928038449738,5.024424088213692,10.59401764324366
+[15:01:59] [Server thread/WARN]: Scyther190 moved too quickly! 10.087552729288063,0.8134929510737123,-1.0834956726087057
+[15:02:03] [Server thread/WARN]: Fernando_fyjjuk moved too quickly! -2.5644613291988207,3.176759275064242,-9.179059920284999
+[15:02:03] [Server thread/WARN]: BlackWhite_J moved too quickly! 9.61388599400152,0.7448407234098795,3.225735258167788
+[15:02:03] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk es que necesito encontrar no se donde hay
+[15:02:03] [User Authenticator #12/INFO]: UUID of player Rastf_MC is 2d2308de-9901-3c76-9398-f4d6ecde1eb3
+[15:02:06] [Server thread/INFO]: [vane-admin] [broadcast] Rastf_MC se ha unido al servidor
+[15:02:06] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Rastf_MC. rspUUID is null: false. done: true. firstUpload: false.
+[15:02:06] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Rastf_MC
+[15:02:06] [Server thread/INFO]: Detención automática no programada
+[15:02:06] [Server thread/INFO]: Rastf_MC has joined!
+[15:02:06] [Server thread/INFO]: Rastf_MC[/127.192.99.245:53475] logged in with entity id 145791 at ([world]608.3731840756234, -10.0, -1438.03114753512)
+[15:02:06] [Craft Scheduler Thread - 74 - EliteMobs/INFO]: [EliteMobs] User 2d2308de-9901-3c76-9398-f4d6ecde1eb3 data successfully read!
+[15:02:25] [Server thread/INFO]: ¡Se escuchan los aullidos de un Hombre-Lobo Alfa!
+[15:02:30] [Server thread/INFO]: Rastf_MC issued server command: /elitemobs track boss 0525f859-9b64-4367-9c6e-55a9cb655000
+[15:02:31] [Server thread/INFO]: shadowMax lost connection: Disconnected
+[15:02:31] [Server thread/INFO]: shadowMax has left!
+[15:02:31] [Server thread/INFO]: [vane-admin] [broadcast] shadowMax [160ms] ha abandonado el servidor
+[15:02:49] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa GaRa
+[15:03:19] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa ChristianJVR
+[15:03:32] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Rastf_MC
+[15:03:32] [Server thread/INFO]: ChristianJVR issued server command: /tpaccept
+[15:03:37] [Server thread/INFO]: [EliteMobs] Event balrog.yml ended!
+[15:03:46] [Async Chat Thread - #21/INFO]: [Not Secure] <BlackWhite_J> w
+[15:03:47] [Server thread/INFO]: Scyther190 issued server command: /home
+[15:04:11] [Server thread/INFO]: Named entity Wolf['〔7〕 Hombre-Lobo Gamma'/148771, uuid='07c7bf60-bea8-4790-8323-3fb5bbb93315', l='ServerLevel[world]', x=16080.12, y=70.00, z=-16113.10, cpos=[1005, -1008], tl=1322, v=true] died: 〔7〕 Hombre-Lobo Gamma was slain by ChristianJVR
+[15:04:14] [Server thread/INFO]: Named entity Wolf['〔7〕 Hombre-Lobo Gamma'/148007, uuid='aece56bb-d710-4f03-92a4-062d2c869e35', l='ServerLevel[world]', x=16089.42, y=79.94, z=-15998.02, cpos=[1005, -1000], tl=1081, v=true] died: 〔7〕 Hombre-Lobo Gamma was shot by Skeleton
+[15:04:16] [Server thread/INFO]: ¡Fernando_fyjjuk fue despedazado por 〔7〕 Omega Lobo!
+[15:04:28] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa ChristianJVR
+[15:04:31] [Server thread/INFO]: Named entity Wolf['〔6〕 Hombre-Lobo Gamma'/149160, uuid='c56f5dc0-8b59-43a6-ae08-d42ae0a5b1ea', l='ServerLevel[world]', x=16084.16, y=79.00, z=-16002.18, cpos=[1005, -1001], tl=1516, v=true] died: 〔6〕 Hombre-Lobo Gamma was shot by Skeleton
+[15:04:31] [Server thread/INFO]: ChristianJVR issued server command: /tpaccept
+[15:04:35] [Server thread/INFO]: Villager Villager['Villager'/17210, uuid='67e99219-9225-4e41-99cd-da778799dcf3', l='ServerLevel[world]', x=16039.28, y=80.19, z=-16044.02, cpos=[1002, -1003], tl=77236, v=true] died, message: 'Villager was slain by Zombie'
+[15:04:35] [Server thread/INFO]: Named entity Wolf['〔6〕 Omega Lobo'/149162, uuid='4660b595-6717-4e08-a6bc-199625a66876', l='ServerLevel[world]', x=16079.67, y=71.09, z=-16112.33, cpos=[1004, -1008], tl=1603, v=true] died: 〔6〕 Omega Lobo was slain by ChristianJVR
+[15:04:47] [Server thread/INFO]: BlackWhite_J issued server command: /home
