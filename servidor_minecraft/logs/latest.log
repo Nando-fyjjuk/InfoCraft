@@ -1237,3 +1237,67 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [15:34:55] [Async Chat Thread - #25/INFO]: [Not Secure] <.Guiller1201> ✓
 [15:35:04] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
 [15:35:31] [Server thread/INFO]: Fernando_fyjjuk died
+[15:35:35] [Async Chat Thread - #25/INFO]: [Not Secure] <shadowMax> xd
+[15:36:15] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa .Guiller1201
+[15:36:26] [Async Chat Thread - #25/INFO]: [Not Secure] <.Guiller1201> cómo descativo el modo realista
+[15:36:26] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tell .Guiller1201 acepta
+[15:36:34] [Async Chat Thread - #25/INFO]: [Not Secure] <.Guiller1201> aceptar
+[15:36:47] [Async Chat Thread - #25/INFO]: [Not Secure] <.Guiller1201> no c como se acepta :V
+[15:36:48] [Async Chat Thread - #25/INFO]: [Not Secure] <Fernando_fyjjuk> una /tpaacept
+[15:36:51] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
+[15:36:51] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[15:36:56] [Server thread/INFO]: Rastf_MC issued server command: /elitemobs track boss 07a3e9f7-0b46-4232-b65d-0fc2942b785d
+[15:36:56] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 07a3e9f7-0b46-4232-b65d-0fc2942b785d
+[15:36:57] [Async Chat Thread - #25/INFO]: [Not Secure] <Fernando_fyjjuk> esto /tpaccept
+[15:37:05] [Server thread/INFO]: .Guiller1201 issued server command: /tpaccept
+[15:37:40] [Async Chat Thread - #25/INFO]: [Not Secure] <Fernando_fyjjuk> no mi saco xd
+[15:37:45] [Async Chat Thread - #25/INFO]: [Not Secure] <.Guiller1201> los mods realistas c ven goz
+[15:38:02] [Async Chat Thread - #25/INFO]: [Not Secure] <Fernando_fyjjuk> mira
+[15:38:06] [Async Chat Thread - #25/INFO]: [Not Secure] <Fernando_fyjjuk> checate esta
+[15:38:18] [Server thread/INFO]: shadowMax issued server command: /tpa Fernando_fyjjuk
+[15:38:20] [Async Chat Thread - #25/INFO]: [Not Secure] <.Guiller1201> y el jennys
+[15:38:26] [Server thread/INFO]: Fernando_fyjjuk issued server command: /huskhomes:tpaccept shadowMax
+[15:38:37] [Server thread/INFO]: faceles18 died
+[15:38:37] [Server thread/INFO]: [SeeMore] Set view distance of shadowMax to 7 (client view distance is 12).
+[15:39:18] [Server thread/INFO]: Juanito has made the advancement [Ice Bucket Challenge]
+[15:39:29] [Server thread/INFO]: Fernando_fyjjuk issued server command: /elitemobs track boss 07a3e9f7-0b46-4232-b65d-0fc2942b785d
+[15:39:29] [Server thread/WARN]: [EliteMobs] The following boss had more health than it should: §4「§c1§4」§f §cPillager Líder de la Caravana
+[15:39:29] [Server thread/WARN]: [EliteMobs] This is a problem usually caused by running more than one plugin that modifies mob health! EliteMobs can't fix this issue because it is being caused by another plugin. If you want EliteMobs to work correctly, find a way to fix this issue with whatever other plugin is causing it.
+[15:39:50] [Async Chat Thread - #27/INFO]: [Not Secure] <Rastf_MC> oe gara
+[15:39:59] [Server thread/INFO]: Frankoskrrr died
+[15:40:00] [Async Chat Thread - #27/INFO]: [Not Secure] <GaRa> dimelooooo
+[15:40:00] [Async Chat Thread - #27/INFO]: [Not Secure] <Fernando_fyjjuk> tienes agua?
+[15:40:07] [Async Chat Thread - #27/INFO]: [Not Secure] <Rastf_MC> entra al discort
+[15:40:20] [Async Chat Thread - #28/INFO]: [Not Secure] <shadowMax> no tengo espacio xd
+[15:40:38] [Server thread/INFO]: GaRa lost connection: Disconnected
+[15:40:38] [Server thread/INFO]: GaRa has left!
+[15:40:38] [Server thread/INFO]: [vane-admin] [broadcast] GaRa [146ms] ha abandonado el servidor
+[15:40:51] [Server thread/INFO]: faceles18 died
+[15:41:08] [Async Chat Thread - #28/INFO]: [Not Secure] <shadowMax> ayuda
+[15:41:23] [Async Chat Thread - #27/INFO]: [Not Secure] <shadowMax> xd no hace daño
+[15:41:37] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Guiller1201 has disconnected from the Java server because of Bedrock client disconnected
+[15:41:37] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Guiller1201 disconnected
+[15:41:37] [Server thread/INFO]: .Guiller1201 lost connection: Disconnected
+[15:41:37] [Server thread/INFO]: .Guiller1201 has left!
+[15:41:37] [Server thread/INFO]: [vane-admin] [broadcast] .Guiller1201 [0ms] ha abandonado el servidor
+[15:41:44] [Async Chat Thread - #27/INFO]: [Not Secure] <shadowMax> me da cuerpo ignifugo
+[15:41:57] [Async Chat Thread - #27/INFO]: [Not Secure] <Fernando_fyjjuk> oe tienes zanahoria?
+[15:42:30] [Async Chat Thread - #27/INFO]: [Not Secure] <shadowMax> cagado xd
+[15:42:51] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
+[15:42:51] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
+[15:42:57] [Server thread/INFO]: Rastf_MC issued server command: /elitemobs track boss 69aee204-542a-4485-838e-2071308246e5
+[15:42:58] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 69aee204-542a-4485-838e-2071308246e5
+[15:43:15] [Server thread/INFO]: [SeeMore] Set view distance of Juanito to 7 (client view distance is 12).
+[15:43:48] [Async Chat Thread - #29/INFO]: [Not Secure] <shadowMax> tienes cuero ??
+[15:45:38] [User Authenticator #17/INFO]: UUID of player Ro0dr1 is 288da723-d4ff-3e72-b6d9-6d7a94642daf
+[15:45:40] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 se ha unido al servidor
+[15:45:40] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1. rspUUID is null: false. done: true. firstUpload: false.
+[15:45:40] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1
+[15:45:40] [Server thread/INFO]: Detención automática no programada
+[15:45:40] [Server thread/INFO]: Ro0dr1 has joined!
+[15:45:40] [Server thread/INFO]: Ro0dr1[/127.73.52.125:48249] logged in with entity id 210442 at ([world]617.6999999880791, 66.0, -3084.451383198197)
+[15:45:41] [Craft Scheduler Thread - 92 - EliteMobs/INFO]: [EliteMobs] User 288da723-d4ff-3e72-b6d9-6d7a94642daf data successfully read!
+[15:45:44] [Server thread/INFO]: Luiscue issued server command: /home th
+[15:45:52] [Server thread/INFO]: Rastf_MC issued server command: /home
+[15:45:58] [Server thread/INFO]: Rastf_MC issued server command: /homes
+[15:46:00] [Server thread/INFO]: Luiscue died
