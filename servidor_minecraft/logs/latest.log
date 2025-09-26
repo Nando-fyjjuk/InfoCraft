@@ -1222,3 +1222,42 @@ java.lang.NullPointerException: null
 [23:15:56] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
 [23:15:56] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
 [23:16:06] [Server thread/INFO]: Silver_servi issued server command: /elitemobs track boss 9b2db08a-707a-447e-8018-b0b383f69994
+[23:19:25] [Server thread/INFO]: ChristianJVR issued server command: /home
+[23:19:28] [Server thread/INFO]: ¡Se escuchan los aullidos de un Hombre-Lobo Alfa!
+[23:20:56] [Server thread/INFO]: thegeomusic lost connection: Disconnected
+[23:20:56] [Server thread/INFO]: thegeomusic has left!
+[23:20:56] [Server thread/INFO]: [vane-admin] [broadcast] thegeomusic [193ms] ha abandonado el servidor
+[23:21:02] [Server thread/INFO]: [Not Secure] [Server] oe
+[23:21:06] [Server thread/INFO]: There are 3 of a max of 20 players online: Scyther190, ChristianJVR, Silver_servi
+[23:21:21] [Server thread/INFO]: [Not Secure] [Server] muy pocos jugadores
+[23:21:27] [Server thread/INFO]: ChristianJVR has made the advancement [The End?]
+[23:21:27] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_TeethArena_End_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[23:21:28] [Server thread/INFO]: Scyther190 issued server command: /home
+[23:21:28] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[23:21:28] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[23:21:46] [Server thread/INFO]: [Not Secure] [Server] apago en 10 minutos
+[23:22:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+say<--[HERE]
+[23:22:24] [Server thread/INFO]: [Not Secure] [Server] oe como que estan en el END?
+[23:22:31] [Server thread/INFO]: [Not Secure] [Server] Hola?
+[23:22:48] [Server thread/INFO]: Named entity Wolf['〔6〕 Omega Lobo'/235829, uuid='e25ed8cd-8c5c-47b3-9a5d-998c380e53fe', l='ServerLevel[world]', x=164.49, y=66.00, z=-751.30, cpos=[10, -47], tl=2010, v=true] died: 〔6〕 Omega Lobo was slain by Silver_servi
+[23:22:51] [Server thread/INFO]: Named entity Wolf['〔6〕 Omega Lobo'/236230, uuid='5e9f2b1b-bb8b-4e78-8463-0c997fda0579', l='ServerLevel[world]', x=166.27, y=66.00, z=-751.85, cpos=[10, -47], tl=1475, v=true] died: 〔6〕 Omega Lobo was slain by Silver_servi
+[23:23:09] [Server thread/INFO]: Named entity Wolf['〔6〕 Omega Lobo'/236798, uuid='e6f1fe55-9d7b-4f42-b139-9fa898865b82', l='ServerLevel[world]', x=166.12, y=66.00, z=-752.10, cpos=[10, -48], tl=419, v=true] died: 〔6〕 Omega Lobo was slain by Silver_servi
+[23:23:11] [Server thread/INFO]: [Not Secure] [Server] HOLA?
+[23:23:13] [Server thread/INFO]: Named entity Wolf['〔6〕 Omega Lobo'/236351, uuid='632a8ec3-9a8b-4ff9-b505-15a9646e9c21', l='ServerLevel[world]', x=165.30, y=67.09, z=-751.30, cpos=[10, -47], tl=1512, v=true] died: 〔6〕 Omega Lobo was slain by Silver_servi
+[23:23:16] [Async Chat Thread - #38/INFO]: [Not Secure] <Scyther190> hola
+[23:23:26] [Server thread/INFO]: ¡〔6〕 Omega Lobo destrozó a Silver_servi!
+[23:23:36] [Server thread/INFO]: [Not Secure] [Server] estan en el end?
+[23:23:51] [Async Chat Thread - #39/INFO]: [Not Secure] <Scyther190> podria ir, pero no estoy aun
+[23:23:59] [Server thread/INFO]: [Not Secure] [Server] voy a apagar
+[23:24:10] [Async Chat Thread - #39/INFO]: [Not Secure] <Silver_servi> PORQUE HAY TANTOS LOBOS XD
+[23:24:19] [Async Chat Thread - #39/INFO]: [Not Secure] <Scyther190> el omega
+[23:24:39] [Server thread/INFO]: ¡Silver_servi fue despedazado por 〔1〕 Omega Lobo!
+[23:24:47] [Async Chat Thread - #39/INFO]: [Not Secure] <Scyther190> xd
+[23:24:56] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[23:24:56] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
+[23:25:00] [Async Chat Thread - #39/INFO]: [Not Secure] <Silver_servi> xd
+[23:25:02] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 1b7f67bb-9fe7-4149-aa9e-a2989410b713
+[23:25:06] [Server thread/INFO]: [Not Secure] [Server] recoje tus cosas y avisa para que apague
+[23:25:19] [Async Chat Thread - #39/INFO]: [Not Secure] <Silver_servi> no puedo me campean spaun
+[23:25:44] [Server thread/INFO]: ¡〔1〕 Omega Lobo destrozó a Silver_servi!
