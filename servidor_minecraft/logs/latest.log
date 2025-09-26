@@ -712,3 +712,38 @@ LagFixer - Best Performance Solution!
 [21:09:56] [Server thread/INFO]: Silver_servi[/127.48.84.221:55955] logged in with entity id 8230 at ([world]-224.06537411962057, -3.5375, 972.5)
 [21:09:57] [Craft Scheduler Thread - 4 - EliteMobs/INFO]: [EliteMobs] User 8c1d60db-0677-3e33-8e2b-6f857dd2ea16 data successfully read!
 [21:12:16] [Async Chat Thread - #8/INFO]: [Not Secure] <Fernando_fyjjuk> otra ves la sombra
+[21:13:32] [Server thread/INFO]: Named entity Spider['Araña de Elite Nivel 5'/7523, uuid='be33445c-754e-4eb7-a08b-ee462c30e358', l='ServerLevel[world]', x=17002.46, y=12.00, z=-15747.32, cpos=[1062, -985], tl=5679, v=true] died: Araña de Elite Nivel 5 was shot by Fernando_fyjjuk
+[21:14:48] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
+[21:14:48] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[21:15:57] [Async Chat Thread - #10/INFO]: [Not Secure] <shadowMax> mis cosas desaparecieron xd
+[21:16:05] [Async Chat Thread - #10/INFO]: [Not Secure] <shadowMax> el server se cerro cuando mori
+[21:16:17] [Async Chat Thread - #10/INFO]: [Not Secure] <Fernando_fyjjuk> usa /graves
+[21:16:26] [Server thread/INFO]: shadowMax issued server command: /graves
+[21:16:36] [Async Chat Thread - #10/INFO]: [Not Secure] <shadowMax> no hay tumba :c
+[21:16:43] [Async Chat Thread - #10/INFO]: [Not Secure] <Fernando_fyjjuk> ya fue
+[21:17:31] [Async Chat Thread - #10/INFO]: [Not Secure] <Silver_servi> duerman
+[21:17:37] [Async Chat Thread - #11/INFO]: [Not Secure] <Silver_servi> xf
+[21:17:42] [Async Chat Thread - #11/INFO]: [Not Secure] <luxfoo> ok
+[21:17:50] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[21:17:50] [Server thread/INFO]: Fernando_fyjjuk has left!
+[21:17:50] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [123ms] ha abandonado el servidor
+[21:17:54] [Async Chat Thread - #11/INFO]: [Not Secure] <luxfoo> alfin
+[21:17:56] [User Authenticator #3/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[21:17:57] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[21:17:57] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[21:17:57] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[21:17:57] [Server thread/INFO]: Detención automática no programada
+[21:17:57] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[21:17:57] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:33885] logged in with entity id 14099 at ([world]17015.214344912638, 30.0, -15758.726642656915)
+[21:17:58] [Craft Scheduler Thread - 4 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[21:19:07] [Server thread/INFO]: Fernando_fyjjuk issued server command: /delhome home
+[21:19:39] [Async Chat Thread - #12/INFO]: [Not Secure] <shadowMax> para que cierran el server xd
+[21:19:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Fernando_fyjjuk> pense que estabas afk
+[21:20:48] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[21:20:48] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
+[21:21:31] [Async Chat Thread - #14/INFO]: [Not Secure] <Fernando_fyjjuk> oe pero no tienias casi 2 stacks de diamante?
+[21:21:43] [Async Chat Thread - #14/INFO]: [Not Secure] <shadowMax> 6 estaba minando
+[21:21:51] [Async Chat Thread - #14/INFO]: [Not Secure] <shadowMax> en la zona volcanica
+[21:22:05] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 2
+[21:22:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Fernando_fyjjuk> verga
+[21:22:30] [Async Chat Thread - #15/INFO]: [Not Secure] <shadowMax> tenia 4 mochilas de diamante lleno de cosas :c
