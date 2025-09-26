@@ -812,3 +812,57 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [14:31:29] [Server thread/INFO]: luxfoo[/127.109.168.5:44879] logged in with entity id 67163 at ([world]-634.3049056890504, -5.0, -146.61156437731094)
 [14:31:30] [Craft Scheduler Thread - 42 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
 [14:33:00] [Server thread/INFO]: Fernando_fyjjuk issued server command: /sethome 3
+[14:34:29] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk aqui mano
+[14:34:31] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk aqui mano
+[14:34:38] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk puedes hacer tu tp
+[14:35:18] [Async Chat Thread - #11/INFO]: [Not Secure] <Fernando_fyjjuk> ayuda
+[14:36:05] [Server thread/INFO]: ---------------------------------------------
+[14:36:05] [Server thread/INFO]: ¡El Duende Con Armadura ha sido saqueado!
+[14:36:05] [Server thread/INFO]:     1er Dañador: ¡shadowMax con 95.67 daño!
+[14:36:05] [Server thread/INFO]:     2do Dañador: ¡Fernando_fyjjuk con 43.49 daño!
+[14:36:05] [Server thread/INFO]: 
+[14:36:05] [Server thread/INFO]: Asesinos: shadowMax, Fernando_fyjjuk
+[14:36:05] [Server thread/INFO]: ---------------------------------------------
+[14:36:05] [Server thread/INFO]: Named entity Zombie['「6」 Goblin con Armadura'/66244, uuid='8c00c744-015c-4927-ab9b-babd86c0d7cd', l='ServerLevel[world]', x=16081.48, y=62.46, z=-16097.08, cpos=[1005, -1007], tl=6187, v=true] died: 「6」 Goblin con Armadura was slain by shadowMax using [Palillo de dientes de Magmaguy]
+[14:36:06] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[14:36:23] [Async Chat Thread - #12/INFO]: [Not Secure] <Scyther190> como que estan a 22k bloques?
+[14:36:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Fernando_fyjjuk> y como sabes eso?
+[14:36:56] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml has been queued!
+[14:36:56] [Server thread/INFO]: ¡Un Goblin del Tesoro ha sido avistado!
+[14:36:59] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 55c7e7d9-a596-41d6-b6fd-ae34709f27db
+[14:37:04] [Server thread/INFO]: Fernando_fyjjuk issued server command: /elitemobs track boss 55c7e7d9-a596-41d6-b6fd-ae34709f27db
+[14:37:05] [Server thread/INFO]: Fernando_fyjjuk issued server command: /elitemobs track boss 55c7e7d9-a596-41d6-b6fd-ae34709f27db
+[14:37:53] [Async Chat Thread - #14/INFO]: [Not Secure] <Fernando_fyjjuk> go nether
+[14:38:00] [Async Chat Thread - #14/INFO]: [Not Secure] <Fernando_fyjjuk> necisito oro
+[14:38:04] [Async Chat Thread - #14/INFO]: [Not Secure] <shadowMax> para ?
+[14:38:11] [Async Chat Thread - #14/INFO]: [Not Secure] <Fernando_fyjjuk> zanahorias
+[14:38:17] [Async Chat Thread - #15/INFO]: [Not Secure] <shadowMax> ya te di ven
+[14:38:56] [Async Chat Thread - #15/INFO]: [Not Secure] <shadowMax> xd ?
+[14:39:09] [Server thread/INFO]: ---------------------------------------------
+[14:39:09] [Server thread/INFO]: ¡El Goblin del Tesoro ha sido saqueado!
+[14:39:09] [Server thread/INFO]:     1er Dañador: ¡Scyther190 con 92.35 daño!
+[14:39:09] [Server thread/INFO]: 
+[14:39:09] [Server thread/INFO]: 
+[14:39:09] [Server thread/INFO]: Asesinos: Scyther190
+[14:39:09] [Server thread/INFO]: ---------------------------------------------
+[14:39:09] [Server thread/INFO]: Named entity Zombie['Goblin del Tesoro 「7」'/77977, uuid='93c1bcfd-9eb4-44b2-a441-f66d3d282d06', l='ServerLevel[world]', x=-510.98, y=49.00, z=-1006.12, cpos=[-32, -63], tl=2142, v=true] died: Goblin del Tesoro 「7」 was slain by Scyther190 using [Imponente Hacha]
+[14:39:10] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml ended!
+[14:41:09] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[14:41:09] [Server thread/INFO]: Fernando_fyjjuk has left!
+[14:41:09] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [122ms] ha abandonado el servidor
+[14:42:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9347ms or 186 ticks behind
+[14:42:40] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[14:42:40] [Server thread/INFO]: luxfoo has left!
+[14:42:40] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [126ms] ha abandonado el servidor
+[14:42:40] [Server thread/WARN]: BlackWhite_J moved too quickly! 29.720146680040784,-0.2712241076924897,-13.032699101113849
+[14:42:44] [Server thread/INFO]: ChristianJVR issued server command: /tpa shadowMax
+[14:42:47] [Server thread/INFO]: shadowMax issued server command: /tpaccept
+[14:42:50] [User Authenticator #10/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[14:42:51] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[14:42:51] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[14:42:51] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[14:42:51] [Server thread/INFO]: Detención automática no programada
+[14:42:51] [Server thread/INFO]: luxfoo has joined!
+[14:42:51] [Server thread/INFO]: luxfoo[/127.109.168.5:45489] logged in with entity id 89453 at ([world]-626.1561570768749, 12.76636799395752, -188.13914571846132)
+[14:42:52] [Craft Scheduler Thread - 54 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[14:43:05] [Server thread/INFO]: [EliteMobs] Event full_moon.yml has been queued!
