@@ -942,3 +942,33 @@ LagFixer - Best Performance Solution!
 [22:02:22] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:41611] logged in with entity id 78791 at ([world_nether]-93.0955124901312, 44.0, -113.86744230101777)
 [22:02:23] [Craft Scheduler Thread - 49 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
 [22:03:11] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 5'/65605, uuid='4ea51656-c9cb-4d82-a47c-69f47557fa69', l='ServerLevel[world]', x=-720.95, y=58.30, z=-61.86, cpos=[-46, -4], tl=8827, v=true] died: Zombi de Elite Nivel 5 was slain by luxfoo using [Espada del Pegajoso Genio]
+[22:04:02] [Server thread/INFO]: Named entity Hoglin['Hoglin de Elite Nivel 9'/81831, uuid='4f01440b-b982-4926-ba5d-8c0a50a0f1e3', l='ServerLevel[world_nether]', x=2096.65, y=46.00, z=-1926.09, cpos=[131, -121], tl=226, v=true] died: Hoglin de Elite Nivel 9 was slain by Piglin
+[22:05:09] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[22:05:09] [Server thread/INFO]: Fernando_fyjjuk has left!
+[22:05:09] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [153ms] ha abandonado el servidor
+[22:05:38] [Async Chat Thread - #32/INFO]: [Not Secure] <luxfoo> puedes hacer que deje de llover?
+[22:06:12] [User Authenticator #10/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[22:06:13] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[22:06:13] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[22:06:13] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[22:06:13] [Server thread/INFO]: Detención automática no programada
+[22:06:13] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[22:06:13] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:48711] logged in with entity id 86346 at ([world_nether]-98.16050415342629, 45.0, -106.78347491867473)
+[22:06:14] [Craft Scheduler Thread - 49 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[22:06:21] [Server thread/INFO]: Named entity Pillager['Saqueador de Elite Nivel 7'/85848, uuid='bd89437b-91a2-420b-8212-2fb4e7191173', l='ServerLevel[world]', x=-269.30, y=64.00, z=-1255.70, cpos=[-17, -79], tl=462, v=true] died: Saqueador de Elite Nivel 7 was slain by Scyther190 using [Acribillador de Trasgo]
+[22:07:46] [Server thread/INFO]: Silver_servi has made the advancement [A Terrible Fortress]
+[22:08:48] [Server thread/INFO]: ¡El Rey Zombie ha sido avistado!
+[22:08:51] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 60544034-6e8e-4c73-b3b3-39f529083e37
+[22:08:52] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 60544034-6e8e-4c73-b3b3-39f529083e37
+[22:08:53] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 60544034-6e8e-4c73-b3b3-39f529083e37
+[22:09:23] [Server thread/INFO]: Silver_servi has made the advancement [Into Fire]
+[22:10:01] [Server thread/INFO]: HOYO died
+[22:10:10] [Server thread/INFO]: Named entity Husk['〔7〕 Muertos vivientes'/91420, uuid='d24e0fba-9f78-4451-ad7d-970001dfbe0e', l='ServerLevel[world]', x=-291.95, y=65.00, z=-1201.74, cpos=[-19, -76], tl=1434, v=true] died: 〔7〕 Muertos vivientes was slain by Scyther190 using [Acribillador de Trasgo]
+[22:10:14] [Server thread/INFO]: Ro0dr1 has made the advancement [Take Aim]
+[22:10:41] [Server thread/INFO]: Named entity Husk['〔7〕 Muertos vivientes'/91128, uuid='2d512ea1-1822-4425-81eb-e5f27bf43338', l='ServerLevel[world]', x=-295.28, y=65.00, z=-1196.24, cpos=[-19, -75], tl=2257, v=true] died: 〔7〕 Muertos vivientes was shot by Scyther190 using [Arco del Última Lémur]
+[22:12:30] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[22:12:30] [Server thread/INFO]: luxfoo has left!
+[22:12:30] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [155ms] ha abandonado el servidor
+[22:13:04] [Server thread/INFO]: Ro0dr1 has made the advancement [Sneak 100]
+[22:13:35] [Server thread/INFO]: Named entity Husk['〔7〕 Muertos vivientes'/98404, uuid='ce5978b4-a599-4ded-afb3-f29b3271423c', l='ServerLevel[world]', x=-317.62, y=64.00, z=-1184.50, cpos=[-20, -75], tl=1176, v=true] died: 〔7〕 Muertos vivientes was doomed to fall by Scyther190 using [Arco del Última Lémur]
+[22:13:47] [Server thread/INFO]: HOYO died
