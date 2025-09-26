@@ -2922,3 +2922,39 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [17:07:39] [Server thread/INFO]: ¡Un Goblin de Monedas ha sido avistado!
 [17:07:45] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss ee52e262-f758-4ddc-86c8-dab548a54537
 [17:07:46] [Server thread/INFO]: Fernando_fyjjuk issued server command: /elitemobs track boss ee52e262-f758-4ddc-86c8-dab548a54537
+[17:10:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3488ms or 69 ticks behind
+[17:10:36] [Async Chat Thread - #52/INFO]: [Not Secure] <shadowMax> como es eso de hogar ??
+[17:10:49] [Async Chat Thread - #52/INFO]: [Not Secure] <Fernando_fyjjuk> para establecer una casa usa /home
+[17:11:01] [Async Chat Thread - #52/INFO]: [Not Secure] <Fernando_fyjjuk> digo /sethome
+[17:11:10] [Server thread/INFO]: shadowMax issued server command: /sethome
+[17:11:13] [Async Chat Thread - #52/INFO]: [Not Secure] <Fernando_fyjjuk> y para hacer tp a la casa /home
+[17:11:32] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home nether
+[17:12:48] [Server thread/INFO]: Named entity ZombifiedPiglin['Piglin Zombificado de Elite Nivel 2'/316546, uuid='40c68b7b-ed2d-4f31-98da-33db935199b6', l='ServerLevel[world_nether]', x=48.30, y=79.00, z=-37.30, cpos=[3, -3], tl=1379, v=true] died: Piglin Zombificado de Elite Nivel 2 was shot by Fernando_fyjjuk
+[17:13:03] [Server thread/INFO]: Named entity ZombifiedPiglin['Piglin Zombificado de Elite Nivel 3'/316543, uuid='d474ab5b-8a9c-4ab0-9e6b-b64fdc6f571b', l='ServerLevel[world_nether]', x=49.70, y=79.50, z=-44.30, cpos=[3, -3], tl=1699, v=true] died: Piglin Zombificado de Elite Nivel 3 was shot by Fernando_fyjjuk
+[17:15:59] [Server thread/INFO]: Silver_servi died
+[17:17:42] [Server thread/INFO]: shadowMax issued server command: /tpa Fernando_fyjjuk
+[17:17:48] [Server thread/INFO]: Fernando_fyjjuk issued server command: /huskhomes:tpaccept shadowMax
+[17:17:48] [Async Chat Thread - #54/INFO]: [Not Secure] <luxfoo> ahora si duerman
+[17:18:00] [Server thread/INFO]: ¡shadowMax fue devorado por 「6」 Duende de Encantamientos!
+[17:18:00] [Server thread/INFO]: ¡shadowMax ha sido ejecutado!
+[17:18:04] [Server thread/INFO]: Frankoskrrr lost connection: Disconnected
+[17:18:04] [Server thread/INFO]: Frankoskrrr has left!
+[17:18:04] [Server thread/INFO]: [vane-admin] [broadcast] Frankoskrrr [145ms] ha abandonado el servidor
+[17:18:07] [Server thread/INFO]: shadowMax issued server command: /tpa Fernando_fyjjuk
+[17:18:10] [Server thread/INFO]: Fernando_fyjjuk issued server command: /huskhomes:tpaccept shadowMax
+[17:18:25] [User Authenticator #28/INFO]: UUID of player Frankoskrrr is 8ad59928-ba25-3e0f-8726-c2f5b11f79c6
+[17:18:26] [Server thread/INFO]: [vane-admin] [broadcast] Frankoskrrr se ha unido al servidor
+[17:18:26] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Frankoskrrr. rspUUID is null: false. done: true. firstUpload: false.
+[17:18:26] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Frankoskrrr
+[17:18:26] [Server thread/INFO]: Detención automática no programada
+[17:18:26] [Server thread/INFO]: Frankoskrrr has joined!
+[17:18:26] [Server thread/INFO]: Frankoskrrr[/127.2.174.248:45029] logged in with entity id 323462 at ([world]975.3817836761328, 64.0, -2682.699999988079)
+[17:18:27] [Craft Scheduler Thread - 153 - EliteMobs/INFO]: [EliteMobs] User 8ad59928-ba25-3e0f-8726-c2f5b11f79c6 data successfully read!
+[17:18:32] [Server thread/INFO]: Named entity Zombie['Zombi de shadowMax'/323362, uuid='9d87a9cc-fa69-48f4-a2fb-ba4b4ab199d6', l='ServerLevel[world_nether]', x=51.58, y=78.00, z=-44.45, cpos=[3, -3], tl=219, v=true] died: Zombi de shadowMax was slain by shadowMax
+[17:18:38] [Server thread/INFO]: Frankoskrrr lost connection: Disconnected
+[17:18:38] [Server thread/INFO]: Frankoskrrr has left!
+[17:18:38] [Server thread/INFO]: [vane-admin] [broadcast] Frankoskrrr [144ms] ha abandonado el servidor
+[17:19:11] [Server thread/INFO]: shadowMax issued server command: /home
+[17:19:22] [Server thread/WARN]: Tried to over-fill a container
+[17:19:49] [Async Chat Thread - #56/INFO]: [Not Secure] <luxfoo> tmre
+[17:19:56] [Async Chat Thread - #56/INFO]: [Not Secure] <luxfoo> ese sonido otra vez
