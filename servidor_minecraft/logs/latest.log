@@ -693,3 +693,42 @@ LagFixer - Best Performance Solution!
 [14:00:54] [Server thread/INFO]: luxfoo has joined!
 [14:00:54] [Server thread/INFO]: luxfoo[/127.109.168.5:37381] logged in with entity id 18208 at ([world]-701.7148659740259, 60.72034552832672, -55.55456225669304)
 [14:00:55] [Craft Scheduler Thread - 23 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[14:03:28] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
+[14:04:45] [Server thread/INFO]: luxfoo has made the advancement [Hot Stuff]
+[14:05:39] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml has been queued!
+[14:06:44] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml ended!
+[14:06:46] [Server thread/INFO]: ---------------------------------------------
+[14:06:46] [Server thread/INFO]: ¡El Duende de Encantamientos ha sido saqueado!
+[14:06:46] [Server thread/INFO]:     1er Dañador: ¡shadowMax con 184.09 daño!
+[14:06:46] [Server thread/INFO]:     2do Dañador: ¡ChristianJVR con 29.0 daño!
+[14:06:46] [Server thread/INFO]: 
+[14:06:46] [Server thread/INFO]: Asesinos: shadowMax, ChristianJVR
+[14:06:46] [Server thread/INFO]: ---------------------------------------------
+[14:06:46] [Server thread/INFO]: Named entity Zombie['「7」 Duende de Encantamientos'/17605, uuid='2ff95096-58f5-455f-9e4f-2ef6fb510e71', l='ServerLevel[world]', x=16057.41, y=73.00, z=-16121.40, cpos=[1003, -1008], tl=8527, v=true] died: 「7」 Duende de Encantamientos was slain by shadowMax using [Palillo de dientes de Magmaguy]
+[14:06:46] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml ended!
+[14:06:49] [Server thread/INFO]: shadowMax has reached the goal [Sky's the Limit]
+[14:08:09] [User Authenticator #5/INFO]: UUID of player BlackWhite_J is de65cb10-d375-316a-91b2-8bc48f8b832d
+[14:08:10] [Server thread/INFO]: [vane-admin] [broadcast] BlackWhite_J se ha unido al servidor
+[14:08:10] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to BlackWhite_J. rspUUID is null: false. done: true. firstUpload: false.
+[14:08:10] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to BlackWhite_J
+[14:08:10] [Server thread/INFO]: Detención automática no programada
+[14:08:10] [Server thread/INFO]: BlackWhite_J has joined!
+[14:08:10] [Server thread/INFO]: BlackWhite_J[/127.150.137.127:42547] logged in with entity id 26958 at ([world]614.8633716588712, 66.0, -3088.398446740875)
+[14:08:11] [Craft Scheduler Thread - 25 - EliteMobs/INFO]: [EliteMobs] User de65cb10-d375-316a-91b2-8bc48f8b832d data successfully read!
+[14:09:54] [User Authenticator #6/INFO]: UUID of player Scyther190 is a82af51d-a5c8-32dc-a772-26c761f289c2
+[14:09:55] [Server thread/INFO]: [vane-admin] [broadcast] Scyther190 se ha unido al servidor
+[14:09:55] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190. rspUUID is null: false. done: true. firstUpload: false.
+[14:09:55] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190
+[14:09:55] [Server thread/INFO]: Detención automática no programada
+[14:09:55] [Server thread/INFO]: Scyther190 has joined!
+[14:09:55] [Server thread/INFO]: Scyther190[/127.212.126.52:42829] logged in with entity id 29991 at ([world]-607.6927541829906, 32.0, -1104.6428718547002)
+[14:09:56] [Craft Scheduler Thread - 27 - EliteMobs/INFO]: [EliteMobs] User a82af51d-a5c8-32dc-a772-26c761f289c2 data successfully read!
+[14:11:06] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml ended!
+[14:12:27] [User Authenticator #7/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[14:12:29] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[14:12:29] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[14:12:29] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[14:12:29] [Server thread/INFO]: Detención automática no programada
+[14:12:29] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[14:12:29] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:58843] logged in with entity id 34305 at ([world]-1469.396548998335, 64.0, 986.4003360004435)
+[14:12:30] [Craft Scheduler Thread - 23 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
