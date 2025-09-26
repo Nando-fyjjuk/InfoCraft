@@ -2958,3 +2958,165 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [17:19:22] [Server thread/WARN]: Tried to over-fill a container
 [17:19:49] [Async Chat Thread - #56/INFO]: [Not Secure] <luxfoo> tmre
 [17:19:56] [Async Chat Thread - #56/INFO]: [Not Secure] <luxfoo> ese sonido otra vez
+[17:21:38] [Server thread/INFO]: Silver_servi died
+[17:21:47] [Server thread/INFO]: Fernando_fyjjuk issued server command: /delhome nether
+[17:22:45] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[17:23:24] [Server thread/INFO]: Silver_servi has made the advancement [Ice Bucket Challenge]
+[17:23:26] [Server thread/ERROR]: Entity threw exception at world_nether:-53.5,45.0,-131.5
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goal.WrappedGoal.isRunning()" because "wrappedGoalx" is null
+	at net.minecraft.world.entity.ai.goal.GoalSelector.tick(GoalSelector.java:100) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.serverAiStep(Mob.java:761) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3489) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.aiStep(Mob.java:504) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Zombie.aiStep(Zombie.java:259) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3267) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.tick(Mob.java:381) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:231) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1277) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1483) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:811) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:793) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1724) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17:23:50] [Server thread/WARN]: Tried to over-fill a container
+[17:24:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7651ms or 153 ticks behind
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 11.802385224633326,0.0,16.638085339780446
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 12.033804542763392,0.0,16.96432230722712
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 12.265223860893457,0.0,17.290559274673797
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 12.496643179023522,0.0,17.616796242120472
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 12.728062497153587,0.0,17.943033209567147
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 12.959481815283652,0.0,18.269270177013823
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 13.190901133413718,0.0,18.5955071444605
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 13.422320451543783,0.0,18.921744111907174
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 13.653739769673848,0.0,19.24798107935385
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 13.885159087803913,0.0,19.574218046800524
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 14.116578405933979,0.0,19.9004550142472
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 14.347997724064044,0.0,20.226691981693875
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 14.579417042194109,0.0,20.55292894914055
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 14.810836360324174,0.0,20.879165916587226
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 15.04225567845424,0.0,21.2054028840339
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 15.273674996584305,0.0,21.531639851480577
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 15.50509431471437,0.0,21.857876818927252
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 15.736513632844435,0.0,22.184113786373928
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 15.9679329509745,0.0,22.510350753820603
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 16.199352269104565,0.0,22.83658772126728
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 16.43077158723463,0.0,23.162824688713954
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 16.662190905364696,0.0,23.48906165616063
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 16.89361022349476,0.0,23.815298623607305
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 17.125029541624826,0.0,24.14153559105398
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 17.35644885975489,0.0,24.467772558500656
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 17.587868177884957,0.0,24.79400952594733
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 17.819287496015022,0.0,25.120246493394006
+[17:24:07] [Server thread/WARN]: Silver_servi moved too quickly! 11.04380337299014,-0.0625,0.0457280587530704
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 18.050706814145087,0.0,25.446483460840682
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 18.282126132275152,0.0,25.772720428287357
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 18.513545450405218,0.0,26.098957395734033
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 18.744964768535283,0.0,26.425194363180708
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 18.976384086665348,0.0,26.751431330627383
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 19.207803404795413,0.0,27.07766829807406
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 19.43922272292548,0.0,27.403905265520734
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 19.670642041055544,0.0,27.73014223296741
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 19.90206135918561,0.0,28.056379200414085
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 20.133480677315674,0.0,28.38261616786076
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 20.36489999544574,0.0,28.708853135307436
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 20.596319313575805,0.0,29.03509010275411
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 20.82773863170587,0.0,29.361327070200787
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 21.059157949835935,0.0,29.687564037647462
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 21.290577267966,0.0,30.013801005094138
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 21.521996586096066,0.0,30.340037972540813
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 21.75341590422613,0.0,30.66627493998749
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 21.984835222356196,0.0,30.992511907434164
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 22.193112603155896,0.0,31.28612517035799
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 22.380562240909057,0.0,31.55037709998942
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 22.549266910416918,0.0,31.788203830357816
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 22.70110110895257,0.0,32.00224788201922
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 22.837751884013414,0.0,32.194887523412035
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 22.960737578312546,0.0,32.3682631960728
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.071424700247007,0.0,32.524301297333295
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.17104310735158,0.0,32.66473558474718
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.260699671369366,0.0,32.79112644007182
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.341390576846607,0.0,32.90487820685121
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.41401238985418,0.0,33.00725479424
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.47937201982859,0.0,33.09939372044937
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.538195685247047,0.0,33.182318751840285
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.591136982722674,0.0,33.256951278115594
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.638784149188723,0.0,33.32412054998349
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.68166659786948,0.0,33.384572893062796
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.7202608006628,0.0,33.43898000039371
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.754995582254196,0.0,33.48794639569496
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.78625688485772,0.0,33.53201615029866
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.81439205645802,0.0,33.57167892839061
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.839713710225624,0.0,33.607375427727675
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.862503198011837,0.0,33.63950227628084
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.88301373647846,0.0,33.668416439211796
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.90147322060875,0.0,33.69443918516117
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.91808675588618,0.0,33.717859655895154
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.93303893724078,0.0,33.73893807899731
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.94649590010158,0.0,33.75790865928684
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.95860716635434,0.0,33.77498218109395
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.969507305693696,0.0,33.79034835031416
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.97931743083973,0.0,33.80417790224601
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.988146543237235,0.0,33.816624498655074
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 23.99609274418617,0.0,33.82782643512655
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.00324432484922,0.0,33.83790817768386
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.009680747276434,0.0,33.846981745744415
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.015473527306312,0.0,33.855147956783185
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.02068702919496,0.0,33.86249754652272
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.02537918076996,0.0,33.86911217711349
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.029602117076138,0.0,33.875065344487666
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.033402759650926,0.0,33.88042319498163
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.03682333787947,0.0,33.88524526029869
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.03990185820294,0.0,33.88958511896999
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.042672526418755,0.0,33.89349099166975
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.045166127747507,0.0,33.89700627700586
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.047410368882993,0.0,33.90017003372486
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.049430185852543,0.0,33.90301741469739
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.05124802107821,0.0,33.90558005750427
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.05288407273838,0.0,33.907886435968976
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.05435651919106,0.0,33.909962176532645
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.055681720965367,0.0,33.91183034299138
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.056874402529502,0.0,33.91351169275913
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.057947815908847,0.0,33.91502490751009
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 24.058913887925883,0.0,33.916386800749024
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 12.488817446213943,0.0,17.605764132298646
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 12.489599964505032,0.0,17.606867265763867
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 12.490304230948823,0.0,17.607860085856373
+[17:24:07] [Server thread/WARN]: Oak Boat (vehicle of shadowMax) moved too quickly! 12.490938070732227,0.0,17.608753623915618
+[17:24:23] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[17:24:23] [Server thread/INFO]: Fernando_fyjjuk has left!
+[17:24:23] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [122ms] ha abandonado el servidor
+[17:24:49] [Server thread/INFO]: Silver_servi has made the advancement [Ol' Betsy]
+[17:26:48] [Server thread/INFO]: shadowMax issued server command: /tpa
+[17:27:03] [Server thread/INFO]: shadowMax issued server command: /tpa Silver_servi
+[17:27:35] [Server thread/INFO]: shadowMax died
+[17:28:06] [Server thread/INFO]: shadowMax lost connection: Disconnected
+[17:28:06] [Server thread/INFO]: shadowMax has left!
+[17:28:06] [Server thread/INFO]: [vane-admin] [broadcast] shadowMax [127ms] ha abandonado el servidor
+[17:28:54] [Server thread/INFO]: Silver_servi died
+[17:29:26] [User Authenticator #29/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[17:29:27] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[17:29:27] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[17:29:27] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[17:29:27] [Server thread/INFO]: Detención automática no programada
+[17:29:27] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[17:29:27] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:59209] logged in with entity id 333967 at ([world]16099.782932858792, 61.606351341972335, -16114.851631014148)
+[17:29:28] [Craft Scheduler Thread - 174 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[17:30:00] [Server thread/INFO]: Ro0dr1 lost connection: Disconnected
+[17:30:00] [Server thread/INFO]: Ro0dr1 has left!
+[17:30:00] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 [154ms] ha abandonado el servidor
+[17:30:10] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[17:30:10] [Server thread/INFO]: luxfoo has left!
+[17:30:10] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [126ms] ha abandonado el servidor
+[17:30:18] [User Authenticator #29/INFO]: UUID of player Ro0dr1 is 288da723-d4ff-3e72-b6d9-6d7a94642daf
+[17:30:19] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 se ha unido al servidor
+[17:30:19] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1. rspUUID is null: false. done: true. firstUpload: false.
+[17:30:19] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1
+[17:30:19] [Server thread/INFO]: Detención automática no programada
+[17:30:19] [Server thread/INFO]: Ro0dr1 has joined!
+[17:30:19] [Server thread/INFO]: Ro0dr1[/127.73.52.125:46997] logged in with entity id 335185 at ([world]605.7463911357788, 57.0, -3083.4164690346115)
+[17:30:20] [Craft Scheduler Thread - 174 - EliteMobs/INFO]: [EliteMobs] User 288da723-d4ff-3e72-b6d9-6d7a94642daf data successfully read!
