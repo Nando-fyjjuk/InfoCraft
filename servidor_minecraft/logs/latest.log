@@ -869,3 +869,76 @@ LagFixer - Best Performance Solution!
 [21:53:15] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 [130ms] ha abandonado el servidor
 [21:53:18] [Async Chat Thread - #26/INFO]: [Not Secure] <Fernando_fyjjuk> rapido
 [21:53:23] [Async Chat Thread - #26/INFO]: [Not Secure] <Fernando_fyjjuk> te mueres
+[21:53:40] [Server thread/INFO]: Silver_servi issued server command: /tpa Fernando_fyjjuk
+[21:53:41] [Server thread/INFO]: Silver_servi died
+[21:53:41] [Server thread/INFO]: ¡Silver_servi ha sido ejecutado!
+[21:53:55] [Server thread/INFO]: Silver_servi issued server command: /tpa Fernando_fyjjuk
+[21:54:18] [User Authenticator #7/INFO]: UUID of player Ro0dr1 is 288da723-d4ff-3e72-b6d9-6d7a94642daf
+[21:54:19] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 se ha unido al servidor
+[21:54:19] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1. rspUUID is null: false. done: true. firstUpload: false.
+[21:54:19] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1
+[21:54:19] [Server thread/INFO]: Detención automática no programada
+[21:54:19] [Server thread/INFO]: Ro0dr1 has joined!
+[21:54:19] [Server thread/INFO]: Ro0dr1[/127.73.52.125:39367] logged in with entity id 62117 at ([world]583.3966626208199, 91.0, -3299.1711289113523)
+[21:54:20] [Craft Scheduler Thread - 34 - EliteMobs/INFO]: [EliteMobs] User 288da723-d4ff-3e72-b6d9-6d7a94642daf data successfully read!
+[21:54:41] [Server thread/INFO]: Silver_servi issued server command: /death
+[21:54:43] [Async Chat Thread - #28/INFO]: [Not Secure] <HOYO> PODRIAN DORMIR
+[21:54:48] [Server thread/INFO]: ¡luxfoo fue devorado por Goblin del Tesoro 「6」!
+[21:54:55] [Async Chat Thread - #28/INFO]: [Not Secure] <HOYO> ME DA MIEDO LA OSCURIDAD
+[21:55:05] [Server thread/INFO]: Silver_servi issued server command: /tpa Fernando_fyjjuk
+[21:55:08] [Server thread/INFO]: Fernando_fyjjuk issued server command: /huskhomes:tpaccept Silver_servi
+[21:55:37] [Async Chat Thread - #28/INFO]: [Not Secure] <Fernando_fyjjuk> reviveme bro
+[21:55:51] [Server thread/INFO]: Fernando_fyjjuk died
+[21:55:51] [Server thread/INFO]: ¡Fernando_fyjjuk ha sido ejecutado!
+[21:55:51] [Async Chat Thread - #28/INFO]: [Not Secure] <Silver_servi> que letra
+[21:56:06] [Async Chat Thread - #28/INFO]: [Not Secure] <Fernando_fyjjuk> pero con clck derecho animal xd
+[21:56:16] [Async Chat Thread - #28/INFO]: [Not Secure] <Silver_servi> xd no se p
+[21:56:18] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Silver_servi
+[21:56:19] [Async Chat Thread - #28/INFO]: [Not Secure] <HOYO> XD
+[21:56:21] [Server thread/INFO]: Silver_servi issued server command: /huskhomes:tpaccept Fernando_fyjjuk
+[21:56:42] [Server thread/INFO]: Ro0dr1 lost connection: Disconnected
+[21:56:42] [Server thread/INFO]: Ro0dr1 has left!
+[21:56:42] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 [152ms] ha abandonado el servidor
+[21:57:22] [User Authenticator #8/INFO]: UUID of player ChristianJVR is 8d5b884e-b3f0-38ed-9f90-e66025f8f126
+[21:57:23] [Server thread/INFO]: [vane-admin] [broadcast] ChristianJVR se ha unido al servidor
+[21:57:23] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to ChristianJVR. rspUUID is null: false. done: true. firstUpload: false.
+[21:57:23] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to ChristianJVR
+[21:57:23] [Server thread/INFO]: Detención automática no programada
+[21:57:23] [Server thread/INFO]: ChristianJVR has joined!
+[21:57:23] [Server thread/INFO]: ChristianJVR[/127.254.48.220:47045] logged in with entity id 68430 at ([world]16948.30000001192, 27.125424046416764, -15898.300000011921)
+[21:57:24] [Craft Scheduler Thread - 33 - EliteMobs/INFO]: [EliteMobs] User 8d5b884e-b3f0-38ed-9f90-e66025f8f126 data successfully read!
+[21:57:41] [User Authenticator #8/INFO]: UUID of player Ro0dr1 is 288da723-d4ff-3e72-b6d9-6d7a94642daf
+[21:57:43] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 se ha unido al servidor
+[21:57:43] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1. rspUUID is null: false. done: true. firstUpload: false.
+[21:57:43] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1
+[21:57:43] [Server thread/INFO]: Detención automática no programada
+[21:57:43] [Server thread/INFO]: Ro0dr1 has joined!
+[21:57:43] [Server thread/INFO]: Ro0dr1[/127.73.52.125:38315] logged in with entity id 69031 at ([world]720.6999999880791, 63.0, -3566.4227504645737)
+[21:57:44] [Craft Scheduler Thread - 34 - EliteMobs/INFO]: [EliteMobs] User 288da723-d4ff-3e72-b6d9-6d7a94642daf data successfully read!
+[21:57:49] [Async Chat Thread - #30/INFO]: [Not Secure] <Fernando_fyjjuk> tienes madera?
+[21:57:51] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[21:57:51] [Server thread/INFO]: Fernando_fyjjuk has left!
+[21:57:51] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [123ms] ha abandonado el servidor
+[21:58:10] [Server thread/INFO]: ChristianJVR issued server command: /sethome
+[21:58:27] [Server thread/INFO]: ChristianJVR died
+[21:58:37] [Server thread/INFO]: ChristianJVR issued server command: /home
+[21:58:48] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml has been queued!
+[22:00:25] [Server thread/INFO]: ---------------------------------------------
+[22:00:25] [Server thread/INFO]: ¡El Goblin del Tesoro ha sido saqueado!
+[22:00:25] [Server thread/INFO]:     1er Dañador: ¡luxfoo con 51.97 daño!
+[22:00:25] [Server thread/INFO]: 
+[22:00:25] [Server thread/INFO]: 
+[22:00:25] [Server thread/INFO]: Asesinos: luxfoo
+[22:00:25] [Server thread/INFO]: ---------------------------------------------
+[22:00:25] [Server thread/INFO]: Named entity Zombie['Goblin del Tesoro 「6」'/58923, uuid='bc7f8477-e93b-44ba-ae56-712510d017f7', l='ServerLevel[world]', x=-734.59, y=58.08, z=-62.60, cpos=[-46, -4], tl=9145, v=true] died: Goblin del Tesoro 「6」 was slain by luxfoo
+[22:00:26] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml ended!
+[22:01:29] [Server thread/INFO]: ChristianJVR issued server command: /sethome
+[22:02:21] [User Authenticator #9/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[22:02:22] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[22:02:22] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[22:02:22] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[22:02:22] [Server thread/INFO]: Detención automática no programada
+[22:02:22] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[22:02:22] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:41611] logged in with entity id 78791 at ([world_nether]-93.0955124901312, 44.0, -113.86744230101777)
+[22:02:23] [Craft Scheduler Thread - 49 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[22:03:11] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 5'/65605, uuid='4ea51656-c9cb-4d82-a47c-69f47557fa69', l='ServerLevel[world]', x=-720.95, y=58.30, z=-61.86, cpos=[-46, -4], tl=8827, v=true] died: Zombi de Elite Nivel 5 was slain by luxfoo using [Espada del Pegajoso Genio]
