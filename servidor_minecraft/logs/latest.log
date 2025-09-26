@@ -732,3 +732,59 @@ LagFixer - Best Performance Solution!
 [14:12:29] [Server thread/INFO]: Fernando_fyjjuk has joined!
 [14:12:29] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:58843] logged in with entity id 34305 at ([world]-1469.396548998335, 64.0, 986.4003360004435)
 [14:12:30] [Craft Scheduler Thread - 23 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[14:14:23] [Server thread/ERROR]: POI data mismatch: never registered at BlockPos{x=-1466, y=74, z=993}
+[14:14:24] [Server thread/ERROR]: POI data mismatch: never registered at BlockPos{x=-1466, y=73, z=993}
+[14:15:04] [JDA MainWS-ReadThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket (Code 1000). Appending to reconnect queue
+[14:15:06] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[14:15:06] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] [JDA] WebSocket connection was closed and cannot be recovered due to identification issues
+CloseCode(4004 / The account token sent with your identify payload is incorrect.)
+[14:15:06] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] ===================================================
+[14:15:06] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  
+[14:15:06] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  DiscordSRV was disconnected from Discord because:
+[14:15:06] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  The bot token is invalid
+[14:15:06] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  
+[14:15:06] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] ===================================================
+[14:15:06] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.30.1
+[14:15:11] [DiscordSRV - Shutdown/WARN]: [DiscordSRV] JDA took too long to shut down, skipping
+[14:15:11] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 5009ms
+[14:15:11] [Server thread/WARN]: BlackWhite_J moved too quickly! 2.2611401410849794,-0.9769118908984495,-20.908746276336842
+[14:15:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4990ms or 99 ticks behind
+[14:15:27] [User Authenticator #8/INFO]: UUID of player GaRa is 4123c1d7-8769-3e71-b81d-0413d5ea5b3a
+[14:15:28] [Server thread/INFO]: [vane-admin] [broadcast] GaRa se ha unido al servidor
+[14:15:28] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to GaRa. rspUUID is null: false. done: true. firstUpload: false.
+[14:15:28] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to GaRa
+[14:15:28] [Server thread/INFO]: Detención automática no programada
+[14:15:28] [Server thread/INFO]: GaRa has joined!
+[14:15:28] [Server thread/INFO]: GaRa[/127.108.131.140:36009] logged in with entity id 39384 at ([world]149.29832324305627, -1.0, -878.6999999880791)
+[14:15:29] [Craft Scheduler Thread - 30 - EliteMobs/INFO]: [EliteMobs] User 4123c1d7-8769-3e71-b81d-0413d5ea5b3a data successfully read!
+[14:15:50] [Server thread/INFO]: Fernando_fyjjuk issued server command: /sethome 2
+[14:16:01] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa shadowMax
+[14:16:07] [Server thread/INFO]: shadowMax issued server command: /tpaccept
+[14:16:32] [Async Chat Thread - #0/INFO]: [Not Secure] <Fernando_fyjjuk> tienen varas de blaze?
+[14:16:41] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk mano pero no filtres coor
+[14:16:53] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_6.PaperweightStarlightRelighterFactory as relighter factory.
+[14:16:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[14:17:28] [Server thread/INFO]: luxfoo has reached the goal [So we back in the mine...]
+[14:17:39] [Server thread/INFO]: [EliteMobs] Event beast_master.yml ended!
+[14:17:42] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tell ChristianJVR las varas?
+[14:18:11] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk pa que mano XD
+[14:18:16] [Server thread/INFO]: Fernando_fyjjuk has made the advancement [Into Fire]
+[14:18:53] [Server thread/INFO]: Named entity Zombie['「5」 Tótem Zombi'/18235, uuid='28983a66-b440-4770-82fd-a78479754f83', l='ServerLevel[world]', x=-618.03, y=87.00, z=-83.97, cpos=[-39, -6], tl=21377, v=true] died: 「5」 Tótem Zombi burned to death
+[14:19:07] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk si encuentras un lugar del desafio
+[14:19:12] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk avisas
+[14:19:21] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk necesitamos mal presagio
+[14:19:45] [Server thread/INFO]: ChristianJVR has made the advancement [Local Brewery]
+[14:20:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5084ms or 101 ticks behind
+[14:20:49] [Server thread/WARN]: shadowMax moved too quickly! -0.06069145097899309,-1.747796659746271,14.873453921773034
+[14:20:49] [Server thread/WARN]: ChristianJVR moved too quickly! 4.752718142295635,-3.823240724935758,-21.480017342517385
+[14:20:50] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_WaterTubes_Grasslands_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[14:21:44] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tell ChristianJVR lapiz lazuli?
+[14:22:03] [Async Chat Thread - #5/INFO]: [Not Secure] <ChristianJVR> busca si habia creo
+[14:22:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4454ms or 89 ticks behind
+[14:22:18] [Server thread/WARN]: Fernando_fyjjuk moved too quickly! 10.18552532979811,-1.504799122994072,-7.4714727177524765
+[14:22:18] [Server thread/WARN]: shadowMax moved too quickly! -12.668469393431224,1.0,-11.284779440136845
+[14:22:18] [Server thread/WARN]: luxfoo moved too quickly! 7.132249629657963,-7.535840625044557,0.0
+[14:22:25] [Server thread/INFO]: ChristianJVR issued server command: /msg Fernando_fyjjuk me paltie XD
+[14:22:32] [Async Chat Thread - #5/INFO]: [Not Secure] <Fernando_fyjjuk> xd
+[14:22:38] [Server thread/WARN]: shadowMax moved too quickly! -9.437821013367284,2.176759275064242,-3.190317272070388
+[14:22:38] [Server thread/WARN]: Fernando_fyjjuk moved too quickly! -10.01618496170704,0.49971160108003687,1.3174343918872182
