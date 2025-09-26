@@ -1041,3 +1041,101 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [22:33:32] [Server thread/INFO]: Scyther190 issued server command: /home
 [22:34:10] [Server thread/INFO]: ¡「1」 Maestro de Bestias reivindicó sus habilidades de lucha con HOYO!
 [22:34:34] [Server thread/INFO]: Silver_servi died
+[22:34:53] [Server thread/INFO]: Ro0dr1 lost connection: Disconnected
+[22:34:53] [Server thread/INFO]: Ro0dr1 has left!
+[22:34:53] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 [164ms] ha abandonado el servidor
+[22:34:57] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Khvicha K77
+[22:34:57] [localSession-7-2/INFO]: [Geyser-Spigot] Khvicha K77 (logged in as: Khvicha_K77) has connected to the Java server
+[22:34:57] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Khvicha K77 has disconnected from the Java server because of Bedrock client disconnected
+[22:35:15] [Async Chat Thread - #36/INFO]: [Not Secure] <thegeomusic> zzzzzzzz
+[22:35:18] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username Khvicha K77
+[22:35:18] [localSession-7-3/INFO]: [Geyser-Spigot] Khvicha K77 (logged in as: Khvicha_K77) has connected to the Java server
+[22:35:18] [Server thread/ERROR]: [vane-core] Unhandled exception occurred in onPacketSending(PacketEvent) for vane-core
+java.lang.UnsupportedOperationException: The method getUniqueId is not supported for temporary players.
+	at ProtocolLib.jar/com.comphenix.protocol.injector.temporary.TemporaryPlayerFactory$1.delegate(TemporaryPlayerFactory.java:140) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.temporary.TemporaryPlayerInvocationHandler.getUniqueId(Unknown Source) ~[ProtocolLib.jar:?]
+	at vane-core-1.19.0.jar/org.oddlama.vane.core.resourcepack.PlayerMessageDelayer$Adapter.onPacketSending(PlayerMessageDelayer.java:192) ~[vane-core-1.19.0.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.collection.OutboundPacketListenerSet.invokeListener(OutboundPacketListenerSet.java:74) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.collection.PacketListenerSet.lambda$invoke$0(PacketListenerSet.java:123) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.timing.TimingTracker.lambda$static$0(TimingTracker.java:7) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.collection.PacketListenerSet.invoke(PacketListenerSet.java:123) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.collection.OutboundPacketListenerSet.invoke(OutboundPacketListenerSet.java:30) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.collection.PacketListenerSet.invoke(PacketListenerSet.java:102) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.PacketFilterManager.postPacketToListeners(PacketFilterManager.java:528) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.PacketFilterManager.invokeOutboundPacketListeners(PacketFilterManager.java:516) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:528) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:44) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:233) ~[ProtocolLib.jar:?]
+	at net.minecraft.network.Connection.sendPacket(Connection.java:476) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.network.Connection.send(Connection.java:437) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.network.ServerCommonPacketListenerImpl.send(ServerCommonPacketListenerImpl.java:328) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerPlayer.sendSystemMessage(ServerPlayer.java:2207) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerPlayer.displayClientMessage(ServerPlayer.java:1984) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.announceSleepStatus(ServerLevel.java:1069) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.updateSleepingPlayerList(ServerLevel.java:1077) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.onTrackingStart(ServerLevel.java:2668) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.onTrackingStart(ServerLevel.java:2624) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup.entityStatusChange(EntityLookup.java:279) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup.addEntity(EntityLookup.java:451) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup.addNewEntity(EntityLookup.java:393) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup.addNewEntity(EntityLookup.java:389) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.addPlayer(ServerLevel.java:1524) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.addNewPlayer(ServerLevel.java:1509) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:318) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.handleConfigurationFinished(ServerConfigurationPacketListenerImpl.java:184) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:22) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:8) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[22:35:18] [Server thread/ERROR]: Parameters: 
+  net.minecraft.network.protocol.game.ClientboundSystemChatPacket@48aebfef[
+    content=translation{key='sleep.players_sleeping', args=[1, 3]}
+    overlay=true
+  ]
+
+[22:35:19] [Server thread/INFO]: [vane-trifles] Given 1421 recipes to .Khvicha_K77
+[22:35:19] [Server thread/INFO]: [vane-admin] [broadcast] .Khvicha_K77 se ha unido al servidor
+[22:35:19] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77. rspUUID is null: false. done: true. firstUpload: false.
+[22:35:19] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77
+[22:35:19] [Server thread/INFO]: Detención automática no programada
+[22:35:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 joined (UUID: 00000000-0000-0000-0009-01f6a628710a)
+[22:35:19] [Server thread/INFO]: .Khvicha_K77 has joined the server for the first time! (#34)
+[22:35:19] [Server thread/INFO]: .Khvicha_K77[/127.201.21.6:0] logged in with entity id 143096 at ([world]-392.5, 80.0, -102.5)
+[22:35:19] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:35:19] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:35:19] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:35:19] [Craft Scheduler Thread - 68 - EliteMobs/INFO]: [EliteMobs] No player entry detected, generating new entry!
+[22:35:19] [Server thread/INFO]: [SeeMore] Set view distance of .Khvicha_K77 to 7 (client view distance is 7).
+[22:35:50] [Async Chat Thread - #36/INFO]: [Not Secure] <.Khvicha_K77> ?
+[22:36:23] [User Authenticator #12/INFO]: UUID of player Ro0dr1 is 288da723-d4ff-3e72-b6d9-6d7a94642daf
+[22:36:24] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 se ha unido al servidor
+[22:36:24] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1. rspUUID is null: false. done: true. firstUpload: false.
+[22:36:24] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1
+[22:36:24] [Server thread/INFO]: Detención automática no programada
+[22:36:24] [Server thread/INFO]: Ro0dr1 has joined!
+[22:36:24] [Server thread/INFO]: Ro0dr1[/127.73.52.125:44487] logged in with entity id 145440 at ([world]893.9035796815014, 68.0, -3221.502405306712)
+[22:36:25] [Craft Scheduler Thread - 71 - EliteMobs/INFO]: [EliteMobs] User 288da723-d4ff-3e72-b6d9-6d7a94642daf data successfully read!
+[22:37:06] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 4'/141327, uuid='44bffa09-3bf7-462d-aaf0-c44c12afc58c', l='ServerLevel[world]', x=61.50, y=67.00, z=-64.07, cpos=[3, -5], tl=3191, v=true] died: Zombi de Elite Nivel 4 burned to death
+[22:38:21] [Server thread/INFO]: Ro0dr1 issued server command: /home
+[22:38:34] [Server thread/INFO]: Ro0dr1 died
+[22:38:35] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Khvicha K77 has disconnected from the Java server because of Bedrock client disconnected
+[22:38:35] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 disconnected
+[22:38:35] [Server thread/INFO]: .Khvicha_K77 lost connection: Disconnected
+[22:38:35] [Server thread/INFO]: .Khvicha_K77 has left!
+[22:38:35] [Server thread/INFO]: [vane-admin] [broadcast] .Khvicha_K77 [0ms] ha abandonado el servidor
+[22:38:40] [Server thread/INFO]: Named entity EnderMan['Enderman de Elite Nivel 7'/143463, uuid='be1e9469-1c17-445d-a237-1b0299a36e78', l='ServerLevel[world_nether]', x=1346.56, y=55.00, z=-1164.69, cpos=[84, -73], tl=3895, v=true] died: Enderman de Elite Nivel 7 was slain by ChristianJVR
+[22:41:07] [Server thread/INFO]: Ro0dr1 has made the advancement [Best Friends Forever]
+[22:44:28] [Server thread/INFO]: [EliteMobs] Event beast_master.yml ended!
