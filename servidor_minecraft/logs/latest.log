@@ -1191,3 +1191,34 @@ java.lang.UnsupportedOperationException: The method getUniqueId is not supported
 [22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -26.085931176294253,0.0,-10.17466680634243
 [22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -26.4585873359556,0.0,-10.320019189290178
 [22:55:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3511ms or 70 ticks behind
+[22:56:08] [Server thread/INFO]: HOYO died
+[22:56:10] [Server thread/INFO]: Named entity Vex['Fae de Fuego 「6」'/185067, uuid='8f691dba-ed27-498e-afd3-6ae89ea40d7d', l='ServerLevel[world]', x=615.40, y=67.54, z=-3097.07, cpos=[38, -194], tl=2028, v=true] died: Fae de Fuego 「6」 was slain by thegeomusic
+[22:56:20] [Server thread/ERROR]: Entity threw exception at world_nether:-73.5,91.0,-179.5
+java.lang.NullPointerException: null
+[22:57:32] [Server thread/INFO]: HOYO lost connection: Disconnected
+[22:57:32] [Server thread/INFO]: HOYO has left!
+[22:57:32] [Server thread/INFO]: [vane-admin] [broadcast] HOYO [560ms] ha abandonado el servidor
+[22:57:56] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
+[22:57:56] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
+[22:58:03] [Server thread/INFO]: ChristianJVR has made the advancement [A Seedy Place]
+[22:58:23] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 10'/186772, uuid='ae75177a-3564-44f4-8891-b2f7f415e610', l='ServerLevel[world]', x=16049.50, y=72.00, z=-16055.50, cpos=[1003, -1004], tl=3700, v=true] died: Esqueleto de Elite Nivel 10 burned to death
+[23:00:12] [Server thread/ERROR]: Entity threw exception at world_nether:22.5,95.0,-345.5
+java.lang.NullPointerException: null
+[23:01:36] [Server thread/INFO]: [SeeMore] Set view distance of Ro0dr1 to 7 (client view distance is 11).
+[23:01:52] [Server thread/INFO]: Villager Villager['Villager'/197667, uuid='1bb2f7f8-6381-483f-8f64-600482e00622', l='ServerLevel[world]', x=50.67, y=72.00, z=-1267.70, cpos=[3, -80], tl=842, v=true] died, message: 'Villager was slain by Scyther190 using [Acribillador de Trasgo]'
+[23:01:53] [Server thread/INFO]: Villager Villager['Villager'/197668, uuid='0f1d4410-05ca-473f-a4c7-f740eddfe094', l='ServerLevel[world]', x=50.30, y=72.00, z=-1267.65, cpos=[3, -80], tl=855, v=true] died, message: 'Villager was slain by Scyther190 using [Acribillador de Trasgo]'
+[23:03:56] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml has been queued!
+[23:03:56] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
+[23:04:07] [Server thread/INFO]: thegeomusic issued server command: /elitemobs track boss e86b902f-e69e-4ebf-92de-dc2a5b8b4258
+[23:06:09] [Server thread/INFO]: [EliteMobs] Event fae.yml ended!
+[23:07:22] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 7'/206140, uuid='f064e53b-3917-4891-832c-d33f7f56822a', l='ServerLevel[world_nether]', x=-88.70, y=77.00, z=-197.93, cpos=[-6, -13], tl=1771, v=true] died: Esqueleto de Elite Nivel 7 was slain by Scyther190 using [Acribillador de Trasgo]
+[23:07:31] [Server thread/INFO]: Ro0dr1 lost connection: Disconnected
+[23:07:31] [Server thread/INFO]: Ro0dr1 has left!
+[23:07:31] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 [153ms] ha abandonado el servidor
+[23:09:22] [Server thread/INFO]: [SeeMore] Set view distance of ChristianJVR to 7 (client view distance is 20).
+[23:09:56] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[23:09:56] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[23:12:09] [Server thread/INFO]: ¡「5」 Goblin con Armadura llegó a los cerebros de Silver_servi!
+[23:15:56] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
+[23:15:56] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[23:16:06] [Server thread/INFO]: Silver_servi issued server command: /elitemobs track boss 9b2db08a-707a-447e-8018-b0b383f69994
