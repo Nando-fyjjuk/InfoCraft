@@ -1362,3 +1362,58 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [15:56:06] [Server thread/INFO]: Rastf_MC issued server command: /elitemobs track boss 98318d4d-1ce8-4a7b-a34c-539162ea93af
 [15:56:15] [Server thread/INFO]: faceles18 died
 [15:56:15] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 97f5a3e4-8a9b-40d4-b646-e7215b34dcf6
+[15:56:34] [Server thread/INFO]: Frankoskrrr issued server command: /tpa faceles18
+[15:56:34] [Server thread/INFO]: Rastf_MC lost connection: Disconnected
+[15:56:34] [Server thread/INFO]: Rastf_MC has left!
+[15:56:34] [Server thread/INFO]: [vane-admin] [broadcast] Rastf_MC [145ms] ha abandonado el servidor
+[15:56:37] [Server thread/INFO]: faceles18 issued server command: /huskhomes:tpaccept Frankoskrrr
+[15:57:35] [Server thread/INFO]: Juanito has made the advancement [Acquire Hardware]
+[15:58:36] [Server thread/INFO]: Fernando_fyjjuk issued server command: /sethome nether
+[15:58:41] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[15:59:36] [Server thread/INFO]: ---------------------------------------------
+[15:59:36] [Server thread/INFO]: ¡El Maestro de Bestias ha sido atacado salvajemente!
+[15:59:36] [Server thread/INFO]:     1er Dañador: ¡Scyther190 con 121.0 daño!
+[15:59:36] [Server thread/INFO]: 
+[15:59:36] [Server thread/INFO]: 
+[15:59:36] [Server thread/INFO]: Asesinos: Scyther190
+[15:59:36] [Server thread/INFO]: ---------------------------------------------
+[15:59:36] [Server thread/INFO]: Named entity Vindicator['「6」 Maestro de Bestias'/234887, uuid='6804a640-b94b-4931-a195-4897ec51c858', l='ServerLevel[world]', x=154.33, y=62.52, z=-1195.30, cpos=[9, -75], tl=2336, v=true] died: 「6」 Maestro de Bestias was slain by Scyther190 using [Acribillador de Trasgo]
+[15:59:36] [Server thread/INFO]: [EliteMobs] Event beast_master.yml ended!
+[15:59:43] [User Authenticator #19/INFO]: UUID of player Silver_servi is 8c1d60db-0677-3e33-8e2b-6f857dd2ea16
+[15:59:47] [Server thread/INFO]: [vane-admin] [broadcast] Silver_servi se ha unido al servidor
+[15:59:47] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Silver_servi. rspUUID is null: false. done: true. firstUpload: false.
+[15:59:47] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Silver_servi
+[15:59:47] [Server thread/INFO]: Detención automática no programada
+[15:59:47] [Server thread/INFO]: Silver_servi has joined!
+[15:59:47] [Server thread/INFO]: Silver_servi[/127.48.84.221:55443] logged in with entity id 239015 at ([world]-828.596210340056, 64.0, 1189.2342332547523)
+[15:59:48] [Craft Scheduler Thread - 102 - EliteMobs/INFO]: [EliteMobs] User 8c1d60db-0677-3e33-8e2b-6f857dd2ea16 data successfully read!
+[16:00:08] [Server thread/INFO]: shadowMax has made the advancement [Ice Bucket Challenge]
+[16:00:28] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tell shadowMax
+[16:00:32] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tell shadowMax ven
+[16:00:36] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tell shadowMax venrapido
+[16:00:49] [Server thread/INFO]: shadowMax issued server command: /tpa Fernando_fyjjuk
+[16:00:51] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml has been queued!
+[16:00:51] [Server thread/INFO]: Fernando_fyjjuk issued server command: /huskhomes:tpaccept shadowMax
+[16:00:51] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
+[16:01:04] [Server thread/INFO]: faceles18 died
+[16:01:06] [Server thread/INFO]: Named entity Pillager['〔1〕 Guardia de Caravana'/240134, uuid='3982428e-93d6-4fdf-804f-6e7b38471992', l='ServerLevel[world]', x=16120.52, y=64.31, z=-16017.03, cpos=[1007, -1002], tl=1017, v=true] died: 〔1〕 Guardia de Caravana was shot by shadowMax
+[16:01:11] [Server thread/INFO]: Named entity Ravager['〔5〕 Bestia de Caravana'/237496, uuid='ee398567-a031-4738-a536-82d6827338c1', l='ServerLevel[world]', x=16122.77, y=62.47, z=-16016.15, cpos=[1007, -1002], tl=2829, v=true] died: 〔5〕 Bestia de Caravana was shot by shadowMax
+[16:01:30] [Server thread/INFO]: Named entity Pillager['「5」 Pillager Líder de la Caravana'/237495, uuid='8c1b8b83-b9bd-45d1-9131-76de468e8f7b', l='ServerLevel[world]', x=16131.19, y=62.63, z=-16016.23, cpos=[1008, -1002], tl=3221, v=true] died: 「5」 Pillager Líder de la Caravana was shot by shadowMax
+[16:01:31] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml ended!
+[16:02:18] [Server thread/INFO]: faceles18 issued server command: /tpa Frankoskrrr
+[16:02:19] [Server thread/INFO]: Named entity Zombie['「1」 Tótem Zombi'/230206, uuid='ad871b3e-0574-4dee-b1e7-c58727e44db8', l='ServerLevel[world]', x=583.93, y=109.00, z=-1340.15, cpos=[36, -84], tl=8947, v=true] died: 「1」 Tótem Zombi burned to death
+[16:02:30] [Server thread/INFO]: shadowMax issued server command: /tell Fernando_fyjjuk para que me llamaste ?
+[16:02:53] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tell shadowMax era por esa carabana pero desaparecio
+[16:02:59] [Async Chat Thread - #38/INFO]: [Not Secure] <Scyther190> hola
+[16:03:09] [Async Chat Thread - #38/INFO]: [Not Secure] <Fernando_fyjjuk> facin entraban a la granja con el ravager
+[16:03:11] [Server thread/INFO]: Luiscue lost connection: Disconnected
+[16:03:11] [Server thread/INFO]: Luiscue has left!
+[16:03:11] [Server thread/INFO]: [vane-admin] [broadcast] Luiscue [312ms] ha abandonado el servidor
+[16:03:21] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home nether
+[16:04:48] [Async Chat Thread - #39/INFO]: [Not Secure] <Scyther190> por que la agresividad?
+[16:04:56] [Async Chat Thread - #39/INFO]: [Not Secure] <Frankoskrrr> xd
+[16:05:00] [Async Chat Thread - #40/INFO]: [Not Secure] <faceles18> xd
+[16:05:06] [Async Chat Thread - #40/INFO]: [Not Secure] <Silver_servi> duerman
+[16:05:18] [Async Chat Thread - #40/INFO]: [Not Secure] <shadowMax> x2
+[16:05:19] [Server thread/INFO]: Juanito died
+[16:05:37] [Server thread/INFO]: Juanito has made the advancement [Sweet Dreams]
