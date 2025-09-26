@@ -1301,3 +1301,64 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [15:45:52] [Server thread/INFO]: Rastf_MC issued server command: /home
 [15:45:58] [Server thread/INFO]: Rastf_MC issued server command: /homes
 [15:46:00] [Server thread/INFO]: Luiscue died
+[15:46:02] [Server thread/INFO]: Rastf_MC issued server command: /home
+[15:46:05] [Server thread/INFO]: Frankoskrrr has made the advancement [Cover Me with Diamonds]
+[15:46:10] [Server thread/INFO]: Rastf_MC issued server command: /home
+[15:46:29] [Server thread/INFO]: Rastf_MC issued server command: /homes
+[15:46:34] [Server thread/INFO]: faceles18 died
+[15:46:37] [Server thread/INFO]: Rastf_MC issued server command: /homelist
+[15:46:52] [Server thread/INFO]: Rastf_MC issued server command: /sethome
+[15:47:01] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 11'/210774, uuid='80766a21-ec9b-4b3a-90a4-eee01cfeb7c8', l='ServerLevel[world]', x=164.50, y=65.77, z=-34.49, cpos=[10, -3], tl=1251, v=true] died: Zombi de Elite Nivel 11 was slain by shadowMax using [Palillo de dientes de Magmaguy]
+[15:47:04] [Server thread/INFO]: Ro0dr1 has made the advancement [Cover Me with Diamonds]
+[15:47:09] [Server thread/INFO]: Luiscue issued server command: /back
+[15:47:17] [Server thread/INFO]: shadowMax issued server command: /ag
+[15:47:17] [Server thread/INFO]: Rastf_MC issued server command: /homelist
+[15:47:23] [Server thread/INFO]: Rastf_MC issued server command: /huskhomes:edithome Rastf_MC.home
+[15:47:29] [Server thread/INFO]: Rastf_MC issued server command: /huskhomes:home Rastf_MC.home
+[15:47:45] [Server thread/INFO]: shadowMax issued server command: /ag
+[15:47:50] [Server thread/INFO]: shadowMax issued server command: /ag
+[15:48:40] [Server thread/INFO]: Fernando_fyjjuk issued server command: /ayuda
+[15:48:45] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa shadowMax
+[15:48:51] [Server thread/INFO]: [EliteMobs] Event beast_master.yml has been queued!
+[15:48:51] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
+[15:49:01] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa shadowMax
+[15:49:04] [Server thread/INFO]: shadowMax issued server command: /tpaccept
+[15:50:18] [Server thread/INFO]: Juanito died
+[15:50:20] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 9'/216389, uuid='7d9ee981-ef76-4a1e-890f-2337c54a3a67', l='ServerLevel[world]', x=170.74, y=65.00, z=49.27, cpos=[10, 3], tl=1633, v=true] died: Zombi de Elite Nivel 9 was slain by shadowMax
+[15:50:29] [Async Chat Thread - #31/INFO]: [Not Secure] <shadowMax> xd
+[15:51:21] [Server thread/INFO]: Ro0dr1 lost connection: Disconnected
+[15:51:21] [Server thread/INFO]: Ro0dr1 has left!
+[15:51:21] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 [149ms] ha abandonado el servidor
+[15:51:21] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 11'/220895, uuid='1ea22cb0-d1fa-4fd3-9c9a-8f72b4ba4479', l='ServerLevel[world]', x=250.55, y=65.00, z=41.26, cpos=[15, 2], tl=655, v=true] died: Esqueleto de Elite Nivel 11 was slain by shadowMax
+[15:52:04] [User Authenticator #18/INFO]: UUID of player Ro0dr1 is 288da723-d4ff-3e72-b6d9-6d7a94642daf
+[15:52:05] [Server thread/INFO]: Luiscue has made the advancement [The Cutest Predator]
+[15:52:05] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 se ha unido al servidor
+[15:52:05] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1. rspUUID is null: false. done: true. firstUpload: false.
+[15:52:05] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1
+[15:52:05] [Server thread/INFO]: Detención automática no programada
+[15:52:05] [Server thread/INFO]: Ro0dr1 has joined!
+[15:52:05] [Server thread/INFO]: Ro0dr1[/127.73.52.125:44999] logged in with entity id 223731 at ([world]606.6901318093315, 63.0, -3102.2578950026937)
+[15:52:06] [Craft Scheduler Thread - 92 - EliteMobs/INFO]: [EliteMobs] User 288da723-d4ff-3e72-b6d9-6d7a94642daf data successfully read!
+[15:52:30] [Server thread/INFO]: Juanito issued server command: /tpa faceles18
+[15:52:36] [Server thread/INFO]: shadowMax issued server command: /tell Fernando_fyjjuk como puedo subil de gremio ??
+[15:52:36] [Server thread/INFO]: faceles18 issued server command: /huskhomes:tpaccept Juanito
+[15:53:12] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tell shadowMax mata jefes y mobs de elite
+[15:54:43] [Server thread/INFO]: faceles18 has made the advancement [The Dummy]
+[15:54:51] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[15:54:51] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
+[15:55:22] [Server thread/INFO]: Juanito died
+[15:55:41] [Server thread/INFO]: ---------------------------------------------
+[15:55:41] [Server thread/INFO]: El Goblin Armado ha sido desarmado!
+[15:55:41] [Server thread/INFO]:     1er Dañador: ¡Scyther190 con 123.63 daño!
+[15:55:41] [Server thread/INFO]: 
+[15:55:41] [Server thread/INFO]: 
+[15:55:41] [Server thread/INFO]: Asesinos: Scyther190
+[15:55:41] [Server thread/INFO]: ---------------------------------------------
+[15:55:41] [Server thread/INFO]: Named entity Zombie['「7」 Goblin Armado'/207985, uuid='c896b23c-d8e8-4cce-9053-43fa16da93c5', l='ServerLevel[world]', x=11.67, y=30.00, z=-1107.81, cpos=[0, -70], tl=15397, v=true] died: 「7」 Goblin Armado was slain by Scyther190
+[15:55:41] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml ended!
+[15:55:46] [Server thread/INFO]: Rastf_MC issued server command: /homelist
+[15:55:48] [Server thread/INFO]: Rastf_MC issued server command: /huskhomes:edithome Rastf_MC.home
+[15:55:49] [Server thread/INFO]: Rastf_MC issued server command: /huskhomes:home Rastf_MC.home
+[15:56:06] [Server thread/INFO]: Rastf_MC issued server command: /elitemobs track boss 98318d4d-1ce8-4a7b-a34c-539162ea93af
+[15:56:15] [Server thread/INFO]: faceles18 died
+[15:56:15] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 97f5a3e4-8a9b-40d4-b646-e7215b34dcf6
