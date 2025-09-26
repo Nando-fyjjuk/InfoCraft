@@ -866,3 +866,23 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [14:42:51] [Server thread/INFO]: luxfoo[/127.109.168.5:45489] logged in with entity id 89453 at ([world]-626.1561570768749, 12.76636799395752, -188.13914571846132)
 [14:42:52] [Craft Scheduler Thread - 54 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
 [14:43:05] [Server thread/INFO]: [EliteMobs] Event full_moon.yml has been queued!
+[14:44:16] [Server thread/INFO]: ChristianJVR issued server command: /home
+[14:45:40] [User Authenticator #11/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[14:45:41] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[14:45:41] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[14:45:41] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[14:45:41] [Server thread/INFO]: Detención automática no programada
+[14:45:41] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[14:45:41] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:57301] logged in with entity id 97336 at ([world]16056.889575244079, 71.0, -16083.291221657837)
+[14:45:42] [Craft Scheduler Thread - 44 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[14:46:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2822ms or 56 ticks behind
+[14:46:41] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 9'/92239, uuid='066004aa-431e-4ca2-9e6a-323c9aa623a4', l='ServerLevel[world]', x=-492.83, y=64.00, z=-1007.99, cpos=[-31, -63], tl=3248, v=true] died: Esqueleto de Elite Nivel 9 was slain by Scyther190 using [Imponente Hacha]
+[14:47:26] [Server thread/INFO]: ChristianJVR issued server command: /tpa shadowMax
+[14:47:42] [Server thread/INFO]: shadowMax issued server command: /tpaccept
+[14:50:39] [Server thread/WARN]: luxfoo moved wrongly!
+[14:51:07] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_TeethArena_Desert_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[14:52:18] [Server thread/INFO]: Scyther190 issued server command: /home
+[14:52:22] [Server thread/INFO]: luxfoo has made the advancement [Ice Bucket Challenge]
+[14:52:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3229ms or 64 ticks behind
+[14:52:34] [Server thread/INFO]: ChristianJVR has made the advancement [What a Deal!]
+[14:53:04] [Server thread/WARN]: luxfoo moved too quickly! -6.830050040549395,-1.1212968405391912,7.284226725255024
