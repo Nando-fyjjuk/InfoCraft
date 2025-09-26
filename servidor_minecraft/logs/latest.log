@@ -972,3 +972,40 @@ LagFixer - Best Performance Solution!
 [22:13:04] [Server thread/INFO]: Ro0dr1 has made the advancement [Sneak 100]
 [22:13:35] [Server thread/INFO]: Named entity Husk['〔7〕 Muertos vivientes'/98404, uuid='ce5978b4-a599-4ded-afb3-f29b3271423c', l='ServerLevel[world]', x=-317.62, y=64.00, z=-1184.50, cpos=[-20, -75], tl=1176, v=true] died: 〔7〕 Muertos vivientes was doomed to fall by Scyther190 using [Arco del Última Lémur]
 [22:13:47] [Server thread/INFO]: HOYO died
+[22:14:31] [Server thread/INFO]: Named entity Husk['〔7〕 Muertos vivientes'/98290, uuid='99e6a211-32f2-48da-b522-274682c0f09c', l='ServerLevel[world]', x=-302.50, y=64.00, z=-1224.52, cpos=[-19, -77], tl=2377, v=true] died: 〔7〕 Muertos vivientes was shot by Scyther190 using [Arco del Última Lémur]
+[22:14:36] [Server thread/INFO]: Ro0dr1 issued server command: /homelist
+[22:14:44] [Server thread/INFO]: Named entity Husk['〔7〕 Muertos vivientes'/98802, uuid='4da0a780-0e8f-4ba9-ae58-99385bec3eab', l='ServerLevel[world]', x=-306.45, y=63.00, z=-1226.54, cpos=[-20, -77], tl=2308, v=true] died: 〔7〕 Muertos vivientes was shot by Scyther190 using [Arco del Última Lémur]
+[22:14:48] [Server thread/INFO]: [EliteMobs] Event beast_master.yml has been queued!
+[22:14:48] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
+[22:14:51] [Server thread/INFO]: Ro0dr1 issued server command: /home
+[22:15:03] [Server thread/INFO]: Named entity Piglin['Piglin de Elite Nivel 8'/95298, uuid='f9700dc3-839e-4896-8e1c-64ec3f697d2b', l='ServerLevel[world_nether]', x=1600.58, y=55.00, z=-1660.79, cpos=[100, -104], tl=4944, v=true] died: Piglin de Elite Nivel 8 was slain by Hoglin
+[22:15:05] [Server thread/INFO]: Named entity Husk['〔7〕 Muertos vivientes'/98156, uuid='5bf98855-54b6-4c4c-a6f9-e8fb01b62d3d', l='ServerLevel[world]', x=-303.68, y=60.26, z=-1234.31, cpos=[-19, -78], tl=3125, v=true] died: 〔7〕 Muertos vivientes was shot by Scyther190 using [Arco del Última Lémur]
+[22:15:30] [Server thread/INFO]: Fernando_fyjjuk died
+[22:15:41] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home ga
+[22:15:53] [Server thread/INFO]: Named entity Husk['〔6〕 Muertos vivientes'/98605, uuid='97397714-22b4-4840-af0c-e8471bb231ab', l='ServerLevel[world]', x=-316.30, y=64.00, z=-1180.51, cpos=[-20, -74], tl=3809, v=true] died: 〔6〕 Muertos vivientes was shot by Scyther190 using [Arco del Última Lémur]
+[22:16:06] [Server thread/INFO]: Named entity Husk['〔7〕 Muertos vivientes'/102510, uuid='d1e8172b-239f-4df5-bd26-bb178ecab03b', l='ServerLevel[world]', x=-331.67, y=64.00, z=-1185.30, cpos=[-21, -75], tl=1606, v=true] died: 〔7〕 Muertos vivientes was shot by Scyther190 using [Arco del Última Lémur]
+[22:16:13] [Server thread/INFO]: Named entity Husk['〔7〕 Muertos vivientes'/98060, uuid='5bba5bfa-c707-43b8-9c8c-7e772c657aa2', l='ServerLevel[world]', x=-325.27, y=64.00, z=-1181.49, cpos=[-21, -74], tl=4538, v=true] died: 〔7〕 Muertos vivientes was shot by Scyther190 using [Arco del Última Lémur]
+[22:16:20] [Server thread/INFO]: Named entity Husk['〔7〕 Muertos vivientes'/98294, uuid='d17385e1-1802-4c69-be81-874115321dbd', l='ServerLevel[world]', x=-334.17, y=64.00, z=-1181.23, cpos=[-21, -74], tl=4558, v=true] died: 〔7〕 Muertos vivientes was shot by Scyther190 using [Arco del Última Lémur]
+[22:16:24] [Server thread/INFO]: Named entity Husk['〔7〕 Muertos vivientes'/98292, uuid='b6d81698-3334-42da-ad5d-34cbe775c0e2', l='ServerLevel[world]', x=-330.00, y=64.00, z=-1180.52, cpos=[-21, -74], tl=4624, v=true] died: 〔7〕 Muertos vivientes was shot by Scyther190 using [Arco del Última Lémur]
+[22:16:59] [Server thread/INFO]: Named entity Husk['〔7〕 Muertos vivientes'/104458, uuid='80401583-71df-4573-ae41-412156f845b1', l='ServerLevel[world]', x=-304.50, y=64.00, z=-1193.88, cpos=[-20, -75], tl=1525, v=true] died: 〔7〕 Muertos vivientes was shot by Scyther190 using [Arco del Última Lémur]
+[22:17:00] [Server thread/INFO]: HOYO died
+[22:17:00] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml ended!
+[22:17:35] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 10'/105306, uuid='00f3ea54-b502-4385-a1d6-c1c2747b5c3a', l='ServerLevel[world]', x=-271.30, y=64.00, z=-1193.40, cpos=[-17, -75], tl=1757, v=true] died: Esqueleto de Elite Nivel 10 was slain by Scyther190 using [Acribillador de Trasgo]
+[22:18:37] [Server thread/INFO]: Scyther190 issued server command: /ag
+[22:18:45] [Server thread/INFO]: Scyther190 issued server command: /home
+[22:19:45] [Async Chat Thread - #34/INFO]: [Not Secure] <thegeomusic> como salio
+[22:20:24] [Server thread/INFO]: HOYO died
+[22:20:48] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml has been queued!
+[22:20:48] [Server thread/INFO]: ¡Un Goblin de Monedas ha sido avistado!
+[22:21:13] [Server thread/INFO]: HOYO was kicked due to keepalive timeout!
+[22:21:13] [Server thread/INFO]: HOYO lost connection: Timed out
+[22:21:13] [Server thread/INFO]: HOYO has left!
+[22:21:13] [Server thread/INFO]: [vane-admin] [broadcast] HOYO [349ms] ha sido expulsado del servidor
+[22:22:52] [User Authenticator #11/INFO]: UUID of player HOYO is 66fb5759-9c5f-3fd6-b2eb-8c57aeea7b6a
+[22:22:53] [Server thread/INFO]: [vane-admin] [broadcast] HOYO se ha unido al servidor
+[22:22:53] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to HOYO. rspUUID is null: false. done: true. firstUpload: false.
+[22:22:53] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to HOYO
+[22:22:53] [Server thread/INFO]: Detención automática no programada
+[22:22:53] [Server thread/INFO]: HOYO has joined!
+[22:22:53] [Server thread/INFO]: HOYO[/127.223.110.97:39223] logged in with entity id 117565 at ([world]49.28243393092394, 68.0, -68.66453635023636)
+[22:22:54] [Craft Scheduler Thread - 62 - EliteMobs/INFO]: [EliteMobs] User 66fb5759-9c5f-3fd6-b2eb-8c57aeea7b6a data successfully read!
