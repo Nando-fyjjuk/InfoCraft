@@ -788,3 +788,27 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [14:22:32] [Async Chat Thread - #5/INFO]: [Not Secure] <Fernando_fyjjuk> xd
 [14:22:38] [Server thread/WARN]: shadowMax moved too quickly! -9.437821013367284,2.176759275064242,-3.190317272070388
 [14:22:38] [Server thread/WARN]: Fernando_fyjjuk moved too quickly! -10.01618496170704,0.49971160108003687,1.3174343918872182
+[14:24:04] [Server thread/INFO]: shadowMax issued server command: /tpa ChristianJVR
+[14:24:11] [Server thread/INFO]: ChristianJVR issued server command: /tpaccept
+[14:24:12] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml ended!
+[14:24:23] [Async Chat Thread - #6/INFO]: [Not Secure] <Fernando_fyjjuk> no hay
+[14:24:58] [Server thread/INFO]: Fernando_fyjjuk has made the advancement [Enchanter]
+[14:25:29] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 10'/51332, uuid='de48b5ce-3b74-4ee7-82e1-3b60fc663ab5', l='ServerLevel[world]', x=148.49, y=21.75, z=-858.30, cpos=[9, -54], tl=3862, v=true] died: Zombi de Elite Nivel 10 was slain by GaRa
+[14:25:54] [Server thread/INFO]: luxfoo has made the advancement [Diamonds!]
+[14:25:57] [Async Chat Thread - #8/INFO]: [Not Secure] <shadowMax> el laspilazulisc?
+[14:30:04] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[14:30:04] [Server thread/INFO]: luxfoo has left!
+[14:30:04] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [127ms] ha abandonado el servidor
+[14:30:39] [Server thread/INFO]: BlackWhite_J issued server command: /home
+[14:30:56] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[14:30:56] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[14:31:09] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss e63318ca-e69f-4c4d-bdc5-331147a5aa94
+[14:31:28] [User Authenticator #9/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[14:31:29] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[14:31:29] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[14:31:29] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[14:31:29] [Server thread/INFO]: Detención automática no programada
+[14:31:29] [Server thread/INFO]: luxfoo has joined!
+[14:31:29] [Server thread/INFO]: luxfoo[/127.109.168.5:44879] logged in with entity id 67163 at ([world]-634.3049056890504, -5.0, -146.61156437731094)
+[14:31:30] [Craft Scheduler Thread - 42 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[14:33:00] [Server thread/INFO]: Fernando_fyjjuk issued server command: /sethome 3
