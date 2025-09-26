@@ -2012,3 +2012,583 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [16:27:03] [Server thread/INFO]: Scyther190 issued server command: /home
 [16:27:08] [Server thread/INFO]: Scyther190 issued server command: /home
 [16:27:39] [Async Chat Thread - #44/INFO]: [Not Secure] <shadowMax> traeme lechesita admin
+[16:28:12] [Async Chat Thread - #44/INFO]: [Not Secure] <Fernando_fyjjuk> oe que
+[16:28:16] [Async Chat Thread - #45/INFO]: [Not Secure] <Fernando_fyjjuk> golosa
+[16:28:38] [Server thread/INFO]: skere issued server command: /tpa faceles18
+[16:28:41] [Server thread/INFO]: faceles18 issued server command: /huskhomes:tpaccept skere
+[16:28:57] [Server thread/INFO]: skere issued server command: /tpa faceles18
+[16:28:59] [Server thread/INFO]: faceles18 issued server command: /huskhomes:tpaccept skere
+[16:29:33] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[16:29:33] [Server thread/INFO]: Fernando_fyjjuk has left!
+[16:29:33] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [123ms] ha abandonado el servidor
+[16:31:13] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[16:31:13] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[16:31:19] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 98be6ccf-582f-411a-b948-b7e0858792fa
+[16:31:40] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Player connected with username Fernandofyjjuk
+[16:31:40] [localSession-7-1/INFO]: [Geyser-Spigot] Fernandofyjjuk (logged in as: Fernandofyjjuk) has connected to the Java server
+[16:31:41] [Server thread/INFO]: [vane-admin] [broadcast] .Fernandofyjjuk se ha unido al servidor
+[16:31:41] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Fernandofyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[16:31:41] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Fernandofyjjuk
+[16:31:41] [Server thread/INFO]: Detención automática no programada
+[16:31:41] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Fernandofyjjuk joined (UUID: 00000000-0000-0000-0009-01f56d6ede52)
+[16:31:41] [Server thread/INFO]: .Fernandofyjjuk has joined!
+[16:31:41] [Server thread/INFO]: .Fernandofyjjuk[/127.26.171.230:0] logged in with entity id 273721 at ([world_nether]49.13032, 78.0, -43.71793)
+[16:31:41] [Server thread/INFO]: .Fernandofyjjuk died
+[16:31:41] [Server thread/INFO]: [vane-core] The player .Fernandofyjjuk rejected the resource pack. This will cause client-side issues with formatted text for them.
+[16:31:41] [Server thread/INFO]: [vane-core] The player .Fernandofyjjuk rejected the resource pack. This will cause client-side issues with formatted text for them.
+[16:31:41] [Server thread/INFO]: [vane-core] The player .Fernandofyjjuk rejected the resource pack. This will cause client-side issues with formatted text for them.
+[16:31:42] [Craft Scheduler Thread - 145 - EliteMobs/INFO]: [EliteMobs] User 00000000-0000-0000-0009-01f56d6ede52 data successfully read!
+[16:31:42] [Server thread/INFO]: [SeeMore] Set view distance of .Fernandofyjjuk to 7 (client view distance is 7).
+[16:31:56] [Server thread/INFO]: ¡Saqueador de Elite Nivel 5 saqueó a Silver_servi!
+[16:32:17] [User Authenticator #23/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[16:32:19] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[16:32:19] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[16:32:19] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[16:32:19] [Server thread/INFO]: Detención automática no programada
+[16:32:19] [Server thread/INFO]: luxfoo has joined!
+[16:32:19] [Server thread/INFO]: luxfoo[/127.109.168.5:37385] logged in with entity id 274481 at ([world]-699.7050122502666, 63.0, -75.11720851021136)
+[16:32:20] [Craft Scheduler Thread - 148 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[16:32:38] [Server thread/INFO]: skere has made the advancement [Suit Up]
+[16:33:20] [Server thread/INFO]: .Fernandofyjjuk issued server command: /gamemode spectator
+[16:33:27] [Server thread/INFO]: .Fernandofyjjuk issued server command: /tp Juanito
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:33:28] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 890.6013140516723,-31.0,-987.6220950849981
+[16:34:10] [Server thread/INFO]: .Fernandofyjjuk issued server command: /tp Juanito
+[16:34:10] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -5.925706456428998,-3.225030000000004,-18.32539403788269
+[16:34:14] [Server thread/INFO]: skere died
+[16:34:14] [Server thread/INFO]: ¡skere ha sido ejecutado!
+[16:34:17] [Server thread/INFO]: .Fernandofyjjuk issued server command: /tp luxfoo
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:17] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -1186.7542454802226,0.0,959.6126293119652
+[16:34:31] [Server thread/INFO]: skere issued server command: /tpa
+[16:34:52] [Server thread/INFO]: skere issued server command: /tpa
+[16:35:06] [Server thread/INFO]: Silver_servi died
+[16:35:12] [Server thread/INFO]: .Fernandofyjjuk has reached the goal [So we back in the mine...]
+[16:35:20] [Server thread/INFO]: skere issued server command: /tpa frankoskrrr
+[16:35:22] [Server thread/INFO]: Frankoskrrr issued server command: /huskhomes:tpaccept skere
+[16:35:36] [Server thread/INFO]: Juanito issued server command: /tpa faceles18
+[16:35:38] [Server thread/INFO]: Frankoskrrr issued server command: /tpa faceles18
+[16:35:41] [Server thread/INFO]: .Fernandofyjjuk issued server command: /tp skere
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:41] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 1293.851884214899,71.07496,-1041.4824223787186
+[16:35:47] [Server thread/INFO]: faceles18 issued server command: /huskhomes:tpaccept Juanito
+[16:35:48] [Server thread/INFO]: faceles18 issued server command: /huskhomes:tpaccept Frankoskrrr
+[16:36:36] [Server thread/INFO]: .Fernandofyjjuk issued server command: /tp faceles18
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:36] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! 170.0934230445049,34.93575437730988,-519.8955408732127
+[16:36:58] [Server thread/INFO]: skere issued server command: /tpa faceles18
+[16:37:13] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml has been queued!
+[16:37:13] [Server thread/INFO]: ¡Un Goblin del Tesoro ha sido avistado!
+[16:37:15] [Server thread/INFO]: faceles18 issued server command: /huskhomes:tpaccept skere
+[16:37:26] [Server thread/INFO]: skere has made the advancement [Take Aim]
+[16:37:36] [Server thread/INFO]: Juanito issued server command: /tpa frankoskrrr
+[16:37:46] [Server thread/INFO]: Silver_servi died
+[16:37:50] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 4ce86eeb-b53a-4195-a986-e2eef3c8e9ae
+[16:38:07] [Server thread/INFO]: ¡「6」 Goblin con Armadura llegó a los cerebros de Ro0dr1!
+[16:38:07] [Server thread/INFO]: Ro0dr1 has made the advancement [Surge Protector]
+[16:38:26] [Server thread/INFO]: Juanito issued server command: /tpa frankoskrrr
+[16:38:27] [Server thread/INFO]: .Fernandofyjjuk issued server command: /tp Ro0dr1
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
+[16:38:27] [Server thread/WARN]: .Fernandofyjjuk moved too quickly! -758.4716128355973,-163.0,1705.0600438904028
