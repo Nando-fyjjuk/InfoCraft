@@ -1417,3 +1417,30 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [16:05:18] [Async Chat Thread - #40/INFO]: [Not Secure] <shadowMax> x2
 [16:05:19] [Server thread/INFO]: Juanito died
 [16:05:37] [Server thread/INFO]: Juanito has made the advancement [Sweet Dreams]
+[16:09:21] [Server thread/WARN]: Juanito moved too quickly! 0.2931957855907399,-0.2712241076924897,12.479892176834369
+[16:09:21] [Server thread/WARN]: Frankoskrrr moved too quickly! -5.356025249193436,1.0013359791121417,12.103690769860691
+[16:09:21] [Server thread/WARN]: faceles18 moved too quickly! 2.750489840730353,1.0013359791121417,11.710275977671131
+[16:11:00] [Async Chat Thread - #41/INFO]: [Not Secure] <faceles18> t,r
+[16:11:09] [Server thread/INFO]: Scyther190 issued server command: /home
+[16:11:35] [Async Chat Thread - #41/INFO]: [Not Secure] <Scyther190> son muy agresivos
+[16:12:33] [Server thread/WARN]: Silver_servi moved too quickly! -5.583892598676471,1.252203340253729,-8.259934554366282
+[16:12:43] [Server thread/INFO]: Named entity ZombifiedPiglin['Piglin Zombificado de Elite Nivel 4'/254327, uuid='83dbe9bd-f62f-4d66-9716-3ca3aa38e7d1', l='ServerLevel[world_nether]', x=48.68, y=79.50, z=-45.45, cpos=[3, -3], tl=1249, v=true] died: Piglin Zombificado de Elite Nivel 4 was slain by Fernando_fyjjuk
+[16:13:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3684ms or 73 ticks behind
+[16:13:02] [Server thread/WARN]: Silver_servi moved too quickly! 8.854693314675387,-0.7531999805212024,-10.963868051419922
+[16:13:36] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[16:13:36] [Server thread/INFO]: Fernando_fyjjuk has left!
+[16:13:36] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [123ms] ha abandonado el servidor
+[16:14:06] [Server thread/INFO]: Juanito has made the advancement [Cover Me with Diamonds]
+[16:14:13] [Async Chat Thread - #43/INFO]: [Not Secure] <shadowMax> tan capo ?
+[16:16:11] [User Authenticator #20/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[16:16:11] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[16:16:11] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[16:16:11] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[16:16:11] [Server thread/INFO]: Detención automática no programada
+[16:16:11] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[16:16:11] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:41409] logged in with entity id 257588 at ([world_nether]49.14571156989225, 78.0, -43.66601376602832)
+[16:16:12] [Craft Scheduler Thread - 127 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[16:16:19] [Server thread/WARN]: Scyther190 moved too quickly! 9.662627452682614,2.5,-1.1847461085337727
+[16:16:19] [Server thread/WARN]: Juanito moved too quickly! 9.138621996355852,-0.9215999984741217,6.070267321972324
+[16:16:19] [Server thread/WARN]: Frankoskrrr moved too quickly! 11.26100675000174,-1.8322033533667508,7.57033463200105
+[16:17:09] [Server thread/INFO]: ¡El Rey Zombie ha sido avistado!
