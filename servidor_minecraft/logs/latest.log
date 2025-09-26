@@ -813,3 +813,24 @@ LagFixer - Best Performance Solution!
 [21:31:19] [Async Chat Thread - #18/INFO]: [Not Secure] <Ro0dr1> toma
 [21:32:22] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml ended!
 [21:32:28] [Server thread/INFO]: Ro0dr1 issued server command: /msg thegeomusic abajo hay mas cofres
+[21:33:32] [Server thread/INFO]: Named entity ZombifiedPiglin['Piglin Zombificado de Elite Nivel 10'/20497, uuid='f26ca6db-2911-4da5-9f34-03ea42c6f9f0', l='ServerLevel[world_nether]', x=-92.74, y=44.00, z=-114.80, cpos=[-6, -8], tl=9120, v=true] died: Piglin Zombificado de Elite Nivel 10 was shot by Fernando_fyjjuk
+[21:36:23] [Server thread/INFO]: Ro0dr1 has made the advancement [What a Deal!]
+[21:38:28] [Server thread/INFO]: Fernando_fyjjuk issued server command: /sethome a
+[21:38:41] [Server thread/INFO]: Fernando_fyjjuk issued server command: /delhome 2
+[21:38:46] [Server thread/INFO]: Fernando_fyjjuk issued server command: /sethome
+[21:38:52] [Server thread/INFO]: Fernando_fyjjuk issued server command: /sethome ga
+[21:38:55] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[21:39:21] [Server thread/INFO]: Fernando_fyjjuk died
+[21:39:25] [Async Chat Thread - #23/INFO]: [Not Secure] <luxfoo> xd
+[21:39:34] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home ga
+[21:40:21] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[21:40:21] [Server thread/INFO]: luxfoo has left!
+[21:40:21] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [124ms] ha abandonado el servidor
+[21:41:35] [User Authenticator #5/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[21:41:36] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[21:41:36] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[21:41:36] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[21:41:36] [Server thread/INFO]: Detención automática no programada
+[21:41:36] [Server thread/INFO]: luxfoo has joined!
+[21:41:36] [Server thread/INFO]: luxfoo[/127.109.168.5:56695] logged in with entity id 41264 at ([world]-699.5220788128503, 63.0, -52.32975536109674)
+[21:41:37] [Craft Scheduler Thread - 33 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
