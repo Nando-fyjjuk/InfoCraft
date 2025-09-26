@@ -1139,3 +1139,55 @@ java.lang.UnsupportedOperationException: The method getUniqueId is not supported
 [22:38:40] [Server thread/INFO]: Named entity EnderMan['Enderman de Elite Nivel 7'/143463, uuid='be1e9469-1c17-445d-a237-1b0299a36e78', l='ServerLevel[world_nether]', x=1346.56, y=55.00, z=-1164.69, cpos=[84, -73], tl=3895, v=true] died: Enderman de Elite Nivel 7 was slain by ChristianJVR
 [22:41:07] [Server thread/INFO]: Ro0dr1 has made the advancement [Best Friends Forever]
 [22:44:28] [Server thread/INFO]: [EliteMobs] Event beast_master.yml ended!
+[22:46:50] [Server thread/INFO]: ChristianJVR issued server command: /home
+[22:46:56] [Server thread/INFO]: Scyther190 issued server command: /home
+[22:47:56] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Player connected with username Khvicha K77
+[22:47:56] [localSession-7-4/INFO]: [Geyser-Spigot] Khvicha K77 (logged in as: Khvicha_K77) has connected to the Java server
+[22:47:57] [Server thread/INFO]: [vane-admin] [broadcast] .Khvicha_K77 se ha unido al servidor
+[22:47:57] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77. rspUUID is null: false. done: true. firstUpload: false.
+[22:47:57] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77
+[22:47:57] [Server thread/INFO]: Detención automática no programada
+[22:47:57] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 joined (UUID: 00000000-0000-0000-0009-01f6a628710a)
+[22:47:57] [Server thread/INFO]: .Khvicha_K77 has joined!
+[22:47:57] [Server thread/INFO]: .Khvicha_K77[/127.201.21.6:0] logged in with entity id 170106 at ([world]-338.5006, 80.0, -102.705345)
+[22:47:57] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:47:57] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:47:57] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:47:58] [Craft Scheduler Thread - 73 - EliteMobs/INFO]: [EliteMobs] User 00000000-0000-0000-0009-01f6a628710a data successfully read!
+[22:47:58] [Server thread/INFO]: [SeeMore] Set view distance of .Khvicha_K77 to 7 (client view distance is 7).
+[22:48:43] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_HiddenChamber_Tundra_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[22:50:29] [Server thread/INFO]: .Khvicha_K77 died
+[22:50:52] [Server thread/INFO]: HOYO died
+[22:51:01] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml ended!
+[22:52:19] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Khvicha K77 has disconnected from the Java server because of Bedrock client timed out
+[22:52:19] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 disconnected
+[22:52:19] [Server thread/INFO]: .Khvicha_K77 lost connection: Disconnected
+[22:52:19] [Server thread/INFO]: .Khvicha_K77 has left!
+[22:52:19] [Server thread/INFO]: [vane-admin] [broadcast] .Khvicha_K77 [0ms] ha abandonado el servidor
+[22:52:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4634ms or 92 ticks behind
+[22:52:40] [Server thread/WARN]: thegeomusic moved too quickly! 0.022316965747450013,11.12186225434273,0.3966880863217739
+[22:53:50] [Server thread/INFO]: Scyther190 has made the advancement [A Terrible Fortress]
+[22:54:49] [Server thread/INFO]: Scyther190 has made the advancement [Into Fire]
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -19.00546414272867,0.0,-7.412971530335199
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -19.378120302390016,0.0,-7.558323913282948
+[22:55:15] [Server thread/WARN]: Scyther190 moved too quickly! 0.71501188238976,0.0,-10.264213533655663
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -19.750776462051363,0.0,-7.703676296230697
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -20.12343262171271,0.0,-7.849028679178446
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -20.496088781374056,0.0,-7.994381062126195
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -20.868744941035402,0.0,-8.139733445073944
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -21.24140110069675,0.0,-8.285085828021693
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -21.614057260358095,0.0,-8.430438210969442
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -21.98671342001944,0.0,-8.57579059391719
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -22.359369579680788,0.0,-8.72114297686494
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -22.732025739342134,0.0,-8.866495359812689
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -23.10468189900348,0.0,-9.011847742760438
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -23.477338058664827,0.0,-9.157200125708187
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -23.849994218326174,0.0,-9.302552508655936
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -24.22265037798752,0.0,-9.447904891603685
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -24.595306537648867,0.0,-9.593257274551434
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -24.967962697310213,0.0,-9.738609657499183
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -25.34061885697156,0.0,-9.883962040446931
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -25.713275016632906,0.0,-10.02931442339468
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -26.085931176294253,0.0,-10.17466680634243
+[22:55:15] [Server thread/WARN]: Oak Boat (vehicle of ChristianJVR) moved too quickly! -26.4585873359556,0.0,-10.320019189290178
+[22:55:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3511ms or 70 ticks behind
