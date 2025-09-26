@@ -1009,3 +1009,35 @@ LagFixer - Best Performance Solution!
 [22:22:53] [Server thread/INFO]: HOYO has joined!
 [22:22:53] [Server thread/INFO]: HOYO[/127.223.110.97:39223] logged in with entity id 117565 at ([world]49.28243393092394, 68.0, -68.66453635023636)
 [22:22:54] [Craft Scheduler Thread - 62 - EliteMobs/INFO]: [EliteMobs] User 66fb5759-9c5f-3fd6-b2eb-8c57aeea7b6a data successfully read!
+[22:24:38] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[22:24:38] [Server thread/INFO]: Fernando_fyjjuk has left!
+[22:24:38] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [122ms] ha abandonado el servidor
+[22:25:41] [Server thread/ERROR]: Entity threw exception at world_nether:1554.5,92.0,-1285.5
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goal.WrappedGoal.isRunning()" because "wrappedGoalx" is null
+	at net.minecraft.world.entity.ai.goal.GoalSelector.tick(GoalSelector.java:100) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.serverAiStep(Mob.java:761) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3489) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.aiStep(Mob.java:504) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Zombie.aiStep(Zombie.java:259) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3267) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.tick(Mob.java:381) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:231) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1277) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1483) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:811) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:793) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1724) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[22:30:01] [Server thread/INFO]: ChristianJVR has made the advancement [The Dummy]
+[22:30:33] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 7'/132657, uuid='9bf2a589-f337-40b0-a857-41ae5be4117b', l='ServerLevel[world]', x=599.80, y=57.14, z=-3084.37, cpos=[37, -193], tl=278, v=true] died: Esqueleto de Elite Nivel 7 was slain by thegeomusic
+[22:30:48] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 4'/132009, uuid='249e4e85-bca8-4d96-a1f4-e9bc922a0d2c', l='ServerLevel[world]', x=101.70, y=65.00, z=64.19, cpos=[6, 4], tl=972, v=true] died: Esqueleto de Elite Nivel 4 was slain by Zombie Villager
+[22:31:17] [Server thread/INFO]: ¡「1」 Maestro de Bestias reivindicó sus habilidades de lucha con HOYO!
+[22:32:10] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 8'/134093, uuid='445620f4-5e40-4ac8-ad18-58d99225d72d', l='ServerLevel[world]', x=-465.90, y=65.00, z=-1015.28, cpos=[-30, -64], tl=1329, v=true] died: Zombi de Elite Nivel 8 was shot by Scyther190 using [Arco del Última Lémur]
+[22:33:32] [Server thread/INFO]: Scyther190 issued server command: /home
+[22:34:10] [Server thread/INFO]: ¡「1」 Maestro de Bestias reivindicó sus habilidades de lucha con HOYO!
+[22:34:34] [Server thread/INFO]: Silver_servi died
