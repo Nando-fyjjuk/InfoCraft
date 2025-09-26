@@ -643,3 +643,26 @@ LagFixer - Best Performance Solution!
 [13:36:03] [Craft Scheduler Thread - 21 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
 [13:36:32] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
 [13:36:32] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[13:40:17] [Server thread/INFO]: luxfoo died
+[13:40:33] [Server thread/INFO]: distress_broadcast
+[13:40:53] [Server thread/INFO]: distress_broadcast
+[13:40:54] [Server thread/INFO]: distress_broadcast
+[13:40:55] [Server thread/INFO]: distress_broadcast
+[13:40:55] [Server thread/INFO]: distress_broadcast
+[13:40:55] [Server thread/INFO]: distress_broadcast
+[13:40:56] [Server thread/INFO]: distress_broadcast
+[13:40:56] [Server thread/INFO]: distress_broadcast
+[13:41:29] [Server thread/INFO]: luxfoo died
+[13:42:32] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
+[13:42:32] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
+[13:48:32] [Server thread/INFO]: [EliteMobs] Event beast_master.yml has been queued!
+[13:48:32] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
+[13:49:35] [User Authenticator #2/INFO]: UUID of player shadowMax is 2e987b91-87b2-32b3-98e0-37aef9266de4
+[13:49:36] [Server thread/INFO]: [vane-admin] [broadcast] shadowMax se ha unido al servidor
+[13:49:36] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to shadowMax. rspUUID is null: false. done: true. firstUpload: false.
+[13:49:36] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to shadowMax
+[13:49:36] [Server thread/INFO]: Detención automática no programada
+[13:49:36] [Server thread/INFO]: shadowMax has joined!
+[13:49:36] [Server thread/INFO]: shadowMax[/127.190.69.79:51797] logged in with entity id 3016 at ([world]16060.300000011921, 65.0, -16107.67601671771)
+[13:49:37] [Craft Scheduler Thread - 17 - EliteMobs/INFO]: [EliteMobs] User 2e987b91-87b2-32b3-98e0-37aef9266de4 data successfully read!
+[13:50:08] [Server thread/INFO]: [SeeMore] Set view distance of shadowMax to 7 (client view distance is 12).
