@@ -666,3 +666,30 @@ LagFixer - Best Performance Solution!
 [13:49:36] [Server thread/INFO]: shadowMax[/127.190.69.79:51797] logged in with entity id 3016 at ([world]16060.300000011921, 65.0, -16107.67601671771)
 [13:49:37] [Craft Scheduler Thread - 17 - EliteMobs/INFO]: [EliteMobs] User 2e987b91-87b2-32b3-98e0-37aef9266de4 data successfully read!
 [13:50:08] [Server thread/INFO]: [SeeMore] Set view distance of shadowMax to 7 (client view distance is 12).
+[13:53:51] [User Authenticator #3/INFO]: UUID of player ChristianJVR is 8d5b884e-b3f0-38ed-9f90-e66025f8f126
+[13:53:54] [Server thread/INFO]: [vane-admin] [broadcast] ChristianJVR se ha unido al servidor
+[13:53:54] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to ChristianJVR. rspUUID is null: false. done: true. firstUpload: false.
+[13:53:54] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to ChristianJVR
+[13:53:54] [Server thread/INFO]: Detención automática no programada
+[13:53:54] [Server thread/INFO]: ChristianJVR has joined!
+[13:53:54] [Server thread/INFO]: ChristianJVR[/127.254.48.220:37029] logged in with entity id 4861 at ([world]16077.739636529279, 72.0, -16132.38407911852)
+[13:53:55] [Craft Scheduler Thread - 10 - EliteMobs/INFO]: [EliteMobs] User 8d5b884e-b3f0-38ed-9f90-e66025f8f126 data successfully read!
+[13:54:21] [Server thread/INFO]: There are 3 of a max of 20 players online: luxfoo, shadowMax, ChristianJVR
+[13:54:32] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[13:54:32] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
+[13:55:27] [Server thread/WARN]: luxfoo moved too quickly! 9.153765312285486,2.0,-5.976161424507083
+[13:55:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6805ms or 136 ticks behind
+[13:59:37] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[13:59:37] [Server thread/INFO]: luxfoo has left!
+[13:59:37] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [127ms] ha abandonado el servidor
+[13:59:38] [Server thread/INFO]: Named entity Zombie['「6」 Tótem Zombi'/5117, uuid='0702eee5-748d-4fa8-8e15-b8c1e74f8396', l='ServerLevel[world]', x=-700.70, y=61.31, z=-55.04, cpos=[-44, -4], tl=5976, v=true] died: 「6」 Tótem Zombi was blown up by 「6」 Cabeza Zombi
+[13:59:39] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml has been queued!
+[13:59:39] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
+[14:00:53] [User Authenticator #4/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[14:00:54] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[14:00:54] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[14:00:54] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[14:00:54] [Server thread/INFO]: Detención automática no programada
+[14:00:54] [Server thread/INFO]: luxfoo has joined!
+[14:00:54] [Server thread/INFO]: luxfoo[/127.109.168.5:37381] logged in with entity id 18208 at ([world]-701.7148659740259, 60.72034552832672, -55.55456225669304)
+[14:00:55] [Craft Scheduler Thread - 23 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
