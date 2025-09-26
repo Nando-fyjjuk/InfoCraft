@@ -3120,3 +3120,161 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [17:30:19] [Server thread/INFO]: Ro0dr1 has joined!
 [17:30:19] [Server thread/INFO]: Ro0dr1[/127.73.52.125:46997] logged in with entity id 335185 at ([world]605.7463911357788, 57.0, -3083.4164690346115)
 [17:30:20] [Craft Scheduler Thread - 174 - EliteMobs/INFO]: [EliteMobs] User 288da723-d4ff-3e72-b6d9-6d7a94642daf data successfully read!
+[17:30:43] [Server thread/INFO]: Ro0dr1 lost connection: Disconnected
+[17:30:43] [Server thread/INFO]: Ro0dr1 has left!
+[17:30:43] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 [156ms] ha abandonado el servidor
+[17:31:18] [Server thread/INFO]: There are 3 of a max of 20 players online: Scyther190, Silver_servi, Fernando_fyjjuk
+[17:31:43] [Server thread/INFO]: Silver_servi has made the advancement [Diamonds!]
+[17:31:52] [Server thread/INFO]: [Not Secure] [Server] voy a apagar el servidor (muy pocos jugadores)
+[17:32:03] [Server thread/INFO]: Scyther190 issued server command: /home
+[17:32:46] [Server thread/INFO]: Stopping the server
+[17:32:46] [Server thread/INFO]: Stopping server
+[17:32:46] [Server thread/INFO]: [FishRewards] Disabling FishRewards v1.6.6
+[17:32:46] [Server thread/INFO]: [TabListPing] Disabling TabListPing v2.02
+[17:32:46] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
+[17:32:46] [Server thread/INFO]: [ResourcePackManager] Disabling ResourcePackManager v1.6.0
+[17:32:46] [Server thread/INFO]: [ResourcePackManager] Disabling ResourcePackManager
+[17:32:46] [Server thread/INFO]: [ChunkyBorder] Disabling ChunkyBorder v1.2.23
+[17:32:46] [Server thread/INFO]: [SeeMore] Disabling SeeMore v1.0.2
+[17:32:46] [Server thread/INFO]: [vane-permissions] Disabling vane-permissions v1.19.0
+[17:32:46] [Server thread/INFO]: [HexNicks] Disabling HexNicks v3.2.0
+[17:32:46] [Server thread/INFO]: [BetterStructures] Disabling BetterStructures v2.0.0
+[17:32:46] [Server thread/INFO]: [BetterStructures] Shutdown!
+[17:32:46] [Server thread/INFO]: [GravesX] Disabling GravesX v4.9.8.3
+[17:32:46] [Server thread/INFO]: [GravesX] Saving Grave inventories before shutting down...
+[17:32:46] [Server thread/INFO]: [GravesX] Grave inventories saved.
+[17:32:46] [Server thread/INFO]: [GravesX] Shutting Down GravesX...
+[17:32:46] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Shutdown initiated...
+[17:32:46] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Shutdown completed.
+[17:32:46] [Server thread/INFO]: [GravesX] Unloading GraveManager...
+[17:32:46] [Server thread/INFO]: [GravesX] Unloaded GraveManager Successfully.
+[17:32:46] [Server thread/INFO]: [GravesX] Unloading IntegrationManager...
+[17:32:46] [Server thread/INFO]: [GravesX] Unloaded IntegrationManager Successfully.
+[17:32:46] [Server thread/INFO]: [GravesX] Unloading RecipeManager...
+[17:32:46] [Server thread/INFO]: [GravesX] Unloaded RecipeManager Successfully.
+[17:32:46] [Server thread/INFO]: [GravesX] Shutdown Completed :)
+[17:32:46] [Server thread/INFO]: [Clumps] Disabling Clumps v5.0
+[17:32:46] [Server thread/INFO]: [vane-admin] Disabling vane-admin v1.19.0
+[17:32:46] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.3.0
+[17:32:46] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[17:32:46] [Server thread/INFO]: [ReanimateMC] Disabling ReanimateMC v1.2.02
+[17:32:46] [Server thread/INFO]: ReanimateMC has been disabled.
+[17:32:46] [Server thread/INFO]: [AreaPlanter] Disabling AreaPlanter v1.4
+[17:32:46] [Server thread/INFO]: [AreaPlanter] AreaPlanter has been disabled.
+[17:32:46] [Server thread/INFO]: [Stackable] Disabling Stackable v1.0-SNAPSHOT
+[17:32:46] [Server thread/INFO]: [vane-trifles] Disabling vane-trifles v1.19.0
+[17:32:46] [Server thread/INFO]: [vane-portals] Disabling vane-portals v1.19.0
+[17:32:46] [Server thread/INFO]: [HarvestMaster] Disabling HarvestMaster v1.0.6
+[17:32:46] [Server thread/INFO]: [Protect] Disabling Protect v3.1.1
+[17:32:46] [Server thread/INFO]: [VillagerInABukkit] Disabling VillagerInABukkit v1.3.0
+[17:32:46] [Server thread/INFO]: [SpawnEggDrops] Disabling SpawnEggDrops v1.1.6
+[17:32:46] [Server thread/INFO]: [AttackThrough] Disabling AttackThrough v1.0.1
+[17:32:46] [Server thread/INFO]: [AttackThrough] Disabled !
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.4.27 [build 120]
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 0ms!
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 1ms!
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 0ms!
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabling manager...
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabled manager in 0ms!
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module RedstoneLimiter in 0ms.
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module InstantLeafDecay in 1ms.
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module WorldCleaner in 0ms.
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module MobAiReducer in 0ms.
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module LagMonitor in 0ms.
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module EntityLimiter in 0ms.
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module AbilityLimiter in 0ms.
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 2ms!
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
+[17:32:46] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 1ms!
+[17:32:46] [Server thread/INFO]: [DynamicLight] Disabling DynamicLight v${project.version}
+[17:32:46] [Server thread/INFO]: [DynamicLight] DynamicLight has been disabled!
+[17:32:46] [Server thread/INFO]: [DeleteBats] Disabling DeleteBats v1.0-SNAPSHOT
+[17:32:46] [Server thread/INFO]: [SilkAmethyst] Disabling SilkAmethyst v1.2.1
+[17:32:46] [Server thread/INFO]: [SilkAmethyst] Silk Amethyst Disabled!
+[17:32:46] [Server thread/INFO]: [PlayerCarry] Disabling PlayerCarry v1.1
+[17:32:46] [Server thread/INFO]: [FasterHappyGhasts] Disabling FasterHappyGhasts v1.0.0
+[17:32:46] [Server thread/INFO]: [FasterHappyGhasts] FasterHappyGhasts disabled!
+[17:32:46] [Server thread/INFO]: [HuskHomes] Disabling HuskHomes v4.9.9
+[17:32:46] [Server thread/INFO]: [HuskHomes] Disabling HuskHomes v4.9.9...
+[17:32:46] [Server thread/INFO]: [HuskHomes] Successfully disabled HuskHomes v4.9.9
+[17:32:46] [Server thread/INFO]: [DragonRebirth] Disabling DragonRebirth v1.0
+[17:32:46] [Server thread/INFO]: [DragonRebirth] Dragon Rebirth Plugin has been disabled!
+[17:32:46] [Server thread/INFO]: [CustomJoinMessages] Disabling CustomJoinMessages v17.9.1
+[17:32:46] [Server thread/INFO]: [XPBottling] Disabling XPBottling v1.0.0
+[17:32:46] [Server thread/INFO]: [XPBottling] XP Bottling has been disabled!
+[17:32:46] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.2
+[17:32:46] [Server thread/INFO]: [BackpackPlus] Disabling BackpackPlus v2.0.1
+[17:32:46] [Server thread/INFO]: [BackpackPlus] SQLite Successfully disconnected from the database
+[17:32:46] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[17:32:46] [Server thread/INFO]: [EliteMobs] Disabling EliteMobs v9.5.4
+[17:32:46] [Server thread/INFO]: [EliteMobs] Starting EliteMobs shutdown sequence...
+[17:32:46] [Server thread/INFO]: [EliteMobs] Saving EliteMobs databases...
+[17:32:46] [Server thread/INFO]: [EliteMobs] All done! Good night.
+[17:32:46] [Server thread/INFO]: [vane-regions] Disabling vane-regions v1.19.0
+[17:32:46] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.2.1 b125
+[17:32:46] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[17:32:46] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[17:32:46] [Craft Scheduler Thread - 8 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[17:32:46] [Craft Scheduler Thread - 9 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[17:32:46] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 2ms)
+[17:32:46] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
+[17:32:46] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[17:32:46] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[17:32:46] [Server thread/INFO]: [vane-core] Disabling vane-core v1.19.0
+[17:32:46] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
+[17:32:46] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[17:32:46] [Server thread/INFO]: [LuckPerms] Closing storage...
+[17:32:46] [Server thread/INFO]: [LuckPerms] Goodbye!
+[17:32:46] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.2.1
+[17:32:46] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.13.2
+[17:32:46] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:32:46] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[17:32:46] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[17:32:46] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
+[17:32:46] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[17:32:46] [Server thread/INFO]: Saving players
+[17:32:46] [WebSocketConnectReadThread-1537/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[17:32:46] [Server thread/INFO]: Silver_servi lost connection: Server closed
+[17:32:47] [Server thread/INFO]: Silver_servi left the game
+[17:32:47] [Server thread/INFO]: Fernando_fyjjuk lost connection: Server closed
+[17:32:47] [Server thread/INFO]: Fernando_fyjjuk left the game
+[17:32:47] [Server thread/INFO]: Scyther190 lost connection: Server closed
+[17:32:47] [Server thread/INFO]: Scyther190 left the game
+[17:32:47] [Server thread/INFO]: Saving worlds
+[17:32:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:32:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:32:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:32:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:32:48] [Server thread/INFO]: [ChunkHolderManager] Saved 1100 block chunks, 809 entity chunks, 3 poi chunks in world 'world' in 1.70s
+[17:32:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[17:32:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[17:32:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:32:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:32:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:32:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:32:50] [Server thread/INFO]: [ChunkHolderManager] Saved 134 block chunks, 206 entity chunks, 0 poi chunks in world 'world_nether' in 0.22s
+[17:32:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[17:32:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[17:32:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:32:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:32:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:32:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:32:50] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[17:32:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[17:32:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[17:32:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:32:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:32:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:32:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:32:50] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[17:32:50] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[17:32:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[17:32:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
