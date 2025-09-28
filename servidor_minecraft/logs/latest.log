@@ -651,3 +651,80 @@ LagFixer - Best Performance Solution!
 [02:48:56] [Server thread/INFO]: Silver_servi issued server command: /home
 [02:52:16] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
 [02:52:16] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
+[02:58:16] [Server thread/INFO]: [EliteMobs] Event beast_master.yml has been queued!
+[02:58:16] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
+[02:59:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4120ms or 82 ticks behind
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 20.393109312918455,0.0,-0.5299689508640313
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 20.792974204057487,0.0,-0.5403604989891164
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 21.192839095203112,0.0,-0.5507520471143152
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 21.592703986354422,0.0,-0.5611435952396278
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 21.992568877510962,0.0,-0.5715351433651676
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 22.392433768672277,0.0,-0.5819266914908212
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 22.79229865983791,0.0,-0.5923182396165885
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 23.192163551007184,0.0,-0.6027097877424694
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 23.592028442180094,0.0,-0.6131013358683504
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 23.99189333335596,0.0,-0.623492883994345
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 24.391758224534556,0.0,-0.6338844321204533
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 24.79162311571565,0.0,-0.6442759802465616
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 25.19148800689902,0.0,-0.6546675283727836
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 25.591352898084438,0.0,-0.6650590764990056
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 25.991217789271673,0.0,-0.6754506246253413
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 26.3910826804605,0.0,-0.685842172751677
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 26.790947571650918,0.0,-0.6962337208780127
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 27.1908124628427,0.0,-0.7066252690044621
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 27.59067735403562,0.0,-0.7170168171309115
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 27.990542245229676,0.0,-0.7274083652573609
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 28.390407136424642,0.0,-0.7377999133838102
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 28.790272027620517,0.0,-0.7481914615103733
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 29.190136918817075,0.0,-0.7585830096369364
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 29.590001810014314,0.0,-0.7689745577634994
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 29.989866701212236,0.0,-0.7793661058900625
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 30.38973159241084,0.0,-0.7897576540166256
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 30.7895964836099,0.0,-0.8001492021431886
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 31.18946137480941,0.0,-0.8105407502697517
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 31.58932626600938,0.0,-0.8209322983963148
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 31.989191157209575,0.0,-0.8313238465229915
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 32.389056048410225,0.0,-0.8417153946496683
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 32.7889209396111,0.0,-0.852106942776345
+[02:59:24] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 33.18878583081221,0.0,-0.8624984909030218
+[02:59:40] [Server thread/WARN]: Tried to over-fill a container
+[03:00:01] [Server thread/ERROR]: Entity threw exception at world:1153.5,59.0,-820.5
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goal.WrappedGoal.isRunning()" because "wrappedGoalx" is null
+	at net.minecraft.world.entity.ai.goal.GoalSelector.tick(GoalSelector.java:100) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.serverAiStep(Mob.java:761) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3489) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.aiStep(Mob.java:504) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.AgeableMob.aiStep(AgeableMob.java:152) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3267) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.tick(Mob.java:381) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.animal.Dolphin.tick(Dolphin.java:241) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1277) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1483) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:811) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:793) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1724) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:00:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6965ms or 139 ticks behind
+[03:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5918ms or 118 ticks behind
+[03:02:15] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_6.PaperweightStarlightRelighterFactory as relighter factory.
+[03:03:33] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml has been queued!
+[03:03:33] [Server thread/INFO]: ¡Un Goblin del Tesoro ha sido avistado!
+[03:05:16] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Khvicha K77
+[03:05:16] [localSession-7-2/INFO]: [Geyser-Spigot] Khvicha K77 (logged in as: Khvicha_K77) has connected to the Java server
+[03:05:17] [Server thread/INFO]: [vane-admin] [broadcast] .Khvicha_K77 se ha unido al servidor
+[03:05:17] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77. rspUUID is null: false. done: true. firstUpload: false.
+[03:05:17] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77
+[03:05:17] [Server thread/INFO]: Detención automática no programada
+[03:05:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 joined (UUID: 00000000-0000-0000-0009-01f6a628710a)
+[03:05:17] [Server thread/INFO]: .Khvicha_K77 has joined!
+[03:05:17] [Server thread/INFO]: .Khvicha_K77[/127.3.255.203:0] logged in with entity id 3837 at ([world]-47.577168, 69.0, 78.06648)
+[03:05:17] [Server thread/INFO]: .Khvicha_K77 died
+[03:05:17] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[03:05:17] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[03:05:17] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[03:05:18] [Craft Scheduler Thread - 26 - EliteMobs/INFO]: [EliteMobs] User 00000000-0000-0000-0009-01f6a628710a data successfully read!
+[03:05:18] [Server thread/INFO]: [SeeMore] Set view distance of .Khvicha_K77 to 7 (client view distance is 7).
