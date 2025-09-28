@@ -643,3 +643,83 @@ LagFixer - Best Performance Solution!
 [21:43:21] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
 [21:43:53] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
 [21:45:25] [Async Chat Thread - #0/INFO]: [Not Secure] <thegeomusic> zzzzzzzzz
+[21:49:21] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[21:49:21] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
+[21:51:01] [User Authenticator #2/INFO]: UUID of player Scyther190 is a82af51d-a5c8-32dc-a772-26c761f289c2
+[21:51:03] [Server thread/INFO]: [vane-admin] [broadcast] Scyther190 se ha unido al servidor
+[21:51:03] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190. rspUUID is null: false. done: true. firstUpload: false.
+[21:51:03] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190
+[21:51:03] [Server thread/INFO]: Detención automática no programada
+[21:51:03] [Server thread/INFO]: Scyther190 has joined!
+[21:51:03] [Server thread/INFO]: Scyther190[/127.212.126.52:51607] logged in with entity id 1686 at ([world_nether]728.5682067971414, 38.0, -389.1130309300234)
+[21:51:04] [Craft Scheduler Thread - 4 - EliteMobs/INFO]: [EliteMobs] User a82af51d-a5c8-32dc-a772-26c761f289c2 data successfully read!
+[21:51:07] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_6.PaperweightStarlightRelighterFactory as relighter factory.
+[21:51:36] [Server thread/INFO]: Scyther190 issued server command: /home
+[21:52:09] [Server thread/INFO]: Scyther190 died
+[21:52:13] [Async Chat Thread - #1/INFO]: [Not Secure] <luxfoo> xd
+[21:52:19] [Async Chat Thread - #1/INFO]: [Not Secure] <thegeomusic> XD
+[21:53:34] [Server thread/INFO]: Named entity Zombie['「5」 Tótem Zombi'/1495, uuid='4b8bc201-6108-42e1-8c9f-975e93ecf0f3', l='ServerLevel[world]', x=-461.11, y=80.00, z=-123.99, cpos=[-29, -8], tl=5074, v=true] died: 「5」 Tótem Zombi burned to death
+[21:53:37] [Server thread/INFO]: Named entity Zombie['「5」 Tótem Zombi'/1494, uuid='ae39271c-e991-4854-872f-cebb1036e741', l='ServerLevel[world]', x=-461.15, y=80.00, z=-123.95, cpos=[-29, -8], tl=5122, v=true] died: 「5」 Tótem Zombi burned to death
+[21:54:27] [Server thread/INFO]: There are 3 of a max of 20 players online: luxfoo, thegeomusic, Scyther190
+[21:55:11] [User Authenticator #3/INFO]: UUID of player Yossmell is ad07ddf4-6e43-3d1c-89d8-96382501eaac
+[21:55:15] [Server thread/INFO]: [vane-trifles] Given 1421 recipes to Yossmell
+[21:55:15] [Server thread/INFO]: [vane-admin] [broadcast] Yossmell se ha unido al servidor
+[21:55:15] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Yossmell. rspUUID is null: false. done: true. firstUpload: false.
+[21:55:15] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Yossmell
+[21:55:15] [Server thread/INFO]: Detención automática no programada
+[21:55:15] [Server thread/INFO]: Yossmell has joined the server for the first time! (#35)
+[21:55:15] [Server thread/INFO]: Yossmell[/127.206.236.220:57043] logged in with entity id 3139 at ([world]-392.5, 80.0, -102.5)
+[21:55:15] [Craft Scheduler Thread - 25 - EliteMobs/INFO]: [EliteMobs] No player entry detected, generating new entry!
+[21:55:21] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml has been queued!
+[21:55:21] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
+[21:55:37] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Khvicha K77
+[21:55:37] [localSession-7-2/INFO]: [Geyser-Spigot] Khvicha K77 (logged in as: Khvicha_K77) has connected to the Java server
+[21:55:38] [Server thread/INFO]: [vane-admin] [broadcast] .Khvicha_K77 se ha unido al servidor
+[21:55:38] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77. rspUUID is null: false. done: true. firstUpload: false.
+[21:55:38] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77
+[21:55:38] [Server thread/INFO]: Detención automática no programada
+[21:55:38] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 joined (UUID: 00000000-0000-0000-0009-01f6a628710a)
+[21:55:38] [Server thread/INFO]: .Khvicha_K77 has joined!
+[21:55:38] [Server thread/INFO]: .Khvicha_K77[/127.3.255.203:0] logged in with entity id 3400 at ([world]-13.446766, 69.0, -14.273354)
+[21:55:38] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[21:55:38] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[21:55:38] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[21:55:38] [Craft Scheduler Thread - 25 - EliteMobs/INFO]: [EliteMobs] User 00000000-0000-0000-0009-01f6a628710a data successfully read!
+[21:55:39] [Server thread/INFO]: [SeeMore] Set view distance of .Khvicha_K77 to 7 (client view distance is 7).
+[21:55:46] [Server thread/WARN]: [vane-core] Force stopped delaying messages to player 'Yossmell' after their client didn't report any status after 30000 ms. If this message appears again after they reconnect, it might be a configuration issue.
+[21:56:47] [Async Chat Thread - #3/INFO]: [Not Secure] <thegeomusic> ZzZzZ
+[21:56:58] [Server thread/INFO]: Named entity MagmaCube['Lvl 7 Elite Magma Cube'/3637, uuid='4b55f959-ead7-4edc-91f6-e03e3ecb0c39', l='ServerLevel[world_nether]', x=212.27, y=37.00, z=-208.57, cpos=[13, -14], tl=1447, v=true] died: Lvl 7 Elite Magma Cube was slain by Scyther190 using [Acribillador de Trasgo]
+[21:57:09] [Server thread/INFO]: Yossmell lost connection: Disconnected
+[21:57:09] [Server thread/INFO]: Yossmell has left!
+[21:57:09] [Server thread/INFO]: [vane-admin] [broadcast] Yossmell [182ms] ha abandonado el servidor
+[21:57:25] [User Authenticator #4/INFO]: UUID of player Yossmell is ad07ddf4-6e43-3d1c-89d8-96382501eaac
+[21:57:28] [Server thread/INFO]: [vane-admin] [broadcast] Yossmell se ha unido al servidor
+[21:57:28] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Yossmell. rspUUID is null: false. done: true. firstUpload: false.
+[21:57:28] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Yossmell
+[21:57:28] [Server thread/INFO]: Detención automática no programada
+[21:57:28] [Server thread/INFO]: Yossmell has joined!
+[21:57:28] [Server thread/INFO]: Yossmell[/127.206.236.220:56643] logged in with entity id 4652 at ([world]-394.9597411395319, 80.55321338701523, -101.66597308340077)
+[21:57:28] [Server thread/INFO]: ¡Yossmell fue devorado por 「1」 Duende de Encantamientos!
+[21:57:29] [Craft Scheduler Thread - 32 - EliteMobs/INFO]: [EliteMobs] User ad07ddf4-6e43-3d1c-89d8-96382501eaac data successfully read!
+[21:57:32] [Server thread/ERROR]: Entity threw exception at world_nether:359.5,93.0,-274.5
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goal.WrappedGoal.isRunning()" because "wrappedGoalx" is null
+	at net.minecraft.world.entity.ai.goal.GoalSelector.tick(GoalSelector.java:100) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.serverAiStep(Mob.java:761) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3489) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.aiStep(Mob.java:504) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Zombie.aiStep(Zombie.java:259) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3267) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.tick(Mob.java:381) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:231) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1277) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1483) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:811) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:793) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1724) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:58:10] [Server thread/INFO]: [SeeMore] Set view distance of Yossmell to 7 (client view distance is 10).
