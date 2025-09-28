@@ -51,3 +51,68 @@ lst<--[HERE]
 [00:22:21] [Async Chat Thread - #2/INFO]: [Not Secure] <luxfoo> no tengo nada
 [00:22:25] [Async Chat Thread - #2/INFO]: [Not Secure] <luxfoo> soy pobre
 [00:22:29] [Server thread/INFO]: Scyther190 issued server command: /homes
+[00:22:39] [Server thread/INFO]: Scyther190 issued server command: /home
+[00:22:42] [Server thread/INFO]: Scyther190 issued server command: /home
+[00:23:37] [Async Chat Thread - #3/INFO]: [Not Secure] <Scyther190> se saquearon todo en la fortaleza
+[00:23:45] [Async Chat Thread - #3/INFO]: [Not Secure] <Scyther190> y me da flojera explorar el nether
+[00:25:05] [Async Chat Thread - #5/INFO]: [Not Secure] <luxfoo> tmre
+[00:25:16] [Async Chat Thread - #5/INFO]: [Not Secure] <luxfoo> no puedo matarlo con una espada de madera
+[00:25:25] [Server thread/INFO]: There are 2 of a max of 20 players online: Scyther190, luxfoo
+[00:25:34] [Server thread/INFO]: ---------------------------------------------
+[00:25:34] [Server thread/INFO]: ¡El Goblin del Tesoro ha sido saqueado!
+[00:25:34] [Server thread/INFO]:     1er Dañador: ¡luxfoo con 105.89 daño!
+[00:25:34] [Server thread/INFO]: 
+[00:25:34] [Server thread/INFO]: 
+[00:25:34] [Server thread/INFO]: Asesinos: luxfoo
+[00:25:34] [Server thread/INFO]: ---------------------------------------------
+[00:25:34] [Server thread/INFO]: Named entity Zombie['Goblin del Tesoro 「6」'/2300, uuid='51ce7caa-ea9e-4319-b3d2-015c0a39ce83', l='ServerLevel[world]', x=-426.28, y=81.00, z=-172.94, cpos=[-27, -11], tl=5003, v=true] died: Goblin del Tesoro 「6」 burned to death
+[00:25:35] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml ended!
+[00:25:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+Iist<--[HERE]
+[00:25:41] [Async Chat Thread - #5/INFO]: [Not Secure] <luxfoo> xd
+[00:25:44] [Async Chat Thread - #5/INFO]: [Not Secure] <luxfoo> sin hacer nada
+[00:25:48] [Server thread/INFO]: There are 2 of a max of 20 players online: Scyther190, luxfoo
+[00:25:55] [Server thread/INFO]: luxfoo issued server command: /home
+[00:25:57] [Server thread/INFO]: [Not Secure] [Server] xd
+[00:25:59] [Async Chat Thread - #5/INFO]: [Not Secure] <Scyther190> y yo llendo por el
+[00:26:02] [Server thread/INFO]: ¡Goblin del Tesoro 「6」 llegó a los cerebros de luxfoo!
+[00:26:33] [Async Chat Thread - #5/INFO]: [Not Secure] <luxfoo> yo ya estoy en mi casa
+[00:26:36] [Async Chat Thread - #5/INFO]: [Not Secure] <luxfoo> me hice tp
+[00:27:02] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[00:27:02] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[00:27:05] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 0411b259-e3a8-42bf-a264-23a3d0764edc
+[00:27:06] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss 0411b259-e3a8-42bf-a264-23a3d0764edc
+[00:27:06] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss 0411b259-e3a8-42bf-a264-23a3d0764edc
+[00:27:07] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss 0411b259-e3a8-42bf-a264-23a3d0764edc
+[00:29:19] [Server thread/INFO]: ---------------------------------------------
+[00:29:19] [Server thread/INFO]: ¡El Duende Con Armadura ha sido saqueado!
+[00:29:19] [Server thread/INFO]:     1er Dañador: ¡luxfoo con 140.94 daño!
+[00:29:19] [Server thread/INFO]: 
+[00:29:19] [Server thread/INFO]: 
+[00:29:19] [Server thread/INFO]: Asesinos: luxfoo
+[00:29:19] [Server thread/INFO]: ---------------------------------------------
+[00:29:19] [Server thread/INFO]: Named entity Zombie['「7」 Goblin con Armadura'/6532, uuid='4a28a6bc-ce7a-4766-87d3-4c5cb48298d7', l='ServerLevel[world]', x=-747.88, y=58.61, z=44.78, cpos=[-47, 2], tl=2720, v=true] died: 「7」 Goblin con Armadura was slain by luxfoo using [Envolviendo Hacha]
+[00:29:20] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[00:29:30] [Async Chat Thread - #7/INFO]: [Not Secure] <Scyther190> mira pues
+[00:29:37] [Async Chat Thread - #7/INFO]: [Not Secure] <Scyther190> me vuelve a ganar
+[00:29:43] [Async Chat Thread - #7/INFO]: [Not Secure] <luxfoo> tengo suerte
+[00:29:47] [Async Chat Thread - #7/INFO]: [Not Secure] <luxfoo> aparecio en el agua
+[00:31:07] [Async Chat Thread - #9/INFO]: [Not Secure] <Scyther190> muy expuesto
+[00:31:15] [Async Chat Thread - #9/INFO]: [Not Secure] <luxfoo> soy pacifico
+[00:31:15] [User Authenticator #2/INFO]: UUID of player Ro0dr1 is 288da723-d4ff-3e72-b6d9-6d7a94642daf
+[00:31:18] [Server thread/INFO]: [vane-admin] [broadcast] Ro0dr1 se ha unido al servidor
+[00:31:18] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1. rspUUID is null: false. done: true. firstUpload: false.
+[00:31:18] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Ro0dr1
+[00:31:18] [Server thread/INFO]: Detención automática no programada
+[00:31:18] [Server thread/INFO]: Ro0dr1 has joined!
+[00:31:18] [Server thread/INFO]: Ro0dr1[/127.221.110.72:53737] logged in with entity id 8276 at ([world]15.622990019637793, 66.0, -3990.8947244384744)
+[00:31:18] [Craft Scheduler Thread - 35 - EliteMobs/INFO]: [EliteMobs] User 288da723-d4ff-3e72-b6d9-6d7a94642daf data successfully read!
+[00:31:30] [Async Chat Thread - #9/INFO]: [Not Secure] <Scyther190> yo igual, pero eso no impidio a 3 perseguirme para matarme
+[00:31:40] [Async Chat Thread - #9/INFO]: [Not Secure] <luxfoo> tambien me mataron entre 3
+[00:31:46] [Async Chat Thread - #9/INFO]: [Not Secure] <luxfoo> pero no me rindo
+[00:31:53] [Async Chat Thread - #9/INFO]: [Not Secure] <Scyther190> son agresivos
+[00:32:17] [Async Chat Thread - #9/INFO]: [Not Secure] <Scyther190> pero se donde estan, o al menos su base temporal
+[00:32:28] [Async Chat Thread - #9/INFO]: [Not Secure] <luxfoo> coordenadas?
+[00:32:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Scyther190> ammmm
+[00:32:36] [Async Chat Thread - #9/INFO]: [Not Secure] <Scyther190> no
+[00:32:39] [Async Chat Thread - #10/INFO]: [Not Secure] <luxfoo> tengo tnt
