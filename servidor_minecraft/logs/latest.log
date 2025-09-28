@@ -986,3 +986,180 @@ java.lang.NullPointerException: null
 [22:28:58] [Server thread/INFO]: Silver_servi died
 [22:29:00] [Server thread/INFO]: Yossmell has made the advancement [Getting an Upgrade]
 [22:29:17] [Server thread/INFO]: Silver_servi issued server command: /home yu
+[22:30:34] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml ended!
+[22:31:24] [Server thread/INFO]: There are 5 of a max of 20 players online: luxfoo, GaRa, Bramchixxx, Yossmell, Silver_servi
+[22:32:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2749ms or 54 ticks behind
+[22:32:20] [Server thread/WARN]: luxfoo moved too quickly! 4.4319959568275635,1.7967356006687112,8.955331954994264
+[22:32:20] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 10.168922902396162,0.0,17.683827311779282
+[22:32:20] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 10.368313669326426,0.0,18.03056923556045
+[22:32:20] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 10.567704436553186,0.0,18.377311159857186
+[22:32:20] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 10.767095204046882,0.0,18.724053084617935
+[22:32:20] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 10.966485971780685,0.0,19.070795009796313
+[22:32:20] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 11.165876739730493,0.0,19.41753693535054
+[22:33:36] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Player connected with username Khvicha K77
+[22:33:36] [localSession-7-4/INFO]: [Geyser-Spigot] Khvicha K77 (logged in as: Khvicha_K77) has connected to the Java server
+[22:33:36] [User Authenticator #8/INFO]: UUID of player Khvicha_K77 is e705e7a4-b23e-346b-b54b-25083b9ebcfe
+[22:33:36] [Server thread/INFO]: [vane-trifles] Given 1421 recipes to Khvicha_K77
+[22:33:36] [Server thread/INFO]: [vane-admin] [broadcast] Khvicha_K77 se ha unido al servidor
+[22:33:36] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Khvicha_K77. rspUUID is null: false. done: true. firstUpload: false.
+[22:33:36] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Khvicha_K77
+[22:33:36] [Server thread/INFO]: Detención automática no programada
+[22:33:36] [Server thread/INFO]: Khvicha_K77 has joined the server for the first time! (#36)
+[22:33:36] [Server thread/INFO]: Khvicha_K77[/127.3.255.203:0] logged in with entity id 44536 at ([world]-392.5, 80.0, -102.5)
+[22:33:37] [Server thread/INFO]: [vane-core] The player Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:33:37] [Server thread/INFO]: [vane-core] The player Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:33:37] [Server thread/INFO]: [vane-core] The player Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:33:37] [Server thread/INFO]: [SeeMore] Set view distance of Khvicha_K77 to 7 (client view distance is 7).
+[22:33:37] [Craft Scheduler Thread - 58 - EliteMobs/INFO]: [EliteMobs] No player entry detected, generating new entry!
+[22:34:09] [Async Chat Thread - #5/INFO]: [Not Secure] <Khvicha_K77> que
+[22:34:17] [Async Chat Thread - #5/INFO]: [Not Secure] <Khvicha_K77> ?
+[22:36:35] [Server thread/INFO]: Yossmell has made the advancement [Acquire Hardware]
+[22:37:52] [Server thread/INFO]: Yossmell has made the advancement [Suit Up]
+[22:37:57] [Async Chat Thread - #7/INFO]: [Not Secure] <Khvicha_K77> luxfo una cama regalame por favor
+[22:38:03] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_HiddenChamber_Desert_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[22:38:23] [Async Chat Thread - #7/INFO]: [Not Secure] <luxfoo> apenas tengo la marron
+[22:38:47] [Server thread/INFO]: Yossmell has made the advancement [Isn't It Iron Pick]
+[22:39:23] [Server thread/INFO]: Yossmell lost connection: Disconnected
+[22:39:23] [Server thread/INFO]: Yossmell has left!
+[22:39:23] [Server thread/INFO]: [vane-admin] [broadcast] Yossmell [207ms] ha abandonado el servidor
+[22:39:49] [Server thread/INFO]: Villager Villager['Villager'/35495, uuid='a6f7f4d8-2d94-47c9-9ba4-5566fc9155bf', l='ServerLevel[world]', x=-388.69, y=79.50, z=258.31, cpos=[-25, 16], tl=20165, v=true] died, message: 'Villager was slain by Husk'
+[22:40:08] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[22:40:08] [Server thread/INFO]: luxfoo has left!
+[22:40:08] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [124ms] ha abandonado el servidor
+[22:41:01] [User Authenticator #9/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[22:41:03] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[22:41:03] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[22:41:03] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[22:41:03] [Server thread/INFO]: Detención automática no programada
+[22:41:03] [Server thread/INFO]: luxfoo has joined!
+[22:41:03] [Server thread/INFO]: luxfoo[/127.109.168.5:36655] logged in with entity id 57603 at ([world]-680.6047285164184, 67.0, -86.30000001192093)
+[22:41:04] [Craft Scheduler Thread - 74 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[22:41:05] [Server thread/INFO]: Khvicha_K77 died
+[22:44:23] [Server thread/INFO]: Khvicha_K77 has made the advancement [Stone Age]
+[22:45:28] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[22:45:28] [Server thread/INFO]: luxfoo has left!
+[22:45:28] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [123ms] ha abandonado el servidor
+[22:46:01] [Server thread/INFO]: GaRa issued server command: /tpahere Bramchixxx
+[22:46:04] [Server thread/INFO]: Bramchixxx issued server command: /huskhomes:tpaccept GaRa
+[22:46:25] [User Authenticator #10/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[22:46:26] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[22:46:26] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[22:46:26] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[22:46:26] [Server thread/INFO]: Detención automática no programada
+[22:46:26] [Server thread/INFO]: luxfoo has joined!
+[22:46:26] [Server thread/INFO]: luxfoo[/127.109.168.5:54631] logged in with entity id 66634 at ([world]-697.1610119900862, 63.0, -76.20765924808974)
+[22:46:27] [Craft Scheduler Thread - 73 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[22:47:06] [Server thread/WARN]: GaRa moved too quickly! -11.057147623774199,3.203264399331289,4.384986166607575
+[22:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5777ms or 115 ticks behind
+[22:48:03] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[22:49:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5573ms or 111 ticks behind
+[22:49:19] [Server thread/WARN]: Khvicha_K77 moved too quickly! -2.257759999999962,-0.233629999999998,-9.987529999999992
+[22:49:19] [Server thread/WARN]: Silver_servi moved too quickly! -22.32490400518384,1.8322033533667508,12.48896822403708
+[22:49:19] [Server thread/WARN]: Khvicha_K77 moved too quickly! -2.195359999999937,-0.07840000000000202,-9.865065000000001
+[22:49:48] [Server thread/INFO]: There are 5 of a max of 20 players online: GaRa, Bramchixxx, Silver_servi, Khvicha_K77, luxfoo
+[22:49:53] [Server thread/INFO]: [EliteMobs] Event full_moon.yml has been queued!
+[22:52:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4885ms or 97 ticks behind
+[22:52:08] [Server thread/INFO]: ¡El Rey Zombie ha sido avistado!
+[22:52:14] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss 08f36357-311d-4c7f-a92c-79c28cb790b2
+[22:52:51] [Server thread/WARN]: GaRa moved too quickly! -0.3220439048789103,-20.430836769561566,4.124269342136074
+[22:53:17] [Async Chat Thread - #9/INFO]: [Not Secure] <luxfoo> xd
+[22:53:23] [Server thread/INFO]: Khvicha_K77 died
+[22:54:04] [Server thread/INFO]: Named entity Creeper['Creeper de Elite Nivel 7'/75853, uuid='b42e6ff4-4364-492f-be40-caf1c7abfd92', l='ServerLevel[world]', x=250.67, y=61.00, z=1642.02, cpos=[15, 102], tl=939, v=true] died: Creeper de Elite Nivel 7 drowned
+[22:54:26] [Server thread/INFO]: Named entity Husk['〔5〕 Muertos vivientes'/76294, uuid='86eaea0d-5832-452e-b51a-f9a7318f566e', l='ServerLevel[world]', x=208.95, y=63.00, z=1753.39, cpos=[13, 109], tl=1002, v=true] died: 〔5〕 Muertos vivientes was slain by Iron Golem
+[22:54:32] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[22:54:32] [Server thread/INFO]: luxfoo has left!
+[22:54:32] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [123ms] ha abandonado el servidor
+[22:55:09] [Server thread/INFO]: Khvicha_K77 has made the advancement [Monster Hunter]
+[22:55:09] [Server thread/INFO]: Named entity Husk['〔1〕 Muertos vivientes'/75905, uuid='a0b8673c-be57-404d-b212-df4a96bb1e5a', l='ServerLevel[world]', x=-717.47, y=63.00, z=-60.80, cpos=[-45, -4], tl=2222, v=true] died: 〔1〕 Muertos vivientes was slain by Khvicha_K77
+[22:55:21] [Server thread/INFO]: Villager Villager['Butcher'/76408, uuid='ab5ab4dd-47af-4628-b1db-02ce6048db0c', l='ServerLevel[world]', x=220.54, y=67.00, z=1814.70, cpos=[13, 113], tl=1814, v=true] died, message: 'Butcher was slain by Husk'
+[22:55:29] [User Authenticator #11/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[22:55:30] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[22:55:30] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[22:55:30] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[22:55:30] [Server thread/INFO]: Detención automática no programada
+[22:55:30] [Server thread/INFO]: luxfoo has joined!
+[22:55:30] [Server thread/INFO]: luxfoo[/127.109.168.5:41461] logged in with entity id 79665 at ([world]-694.3406790293222, 63.0, -59.34069294900692)
+[22:55:31] [Craft Scheduler Thread - 112 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[22:55:32] [Server thread/INFO]: ¡Khvicha_K77 fue carroña de un 〔1〕 Muertos vivientes!
+[22:55:34] [Server thread/INFO]: Villager Villager['Librarian'/76418, uuid='80153ff1-075d-4993-942f-85bf1b7683fc', l='ServerLevel[world]', x=221.51, y=69.00, z=1805.73, cpos=[13, 112], tl=1970, v=true] died, message: 'Librarian was slain by 〔6〕 Muertos vivientes'
+[22:55:46] [Server thread/INFO]: Named entity Husk['〔6〕 Muertos vivientes'/79613, uuid='aab2d63e-9a33-4aed-be2b-176cc0e28286', l='ServerLevel[world]', x=217.00, y=64.00, z=1759.92, cpos=[13, 109], tl=355, v=true] died: 〔6〕 Muertos vivientes was slain by Iron Golem
+[22:56:04] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
+[22:56:04] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[22:56:04] [Server thread/INFO]: luxfoo has left!
+[22:56:04] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [123ms] ha abandonado el servidor
+[22:56:17] [Server thread/INFO]: Villager Villager['Villager'/76267, uuid='981c40fd-d6e6-49d8-8424-0fdfa425acbe', l='ServerLevel[world]', x=261.50, y=63.00, z=1768.87, cpos=[16, 110], tl=3000, v=true] died, message: 'Villager was slain by 〔6〕 Muertos vivientes'
+[22:57:05] [User Authenticator #12/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[22:57:07] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[22:57:07] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[22:57:07] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[22:57:07] [Server thread/INFO]: Detención automática no programada
+[22:57:07] [Server thread/INFO]: luxfoo has joined!
+[22:57:07] [Server thread/INFO]: luxfoo[/127.109.168.5:35427] logged in with entity id 82265 at ([world]-691.2394798564603, 63.0, -51.00768128151808)
+[22:57:07] [Server thread/INFO]: ¡luxfoo fue carroña de un 〔6〕 Muertos vivientes!
+[22:57:08] [Craft Scheduler Thread - 112 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[22:57:25] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[22:57:25] [Server thread/INFO]: luxfoo has left!
+[22:57:25] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [124ms] ha abandonado el servidor
+[22:57:43] [Server thread/INFO]: Villager Villager['Librarian'/76125, uuid='b4b72837-4b66-4925-9c55-c84def8f12d3', l='ServerLevel[world]', x=229.35, y=65.00, z=1773.70, cpos=[14, 110], tl=4704, v=true] died, message: 'Librarian was slain by Zombie'
+[22:57:51] [Server thread/INFO]: Villager Villager['Villager'/76407, uuid='29bb3117-b621-4c6a-9e95-bd5d4fe2b91b', l='ServerLevel[world]', x=134.54, y=67.00, z=1750.52, cpos=[8, 109], tl=4816, v=true] died, message: 'Villager was slain by 〔6〕 Muertos vivientes'
+[22:57:58] [Server thread/INFO]: Villager Villager['Villager'/75933, uuid='fe337fef-940b-439e-9e99-549f05abe754', l='ServerLevel[world]', x=256.70, y=65.00, z=1739.57, cpos=[16, 108], tl=5399, v=true] died, message: 'Villager was slain by Zombie Villager'
+[22:57:58] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
+[22:57:58] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[22:58:20] [Server thread/INFO]: Bramchixxx has made the advancement [Sweet Dreams]
+[22:58:30] [Server thread/INFO]: Villager Villager['Villager'/75937, uuid='3f8e74b3-d790-4472-b661-ae0cad698d3c', l='ServerLevel[world]', x=92.89, y=66.00, z=1736.47, cpos=[5, 108], tl=5593, v=true] died, message: 'Villager was slain by Rey Zombi 「5」'
+[22:58:31] [Server thread/INFO]: Villager Villager['Villager'/75938, uuid='2064a52d-da26-4a97-8272-0b20a0cc20d5', l='ServerLevel[world]', x=70.09, y=68.00, z=1722.77, cpos=[4, 107], tl=5027, v=true] died, message: 'Villager was slain by Husk'
+[22:58:43] [Server thread/INFO]: Villager Villager['Villager'/76275, uuid='3eaf6755-0667-46dc-bd74-4b62341942cb', l='ServerLevel[world]', x=165.50, y=66.00, z=1681.79, cpos=[10, 105], tl=5679, v=true] died, message: 'Villager was slain by 〔5〕 Muertos vivientes'
+[22:58:48] [Server thread/INFO]: Villager Villager['Villager'/76122, uuid='1ef1eff0-2524-4e38-b2ad-50972f289ab6', l='ServerLevel[world]', x=236.23, y=64.00, z=1783.46, cpos=[14, 111], tl=6263, v=true] died, message: 'Villager was slain by 〔5〕 Muertos vivientes'
+[22:59:02] [Server thread/INFO]: ¡Khvicha_K77 fue carroña de un 〔1〕 Muertos vivientes!
+[22:59:07] [Server thread/INFO]: Villager Villager['Villager'/76276, uuid='26c24e3a-0c16-45a2-b7d6-6b1bc68d7547', l='ServerLevel[world]', x=174.46, y=63.00, z=1856.26, cpos=[10, 116], tl=3765, v=true] died, message: 'Villager was slain by 〔6〕 Muertos vivientes'
+[22:59:18] [Server thread/WARN]: Bramchixxx moved too quickly! -7.0640809622696,-3.580000013113022,-11.02701015295358
+[22:59:18] [Server thread/WARN]: Silver_servi moved too quickly! 10.614159671861358,0.0,7.119418466418438
+[22:59:34] [Server thread/INFO]: Villager Villager['Villager'/76272, uuid='e98c7a83-abeb-46f1-a7a6-398ad7c58322', l='ServerLevel[world]', x=211.15, y=52.94, z=1763.83, cpos=[13, 110], tl=6852, v=true] died, message: 'Villager was slain by 〔5〕 Muertos vivientes'
+[22:59:49] [Server thread/INFO]: Villager Villager['Fisherman'/76473, uuid='eafbe558-28f7-4d2a-8885-cb1f7a0d0831', l='ServerLevel[world]', x=130.42, y=65.00, z=1797.42, cpos=[8, 112], tl=7070, v=true] died, message: 'Fisherman was slain by 〔5〕 Muertos vivientes'
+[22:59:53] [User Authenticator #13/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[22:59:55] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[22:59:55] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[22:59:55] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[22:59:55] [Server thread/INFO]: Detención automática no programada
+[22:59:55] [Server thread/INFO]: luxfoo has joined!
+[22:59:55] [Server thread/INFO]: luxfoo[/127.109.168.5:57557] logged in with entity id 85299 at ([world]-691.2394798564603, 63.0, -51.00768128151808)
+[22:59:55] [Craft Scheduler Thread - 117 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[22:59:57] [Server thread/INFO]: Villager Villager['Fisherman'/73715, uuid='3b5342c9-2f9d-4137-9579-2320aed4d03f', l='ServerLevel[world]', x=95.30, y=65.00, z=1656.30, cpos=[5, 103], tl=7503, v=true] died, message: 'Fisherman was slain by 〔1〕 Muertos vivientes'
+[23:00:09] [Server thread/INFO]: Villager Villager['Fisherman'/76472, uuid='956efa06-7539-4852-ba48-a1345f2e66ec', l='ServerLevel[world]', x=187.59, y=64.81, z=1808.59, cpos=[11, 113], tl=7457, v=true] died, message: 'Fisherman was slain by 〔5〕 Muertos vivientes'
+[23:00:14] [Server thread/INFO]: Villager Villager['Fisherman'/76051, uuid='ba9e177c-e24e-45f9-b628-75aa66239072', l='ServerLevel[world]', x=127.51, y=66.00, z=1770.49, cpos=[7, 110], tl=7562, v=true] died, message: 'Fisherman was slain by 〔5〕 Muertos vivientes'
+[23:00:19] [Server thread/INFO]: Villager Villager['Fisherman'/73716, uuid='0570c753-cbca-411b-af57-88a3ba716b2e', l='ServerLevel[world]', x=63.81, y=67.00, z=1693.81, cpos=[3, 105], tl=7781, v=true] died, message: 'Fisherman was slain by Rey Zombi 「5」'
+[23:00:38] [Server thread/INFO]: There are 5 of a max of 20 players online: GaRa, Bramchixxx, Silver_servi, Khvicha_K77, luxfoo
+[23:00:56] [Server thread/WARN]: Bramchixxx moved too quickly! -6.514477104582284,0.0,-8.076585840338964
+[23:00:57] [Server thread/INFO]: Villager Villager['Fisherman'/76052, uuid='ed7cadaa-9f0c-4acb-bb68-56e92f0114b9', l='ServerLevel[world]', x=146.45, y=66.00, z=1732.50, cpos=[9, 108], tl=8374, v=true] died, message: 'Fisherman was slain by 〔5〕 Muertos vivientes'
+[23:00:58] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_CircleTemple_Grasslands_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[23:01:09] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml ended!
+[23:01:33] [Server thread/WARN]: GaRa moved too quickly! -8.510809058192308,-3.6050033471202028,5.274415951926585
+[23:01:33] [Server thread/WARN]: Bramchixxx moved too quickly! -10.764160338201691,-3.2468000194787976,3.522729069118327
+[23:02:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3201ms or 64 ticks behind
+[23:02:17] [Server thread/INFO]: luxfoo issued server command: /home
+[23:02:57] [Async Chat Thread - #11/INFO]: [Not Secure] <luxfoo> llevatelos
+[23:03:10] [Server thread/INFO]: ¡〔1〕 Bestia de Caravana le mostró a luxfoo quién está a cargo!
+[23:03:24] [Server thread/WARN]: Bramchixxx moved too quickly! 0.8797614072195756,-1.495200877005928,15.182536004462094
+[23:03:24] [Server thread/WARN]: GaRa moved too quickly! 3.978917529485443,-0.41999998688697815,13.028777765564996
+[23:03:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[23:03:38] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_Flagship_Grasslands_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[23:04:06] [Server thread/INFO]: luxfoo has made the advancement [Take Aim]
+[23:04:16] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[23:04:16] [Server thread/INFO]: luxfoo has left!
+[23:04:16] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [175ms] ha abandonado el servidor
+[23:05:19] [User Authenticator #14/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[23:05:20] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[23:05:20] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[23:05:20] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[23:05:20] [Server thread/INFO]: Detención automática no programada
+[23:05:20] [Server thread/INFO]: luxfoo has joined!
+[23:05:20] [Server thread/INFO]: luxfoo[/127.109.168.5:55741] logged in with entity id 88761 at ([world]-717.8138765569653, 63.0, -66.07499998807907)
+[23:05:21] [Craft Scheduler Thread - 145 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[23:06:54] [Server thread/INFO]: ¡〔6〕 Bestia de Caravana le mostró a Khvicha_K77 quién está a cargo!
+[23:07:50] [Server thread/INFO]: Bramchixxx has made the advancement [Cover Me with Diamonds]
+[23:08:03] [Async Chat Thread - #12/INFO]: [Not Secure] <Khvicha_K77> se lagearon
+[23:09:19] [Server thread/INFO]: Khvicha_K77 has made the advancement [Sweet Dreams]
+[23:09:25] [Server thread/INFO]: Named entity Ravager['〔7〕 Bestia de Caravana'/84949, uuid='094c309f-73cf-4b1a-8721-d7b519405fea', l='ServerLevel[world]', x=-774.98, y=63.36, z=-137.02, cpos=[-49, -9], tl=11854, v=true] died: 〔7〕 Bestia de Caravana was slain by luxfoo
+[23:09:59] [Server thread/INFO]: Named entity Ravager['〔7〕 Bestia de Caravana'/84947, uuid='632c53ff-0097-4d73-9072-079d92ecc5cb', l='ServerLevel[world]', x=-780.40, y=63.29, z=-136.02, cpos=[-49, -9], tl=12521, v=true] died: 〔7〕 Bestia de Caravana was slain by luxfoo
+[23:10:10] [Server thread/INFO]: Named entity Ravager['〔7〕 Bestia de Caravana'/83794, uuid='ff3980b9-a7c8-46f8-b0db-1fcae30c9cbd', l='ServerLevel[world]', x=-780.00, y=63.63, z=-136.02, cpos=[-49, -9], tl=14527, v=true] died: 〔7〕 Bestia de Caravana was slain by luxfoo
+[23:10:16] [Server thread/INFO]: Named entity Pillager['〔1〕 Guardia de Caravana'/84948, uuid='75f0c560-0da1-4ff2-802c-bdc788093691', l='ServerLevel[world]', x=-777.28, y=62.67, z=-133.06, cpos=[-49, -9], tl=12875, v=true] died: 〔1〕 Guardia de Caravana was slain by luxfoo
