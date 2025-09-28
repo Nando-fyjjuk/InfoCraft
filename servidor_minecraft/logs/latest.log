@@ -1,1 +1,14 @@
 [00:00:43] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[00:05:37] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[00:08:51] [User Authenticator #0/INFO]: UUID of player Scyther190 is a82af51d-a5c8-32dc-a772-26c761f289c2
+[00:08:51] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, EliteMobs, SkinsRestorer, ProtocolLib]
+[00:08:53] [Server thread/INFO]: [vane-admin] [broadcast] Scyther190 se ha unido al servidor
+[00:08:54] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190. rspUUID is null: false. done: true. firstUpload: false.
+[00:08:54] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190
+[00:08:54] [Server thread/INFO]: [vane-admin] Detención automática interrumpida
+[00:08:54] [Server thread/INFO]: Scyther190 has joined!
+[00:08:54] [Server thread/INFO]: Scyther190[/127.212.126.52:56813] logged in with entity id 81 at ([world]-605.0683763411649, 32.875, -1104.8464402680922)
+[00:08:54] [Craft Scheduler Thread - 13 - EliteMobs/INFO]: [EliteMobs] User a82af51d-a5c8-32dc-a772-26c761f289c2 data successfully read!
+[00:09:02] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[00:09:02] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
+[00:10:17] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 7d171fc7-caaf-40fd-b842-633047e95e5f
