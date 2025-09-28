@@ -1163,3 +1163,23 @@ java.lang.NullPointerException: null
 [23:09:59] [Server thread/INFO]: Named entity Ravager['〔7〕 Bestia de Caravana'/84947, uuid='632c53ff-0097-4d73-9072-079d92ecc5cb', l='ServerLevel[world]', x=-780.40, y=63.29, z=-136.02, cpos=[-49, -9], tl=12521, v=true] died: 〔7〕 Bestia de Caravana was slain by luxfoo
 [23:10:10] [Server thread/INFO]: Named entity Ravager['〔7〕 Bestia de Caravana'/83794, uuid='ff3980b9-a7c8-46f8-b0db-1fcae30c9cbd', l='ServerLevel[world]', x=-780.00, y=63.63, z=-136.02, cpos=[-49, -9], tl=14527, v=true] died: 〔7〕 Bestia de Caravana was slain by luxfoo
 [23:10:16] [Server thread/INFO]: Named entity Pillager['〔1〕 Guardia de Caravana'/84948, uuid='75f0c560-0da1-4ff2-802c-bdc788093691', l='ServerLevel[world]', x=-777.28, y=62.67, z=-133.06, cpos=[-49, -9], tl=12875, v=true] died: 〔1〕 Guardia de Caravana was slain by luxfoo
+[23:10:29] [Server thread/INFO]: Named entity Pillager['〔1〕 Guardia de Caravana'/84946, uuid='b047f038-ed7d-4a48-8dec-ada153ae8645', l='ServerLevel[world]', x=-781.45, y=62.54, z=-131.45, cpos=[-49, -9], tl=13120, v=true] died: 〔1〕 Guardia de Caravana was slain by luxfoo
+[23:10:35] [Server thread/INFO]: Named entity Pillager['「7」 Pillager Líder de la Caravana'/83793, uuid='915a75cd-3ae4-4b85-939c-302552716051', l='ServerLevel[world]', x=-779.41, y=62.33, z=-136.70, cpos=[-49, -9], tl=15024, v=true] died: 「7」 Pillager Líder de la Caravana was slain by luxfoo
+[23:10:36] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml ended!
+[23:11:29] [Server thread/INFO]: There are 5 of a max of 20 players online: GaRa, Bramchixxx, Silver_servi, luxfoo, Khvicha_K77
+[23:11:47] [Server thread/INFO]: Villager Villager['Farmer'/76128, uuid='e7223ce8-d490-4ef8-9c94-4e5c8b59a984', l='ServerLevel[world]', x=184.01, y=64.00, z=1770.70, cpos=[11, 110], tl=21425, v=true] died, message: 'Farmer hit the ground too hard while trying to escape Zombi Momificado de Elite Nivel 8'
+[23:11:53] [Server thread/INFO]: Khvicha_K77 has made the advancement [Getting an Upgrade]
+[23:13:05] [Server thread/WARN]: GaRa moved too quickly! 1.6182876501807186,-17.67647087614428,-3.4206327022212264
+[23:15:03] [Server thread/INFO]: Villager Villager['Nitwit'/74106, uuid='eeae9511-7440-44c5-84c1-91e4722d508e', l='ServerLevel[world]', x=180.74, y=71.54, z=1760.70, cpos=[11, 110], tl=25235, v=true] died, message: 'Nitwit was slain by Zombie'
+[23:15:17] [Server thread/INFO]: Villager Villager['Fisherman'/73713, uuid='4d48516d-d924-4f57-9cea-8dd2880979f8', l='ServerLevel[world]', x=179.92, y=68.62, z=1773.70, cpos=[11, 110], tl=26199, v=true] died, message: 'Fisherman was slain by Zombie'
+[23:15:18] [Server thread/INFO]: Villager Villager['Fisherman'/76129, uuid='a406af6e-9583-45ce-997f-9f2196145188', l='ServerLevel[world]', x=181.50, y=67.00, z=1773.70, cpos=[11, 110], tl=25642, v=true] died, message: 'Fisherman was slain by Zombie Villager'
+[23:18:03] [Server thread/WARN]: GaRa moved too quickly! -10.26969560863563,0.16610926093821377,0.024161834046687147
+[23:18:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4062ms or 81 ticks behind
+[23:18:33] [Server thread/WARN]: luxfoo moved too quickly! 2.4256177151240763,0.902000010943425,10.259630741505525
+[23:18:33] [Server thread/WARN]: GaRa moved too quickly! -10.424406787519274,1.0,11.279197143674999
+[23:18:33] [Server thread/WARN]: Bramchixxx moved too quickly! -16.35020746863256,1.2491870787446828,3.349268165069283
+[23:19:45] [Server thread/INFO]: Villager Villager['Fisherman'/76273, uuid='ffec9e79-0d53-4b47-acfd-879dbe158a3f', l='ServerLevel[world]', x=181.95, y=71.00, z=1754.91, cpos=[11, 109], tl=30893, v=true] died, message: 'Fisherman was slain by Husk'
+[23:20:51] [Server thread/INFO]: Bramchixxx has made the advancement [Best Friends Forever]
+[23:21:30] [Async Chat Thread - #13/INFO]: [Not Secure] <luxfoo> olvide que no tengo lapizlazuli xd
+[23:21:30] [Server thread/INFO]: GaRa has made the advancement [Best Friends Forever]
+[23:21:44] [Async Chat Thread - #13/INFO]: [Not Secure] <Khvicha_K77> jajajaja
