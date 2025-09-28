@@ -116,3 +116,44 @@ Iist<--[HERE]
 [00:32:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Scyther190> ammmm
 [00:32:36] [Async Chat Thread - #9/INFO]: [Not Secure] <Scyther190> no
 [00:32:39] [Async Chat Thread - #10/INFO]: [Not Secure] <luxfoo> tengo tnt
+[00:32:48] [Async Chat Thread - #9/INFO]: [Not Secure] <Scyther190> solo se como llegar, no le tome las coordenadas xd
+[00:32:58] [Async Chat Thread - #9/INFO]: [Not Secure] <Scyther190> pero no tienen base como tal, solo estan en una aldea
+[00:33:02] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml has been queued!
+[00:33:02] [Server thread/INFO]: ¡Un Goblin de Monedas ha sido avistado!
+[00:33:05] [Async Chat Thread - #9/INFO]: [Not Secure] <luxfoo> ah
+[00:33:05] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss d0f47e58-ab16-4342-8bda-dae112ddc3c0
+[00:33:10] [Async Chat Thread - #9/INFO]: [Not Secure] <Scyther190> ala
+[00:33:12] [Async Chat Thread - #9/INFO]: [Not Secure] <Scyther190> por ese ni voy
+[00:34:11] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss d0f47e58-ab16-4342-8bda-dae112ddc3c0
+[00:35:54] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 7'/8551, uuid='9157eb85-e785-4b99-be3c-5601d52b071f', l='ServerLevel[world]', x=3.69, y=65.00, z=-3997.20, cpos=[0, -250], tl=4092, v=true] died: Zombi de Elite Nivel 7 was slain by Ro0dr1
+[00:38:24] [Server thread/INFO]: Scyther190 issued server command: /home
+[00:39:02] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
+[00:39:02] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
+[00:39:05] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss ef62173d-2080-49d2-869b-635b33fae952
+[00:39:06] [Server thread/INFO]: Ro0dr1 has made the advancement [Ol' Betsy]
+[00:39:07] [User Authenticator #3/INFO]: UUID of player Silver_servi is 8c1d60db-0677-3e33-8e2b-6f857dd2ea16
+[00:39:11] [Server thread/INFO]: [vane-admin] [broadcast] Silver_servi se ha unido al servidor
+[00:39:11] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Silver_servi. rspUUID is null: false. done: true. firstUpload: false.
+[00:39:11] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Silver_servi
+[00:39:11] [Server thread/INFO]: Detención automática no programada
+[00:39:11] [Server thread/INFO]: Silver_servi has joined!
+[00:39:11] [Server thread/INFO]: Silver_servi[/127.182.145.223:38119] logged in with entity id 11361 at ([world]193.30521274272994, 67.5625, -755.5587332675789)
+[00:39:12] [Craft Scheduler Thread - 26 - EliteMobs/INFO]: [EliteMobs] User 8c1d60db-0677-3e33-8e2b-6f857dd2ea16 data successfully read!
+[00:41:42] [Server thread/INFO]: ---------------------------------------------
+[00:41:42] [Server thread/INFO]: El Goblin Armado ha sido desarmado!
+[00:41:42] [Server thread/INFO]:     1er Dañador: ¡Scyther190 con 183.51 daño!
+[00:41:42] [Server thread/INFO]: 
+[00:41:42] [Server thread/INFO]: 
+[00:41:42] [Server thread/INFO]: Asesinos: Scyther190
+[00:41:42] [Server thread/INFO]: ---------------------------------------------
+[00:41:42] [Server thread/INFO]: Named entity Zombie['「7」 Goblin Armado'/11311, uuid='e2ba4ab8-c8d5-42d2-8037-a50d17e654ee', l='ServerLevel[world]', x=-484.02, y=47.00, z=-1079.98, cpos=[-31, -68], tl=3209, v=true] died: 「7」 Goblin Armado was slain by Scyther190 using [Imponente Hacha]
+[00:41:43] [Server thread/INFO]: There are 4 of a max of 20 players online: luxfoo, Ro0dr1, Scyther190, Silver_servi
+[00:41:43] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml ended!
+[00:42:15] [User Authenticator #4/INFO]: UUID of player BlackWhite_J is de65cb10-d375-316a-91b2-8bc48f8b832d
+[00:42:17] [Server thread/INFO]: [vane-admin] [broadcast] BlackWhite_J se ha unido al servidor
+[00:42:17] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to BlackWhite_J. rspUUID is null: false. done: true. firstUpload: false.
+[00:42:17] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to BlackWhite_J
+[00:42:17] [Server thread/INFO]: Detención automática no programada
+[00:42:17] [Server thread/INFO]: BlackWhite_J has joined!
+[00:42:17] [Server thread/INFO]: BlackWhite_J[/127.150.137.127:46511] logged in with entity id 14072 at ([world]616.5926418269156, 76.5, -3086.4522666814496)
+[00:42:18] [Craft Scheduler Thread - 26 - EliteMobs/INFO]: [EliteMobs] User de65cb10-d375-316a-91b2-8bc48f8b832d data successfully read!
