@@ -12,3 +12,42 @@
 [00:09:02] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
 [00:09:02] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
 [00:10:17] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 7d171fc7-caaf-40fd-b842-633047e95e5f
+[00:12:36] [Server thread/INFO]: Named entity Zombie['「7」 Tótem Zombi'/211, uuid='573504d8-755a-44f7-aaa1-7d9177915ce9', l='ServerLevel[world]', x=-568.20, y=44.00, z=-1079.67, cpos=[-36, -68], tl=4291, v=true] died: 「7」 Tótem Zombi was fireballed by 「7」 Cabeza Zombi
+[00:13:13] [Server thread/INFO]: ---------------------------------------------
+[00:13:13] [Server thread/INFO]: El Tótem Zombi ha sido asesinado!
+[00:13:13] [Server thread/INFO]:     1er Dañador: ¡Scyther190 con 66.8 daño!
+[00:13:13] [Server thread/INFO]: 
+[00:13:13] [Server thread/INFO]: 
+[00:13:13] [Server thread/INFO]: Asesinos: Scyther190
+[00:13:13] [Server thread/INFO]: ---------------------------------------------
+[00:13:13] [Server thread/INFO]: Named entity Zombie['「7」 Cabeza Zombi'/210, uuid='1090bd1b-f8a6-4f15-bc8e-8da7643a141f', l='ServerLevel[world]', x=-565.69, y=44.73, z=-1076.96, cpos=[-36, -68], tl=5018, v=true] died: 「7」 Cabeza Zombi was slain by Scyther190 using [Imponente Hacha]
+[00:13:14] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml ended!
+[00:15:02] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
+[00:15:02] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[00:15:07] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss b6f6c2cf-60a7-4c12-974e-df3d37ae1e06
+[00:15:58] [Server thread/INFO]: Named entity Pillager['〔7〕 Guardia de Caravana'/1294, uuid='1218d6b2-468a-4b0a-83c8-0414a9ac3ef7', l='ServerLevel[world]', x=-593.69, y=64.19, z=-940.23, cpos=[-38, -59], tl=680, v=true] died: 〔7〕 Guardia de Caravana was shot by Scyther190 using [Arco del Última Lémur]
+[00:16:06] [Server thread/INFO]: Named entity Pillager['〔7〕 Guardia de Caravana'/1296, uuid='454d4d19-b5d4-4d08-9af6-f23c950691c0', l='ServerLevel[world]', x=-589.14, y=64.37, z=-940.78, cpos=[-37, -59], tl=837, v=true] died: 〔7〕 Guardia de Caravana was shot by Scyther190 using [Arco del Última Lémur]
+[00:16:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+lst<--[HERE]
+[00:16:24] [Server thread/INFO]: Named entity Pillager['「7」 Pillager Líder de la Caravana'/1273, uuid='f53de895-c0a0-4ebc-be2d-7e1cd72be8af', l='ServerLevel[world]', x=-581.46, y=64.15, z=-943.84, cpos=[-37, -59], tl=1656, v=true] died: 「7」 Pillager Líder de la Caravana was shot by Scyther190 using [Arco del Última Lémur]
+[00:16:25] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml ended!
+[00:16:34] [Server thread/INFO]: There are 1 of a max of 20 players online: Scyther190
+[00:20:08] [User Authenticator #1/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[00:20:09] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[00:20:09] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[00:20:09] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[00:20:09] [Server thread/INFO]: Detención automática no programada
+[00:20:09] [Server thread/INFO]: luxfoo has joined!
+[00:20:09] [Server thread/INFO]: luxfoo[/127.109.168.5:38957] logged in with entity id 1895 at ([world]-698.8200013108102, 63.0, -75.41129712746431)
+[00:20:10] [Craft Scheduler Thread - 24 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[00:20:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Scyther190> tendras verugas del nether?
+[00:21:02] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml has been queued!
+[00:21:02] [Server thread/INFO]: ¡Un Goblin del Tesoro ha sido avistado!
+[00:21:13] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss feac16c9-d2f7-474e-8d31-a9b341618d6a
+[00:21:37] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss feac16c9-d2f7-474e-8d31-a9b341618d6a
+[00:22:00] [Server thread/INFO]: Scyther190 issued server command: /sethome
+[00:22:06] [Server thread/INFO]: Scyther190 issued server command: /homelist
+[00:22:15] [Async Chat Thread - #1/INFO]: [Not Secure] <luxfoo> vi que soy el unico
+[00:22:21] [Async Chat Thread - #2/INFO]: [Not Secure] <luxfoo> no tengo nada
+[00:22:25] [Async Chat Thread - #2/INFO]: [Not Secure] <luxfoo> soy pobre
+[00:22:29] [Server thread/INFO]: Scyther190 issued server command: /homes
