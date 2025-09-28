@@ -1183,3 +1183,15 @@ java.lang.NullPointerException: null
 [23:21:30] [Async Chat Thread - #13/INFO]: [Not Secure] <luxfoo> olvide que no tengo lapizlazuli xd
 [23:21:30] [Server thread/INFO]: GaRa has made the advancement [Best Friends Forever]
 [23:21:44] [Async Chat Thread - #13/INFO]: [Not Secure] <Khvicha_K77> jajajaja
+[23:23:00] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
+[23:24:32] [Server thread/INFO]: luxfoo issued server command: /home
+[23:24:39] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Khvicha K77 has disconnected from the Java server because of Bedrock client disconnected
+[23:24:39] [Server thread/INFO]: Khvicha_K77 lost connection: Disconnected
+[23:24:39] [Server thread/INFO]: Khvicha_K77 has left!
+[23:24:39] [Server thread/INFO]: [vane-admin] [broadcast] Khvicha_K77 [0ms] ha abandonado el servidor
+[23:28:34] [Server thread/WARN]: Bramchixxx moved too quickly! 5.916415127616347,-4.580000013113022,-17.867578297941236
+[23:28:34] [Server thread/WARN]: GaRa moved too quickly! -2.1590748268413336,0.0,-15.284273933169288
+[23:28:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7879ms or 157 ticks behind
+[23:28:39] [Server thread/WARN]: Bramchixxx moved too quickly! -4.892275200430504,0.04353562014750878,-13.183457962683178
+[23:29:18] [Server thread/INFO]: Villager Villager['Fisherman'/75931, uuid='6ada15e8-d208-4cbe-b984-be0e0b21485e', l='ServerLevel[world]', x=255.51, y=62.00, z=1735.49, cpos=[15, 108], tl=42562, v=true] died, message: 'Fisherman burned to death'
+[23:31:21] [Server thread/INFO]: Silver_servi issued server command: /home yu
