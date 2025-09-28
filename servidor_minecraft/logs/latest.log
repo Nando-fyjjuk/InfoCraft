@@ -723,3 +723,134 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [21:58:10] [Server thread/INFO]: [SeeMore] Set view distance of Yossmell to 7 (client view distance is 10).
+[22:00:11] [Server thread/INFO]: Yossmell lost connection: Disconnected
+[22:00:11] [Server thread/INFO]: Yossmell has left!
+[22:00:11] [Server thread/INFO]: [vane-admin] [broadcast] Yossmell [208ms] ha abandonado el servidor
+[22:00:23] [User Authenticator #5/INFO]: UUID of player Silver_servi is 8c1d60db-0677-3e33-8e2b-6f857dd2ea16
+[22:00:29] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Khvicha K77 has disconnected from the Java server because of Bedrock client timed out
+[22:00:29] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 disconnected
+[22:00:37] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.7-17-b4466ec (MC: 1.21.7) ---
+[22:00:37] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[22:00:37] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:00:37] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[22:00:37] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait task info below: 
+[22:00:37] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait: [( 131,-42) in 'world']
+[22:00:37] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk holder: NewChunkHolder{world=world, chunkX=131, chunkZ=-42, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:initialize_light}, currentGenStatus=minecraft:initialize_light, requestedGenStatus=minecraft:full, generationTask=null, generationTaskStatus=null, priority=BLOCKING, priorityLocked=false, neighbourRequestedPriority=null, effective_priority=BLOCKING, oldTicketLevel=33, currentTicketLevel=33, totalNeighboursUsingThisChunk=3, fullNeighbourChunksLoadedBitset=2048, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}
+[22:00:37] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:00:37] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[22:00:37] [Paper Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:00:37] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/jdk.internal.misc.Unsafe.park(Native Method)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:150)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:140)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.managedBlock(ServerChunkCache.java:795)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.syncLoad(ServerChunkCache.java:121)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunkFallback(ServerChunkCache.java:155)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:326)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:1006)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$waitForChunkAndEntities$23(ServerLevel.java:2490)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000734576fcf270.accept(Unknown Source)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.lang.Iterable.forEach(Iterable.java:75)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.waitForChunkAndEntities(ServerLevel.java:2490)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:231)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerConfigurationPacketListenerImpl.handleConfigurationFinished(ServerConfigurationPacketListenerImpl.java:184)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:22)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:8)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.PacketUtils$$Lambda/0x0000734576fc0da8.run(Unknown Source)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000734574fad208.run(Unknown Source)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.lang.Thread.runWith(Thread.java:1596)
+[22:00:37] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.lang.Thread.run(Thread.java:1583)
+[22:00:37] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:00:37] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[22:00:37] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:00:39] [User Authenticator #5/INFO]: UUID of player Yossmell is ad07ddf4-6e43-3d1c-89d8-96382501eaac
+[22:00:41] [Server thread/INFO]: [vane-admin] [broadcast] Silver_servi se ha unido al servidor
+[22:00:41] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Silver_servi. rspUUID is null: false. done: true. firstUpload: false.
+[22:00:41] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Silver_servi
+[22:00:41] [Server thread/INFO]: Detención automática no programada
+[22:00:41] [Server thread/INFO]: Silver_servi has joined!
+[22:00:41] [Server thread/INFO]: Silver_servi[/127.60.95.110:47403] logged in with entity id 6771 at ([world]2101.699999988079, 68.02442408821369, -646.3981015138119)
+[22:00:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14670ms or 293 ticks behind
+[22:00:41] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[22:00:41] [Server thread/INFO]: luxfoo has left!
+[22:00:41] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [124ms] ha abandonado el servidor
+[22:00:41] [Server thread/INFO]: .Khvicha_K77 lost connection: Disconnected
+[22:00:41] [Server thread/INFO]: .Khvicha_K77 has left!
+[22:00:41] [Server thread/INFO]: [vane-admin] [broadcast] .Khvicha_K77 [0ms] ha abandonado el servidor
+[22:00:42] [Server thread/WARN]: Scyther190 moved too quickly! 61.384706847438565,1.0,0.08876939998265243
+[22:00:42] [Craft Scheduler Thread - 34 - EliteMobs/INFO]: [EliteMobs] User 8c1d60db-0677-3e33-8e2b-6f857dd2ea16 data successfully read!
+[22:00:44] [Server thread/INFO]: [vane-admin] [broadcast] Yossmell se ha unido al servidor
+[22:00:44] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Yossmell. rspUUID is null: false. done: true. firstUpload: false.
+[22:00:44] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Yossmell
+[22:00:44] [Server thread/INFO]: Detención automática no programada
+[22:00:44] [Server thread/INFO]: Yossmell has joined!
+[22:00:44] [Server thread/INFO]: Yossmell[/127.206.236.220:54539] logged in with entity id 6846 at ([world]-10.578850932755845, 69.0, 17.29202014773127)
+[22:00:44] [Server thread/INFO]: Yossmell died
+[22:00:45] [Craft Scheduler Thread - 32 - EliteMobs/INFO]: [EliteMobs] User ad07ddf4-6e43-3d1c-89d8-96382501eaac data successfully read!
+[22:00:50] [User Authenticator #5/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[22:00:51] [Server thread/WARN]: Scyther190 moved too quickly! 10.0388447503218,1.2491870787446828,0.15693030084634074
+[22:00:52] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[22:00:52] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[22:00:52] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[22:00:52] [Server thread/INFO]: Detención automática no programada
+[22:00:52] [Server thread/INFO]: luxfoo has joined!
+[22:00:52] [Server thread/INFO]: luxfoo[/127.109.168.5:33627] logged in with entity id 6965 at ([world]-460.23513078519494, -54.0, -259.71270939184575)
+[22:00:52] [Craft Scheduler Thread - 30 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[22:00:55] [Server thread/WARN]: [vane-core] Force stopped delaying messages to player 'Silver_servi' after their client didn't report any status after 30000 ms. If this message appears again after they reconnect, it might be a configuration issue.
+[22:01:18] [Server thread/INFO]: Scyther190 was slain by Lvl 50 | Enderman
+[22:01:35] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml has been queued!
+[22:01:35] [Server thread/INFO]: ¡Un Goblin de Monedas ha sido avistado!
+[22:01:36] [Server thread/INFO]: Scyther190 issued server command: /graves
+[22:01:38] [User Authenticator #5/INFO]: UUID of player GaRa is 4123c1d7-8769-3e71-b81d-0413d5ea5b3a
+[22:01:39] [Server thread/INFO]: [vane-admin] [broadcast] GaRa se ha unido al servidor
+[22:01:39] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to GaRa. rspUUID is null: false. done: true. firstUpload: false.
+[22:01:39] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to GaRa
+[22:01:39] [Server thread/INFO]: Detención automática no programada
+[22:01:39] [Server thread/INFO]: GaRa has joined!
+[22:01:39] [Server thread/INFO]: GaRa[/127.108.131.140:33223] logged in with entity id 7779 at ([world]-171.8713242106962, -17.0, 198.99481923318933)
+[22:01:40] [Craft Scheduler Thread - 33 - EliteMobs/INFO]: [EliteMobs] User 4123c1d7-8769-3e71-b81d-0413d5ea5b3a data successfully read!
+[22:02:11] [Server thread/INFO]: luxfoo has made the advancement [Cover Me with Diamonds]
+[22:02:36] [Server thread/ERROR]: Entity threw exception at world_nether:-100.5,63.0,-84.5
+java.lang.NullPointerException: null
+[22:03:06] [Server thread/INFO]: Scyther190 issued server command: /graves
+[22:03:16] [Server thread/INFO]: Silver_servi has made the advancement [The Cutest Predator]
+[22:03:49] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username Khvicha K77
+[22:03:49] [localSession-7-3/INFO]: [Geyser-Spigot] Khvicha K77 (logged in as: Khvicha_K77) has connected to the Java server
+[22:03:49] [Server thread/INFO]: [vane-admin] [broadcast] .Khvicha_K77 se ha unido al servidor
+[22:03:49] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77. rspUUID is null: false. done: true. firstUpload: false.
+[22:03:49] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77
+[22:03:49] [Server thread/INFO]: Detención automática no programada
+[22:03:49] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 joined (UUID: 00000000-0000-0000-0009-01f6a628710a)
+[22:03:49] [Server thread/INFO]: .Khvicha_K77 has joined!
+[22:03:50] [Server thread/INFO]: .Khvicha_K77[/127.3.255.203:0] logged in with entity id 9744 at ([world]-642.8069, 74.0, -43.113487)
+[22:03:50] [Server thread/INFO]: .Khvicha_K77 died
+[22:03:50] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:03:50] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:03:50] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:03:50] [Server thread/INFO]: [SeeMore] Set view distance of .Khvicha_K77 to 7 (client view distance is 7).
+[22:03:50] [Craft Scheduler Thread - 35 - EliteMobs/INFO]: [EliteMobs] User 00000000-0000-0000-0009-01f6a628710a data successfully read!
+[22:04:34] [Server thread/INFO]: Silver_servi issued server command: /home yu
+[22:05:04] [Server thread/INFO]: Silver_servi died
+[22:06:07] [Server thread/INFO]: Yossmell lost connection: Disconnected
+[22:06:07] [Server thread/INFO]: Yossmell has left!
+[22:06:07] [Server thread/INFO]: [vane-admin] [broadcast] Yossmell [199ms] ha abandonado el servidor
+[22:07:25] [Server thread/INFO]: luxfoo issued server command: /home
+[22:07:35] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
+[22:07:35] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
+[22:07:36] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
+[22:07:43] [Server thread/INFO]: GaRa issued server command: /elitemobs track boss 069a24ba-5aa9-43a5-9a59-151e5e45187b
