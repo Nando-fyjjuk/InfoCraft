@@ -1,1 +1,2 @@
 [02:47:08 INFO] Successfully loaded nicknames from Json storage.
+[21:38:12 INFO] Successfully loaded nicknames from Json storage.
