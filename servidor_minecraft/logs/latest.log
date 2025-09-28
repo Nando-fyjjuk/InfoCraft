@@ -854,3 +854,106 @@ java.lang.NullPointerException: null
 [22:07:35] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
 [22:07:36] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
 [22:07:43] [Server thread/INFO]: GaRa issued server command: /elitemobs track boss 069a24ba-5aa9-43a5-9a59-151e5e45187b
+[22:09:29] [Server thread/INFO]: Named entity Zombie['「6」 Tótem Zombi'/14874, uuid='aa8106ab-c2f5-4e4e-b905-b6079dffd9b5', l='ServerLevel[world]', x=-546.13, y=82.00, z=-53.95, cpos=[-35, -4], tl=1396, v=true] died: 「6」 Tótem Zombi was blown up by 「6」 Cabeza Zombi
+[22:09:32] [Server thread/INFO]: Named entity Zombie['「6」 Tótem Zombi'/14873, uuid='7926ae98-ac0c-4549-9aed-a97d4cbbf2e2', l='ServerLevel[world]', x=-546.19, y=82.00, z=-53.88, cpos=[-35, -4], tl=1456, v=true] died: 「6」 Tótem Zombi walked into fire while fighting 「6」 Cabeza Zombi
+[22:09:40] [User Authenticator #6/INFO]: UUID of player Bramchixxx is b380781a-bec6-3c63-8db4-fca7ed8c0e54
+[22:09:42] [Server thread/INFO]: [vane-admin] [broadcast] Bramchixxx se ha unido al servidor
+[22:09:42] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Bramchixxx. rspUUID is null: false. done: true. firstUpload: false.
+[22:09:42] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Bramchixxx
+[22:09:42] [Server thread/INFO]: Detención automática no programada
+[22:09:42] [Server thread/INFO]: Bramchixxx has joined!
+[22:09:42] [Server thread/INFO]: Bramchixxx[/127.108.131.140:57943] logged in with entity id 17428 at ([world]151.8284929342584, 0.0, -878.7301417260679)
+[22:09:43] [Craft Scheduler Thread - 33 - EliteMobs/INFO]: [EliteMobs] User b380781a-bec6-3c63-8db4-fca7ed8c0e54 data successfully read!
+[22:09:45] [Server thread/INFO]: Named entity Zombie['「6」 Tótem Zombi'/14872, uuid='6a65214c-d855-4872-8434-33db5b35c0b9', l='ServerLevel[world]', x=-546.86, y=82.00, z=-53.62, cpos=[-35, -4], tl=1720, v=true] died: 「6」 Tótem Zombi was blown up by 「6」 Cabeza Zombi
+[22:09:58] [Server thread/INFO]: Named entity Zombie['Zombi de .Khvicha_K77'/17990, uuid='42e1baa1-3ded-40c0-84bc-5893f971f746', l='ServerLevel[world]', x=-642.27, y=74.00, z=-38.73, cpos=[-41, -3], tl=114, v=true] died: Zombi de .Khvicha_K77 was slain by luxfoo
+[22:09:58] [Server thread/INFO]: ¡「6」 Cabeza Zombi llegó a los cerebros de .Khvicha_K77!
+[22:10:00] [Server thread/INFO]: GaRa issued server command: /tpahere Bramchixxx
+[22:10:05] [Server thread/INFO]: Bramchixxx issued server command: /huskhomes:tpaccept GaRa
+[22:10:42] [User Authenticator #7/INFO]: UUID of player Yossmell is ad07ddf4-6e43-3d1c-89d8-96382501eaac
+[22:10:43] [Server thread/INFO]: [vane-admin] [broadcast] Yossmell se ha unido al servidor
+[22:10:43] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Yossmell. rspUUID is null: false. done: true. firstUpload: false.
+[22:10:43] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Yossmell
+[22:10:43] [Server thread/INFO]: Detención automática no programada
+[22:10:43] [Server thread/INFO]: Yossmell has joined!
+[22:10:43] [Server thread/INFO]: Yossmell[/127.206.236.220:34699] logged in with entity id 19187 at ([world]27.539919888478522, 66.0, -47.26207279991648)
+[22:10:44] [Craft Scheduler Thread - 33 - EliteMobs/INFO]: [EliteMobs] User ad07ddf4-6e43-3d1c-89d8-96382501eaac data successfully read!
+[22:10:45] [Server thread/INFO]: thegeomusic lost connection: Disconnected
+[22:10:45] [Server thread/INFO]: thegeomusic has left!
+[22:10:45] [Server thread/INFO]: [vane-admin] [broadcast] thegeomusic [221ms] ha abandonado el servidor
+[22:10:52] [Server thread/INFO]: Named entity Witch['Bruja de Elite Nivel 6'/14730, uuid='89f063f2-6de7-4225-8fe2-bb9eee2dff84', l='ServerLevel[world]', x=-173.30, y=34.00, z=265.30, cpos=[-11, 16], tl=3267, v=true] died: Bruja de Elite Nivel 6 was slain by GaRa
+[22:13:05] [Server thread/INFO]: [EliteMobs] Event beast_master.yml ended!
+[22:13:35] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml has been queued!
+[22:13:35] [Server thread/INFO]: ¡Un Goblin del Tesoro ha sido avistado!
+[22:14:25] [Server thread/INFO]: .Khvicha_K77 has made the advancement [Sweet Dreams]
+[22:15:14] [Server thread/INFO]: ¡Bramchixxx fue devorado por 「7」 Goblin Armado!
+[22:15:14] [Server thread/INFO]: ¡Bramchixxx ha sido ejecutado!
+[22:15:15] [Server thread/INFO]: Scyther190 lost connection: Disconnected
+[22:15:15] [Server thread/INFO]: Scyther190 has left!
+[22:15:15] [Server thread/INFO]: [vane-admin] [broadcast] Scyther190 [194ms] ha abandonado el servidor
+[22:15:43] [Server thread/INFO]: GaRa issued server command: /tpahere Bramchixxx
+[22:15:46] [Server thread/INFO]: Bramchixxx issued server command: /huskhomes:tpaccept GaRa
+[22:15:53] [Server thread/INFO]: ---------------------------------------------
+[22:15:53] [Server thread/INFO]: El Goblin Armado ha sido desarmado!
+[22:15:53] [Server thread/INFO]:     1er Dañador: ¡GaRa con 81.64 daño!
+[22:15:53] [Server thread/INFO]:     2do Dañador: ¡Bramchixxx con 61.59 daño!
+[22:15:53] [Server thread/INFO]: 
+[22:15:53] [Server thread/INFO]: Asesinos: Bramchixxx, GaRa
+[22:15:53] [Server thread/INFO]: ---------------------------------------------
+[22:15:53] [Server thread/INFO]: Named entity Zombie['「7」 Goblin Armado'/13806, uuid='65d2c9ec-6168-4334-89e7-520a1a8caa75', l='ServerLevel[world]', x=-92.48, y=59.80, z=240.74, cpos=[-6, 15], tl=9966, v=true] died: 「7」 Goblin Armado was slain by GaRa
+[22:15:54] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml ended!
+[22:16:22] [Server thread/INFO]: ¡GaRa fue devorado por Zombi de Elite Nivel 11!
+[22:16:29] [Server thread/INFO]: Bramchixxx issued server command: /tpahere GaRa
+[22:16:32] [Server thread/INFO]: GaRa issued server command: /huskhomes:tpaccept Bramchixxx
+[22:17:13] [Server thread/INFO]: .Khvicha_K77 has made the advancement [Stone Age]
+[22:17:46] [Server thread/INFO]: .Khvicha_K77 has made the advancement [Getting an Upgrade]
+[22:17:59] [Server thread/INFO]: ¡GaRa fue carroña de un Zombi Momificado de Elite Nivel 12!
+[22:18:08] [Server thread/INFO]: Bramchixxx issued server command: /tpahere GaRa
+[22:18:22] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 6'/29013, uuid='f160ac79-a3f6-480c-9d4a-abb78972894c', l='ServerLevel[world]', x=-611.30, y=64.00, z=143.30, cpos=[-39, 8], tl=616, v=true] died: Esqueleto de Elite Nivel 6 was slain by luxfoo
+[22:18:23] [Server thread/INFO]: ¡Bramchixxx fue devorado por Zombi de Elite Nivel 11!
+[22:18:27] [Server thread/INFO]: GaRa issued server command: /huskhomes:tpaccept Bramchixxx
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 19.523847402911997,0.0,5.912447130689998
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 19.906667940223997,0.0,6.02837746658588
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 20.289488477535997,0.0,6.144307802481762
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 20.672309014847997,0.0,6.260238138377645
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 21.055129552159997,0.0,6.376168474273527
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 21.437950089471997,0.0,6.492098810169409
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 21.820770626783997,0.0,6.608029146065292
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 22.203591164095997,0.0,6.723959481961174
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 22.586411701407997,0.0,6.839889817857056
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 22.969232238719997,0.0,6.9558201537529385
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 23.352052776031996,0.0,7.071750489648821
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 23.734873313343996,0.0,7.187680825544703
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 24.117693850655996,0.0,7.303611161440585
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 24.500514387967996,0.0,7.419541497336468
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 24.883334925279996,0.0,7.53547183323235
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 25.266155462591996,0.0,7.651402169128232
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 25.648975999903996,0.0,7.767332505024115
+[22:18:37] [Server thread/WARN]: .Khvicha_K77 moved too quickly! -0.8586999999999989,2.0,-9.835430000000002
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 26.031796537215996,0.0,7.883262840919997
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 26.414617074527996,0.0,7.999193176815879
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 26.797437611839996,0.0,8.115123512711762
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 27.180258149151996,0.0,8.231053848607644
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 27.563078686463996,0.0,8.346984184503526
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 27.945899223775996,0.0,8.462914520399409
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 28.328719761087996,0.0,8.57884485629529
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 28.711540298399996,0.0,8.694775192191173
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 29.094360835711996,0.0,8.810705528087055
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 29.477181373023996,0.0,8.926635863982938
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 29.860001910335995,0.0,9.04256619987882
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 30.242822447647995,0.0,9.158496535774702
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 30.625642984959995,0.0,9.274426871670585
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 31.008463522271995,0.0,9.390357207566467
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 31.391284059583995,0.0,9.50628754346235
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 31.774104596895995,0.0,9.622217879358232
+[22:18:37] [Server thread/WARN]: Oak Boat (vehicle of Silver_servi) moved too quickly! 32.156925134207995,0.0,9.738148215254114
+[22:18:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4176ms or 83 ticks behind
+[22:18:39] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[22:18:39] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[22:18:41] [Server thread/INFO]: There are 6 of a max of 20 players online: luxfoo, Silver_servi, .Khvicha_K77, Yossmell, GaRa, Bramchixxx
+[22:19:05] [Server thread/INFO]: luxfoo issued server command: /home
+[22:19:10] [Server thread/INFO]: GaRa issued server command: /tpahere Bramchixxx
+[22:19:17] [Server thread/INFO]: Bramchixxx issued server command: /huskhomes:tpaccept GaRa
+[22:19:29] [Server thread/INFO]: GaRa issued server command: /tpahere Bramchixxx
+[22:19:32] [Server thread/INFO]: Bramchixxx issued server command: /huskhomes:tpaccept GaRa
+[22:19:36] [Server thread/INFO]: ¡Goblin del Tesoro 「1」 llegó a los cerebros de Yossmell!
+[22:19:39] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml ended!
