@@ -157,3 +157,32 @@ Iist<--[HERE]
 [00:42:17] [Server thread/INFO]: BlackWhite_J has joined!
 [00:42:17] [Server thread/INFO]: BlackWhite_J[/127.150.137.127:46511] logged in with entity id 14072 at ([world]616.5926418269156, 76.5, -3086.4522666814496)
 [00:42:18] [Craft Scheduler Thread - 26 - EliteMobs/INFO]: [EliteMobs] User de65cb10-d375-316a-91b2-8bc48f8b832d data successfully read!
+[00:44:03] [Server thread/INFO]: Scyther190 issued server command: /sethome
+[00:45:02] [Server thread/INFO]: [EliteMobs] Event beast_master.yml has been queued!
+[00:45:02] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
+[00:45:17] [Server thread/INFO]: BlackWhite_J issued server command: /msg Ro0dr1 donde estas?
+[00:45:43] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[00:45:43] [Server thread/INFO]: luxfoo has left!
+[00:45:43] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [125ms] ha abandonado el servidor
+[00:46:03] [Server thread/INFO]: Ro0dr1 issued server command: /msg BlackWhite_J a 2000 bloques de la base creo
+[00:46:19] [Server thread/INFO]: BlackWhite_J issued server command: /msg tu sacaste reparacion?
+[00:46:32] [Server thread/INFO]: BlackWhite_J issued server command: /msg Ro0dr1 tu sacaste reparacion y los aldeanos?
+[00:46:45] [User Authenticator #5/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[00:46:46] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[00:46:46] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[00:46:46] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[00:46:46] [Server thread/INFO]: Detención automática no programada
+[00:46:46] [Server thread/INFO]: luxfoo has joined!
+[00:46:46] [Server thread/INFO]: luxfoo[/127.109.168.5:58563] logged in with entity id 16231 at ([world_nether]-52.97754782981195, 32.0, -56.11686667275368)
+[00:46:47] [Craft Scheduler Thread - 41 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[00:46:51] [Server thread/INFO]: Ro0dr1 issued server command: /msg BlackWhite_J los trayhrad mano
+[00:48:12] [Server thread/INFO]: BlackWhite_J issued server command: /msg Ro0dr1 toda la vida mano asi no se puede jugar
+[00:50:27] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_6.PaperweightStarlightRelighterFactory as relighter factory.
+[00:51:02] [Server thread/INFO]: [EliteMobs] Event full_moon.yml has been queued!
+[00:52:14] [Server thread/INFO]: BlackWhite_J issued server command: /msg Ro0dr1 tu hiciste la sala de cofess?
+[00:52:21] [Server thread/INFO]: Silver_servi issued server command: /elitemobs track boss 7c787931-aadc-4261-a43b-f9fd44453a26
+[00:52:24] [Server thread/INFO]: Silver_servi issued server command: /elitemobs track boss 7c787931-aadc-4261-a43b-f9fd44453a26
+[00:52:24] [Server thread/INFO]: Silver_servi issued server command: /elitemobs track boss 7c787931-aadc-4261-a43b-f9fd44453a26
+[00:52:24] [Server thread/INFO]: Silver_servi issued server command: /elitemobs track boss 7c787931-aadc-4261-a43b-f9fd44453a26
+[00:53:06] [Async Chat Thread - #16/INFO]: [Not Secure] <luxfoo> esto ya fue saqueado¡
+[00:53:09] [Async Chat Thread - #16/INFO]: [Not Secure] <luxfoo> ?
