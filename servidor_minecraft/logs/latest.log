@@ -260,3 +260,30 @@ Iist<--[HERE]
 [01:12:18] [Craft Scheduler Thread - 48 - EliteMobs/INFO]: [EliteMobs] User a611b98f-c6ce-3253-af82-fe391b11c5a5 data successfully read!
 [01:12:56] [Server thread/WARN]: DITFKLIN002 moved too quickly! 4.717271737838928,-0.8291870918577047,9.454571737993092
 [01:13:06] [Server thread/INFO]: [SeeMore] Set view distance of Silver_servi to 7 (client view distance is 12).
+[01:14:15] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 4'/53240, uuid='2e2a6bcd-1ba4-4782-b51d-21ef3b500411', l='ServerLevel[world]', x=188.70, y=68.00, z=-757.70, cpos=[11, -48], tl=1185, v=true] died: Esqueleto de Elite Nivel 4 was slain by Silver_servi
+[01:14:32] [User Authenticator #10/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[01:14:34] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[01:14:34] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[01:14:34] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[01:14:34] [Server thread/INFO]: Detención automática no programada
+[01:14:34] [Server thread/INFO]: luxfoo has joined!
+[01:14:34] [Server thread/INFO]: luxfoo[/127.109.168.5:57165] logged in with entity id 55357 at ([world]-697.3333440738552, 63.0, -75.10537975578679)
+[01:14:35] [Craft Scheduler Thread - 52 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[01:14:48] [Server thread/INFO]: [EliteMobs] Event beast_master.yml ended!
+[01:15:46] [Server thread/INFO]: DITFKLIN002 has made the advancement [Monster Hunter]
+[01:15:56] [Async Chat Thread - #19/INFO]: [Not Secure] <Ro0dr1> tan capo
+[01:16:07] [Server thread/INFO]: Ro0dr1 issued server command: /tpa BlackWhite_J
+[01:16:15] [Server thread/INFO]: BlackWhite_J issued server command: /huskhomes:tpaccept Ro0dr1
+[01:16:22] [Server thread/INFO]: Named entity MagmaCube['Lvl 10 Elite Magma Cube'/55448, uuid='0782cb8b-3983-4f46-9f38-c1d46178761b', l='ServerLevel[world_nether]', x=270.58, y=32.00, z=-219.97, cpos=[16, -14], tl=2140, v=true] died: Lvl 10 Elite Magma Cube was shot by Scyther190 using [Arco del Última Lémur]
+[01:16:37] [Server thread/INFO]: luxfoo issued server command: /home
+[01:16:46] [Server thread/INFO]: luxfoo issued server command: /home
+[01:17:02] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml has been queued!
+[01:17:02] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
+[01:17:29] [Server thread/INFO]: Hoglin de Elite Nivel 10 Convirtió a luxfoo en jamón!
+[01:17:41] [Async Chat Thread - #21/INFO]: [Not Secure] <Scyther190> xd
+[01:17:55] [Server thread/INFO]: DITFKLIN002 has made the advancement [Stone Age]
+[01:18:40] [Server thread/INFO]: DITFKLIN002 has made the advancement [Getting an Upgrade]
+[01:18:59] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
+[01:21:50] [Server thread/INFO]: BlackWhite_J has made the advancement [Sneak 100]
+[01:23:02] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml has been queued!
+[01:23:46] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 9'/69870, uuid='198ab949-84bc-4cbc-a8fa-14efcf5f1068', l='ServerLevel[world]', x=-553.33, y=-26.22, z=-3831.30, cpos=[-35, -240], tl=1423, v=true] died: Esqueleto de Elite Nivel 9 was shot by Ro0dr1
