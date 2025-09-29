@@ -189,3 +189,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [01:31:26] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss 130f2b21-01cf-4c05-a45c-377402799b65
 [01:32:27] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
 [01:32:55] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss 130f2b21-01cf-4c05-a45c-377402799b65
+[01:36:20] [User Authenticator #10/INFO]: UUID of player Scyther190 is a82af51d-a5c8-32dc-a772-26c761f289c2
+[01:36:21] [Server thread/INFO]: [vane-admin] [broadcast] Scyther190 se ha unido al servidor
+[01:36:21] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190. rspUUID is null: false. done: true. firstUpload: false.
+[01:36:21] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190
+[01:36:21] [Server thread/INFO]: Detención automática no programada
+[01:36:21] [Server thread/INFO]: Scyther190 has joined!
+[01:36:21] [Server thread/INFO]: Scyther190[/127.212.126.52:59015] logged in with entity id 115855 at ([world]-602.9334805409504, 32.0, -1099.7164516189478)
+[01:36:22] [Craft Scheduler Thread - 50 - EliteMobs/INFO]: [EliteMobs] User a82af51d-a5c8-32dc-a772-26c761f289c2 data successfully read!
+[01:38:06] [Server thread/INFO]: DITFKLIN002 has made the advancement [We Need to Go Deeper]
+[01:38:45] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[01:38:45] [Server thread/INFO]: luxfoo has left!
+[01:38:45] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [155ms] ha abandonado el servidor
+[01:39:21] [Server thread/INFO]: There are 2 of a max of 20 players online: DITFKLIN002, Scyther190
+[01:39:46] [User Authenticator #11/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[01:39:47] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[01:39:47] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[01:39:47] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[01:39:47] [Server thread/INFO]: Detención automática no programada
+[01:39:47] [Server thread/INFO]: luxfoo has joined!
+[01:39:47] [Server thread/INFO]: luxfoo[/127.109.168.5:45509] logged in with entity id 122789 at ([world]-693.5550121061636, 63.0, -88.83239982115069)
+[01:39:48] [Craft Scheduler Thread - 34 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
