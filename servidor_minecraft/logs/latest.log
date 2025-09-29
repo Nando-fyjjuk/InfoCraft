@@ -175,3 +175,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [01:22:43] [Server thread/INFO]: Scyther190 issued server command: /home
 [01:22:59] [Server thread/INFO]: Scyther190 died
 [01:23:03] [Async Chat Thread - #2/INFO]: [Not Secure] <luxfoo> xd
+[01:23:09] [Server thread/INFO]: [EliteMobs] Event beast_master.yml ended!
+[01:23:56] [Server thread/INFO]: Scyther190 has made the advancement [Hidden in the Depths]
+[01:24:30] [Server thread/INFO]: luxfoo has made the advancement [The Parrots and the Bats]
+[01:24:38] [Server thread/INFO]: Scyther190 lost connection: Disconnected
+[01:24:38] [Server thread/INFO]: Scyther190 has left!
+[01:24:38] [Server thread/INFO]: [vane-admin] [broadcast] Scyther190 [182ms] ha abandonado el servidor
+[01:26:23] [Server thread/INFO]: DITFKLIN002 has made the advancement [Sweet Dreams]
+[01:29:08] [Server thread/INFO]: There are 2 of a max of 20 players online: DITFKLIN002, luxfoo
+[01:29:42] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[01:31:22] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml has been queued!
+[01:31:22] [Server thread/INFO]: ¡Un Goblin del Tesoro ha sido avistado!
+[01:31:26] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss 130f2b21-01cf-4c05-a45c-377402799b65
+[01:32:27] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
+[01:32:55] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss 130f2b21-01cf-4c05-a45c-377402799b65
