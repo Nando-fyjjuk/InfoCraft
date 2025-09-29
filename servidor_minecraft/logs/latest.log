@@ -144,3 +144,34 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [01:02:47] [Server thread/INFO]: luxfoo lost connection: Disconnected
 [01:02:47] [Server thread/INFO]: luxfoo has left!
 [01:02:47] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [125ms] ha abandonado el servidor
+[01:03:43] [User Authenticator #8/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[01:03:44] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[01:03:44] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[01:03:44] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[01:03:44] [Server thread/INFO]: Detención automática no programada
+[01:03:44] [Server thread/INFO]: luxfoo has joined!
+[01:03:44] [Server thread/INFO]: luxfoo[/127.109.168.5:34643] logged in with entity id 76022 at ([world]-669.5041224985503, 72.55321338701523, -75.03315698321077)
+[01:03:44] [Server thread/INFO]: ¡「7」 Duende de Encantamientos llegó a los cerebros de luxfoo!
+[01:03:45] [Craft Scheduler Thread - 34 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[01:03:53] [Server thread/INFO]: Named entity Creeper['Creeper de Elite Nivel 8'/74404, uuid='135d7fa4-8d59-4add-952e-d6ddab4a876c', l='ServerLevel[world]', x=-666.48, y=-6.00, z=-729.77, cpos=[-42, -46], tl=1666, v=true] died: Creeper de Elite Nivel 8 was slain by DITFKLIN002
+[01:04:26] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[01:04:26] [Server thread/INFO]: luxfoo has left!
+[01:04:26] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [154ms] ha abandonado el servidor
+[01:05:17] [User Authenticator #9/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[01:05:18] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[01:05:18] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[01:05:18] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[01:05:18] [Server thread/INFO]: Detención automática no programada
+[01:05:18] [Server thread/INFO]: luxfoo has joined!
+[01:05:18] [Server thread/INFO]: luxfoo[/127.109.168.5:38245] logged in with entity id 77229 at ([world]-685.4651323339142, 64.0, -70.56747864715997)
+[01:05:19] [Craft Scheduler Thread - 48 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[01:05:22] [Server thread/INFO]: [EliteMobs] Event full_moon.yml has been queued!
+[01:05:40] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml ended!
+[01:10:02] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml ended!
+[01:11:06] [Server thread/INFO]: There are 3 of a max of 20 players online: DITFKLIN002, Scyther190, luxfoo
+[01:16:10] [Server thread/INFO]: There are 3 of a max of 20 players online: DITFKLIN002, Scyther190, luxfoo
+[01:16:35] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml ended!
+[01:18:42] [Server thread/INFO]: Named entity Pillager['Saqueador de Elite Nivel 9'/89138, uuid='af9aa870-526e-4e2d-88af-1429eff346b9', l='ServerLevel[world]', x=-333.03, y=83.00, z=2.70, cpos=[-21, 0], tl=1019, v=true] died: Saqueador de Elite Nivel 9 was slain by DITFKLIN002
+[01:22:43] [Server thread/INFO]: Scyther190 issued server command: /home
+[01:22:59] [Server thread/INFO]: Scyther190 died
+[01:23:03] [Async Chat Thread - #2/INFO]: [Not Secure] <luxfoo> xd
