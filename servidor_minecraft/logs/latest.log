@@ -215,3 +215,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [01:50:49] [Async Chat Thread - #4/INFO]: [Not Secure] <DITFKLIN002> jajaja...
 [01:52:11] [Server thread/INFO]: luxfoo has reached the goal [Hired Help]
 [01:52:11] [Server thread/INFO]: DITFKLIN002 has reached the goal [Hired Help]
+[01:54:18] [Async Chat Thread - #6/INFO]: [Not Secure] <DITFKLIN002> seed
+[01:54:32] [Async Chat Thread - #6/INFO]: [Not Secure] <luxfoo> copito
+[01:58:22] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[01:58:22] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
+[01:58:27] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss 55af27ca-268c-49b0-87fc-ed03ad65f88a
+[01:59:51] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[01:59:51] [Server thread/INFO]: luxfoo has left!
+[01:59:51] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [124ms] ha abandonado el servidor
+[02:00:17] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml ended!
+[02:01:22] [Server thread/WARN]: DITFKLIN002 moved too quickly! -11.93771037533827,-1.164773281826072,-4.137917802813249
+[02:02:20] [Server thread/INFO]: DITFKLIN002 lost connection: Disconnected
+[02:02:20] [Server thread/INFO]: DITFKLIN002 has left!
+[02:02:20] [Server thread/INFO]: [vane-admin] [broadcast] DITFKLIN002 [240ms] ha abandonado el servidor
+[02:02:32] [User Authenticator #12/INFO]: UUID of player DITFKLIN002 is a611b98f-c6ce-3253-af82-fe391b11c5a5
+[02:02:33] [Server thread/INFO]: [vane-admin] [broadcast] DITFKLIN002 se ha unido al servidor
+[02:02:33] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to DITFKLIN002. rspUUID is null: false. done: true. firstUpload: false.
+[02:02:33] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to DITFKLIN002
+[02:02:33] [Server thread/INFO]: Detención automática no programada
+[02:02:33] [Server thread/INFO]: DITFKLIN002 has joined!
+[02:02:33] [Server thread/INFO]: DITFKLIN002[/127.68.17.76:34159] logged in with entity id 177678 at ([world]-1016.3000000119209, 69.0, -124.91555066789445)
+[02:02:34] [Craft Scheduler Thread - 63 - EliteMobs/INFO]: [EliteMobs] User a611b98f-c6ce-3253-af82-fe391b11c5a5 data successfully read!
+[02:02:38] [User Authenticator #12/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[02:02:39] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[02:02:39] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[02:02:39] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[02:02:39] [Server thread/INFO]: Detención automática no programada
+[02:02:39] [Server thread/INFO]: luxfoo has joined!
+[02:02:39] [Server thread/INFO]: luxfoo[/127.109.168.5:59035] logged in with entity id 177946 at ([world]-746.528522105553, 60.779819804142726, 37.32896965267851)
+[02:02:40] [Craft Scheduler Thread - 66 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
