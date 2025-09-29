@@ -210,3 +210,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [01:39:47] [Server thread/INFO]: luxfoo has joined!
 [01:39:47] [Server thread/INFO]: luxfoo[/127.109.168.5:45509] logged in with entity id 122789 at ([world]-693.5550121061636, 63.0, -88.83239982115069)
 [01:39:48] [Craft Scheduler Thread - 34 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[01:43:54] [Server thread/INFO]: [SeeMore] Set view distance of Scyther190 to 7 (client view distance is 9).
+[01:50:30] [Async Chat Thread - #4/INFO]: [Not Secure] <luxfoo> buu
+[01:50:49] [Async Chat Thread - #4/INFO]: [Not Secure] <DITFKLIN002> jajaja...
+[01:52:11] [Server thread/INFO]: luxfoo has reached the goal [Hired Help]
+[01:52:11] [Server thread/INFO]: DITFKLIN002 has reached the goal [Hired Help]
