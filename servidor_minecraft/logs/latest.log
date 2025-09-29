@@ -244,3 +244,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [02:02:39] [Server thread/INFO]: luxfoo has joined!
 [02:02:39] [Server thread/INFO]: luxfoo[/127.109.168.5:59035] logged in with entity id 177946 at ([world]-746.528522105553, 60.779819804142726, 37.32896965267851)
 [02:02:40] [Craft Scheduler Thread - 66 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[02:05:03] [Server thread/INFO]: Scyther190 issued server command: /home
+[02:06:07] [Server thread/INFO]: Named entity Zombie['「7」 Tótem Zombi'/177984, uuid='c6caa785-9a07-4f59-8b75-3febbbcfd724', l='ServerLevel[world]', x=-725.43, y=62.00, z=-7.48, cpos=[-46, -1], tl=4116, v=true] died: 「7」 Tótem Zombi was slain by luxfoo
+[02:06:38] [Server thread/INFO]: Named entity Zombie['「7」 Tótem Zombi'/177980, uuid='613e36b1-5706-46ac-94b0-e812b2a65315', l='ServerLevel[world]', x=-735.96, y=60.00, z=-2.24, cpos=[-46, -1], tl=4730, v=true] died: 「7」 Tótem Zombi was shot by 「7」 Tótem Zombi
+[02:07:41] [Server thread/INFO]: ---------------------------------------------
+[02:07:41] [Server thread/INFO]: El Tótem Zombi ha sido asesinado!
+[02:07:41] [Server thread/INFO]:     1er Dañador: ¡luxfoo con 44.14 daño!
+[02:07:41] [Server thread/INFO]: 
+[02:07:41] [Server thread/INFO]: 
+[02:07:41] [Server thread/INFO]: Asesinos: luxfoo
+[02:07:41] [Server thread/INFO]: ---------------------------------------------
+[02:07:41] [Server thread/INFO]: Named entity Zombie['「7」 Cabeza Zombi'/177979, uuid='ba07cf33-d1ce-48e1-8546-530f8db0c5e8', l='ServerLevel[world]', x=-726.11, y=61.00, z=-13.91, cpos=[-46, -1], tl=6003, v=true] died: 「7」 Cabeza Zombi was slain by luxfoo
+[02:07:42] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml ended!
+[02:07:48] [Server thread/INFO]: luxfoo issued server command: /home
+[02:08:11] [Server thread/INFO]: luxfoo issued server command: /he
+[02:08:16] [Server thread/INFO]: luxfoo issued server command: /help
+[02:08:38] [Server thread/INFO]: ¡「7」 Cabeza Zombi llegó a los cerebros de luxfoo!
