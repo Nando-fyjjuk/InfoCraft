@@ -119,3 +119,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [00:48:48] [Server thread/INFO]: luxfoo[/127.109.168.5:39455] logged in with entity id 56989 at ([world]-698.0464779351482, 63.0, -75.77481043804748)
 [00:48:49] [Craft Scheduler Thread - 38 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
 [00:49:42] [Server thread/INFO]: Named entity Hoglin['Hoglin de Elite Nivel 6'/56716, uuid='d88c7986-a5a3-4af0-a436-f5673408f946', l='ServerLevel[world_nether]', x=1037.90, y=69.00, z=-399.82, cpos=[64, -25], tl=1751, v=true] died: Hoglin de Elite Nivel 6 was slain by Scyther190 using [Acribillador de Trasgo]
+[00:53:22] [Server thread/INFO]: [EliteMobs] Event beast_master.yml has been queued!
+[00:53:22] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
+[00:53:28] [Server thread/INFO]: [Not Secure] <luxfoo> Jeeves!
+[00:54:31] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[00:54:31] [Server thread/INFO]: luxfoo has left!
+[00:54:31] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [125ms] ha abandonado el servidor
+[00:56:39] [Server thread/INFO]: There are 2 of a max of 20 players online: Scyther190, DITFKLIN002
+[00:57:10] [User Authenticator #7/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[00:57:11] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[00:57:11] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[00:57:11] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[00:57:11] [Server thread/INFO]: Detención automática no programada
+[00:57:11] [Server thread/INFO]: luxfoo has joined!
+[00:57:11] [Server thread/INFO]: luxfoo[/127.109.168.5:36975] logged in with entity id 63324 at ([world]-698.0684347607584, 63.0, -76.0358301523353)
+[00:57:12] [Craft Scheduler Thread - 38 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[00:58:48] [Server thread/INFO]: DITFKLIN002 has made the advancement [Not Today, Thank You]
+[00:59:07] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml ended!
+[00:59:09] [Server thread/INFO]: Scyther190 issued server command: /home
+[00:59:13] [Server thread/INFO]: Scyther190 has made the advancement [War Pigs]
+[00:59:22] [Server thread/INFO]: Scyther190 died
+[00:59:22] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[00:59:22] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[01:02:47] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[01:02:47] [Server thread/INFO]: luxfoo has left!
+[01:02:47] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [125ms] ha abandonado el servidor
