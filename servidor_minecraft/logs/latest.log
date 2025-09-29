@@ -35,3 +35,68 @@ lis<--[HERE]
 [00:29:58] [Server thread/INFO]: There are 2 of a max of 20 players online: DITFKLIN002, Scyther190
 [00:30:59] [Server thread/INFO]: DITFKLIN002 has made the advancement [Hot Stuff]
 [00:31:52] [Server thread/INFO]: DITFKLIN002 has made the advancement [Suit Up]
+[00:32:24] [Server thread/INFO]: DITFKLIN002 has made the advancement [Isn't It Iron Pick]
+[00:32:28] [Server thread/INFO]: DITFKLIN002 has made the advancement [Diamonds!]
+[00:33:36] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_6.PaperweightStarlightRelighterFactory as relighter factory.
+[00:34:54] [Server thread/INFO]: Scyther190 has made the advancement [Those Were the Days]
+[00:35:06] [Server thread/WARN]: DITFKLIN002 moved too quickly! -7.565999109681115,-6.231523797587011,-6.0092471303514685
+[00:35:22] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
+[00:35:22] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
+[00:36:19] [Server thread/INFO]: Scyther190 issued server command: /home
+[00:36:35] [Server thread/INFO]: DITFKLIN002 was kicked due to keepalive timeout!
+[00:36:35] [Server thread/INFO]: DITFKLIN002 lost connection: Timed out
+[00:36:35] [Server thread/INFO]: DITFKLIN002 has left!
+[00:36:35] [Server thread/INFO]: [vane-admin] [broadcast] DITFKLIN002 [737ms] ha sido expulsado del servidor
+[00:36:38] [Server thread/INFO]: Scyther190 died
+[00:36:49] [User Authenticator #3/INFO]: UUID of player DITFKLIN002 is a611b98f-c6ce-3253-af82-fe391b11c5a5
+[00:36:53] [Server thread/INFO]: [vane-admin] [broadcast] DITFKLIN002 se ha unido al servidor
+[00:36:53] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to DITFKLIN002. rspUUID is null: false. done: true. firstUpload: false.
+[00:36:53] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to DITFKLIN002
+[00:36:53] [Server thread/INFO]: Detención automática no programada
+[00:36:53] [Server thread/INFO]: DITFKLIN002 has joined!
+[00:36:53] [Server thread/INFO]: DITFKLIN002[/127.68.17.76:58991] logged in with entity id 47809 at ([world]-595.9975224923327, -9.0, -769.2725012835886)
+[00:36:54] [Craft Scheduler Thread - 52 - EliteMobs/INFO]: [EliteMobs] User a611b98f-c6ce-3253-af82-fe391b11c5a5 data successfully read!
+[00:38:13] [User Authenticator #4/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[00:38:14] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[00:38:14] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[00:38:14] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[00:38:14] [Server thread/INFO]: Detención automática no programada
+[00:38:14] [Server thread/INFO]: luxfoo has joined!
+[00:38:14] [Server thread/INFO]: luxfoo[/127.109.168.5:36033] logged in with entity id 48903 at ([world]-688.5579947844352, 63.0, -94.47433663726775)
+[00:38:15] [Craft Scheduler Thread - 52 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[00:38:28] [Async Chat Thread - #1/INFO]: [Not Secure] <luxfoo> volvi
+[00:40:10] [Server thread/ERROR]: Entity threw exception at world_nether:-122.5,61.0,-124.5
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goal.WrappedGoal.isRunning()" because "wrappedGoalx" is null
+	at net.minecraft.world.entity.ai.goal.GoalSelector.tick(GoalSelector.java:100) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.serverAiStep(Mob.java:761) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3489) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.aiStep(Mob.java:504) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Zombie.aiStep(Zombie.java:259) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3267) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.tick(Mob.java:381) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:231) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1277) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1483) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:811) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:793) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1724) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:40:38] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[00:40:38] [Server thread/INFO]: luxfoo has left!
+[00:40:38] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [154ms] ha abandonado el servidor
+[00:40:41] [Server thread/INFO]: There are 2 of a max of 20 players online: Scyther190, DITFKLIN002
+[00:41:22] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
+[00:41:22] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[00:41:36] [User Authenticator #5/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[00:41:37] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[00:41:37] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[00:41:37] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[00:41:37] [Server thread/INFO]: Detención automática no programada
+[00:41:37] [Server thread/INFO]: luxfoo has joined!
+[00:41:37] [Server thread/INFO]: luxfoo[/127.109.168.5:54791] logged in with entity id 51822 at ([world]-692.9339197416683, 63.0, -84.85383760908599)
+[00:41:38] [Craft Scheduler Thread - 34 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
