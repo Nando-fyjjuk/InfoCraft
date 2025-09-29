@@ -260,3 +260,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [02:08:11] [Server thread/INFO]: luxfoo issued server command: /he
 [02:08:16] [Server thread/INFO]: luxfoo issued server command: /help
 [02:08:38] [Server thread/INFO]: ¡「7」 Cabeza Zombi llegó a los cerebros de luxfoo!
+[02:26:23] [Server thread/INFO]: DITFKLIN002 lost connection: Disconnected
+[02:26:23] [Server thread/INFO]: DITFKLIN002 has left!
+[02:26:23] [Server thread/INFO]: [vane-admin] [broadcast] DITFKLIN002 [217ms] ha abandonado el servidor
+[02:28:14] [Server thread/INFO]: Scyther190 issued server command: /home
+[02:28:57] [Async Chat Thread - #8/INFO]: [Not Secure] <luxfoo> hora de mimir
+[02:28:59] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[02:28:59] [Server thread/INFO]: luxfoo has left!
+[02:28:59] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [124ms] ha abandonado el servidor
+[02:30:22] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml has been queued!
