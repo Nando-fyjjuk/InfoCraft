@@ -13,3 +13,16 @@
 [00:05:47] [Craft Scheduler Thread - 11 - EliteMobs/INFO]: [EliteMobs] User a611b98f-c6ce-3253-af82-fe391b11c5a5 data successfully read!
 [00:09:18] [Server thread/INFO]: Named entity Zombie['「1」 Tótem Zombi'/10783, uuid='af7d352f-97c1-41a4-91db-e9b7db43d203', l='ServerLevel[world]', x=196.88, y=69.05, z=1810.56, cpos=[12, 113], tl=3875, v=true] died: 「1」 Tótem Zombi suffocated in a wall
 [00:09:31] [Server thread/INFO]: Silver_servi died
+[00:12:51] [Server thread/INFO]: There are 2 of a max of 20 players online: DITFKLIN002, Silver_servi
+[00:15:35] [Server thread/INFO]: Silver_servi issued server command: /home yu
+[00:16:35] [Server thread/INFO]: Silver_servi lost connection: Disconnected
+[00:16:35] [Server thread/INFO]: Silver_servi has left!
+[00:16:35] [Server thread/INFO]: [vane-admin] [broadcast] Silver_servi [227ms] ha abandonado el servidor
+[00:21:24] [User Authenticator #2/INFO]: UUID of player Scyther190 is a82af51d-a5c8-32dc-a772-26c761f289c2
+[00:21:26] [Server thread/INFO]: [vane-admin] [broadcast] Scyther190 se ha unido al servidor
+[00:21:26] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190. rspUUID is null: false. done: true. firstUpload: false.
+[00:21:26] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190
+[00:21:26] [Server thread/INFO]: Detención automática no programada
+[00:21:26] [Server thread/INFO]: Scyther190 has joined!
+[00:21:26] [Server thread/INFO]: Scyther190[/127.212.126.52:47561] logged in with entity id 24175 at ([world_nether]753.3000000119209, 71.0, -379.8089551877388)
+[00:21:26] [Craft Scheduler Thread - 49 - EliteMobs/INFO]: [EliteMobs] User a82af51d-a5c8-32dc-a772-26c761f289c2 data successfully read!
