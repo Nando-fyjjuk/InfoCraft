@@ -1550,3 +1550,17 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [19:04:46] [Server thread/INFO]: Scyther190 issued server command: /home scyther
 [19:04:49] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
 [19:08:50] [Server thread/WARN]: DITFKLIN002 moved too quickly! -9.714849565098007,-2.0,-1.4653008854198788
+[19:14:28] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[19:17:09] [Server thread/INFO]: [EliteMobs] Event beast_master.yml ended!
+[19:17:52] [User Authenticator #33/INFO]: UUID of player Gordito_Mayinbu is 672cfce6-0160-3968-a82d-0896b66cdae5
+[19:17:53] [Server thread/INFO]: [vane-admin] [broadcast] Gordito_Mayinbu se ha unido al servidor
+[19:17:53] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Gordito_Mayinbu. rspUUID is null: false. done: true. firstUpload: false.
+[19:17:53] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Gordito_Mayinbu
+[19:17:53] [Server thread/INFO]: Detención automática no programada
+[19:17:53] [Server thread/INFO]: Gordito_Mayinbu has joined!
+[19:17:53] [Server thread/INFO]: Gordito_Mayinbu[/127.255.23.112:60613] logged in with entity id 202486 at ([world]-347.90838919005347, 91.0, -110.0496479009157)
+[19:17:54] [Craft Scheduler Thread - 115 - EliteMobs/INFO]: [EliteMobs] User 672cfce6-0160-3968-a82d-0896b66cdae5 data successfully read!
+[19:18:07] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
+[19:18:07] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
+[19:18:20] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[19:19:03] [Server thread/INFO]: [SeeMore] Set view distance of Gordito_Mayinbu to 7 (client view distance is 12).
