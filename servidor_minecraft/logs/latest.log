@@ -2201,3 +2201,13 @@ java.lang.NullPointerException: null
 [21:50:02] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Frankoskrrr
 [21:50:05] [Server thread/INFO]: Frankoskrrr issued server command: /huskhomes:tpaccept Fernando_fyjjuk
 [21:54:26] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml ended!
+[21:54:38] [Server thread/INFO]: Frankoskrrr has made the advancement [Hidden in the Depths]
+[21:58:35] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[21:58:43] [Server thread/INFO]: Frankoskrrr lost connection: Disconnected
+[21:58:43] [Server thread/INFO]: Frankoskrrr has left!
+[21:58:43] [Server thread/INFO]: [vane-admin] [broadcast] Frankoskrrr [143ms] ha abandonado el servidor
+[21:58:48] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml ended!
+[22:00:14] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[22:00:21] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
+[22:00:21] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[22:00:56] [Server thread/INFO]: Luiscue issued server command: /home repa
