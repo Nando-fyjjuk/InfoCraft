@@ -1143,3 +1143,44 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [16:54:43] [Server thread/INFO]: Fernando_fyjjuk has joined!
 [16:54:43] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:58163] logged in with entity id 122642 at ([world_nether]-76.91458054980338, 69.0, -155.85033480245846)
 [16:54:44] [Craft Scheduler Thread - 44 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[16:58:10] [Server thread/INFO]: ¡Se escuchan los aullidos de un Hombre-Lobo Alfa!
+[16:58:13] [Server thread/INFO]: snevev issued server command: /elitemobs track boss b318340e-1d6f-4c82-8684-a349c779a580
+[16:58:25] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss b318340e-1d6f-4c82-8684-a349c779a580
+[16:58:49] [Server thread/INFO]: Named entity Wolf['〔6〕 Lobo Beta'/128911, uuid='0219346f-38fc-442a-a979-d4e37fd76833', l='ServerLevel[world]', x=652.27, y=62.71, z=-3028.09, cpos=[40, -190], tl=7, v=true] died: 〔6〕 Lobo Beta was shot by BlackWhite_J
+[16:58:49] [Server thread/INFO]: BlackWhite_J has made the advancement [Take Aim]
+[16:58:56] [Server thread/INFO]: Named entity Wolf['〔6〕 Lobo Beta'/128910, uuid='b9e49313-9591-41c6-a1eb-b2da639979f3', l='ServerLevel[world]', x=649.92, y=62.64, z=-3025.58, cpos=[40, -190], tl=131, v=true] died: 〔6〕 Lobo Beta was shot by snevev
+[16:58:59] [Server thread/INFO]: Named entity Wolf['〔6〕 Lobo Beta'/128908, uuid='f8db3f62-3326-4757-a083-713f02dad6b8', l='ServerLevel[world]', x=648.09, y=62.60, z=-3022.87, cpos=[40, -189], tl=208, v=true] died: 〔6〕 Lobo Beta was shot by snevev
+[16:59:13] [Server thread/INFO]: Named entity Wolf['〔7〕 Lobo Beta'/128909, uuid='09e1a390-f1da-4915-b469-ab8e0fba78ae', l='ServerLevel[world]', x=650.17, y=62.79, z=-3022.47, cpos=[40, -189], tl=474, v=true] died: 〔7〕 Lobo Beta was shot by BlackWhite_J
+[16:59:15] [Server thread/INFO]: Named entity Wolf['〔7〕 Lobo Beta'/128907, uuid='f43a4808-713d-4b5c-adec-8d67f875108e', l='ServerLevel[world]', x=646.46, y=62.49, z=-3024.98, cpos=[40, -190], tl=515, v=true] died: 〔7〕 Lobo Beta was shot by BlackWhite_J
+[16:59:19] [Server thread/INFO]: ---------------------------------------------
+[16:59:19] [Server thread/INFO]: ¡El lobo alfa ha sido sacrificado!
+[16:59:19] [Server thread/INFO]:     1er Dañador: ¡snevev con 161.85 daño!
+[16:59:19] [Server thread/INFO]:     2do Dañador: ¡BlackWhite_J con 76.38 daño!
+[16:59:19] [Server thread/INFO]: 
+[16:59:19] [Server thread/INFO]: Asesinos: BlackWhite_J, snevev
+[16:59:19] [Server thread/INFO]: ---------------------------------------------
+[16:59:19] [Server thread/INFO]: Named entity Vindicator['「7」 Hombre-Lobo Alfa'/128858, uuid='e7c9cf45-bc7d-4f43-844f-8fc433a1efda', l='ServerLevel[world]', x=659.22, y=62.63, z=-3021.03, cpos=[41, -189], tl=683, v=true] died: 「7」 Hombre-Lobo Alfa was slain by snevev
+[16:59:20] [Server thread/INFO]: [EliteMobs] Event full_moon.yml ended!
+[17:01:18] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 9'/130065, uuid='f25fbbe2-3ecd-4bb6-8cfc-d405b838af7f', l='ServerLevel[world]', x=-449.43, y=65.00, z=-1021.05, cpos=[-29, -64], tl=638, v=true] died: Zombi de Elite Nivel 9 was shot by Scyther190
+[17:03:51] [Server thread/INFO]: BlackWhite_J has made the advancement [The Parrots and the Bats]
+[17:04:05] [Server thread/INFO]: Scyther190 issued server command: /home
+[17:04:37] [Server thread/INFO]: Scyther190 issued server command: /sethome scyther
+[17:04:42] [Server thread/INFO]: snevev issued server command: /rtp
+[17:04:47] [Server thread/INFO]: Scyther190 issued server command: /homelist
+[17:05:01] [Server thread/INFO]: Scyther190 issued server command: /home
+[17:05:04] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 8'/130972, uuid='bcba133d-b22e-4d2b-a34c-3945a771803a', l='ServerLevel[world]', x=601.95, y=56.39, z=-3108.52, cpos=[37, -195], tl=1274, v=true] died: Esqueleto de Elite Nivel 8 was slain by BlackWhite_J
+[17:05:08] [Server thread/INFO]: Scyther190 issued server command: /home
+[17:05:10] [Server thread/INFO]: snevev issued server command: /rtp
+[17:05:14] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[17:05:17] [Server thread/INFO]: Scyther190 issued server command: /home home
+[17:05:23] [Server thread/INFO]: BlackWhite_J issued server command: /rtp
+[17:05:27] [Server thread/INFO]: snevev issued server command: /rtp
+[17:05:30] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[17:05:33] [Server thread/INFO]: snevev issued server command: /back
+[17:05:43] [Server thread/INFO]: BlackWhite_J issued server command: /tpa snevev
+[17:05:48] [Server thread/INFO]: snevev issued server command: /back
+[17:05:51] [Server thread/INFO]: snevev issued server command: /rtp
+[17:06:31] [Server thread/INFO]: BlackWhite_J issued server command: /tpa snevev
+[17:06:43] [Server thread/INFO]: Scyther190 issued server command: /sethome EXP
+[17:07:02] [Server thread/INFO]: snevev issued server command: /back
+[17:07:39] [Server thread/INFO]: Named entity Pillager['Saqueador de Elite Nivel 8'/132997, uuid='fa9e5154-c7fc-42e2-9598-116438a843ca', l='ServerLevel[world]', x=-373.30, y=66.00, z=873.49, cpos=[-24, 54], tl=478, v=true] died: Saqueador de Elite Nivel 8 was slain by snevev
