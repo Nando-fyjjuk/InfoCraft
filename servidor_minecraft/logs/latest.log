@@ -901,3 +901,35 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [15:52:41] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [125ms] ha abandonado el servidor
 [15:53:31] [Server thread/INFO]: ¡El Rey Zombie ha sido avistado!
 [15:55:10] [Server thread/INFO]: DITFKLIN002 issued server command: /home x
+[15:56:46] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[15:57:00] [Server thread/INFO]: luxfoo has made the advancement [Ol' Betsy]
+[15:57:04] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[15:57:04] [Server thread/INFO]: luxfoo has left!
+[15:57:04] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [174ms] ha abandonado el servidor
+[15:58:08] [Server thread/INFO]: DITFKLIN002 lost connection: Disconnected
+[15:58:08] [Server thread/INFO]: DITFKLIN002 has left!
+[15:58:08] [Server thread/INFO]: [vane-admin] [broadcast] DITFKLIN002 [135ms] ha abandonado el servidor
+[15:58:21] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml ended!
+[15:59:01] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
+[15:59:01] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[15:59:16] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss e3303313-eac3-49be-a2c1-60b51a9670c7
+[16:00:14] [Server thread/INFO]: Named entity Ravager['〔5〕 Bestia de Caravana'/68784, uuid='8fed4e6c-3c57-47ed-888f-d3fb7d729b9d', l='ServerLevel[world]', x=-506.83, y=62.54, z=-1031.06, cpos=[-32, -65], tl=1463, v=true] died: 〔5〕 Bestia de Caravana was slain by Scyther190 using [Scyther's Sword]
+[16:00:20] [Server thread/INFO]: Named entity Ravager['〔5〕 Bestia de Caravana'/68914, uuid='51999ef3-f4a3-45f2-ac51-9f7bada3cede', l='ServerLevel[world]', x=-506.66, y=62.44, z=-1031.49, cpos=[-32, -65], tl=746, v=true] died: 〔5〕 Bestia de Caravana was slain by Scyther190 using [Scyther's Sword]
+[16:00:26] [Server thread/INFO]: Named entity Pillager['〔5〕 Guardia de Caravana'/68913, uuid='371b8882-3be9-4b16-8d0e-565fb5af20f7', l='ServerLevel[world]', x=-504.06, y=62.56, z=-1028.08, cpos=[-32, -65], tl=867, v=true] died: 〔5〕 Guardia de Caravana was slain by Scyther190 using [Scyther's Sword]
+[16:00:32] [Server thread/INFO]: Named entity Ravager['〔5〕 Bestia de Caravana'/68912, uuid='326f8968-7593-44ed-be76-ec07bf396020', l='ServerLevel[world]', x=-503.41, y=62.58, z=-1027.47, cpos=[-32, -65], tl=998, v=true] died: 〔5〕 Bestia de Caravana was slain by Scyther190 using [Scyther's Sword]
+[16:00:38] [Server thread/INFO]: Named entity Pillager['「5」 Pillager Líder de la Caravana'/68783, uuid='ed0236d6-601c-47bc-9330-62ec7e76e223', l='ServerLevel[world]', x=-499.61, y=62.59, z=-1031.55, cpos=[-32, -65], tl=1940, v=true] died: 「5」 Pillager Líder de la Caravana was slain by Scyther190 using [Scyther's Sword]
+[16:00:39] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml ended!
+[16:01:11] [Server thread/INFO]: Scyther190 issued server command: /home
+[16:02:44] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml ended!
+[16:03:52] [Server thread/INFO]: There are 1 of a max of 20 players online: Scyther190
+[16:04:47] [User Authenticator #11/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[16:04:48] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[16:04:48] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[16:04:48] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[16:04:48] [Server thread/INFO]: Detención automática no programada
+[16:04:48] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[16:04:48] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:41927] logged in with entity id 69703 at ([world_nether]-90.49420944529874, 38.0, -115.69999998807907)
+[16:04:49] [Craft Scheduler Thread - 42 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[16:05:01] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml has been queued!
+[16:05:01] [Server thread/INFO]: ¡Un Goblin de Monedas ha sido avistado!
+[16:05:21] [Server thread/WARN]: [vane-core] Force stopped delaying messages to player 'Fernando_fyjjuk' after their client didn't report any status after 30000 ms. If this message appears again after they reconnect, it might be a configuration issue.
