@@ -1513,3 +1513,35 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [18:50:14] [Server thread/INFO]: Silver_servi has joined!
 [18:50:14] [Server thread/INFO]: Silver_servi[/127.209.191.224:47111] logged in with entity id 170775 at ([world]192.4656866152073, 68.5625, -757.4682394230767)
 [18:50:15] [Craft Scheduler Thread - 115 - EliteMobs/INFO]: [EliteMobs] User 8c1d60db-0677-3e33-8e2b-6f857dd2ea16 data successfully read!
+[18:53:07] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml has been queued!
+[18:53:39] [User Authenticator #31/INFO]: UUID of player DITFKLIN002 is a611b98f-c6ce-3253-af82-fe391b11c5a5
+[18:53:40] [Server thread/INFO]: [vane-admin] [broadcast] DITFKLIN002 se ha unido al servidor
+[18:53:40] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to DITFKLIN002. rspUUID is null: false. done: true. firstUpload: false.
+[18:53:40] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to DITFKLIN002
+[18:53:40] [Server thread/INFO]: Detención automática no programada
+[18:53:40] [Server thread/INFO]: DITFKLIN002 has joined!
+[18:53:40] [Server thread/INFO]: DITFKLIN002[/127.229.162.198:54013] logged in with entity id 171878 at ([world]-745.1670968103662, 43.0, 544.3692095304339)
+[18:53:41] [Craft Scheduler Thread - 115 - EliteMobs/INFO]: [EliteMobs] User a611b98f-c6ce-3253-af82-fe391b11c5a5 data successfully read!
+[18:54:07] [Server thread/INFO]: [SeeMore] Set view distance of DITFKLIN002 to 7 (client view distance is 8).
+[18:54:26] [Server thread/INFO]: DITFKLIN002 issued server command: /home x
+[18:57:28] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[18:57:28] [Server thread/INFO]: luxfoo has left!
+[18:57:28] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [124ms] ha abandonado el servidor
+[18:57:33] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[18:58:13] [User Authenticator #32/INFO]: UUID of player Gordito_Mayinbu is 672cfce6-0160-3968-a82d-0896b66cdae5
+[18:58:14] [Server thread/INFO]: [vane-trifles] Given 1421 recipes to Gordito_Mayinbu
+[18:58:14] [Server thread/INFO]: [vane-admin] [broadcast] Gordito_Mayinbu se ha unido al servidor
+[18:58:14] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Gordito_Mayinbu. rspUUID is null: false. done: true. firstUpload: false.
+[18:58:14] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Gordito_Mayinbu
+[18:58:14] [Server thread/INFO]: Detención automática no programada
+[18:58:14] [Server thread/INFO]: Gordito_Mayinbu has joined the server for the first time! (#38)
+[18:58:14] [Server thread/INFO]: Gordito_Mayinbu[/127.255.23.112:40407] logged in with entity id 173501 at ([world]-392.5, 80.0, -102.5)
+[18:58:15] [Craft Scheduler Thread - 121 - EliteMobs/INFO]: [EliteMobs] No player entry detected, generating new entry!
+[18:58:16] [Server thread/INFO]: [SeeMore] Set view distance of Gordito_Mayinbu to 7 (client view distance is 12).
+[18:58:22] [Server thread/INFO]: DITFKLIN002 issued server command: /home x
+[18:59:13] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[18:59:31] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[18:59:50] [Server thread/INFO]: Gordito_Mayinbu lost connection: Disconnected
+[18:59:50] [Server thread/INFO]: Gordito_Mayinbu has left!
+[18:59:50] [Server thread/INFO]: [vane-admin] [broadcast] Gordito_Mayinbu [118ms] ha abandonado el servidor
+[19:00:20] [Server thread/INFO]: DITFKLIN002 issued server command: /home x
