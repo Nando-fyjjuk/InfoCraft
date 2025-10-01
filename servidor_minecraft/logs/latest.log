@@ -891,3 +891,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [15:45:28] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
 [15:45:38] [Server thread/INFO]: Scyther190 issued server command: /home
 [15:46:03] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[15:47:24] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[15:47:26] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml ended!
+[15:49:19] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[15:49:21] [Server thread/INFO]: Named entity Piglin['Piglin de Elite Nivel 1'/61348, uuid='9f3bbe7d-70bd-45ac-8a7b-fe3e66dbe005', l='ServerLevel[world_nether]', x=-47.44, y=44.00, z=-125.76, cpos=[-3, -8], tl=639, v=true] died: Piglin de Elite Nivel 1 was shot by Fernando_fyjjuk
+[15:51:48] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml ended!
+[15:52:41] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[15:52:41] [Server thread/INFO]: Fernando_fyjjuk has left!
+[15:52:41] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [125ms] ha abandonado el servidor
+[15:53:31] [Server thread/INFO]: ¡El Rey Zombie ha sido avistado!
+[15:55:10] [Server thread/INFO]: DITFKLIN002 issued server command: /home x
