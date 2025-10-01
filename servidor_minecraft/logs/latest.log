@@ -1184,3 +1184,64 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [17:06:43] [Server thread/INFO]: Scyther190 issued server command: /sethome EXP
 [17:07:02] [Server thread/INFO]: snevev issued server command: /back
 [17:07:39] [Server thread/INFO]: Named entity Pillager['Saqueador de Elite Nivel 8'/132997, uuid='fa9e5154-c7fc-42e2-9598-116438a843ca', l='ServerLevel[world]', x=-373.30, y=66.00, z=873.49, cpos=[-24, 54], tl=478, v=true] died: Saqueador de Elite Nivel 8 was slain by snevev
+[17:08:01] [Server thread/INFO]: BlackWhite_J issued server command: /tpa snevev
+[17:08:02] [Server thread/INFO]: Scyther190 issued server command: /homelist
+[17:08:07] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[17:08:07] [Server thread/INFO]: Fernando_fyjjuk has left!
+[17:08:07] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [128ms] ha abandonado el servidor
+[17:08:11] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept BlackWhite_J
+[17:09:16] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[17:09:49] [Server thread/INFO]: snevev issued server command: /sethome aldea
+[17:09:55] [Server thread/INFO]: snevev issued server command: /homelist
+[17:10:27] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[17:12:30] [User Authenticator #18/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[17:12:31] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[17:12:31] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[17:12:31] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[17:12:31] [Server thread/INFO]: Detención automática no programada
+[17:12:31] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[17:12:31] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:43333] logged in with entity id 134989 at ([world]16071.300000011921, 65.0, -16114.474071970764)
+[17:12:32] [Craft Scheduler Thread - 51 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[17:12:41] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[17:12:41] [Server thread/INFO]: Fernando_fyjjuk has left!
+[17:12:41] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [398ms] ha abandonado el servidor
+[17:12:44] [Server thread/INFO]: Scyther190 has made the advancement [Local Brewery]
+[17:12:54] [Server thread/INFO]: [SeeMore] Set view distance of snevev to 7 (client view distance is 12).
+[17:13:17] [Server thread/INFO]: Named entity Vex['Fae de Hielo 「7」'/135339, uuid='bdc60582-2348-4b66-ba59-358816fcdd35', l='ServerLevel[world]', x=-794.43, y=78.64, z=251.57, cpos=[-50, 15], tl=276, v=true] died: Fae de Hielo 「7」 was slain by snevev
+[17:13:30] [Server thread/INFO]: Named entity Vex['Fae de Rayo 「7」'/135340, uuid='14bb90df-ead3-44dc-8980-634f6a5d9f4f', l='ServerLevel[world]', x=-797.39, y=75.60, z=264.28, cpos=[-50, 16], tl=527, v=true] died: Fae de Rayo 「7」 was slain by snevev
+[17:13:43] [User Authenticator #19/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[17:13:44] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[17:13:44] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[17:13:44] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[17:13:44] [Server thread/INFO]: Detención automática no programada
+[17:13:44] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[17:13:44] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:45097] logged in with entity id 135584 at ([world]16071.300000011921, 65.0, -16114.474071970764)
+[17:13:45] [Craft Scheduler Thread - 59 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[17:13:46] [Server thread/INFO]: Named entity Vex['Fae de Fuego 「7」'/135338, uuid='93fc560d-990c-407b-93fd-0f8a2c9c903d', l='ServerLevel[world]', x=-792.49, y=76.38, z=266.75, cpos=[-50, 16], tl=855, v=true] died: Fae de Fuego 「7」 was slain by snevev
+[17:13:46] [Server thread/INFO]: [EliteMobs] Event fae.yml ended!
+[17:13:53] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[17:13:53] [Server thread/INFO]: Fernando_fyjjuk has left!
+[17:13:53] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [342ms] ha abandonado el servidor
+[17:15:52] [User Authenticator #20/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[17:15:53] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[17:15:53] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[17:15:53] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[17:15:53] [Server thread/INFO]: Detención automática no programada
+[17:15:53] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[17:15:53] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:44015] logged in with entity id 136363 at ([world]16071.300000011921, 65.0, -16114.474071970764)
+[17:15:54] [Craft Scheduler Thread - 62 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[17:16:04] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[17:16:04] [Server thread/INFO]: Fernando_fyjjuk has left!
+[17:16:04] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [271ms] ha abandonado el servidor
+[17:16:54] [User Authenticator #21/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[17:16:55] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[17:16:55] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[17:16:55] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[17:16:55] [Server thread/INFO]: Detención automática no programada
+[17:16:55] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[17:16:55] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:54441] logged in with entity id 136890 at ([world]16071.300000011921, 65.0, -16114.474071970764)
+[17:16:56] [Craft Scheduler Thread - 57 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[17:17:00] [Server thread/INFO]: [EliteMobs] Event beast_master.yml ended!
+[17:18:01] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
+[17:18:01] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
+[17:18:04] [Server thread/INFO]: snevev issued server command: /elitemobs track boss 1fa7fafe-caef-42f1-bf98-2de76b84daff
