@@ -766,3 +766,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [15:02:20] [Server thread/INFO]: Luiscue has made the advancement [A Terrible Fortress]
 [15:03:53] [Server thread/INFO]: DITFKLIN002 issued server command: /elitemobs track boss e10574ab-2c92-48db-b772-482d4b65dd3c
 [15:04:06] [Server thread/INFO]: Luiscue has made the advancement [Not Today, Thank You]
+[15:06:01] [Server thread/INFO]: Luiscue has made the advancement [Into Fire]
+[15:07:11] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
+[15:07:28] [Async Chat Thread - #5/INFO]: [Not Secure] <Fernando_fyjjuk> vendo reparacion
+[15:07:37] [Async Chat Thread - #5/INFO]: [Not Secure] <Scyther190> a cuanto?
+[15:07:42] [Async Chat Thread - #5/INFO]: [Not Secure] <luxfoo> compro por un stack de tierra
+[15:07:53] [Async Chat Thread - #5/INFO]: [Not Secure] <Fernando_fyjjuk> 3 diamantes por libro
+[15:08:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Scyther190> hecho
+[15:08:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Fernando_fyjjuk> 2 por 5
+[15:09:40] [Async Chat Thread - #7/INFO]: [Not Secure] <Fernando_fyjjuk> mis diamantes desaparecieron xd
+[15:10:18] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[15:11:42] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[15:15:24] [Server thread/INFO]: Fernando_fyjjuk died
