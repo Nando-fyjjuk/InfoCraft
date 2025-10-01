@@ -778,3 +778,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [15:10:18] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
 [15:11:42] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
 [15:15:24] [Server thread/INFO]: Fernando_fyjjuk died
+[15:15:34] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[15:15:42] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[15:17:01] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
+[15:17:01] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
+[15:18:14] [Server thread/INFO]: ¡DITFKLIN002 fue devorado por 「6」 Goblin Armado!
+[15:18:35] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[15:20:35] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss f3e54414-8c18-4d8d-9416-1a64dd967e87
+[15:21:57] [Server thread/INFO]: Named entity ZombifiedPiglin['Piglin Zombificado de Elite Nivel 14'/25625, uuid='97c1cf0e-c5ee-4abd-824a-e521624cd415', l='ServerLevel[world_nether]', x=-90.70, y=39.50, z=-116.70, cpos=[-6, -8], tl=4274, v=true] died: Piglin Zombificado de Elite Nivel 14 was slain by Fernando_fyjjuk
+[15:22:20] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[15:22:27] [Server thread/INFO]: ¡DITFKLIN002 fue devorado por 「6」 Goblin Armado!
+[15:23:01] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml has been queued!
+[15:23:01] [Server thread/INFO]: ¡Un Goblin del Tesoro ha sido avistado!
+[15:23:38] [Server thread/INFO]: Named entity ZombifiedPiglin['Piglin Zombificado de Elite Nivel 12'/28632, uuid='1336549c-ac1e-404c-855e-6a93c308c60b', l='ServerLevel[world_nether]', x=-115.30, y=61.00, z=-116.60, cpos=[-8, -8], tl=1918, v=true] died: Piglin Zombificado de Elite Nivel 12 was slain by Luiscue
+[15:25:02] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[15:25:02] [Server thread/INFO]: luxfoo has left!
+[15:25:02] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [124ms] ha abandonado el servidor
+[15:25:14] [Server thread/INFO]: Scyther190 issued server command: /home
