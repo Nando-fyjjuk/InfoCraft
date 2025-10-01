@@ -2299,3 +2299,15 @@ java.lang.NullPointerException: null
 [22:24:36] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa snevev
 [22:24:40] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept Fernando_fyjjuk
 [22:25:12] [Server thread/INFO]: Villager Villager['Librarian'/327582, uuid='22bc268c-10ee-4554-af0b-708577792fa7', l='ServerLevel[world]', x=-290.30, y=64.00, z=681.70, cpos=[-19, 42], tl=10192, v=true] died, message: 'Librarian was slain by Luiscue'
+[22:25:45] [Server thread/INFO]: Fernando_fyjjuk has made the advancement [Oh Shiny]
+[22:31:30] [User Authenticator #50/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[22:31:31] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[22:31:31] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[22:31:31] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[22:31:31] [Server thread/INFO]: Detención automática no programada
+[22:31:31] [Server thread/INFO]: luxfoo has joined!
+[22:31:31] [Server thread/INFO]: luxfoo[/127.109.168.5:37543] logged in with entity id 337274 at ([world]-698.6249921149223, 63.0, -72.34866685235617)
+[22:31:32] [Craft Scheduler Thread - 178 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[22:31:59] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa luxfoo
+[22:32:33] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[22:33:15] [Server thread/INFO]: Fernando_fyjjuk died
