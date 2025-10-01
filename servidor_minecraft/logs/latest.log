@@ -1245,3 +1245,31 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [17:18:01] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
 [17:18:01] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
 [17:18:04] [Server thread/INFO]: snevev issued server command: /elitemobs track boss 1fa7fafe-caef-42f1-bf98-2de76b84daff
+[17:19:21] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[17:19:21] [Server thread/INFO]: Fernando_fyjjuk has left!
+[17:19:21] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [123ms] ha abandonado el servidor
+[17:20:37] [Server thread/INFO]: Scyther190 has reached the goal [Zombie Doctor]
+[17:22:35] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 13'/138348, uuid='2033ec22-049b-44c8-b2e6-7b1cb3bd94a2', l='ServerLevel[world]', x=-668.51, y=72.00, z=-75.46, cpos=[-42, -5], tl=306, v=true] died: Zombi de Elite Nivel 13 was slain by BlackWhite_J
+[17:23:52] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 12'/138440, uuid='2293c7d6-c855-449b-b898-00938d680b82', l='ServerLevel[world]', x=-680.95, y=65.00, z=-67.53, cpos=[-43, -5], tl=1218, v=true] died: Zombi de Elite Nivel 12 was slain by BlackWhite_J
+[17:24:01] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml has been queued!
+[17:24:01] [Server thread/INFO]: ¡Un Goblin del Tesoro ha sido avistado!
+[17:24:05] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss ed436054-d71b-4030-97e4-07fc4fbf8f27
+[17:24:07] [Server thread/INFO]: snevev issued server command: /elitemobs track boss ed436054-d71b-4030-97e4-07fc4fbf8f27
+[17:24:18] [Server thread/INFO]: There are 3 of a max of 20 players online: snevev, BlackWhite_J, Scyther190
+[17:24:18] [Server thread/INFO]: BlackWhite_J issued server command: /elitemobs track boss ed436054-d71b-4030-97e4-07fc4fbf8f27
+[17:25:43] [Server thread/INFO]: ---------------------------------------------
+[17:25:43] [Server thread/INFO]: ¡El Goblin del Tesoro ha sido saqueado!
+[17:25:43] [Server thread/INFO]:     1er Dañador: ¡snevev con 90.75 daño!
+[17:25:43] [Server thread/INFO]: 
+[17:25:43] [Server thread/INFO]: 
+[17:25:43] [Server thread/INFO]: Asesinos: snevev
+[17:25:43] [Server thread/INFO]: ---------------------------------------------
+[17:25:43] [Server thread/INFO]: Named entity Zombie['Goblin del Tesoro 「7」'/138649, uuid='1029dce5-e695-44f0-8088-9377ecd16eb5', l='ServerLevel[world]', x=-609.28, y=76.00, z=12.45, cpos=[-39, 0], tl=2034, v=true] died: Goblin del Tesoro 「7」 was slain by snevev
+[17:25:43] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml ended!
+[17:27:02] [Server thread/INFO]: snevev issued server command: /ag
+[17:27:53] [Server thread/INFO]: snevev issued server command: /ag
+[17:28:00] [Server thread/INFO]: snevev issued server command: /ag
+[17:28:07] [Server thread/INFO]: snevev issued server command: /ag shop
+[17:28:13] [Server thread/INFO]: snevev issued server command: /ag shop help
+[17:28:25] [Server thread/INFO]: snevev issued server command: /elitemobs
+[17:28:33] [Server thread/INFO]: snevev issued server command: /elitemobs track boss 1fa7fafe-caef-42f1-bf98-2de76b84daff
