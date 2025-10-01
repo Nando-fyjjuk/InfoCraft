@@ -646,3 +646,42 @@ LagFixer - Best Performance Solution!
 [13:23:53] [Craft Scheduler Thread - 22 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
 [13:24:22] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home granja
 [13:24:41] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[13:26:01] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home ga
+[13:26:17] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[13:26:17] [Server thread/INFO]: Fernando_fyjjuk has left!
+[13:26:17] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [123ms] ha abandonado el servidor
+[13:26:17] [Server thread/INFO]: [vane-admin] Detención automática programada en 20m
+[13:26:42] [Craft Scheduler Thread - 11 - EliteMobs/INFO]: [EliteMobs] Event zombie_totem.yml ended!
+[13:27:30] [User Authenticator #1/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[13:27:31] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[13:27:31] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[13:27:31] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[13:27:31] [Server thread/INFO]: [vane-admin] Detención automática interrumpida
+[13:27:31] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[13:27:31] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:52721] logged in with entity id 405 at ([world_nether]-96.29484778287879, 44.0, -112.91436996300807)
+[13:27:32] [Craft Scheduler Thread - 5 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[13:30:30] [Server thread/INFO]: Fernando_fyjjuk issued server command: /backpack
+[13:31:38] [Server thread/INFO]: Fernando_fyjjuk issued server command: /delhome ga
+[13:31:59] [Server thread/INFO]: Fernando_fyjjuk issued server command: /sethome aaa
+[13:33:54] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[13:33:54] [Server thread/INFO]: Fernando_fyjjuk has left!
+[13:33:54] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [175ms] ha abandonado el servidor
+[13:33:54] [Server thread/INFO]: [vane-admin] Detención automática programada en 20m
+[13:34:21] [User Authenticator #2/INFO]: UUID of player Scyther190 is a82af51d-a5c8-32dc-a772-26c761f289c2
+[13:34:23] [Server thread/INFO]: [vane-admin] [broadcast] Scyther190 se ha unido al servidor
+[13:34:23] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190. rspUUID is null: false. done: true. firstUpload: false.
+[13:34:23] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190
+[13:34:23] [Server thread/INFO]: [vane-admin] Detención automática interrumpida
+[13:34:23] [Server thread/INFO]: Scyther190 has joined!
+[13:34:23] [Server thread/INFO]: Scyther190[/127.90.131.19:52055] logged in with entity id 666 at ([world_nether]-75.60757527368213, 80.0, -159.7779640332947)
+[13:34:24] [Craft Scheduler Thread - 6 - EliteMobs/INFO]: [EliteMobs] User a82af51d-a5c8-32dc-a772-26c761f289c2 data successfully read!
+[13:35:09] [User Authenticator #2/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[13:35:10] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[13:35:10] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[13:35:10] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[13:35:10] [Server thread/INFO]: Detención automática no programada
+[13:35:10] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[13:35:10] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:42485] logged in with entity id 722 at ([world_nether]-95.64728272121374, 44.0, -109.11306613247707)
+[13:35:10] [Server thread/INFO]: Piglin Zombificado de Elite Nivel 7 Convirtió a Fernando_fyjjuk en jamón!
+[13:35:11] [Craft Scheduler Thread - 6 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[13:35:25] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
