@@ -2311,3 +2311,23 @@ java.lang.NullPointerException: null
 [22:31:59] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa luxfoo
 [22:32:33] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
 [22:33:15] [Server thread/INFO]: Fernando_fyjjuk died
+[22:39:20] [Server thread/INFO]: Fernando_fyjjuk issued server command: /sp
+[22:39:26] [Server thread/INFO]: Fernando_fyjjuk issued server command: /spawn
+[22:41:21] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[22:41:21] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[22:41:24] [Server thread/INFO]: Fernando_fyjjuk issued server command: /elitemobs track boss 3daad210-5983-4ce0-8a34-7c42cfcfb7d7
+[22:41:32] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[22:42:11] [Server thread/INFO]: snevev issued server command: /sethome blazes
+[22:42:32] [Server thread/INFO]: snevev issued server command: /delhome warden
+[22:42:44] [Server thread/INFO]: snevev issued server command: /sethome blazes
+[22:43:41] [Server thread/INFO]: luxfoo has made the advancement [Enchanter]
+[22:43:44] [Server thread/INFO]: ---------------------------------------------
+[22:43:44] [Server thread/INFO]: ¡El Duende Con Armadura ha sido saqueado!
+[22:43:44] [Server thread/INFO]:     1er Dañador: ¡Fernando_fyjjuk con 100.0 daño!
+[22:43:44] [Server thread/INFO]: 
+[22:43:44] [Server thread/INFO]: 
+[22:43:44] [Server thread/INFO]: Asesinos: Fernando_fyjjuk
+[22:43:44] [Server thread/INFO]: ---------------------------------------------
+[22:43:44] [Server thread/INFO]: Named entity Zombie['「1」 Goblin con Armadura'/341525, uuid='6d527b07-6ae7-4b85-929a-ba91fdbc0384', l='ServerLevel[world]', x=16107.56, y=53.22, z=-16037.17, cpos=[1006, -1003], tl=2852, v=true] died: 「1」 Goblin con Armadura was slain by Fernando_fyjjuk
+[22:43:44] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[22:45:34] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Luiscue
