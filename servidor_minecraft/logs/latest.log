@@ -1408,3 +1408,16 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [17:57:22] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept Fernando_fyjjuk
 [17:59:07] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
 [17:59:07] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[17:59:20] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss a545a1d0-b3ce-4063-bff1-5f006c1c46e6
+[18:00:23] [Server thread/INFO]: Scyther190 has made the advancement [What a Deal!]
+[18:03:35] [Server thread/INFO]: Named entity Pillager['「7」 Pillager Líder de la Caravana'/154901, uuid='4d9981cf-04a9-4586-a9ee-bed853441970', l='ServerLevel[world]', x=-711.24, y=64.27, z=-1019.35, cpos=[-45, -64], tl=4838, v=true] died: 「7」 Pillager Líder de la Caravana was shot by Scyther190
+[18:03:35] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml ended!
+[18:03:58] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[18:04:09] [Server thread/INFO]: Scyther190 issued server command: /ag
+[18:04:21] [Server thread/INFO]: Scyther190 issued server command: /home EXP
+[18:05:07] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml has been queued!
+[18:05:07] [Server thread/INFO]: ¡Un Goblin de Monedas ha sido avistado!
+[18:07:44] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[18:08:39] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa snevev
+[18:08:44] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept Fernando_fyjjuk
+[18:08:52] [Server thread/INFO]: Scyther190 issued server command: /home scyther
