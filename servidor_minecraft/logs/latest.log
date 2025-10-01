@@ -704,3 +704,28 @@ LagFixer - Best Performance Solution!
 [13:45:45] [Server thread/INFO]: BlackWhite_J has joined!
 [13:45:45] [Server thread/INFO]: BlackWhite_J[/127.150.137.127:35097] logged in with entity id 1570 at ([world]-532.7280245723348, -26.0, -3836.3135361086343)
 [13:45:46] [Craft Scheduler Thread - 25 - EliteMobs/INFO]: [EliteMobs] User de65cb10-d375-316a-91b2-8bc48f8b832d data successfully read!
+[13:48:33] [Server thread/INFO]: Named entity ZombifiedPiglin['Piglin Zombificado de Elite Nivel 10'/1000, uuid='69bd4a54-ca08-4a7e-8788-b24f8b1c28e7', l='ServerLevel[world_nether]', x=-90.30, y=39.50, z=-116.70, cpos=[-6, -8], tl=12433, v=true] died: Piglin Zombificado de Elite Nivel 10 was slain by Fernando_fyjjuk
+[13:48:36] [Server thread/INFO]: Scyther190 issued server command: /home
+[13:49:15] [Server thread/INFO]: Named entity ZombifiedPiglin['Piglin Zombificado de Elite Nivel 5'/2519, uuid='ae8c222c-9c01-4f79-bcc1-cbc12d47182d', l='ServerLevel[world_nether]', x=-90.30, y=39.50, z=-116.30, cpos=[-6, -8], tl=472, v=true] died: Piglin Zombificado de Elite Nivel 5 was slain by Fernando_fyjjuk
+[13:49:37] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[13:49:37] [Server thread/INFO]: Fernando_fyjjuk has left!
+[13:49:37] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [125ms] ha abandonado el servidor
+[13:49:48] [Async Chat Thread - #2/INFO]: [Not Secure] <Scyther190> no tendran verrugas del nether?
+[13:50:08] [User Authenticator #4/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[13:50:09] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[13:50:09] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[13:50:09] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[13:50:09] [Server thread/INFO]: Detención automática no programada
+[13:50:09] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[13:50:09] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:38039] logged in with entity id 2753 at ([world_nether]-90.30000001192093, 38.0, -114.8402300764823)
+[13:50:10] [Craft Scheduler Thread - 24 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[13:50:29] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[13:50:41] [Server thread/INFO]: [EliteMobs] Event full_moon.yml has been queued!
+[13:53:41] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[13:54:20] [Server thread/INFO]: Fernando_fyjjuk died
+[13:54:29] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[13:54:34] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[13:55:24] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[13:55:24] [Server thread/INFO]: Fernando_fyjjuk has left!
+[13:55:24] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [127ms] ha abandonado el servidor
+[13:55:33] [Server thread/INFO]: Scyther190 has made the advancement [Fishy Business]
