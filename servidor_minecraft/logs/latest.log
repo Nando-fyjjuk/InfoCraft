@@ -2153,3 +2153,33 @@ java.lang.NullPointerException: null
 [21:32:23] [Server thread/INFO]: Luiscue died
 [21:32:46] [Server thread/INFO]: Villager Villager['Librarian'/305023, uuid='a12d438d-dbd8-4477-b5a9-0246dde1bf9a', l='ServerLevel[world]', x=16033.70, y=72.00, z=-16073.50, cpos=[1002, -1005], tl=219, v=true] died, message: 'Librarian was slain by Zombie'
 [21:32:48] [Server thread/INFO]: Luiscue issued server command: /back
+[21:34:06] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[21:34:24] [Server thread/INFO]: Luiscue lost connection: Timed out
+[21:34:24] [Server thread/INFO]: Luiscue has left!
+[21:34:24] [Server thread/INFO]: [vane-admin] [broadcast] Luiscue [163ms] ha abandonado el servidor
+[21:35:09] [User Authenticator #44/INFO]: UUID of player Luiscue is 845369e1-bc09-3801-a39e-6c8d160e41a6
+[21:35:09] [Server thread/INFO]: [vane-admin] [broadcast] Luiscue se ha unido al servidor
+[21:35:09] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Luiscue. rspUUID is null: false. done: true. firstUpload: false.
+[21:35:09] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Luiscue
+[21:35:09] [Server thread/INFO]: Detención automática no programada
+[21:35:09] [Server thread/INFO]: Luiscue has joined!
+[21:35:09] [Server thread/INFO]: Luiscue[/127.68.144.170:35671] logged in with entity id 306235 at ([world_nether]37.02586771225063, 72.0, -10.46247359667249)
+[21:35:10] [Craft Scheduler Thread - 166 - EliteMobs/INFO]: [EliteMobs] User 845369e1-bc09-3801-a39e-6c8d160e41a6 data successfully read!
+[21:37:15] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[21:38:48] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[21:38:48] [Server thread/INFO]: Fernando_fyjjuk has left!
+[21:38:48] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [126ms] ha abandonado el servidor
+[21:39:19] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_HiddenChamber_Tundra_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[21:39:56] [User Authenticator #45/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[21:39:57] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[21:39:57] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[21:39:57] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[21:39:57] [Server thread/INFO]: Detención automática no programada
+[21:39:57] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[21:39:57] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:39899] logged in with entity id 309126 at ([world_nether]9.380958208090993, 40.0, -102.72787629791736)
+[21:39:57] [Server thread/INFO]: Piglin Zombificado de Elite Nivel 4 Convirtió a Fernando_fyjjuk en jamón!
+[21:39:58] [Craft Scheduler Thread - 178 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[21:40:16] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[21:40:19] [Server thread/INFO]: [SeeMore] Set view distance of Frankoskrrr to 7 (client view distance is 12).
+[21:40:29] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[21:44:02] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
