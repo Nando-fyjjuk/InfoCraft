@@ -933,3 +933,41 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [16:05:01] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml has been queued!
 [16:05:01] [Server thread/INFO]: ¡Un Goblin de Monedas ha sido avistado!
 [16:05:21] [Server thread/WARN]: [vane-core] Force stopped delaying messages to player 'Fernando_fyjjuk' after their client didn't report any status after 30000 ms. If this message appears again after they reconnect, it might be a configuration issue.
+[16:06:59] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[16:07:34] [Server thread/INFO]: Named entity ZombifiedPiglin['Piglin Zombificado de Elite Nivel 6'/70377, uuid='bdc00e53-6586-48a5-b004-6843b7e076b1', l='ServerLevel[world_nether]', x=-90.30, y=39.50, z=-116.70, cpos=[-6, -8], tl=1091, v=true] died: Piglin Zombificado de Elite Nivel 6 was shot by Fernando_fyjjuk
+[16:11:01] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml has been queued!
+[16:11:01] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
+[16:11:04] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 84ffe4ee-56d0-40fc-9c63-dcb4c79bee79
+[16:11:11] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[16:12:35] [Server thread/INFO]: ---------------------------------------------
+[16:12:35] [Server thread/INFO]: ¡El Goblin de Monedas ha sido saqueado!
+[16:12:35] [Server thread/INFO]:     1er Dañador: ¡Scyther190 con 163.58 daño!
+[16:12:35] [Server thread/INFO]: 
+[16:12:35] [Server thread/INFO]: 
+[16:12:35] [Server thread/INFO]: Asesinos: Scyther190
+[16:12:35] [Server thread/INFO]: ---------------------------------------------
+[16:12:35] [Server thread/INFO]: Named entity Zombie['「6」 Goblin de Monedas'/69732, uuid='a86bb2b9-2b4c-4453-a631-abad1f76fd66', l='ServerLevel[world]', x=-550.51, y=39.32, z=-1079.51, cpos=[-35, -68], tl=9064, v=true] died: 「6」 Goblin de Monedas was slain by Scyther190 using [Scyther's Sword]
+[16:12:35] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml ended!
+[16:13:50] [Server thread/INFO]: ---------------------------------------------
+[16:13:50] [Server thread/INFO]: ¡El Duende de Encantamientos ha sido saqueado!
+[16:13:50] [Server thread/INFO]:     1er Dañador: ¡Scyther190 con 156.58 daño!
+[16:13:50] [Server thread/INFO]: 
+[16:13:50] [Server thread/INFO]: 
+[16:13:50] [Server thread/INFO]: Asesinos: Scyther190
+[16:13:50] [Server thread/INFO]: ---------------------------------------------
+[16:13:50] [Server thread/INFO]: Named entity Zombie['「7」 Duende de Encantamientos'/74309, uuid='2fae44d8-be7f-4535-8bf4-41cc355c8c42', l='ServerLevel[world]', x=-545.95, y=39.00, z=-1070.60, cpos=[-35, -67], tl=3366, v=true] died: 「7」 Duende de Encantamientos was slain by Scyther190 using [Scyther's Sword]
+[16:13:50] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml ended!
+[16:13:51] [Server thread/INFO]: Named entity ZombifiedPiglin['Piglin Zombificado de Elite Nivel 2'/76136, uuid='998442c6-86d1-4dc9-8607-311aa21ffa2c', l='ServerLevel[world_nether]', x=-44.30, y=49.00, z=-115.30, cpos=[-3, -8], tl=1018, v=true] died: Piglin Zombificado de Elite Nivel 2 was slain by Fernando_fyjjuk
+[16:14:08] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[16:14:08] [Server thread/INFO]: Fernando_fyjjuk has left!
+[16:14:08] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [125ms] ha abandonado el servidor
+[16:14:15] [Server thread/INFO]: Scyther190 issued server command: /home
+[16:14:18] [Server thread/INFO]: There are 1 of a max of 20 players online: Scyther190
+[16:15:29] [User Authenticator #12/INFO]: UUID of player snevev is 81969a47-12b6-3577-8d85-ca9d23372ee6
+[16:15:30] [Server thread/INFO]: [vane-admin] [broadcast] snevev se ha unido al servidor
+[16:15:30] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to snevev. rspUUID is null: false. done: true. firstUpload: false.
+[16:15:30] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to snevev
+[16:15:30] [Server thread/INFO]: Detención automática no programada
+[16:15:30] [Server thread/INFO]: snevev has joined!
+[16:15:30] [Server thread/INFO]: snevev[/127.174.144.89:60971] logged in with entity id 77067 at ([world]-1118.756711939607, 63.0, 910.7707365908096)
+[16:15:31] [Craft Scheduler Thread - 37 - EliteMobs/INFO]: [EliteMobs] User 81969a47-12b6-3577-8d85-ca9d23372ee6 data successfully read!
