@@ -1896,3 +1896,30 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [20:48:41] [Server thread/WARN]: thegeomusic moved wrongly!
 [20:50:36] [Server thread/INFO]: Luiscue has made the advancement [The Dummy]
 [20:51:06] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[20:53:24] [Server thread/INFO]: Fernando_fyjjuk died
+[20:53:34] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[20:54:38] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[20:54:48] [Server thread/INFO]: Fernando_fyjjuk died
+[20:54:57] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[20:56:16] [Async Chat Thread - #53/INFO]: [Not Secure] <thegeomusic> tienes coordds?
+[20:56:21] [Async Chat Thread - #53/INFO]: [Not Secure] <snevev> de??
+[20:56:27] [Server thread/INFO]: Fernando_fyjjuk issued server command: /delhome warden
+[20:56:35] [Server thread/INFO]: Fernando_fyjjuk issued server command: /sethome warden
+[20:56:55] [Server thread/INFO]: snevev issued server command: /home warden
+[20:57:07] [Server thread/INFO]: thegeomusic issued server command: /msg snevev o esta el back ajkfas
+[20:57:15] [Server thread/INFO]: snevev issued server command: /tell thegeomusic tp
+[20:57:23] [Server thread/INFO]: snevev issued server command: /tell thegeomusic tmb funciona el back
+[20:57:25] [Server thread/INFO]: thegeomusic issued server command: /tpa snevev
+[20:57:28] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept thegeomusic
+[20:57:39] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[20:57:52] [Server thread/INFO]: snevev issued server command: /back
+[20:58:10] [Server thread/INFO]: snevev issued server command: /back
+[20:58:25] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[20:58:36] [Server thread/INFO]: snevev issued server command: /back
+[20:58:48] [Server thread/INFO]: snevev issued server command: /back
+[21:00:03] [Server thread/INFO]: snevev issued server command: /back
+[21:00:15] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[21:01:15] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[21:01:46] [Server thread/INFO]: snevev issued server command: /home warden
+[21:01:57] [Server thread/INFO]: snevev issued server command: /back
+[21:02:15] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
