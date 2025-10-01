@@ -751,3 +751,34 @@ LagFixer - Best Performance Solution!
 [14:03:19] [Server thread/INFO]: Fernando_fyjjuk died
 [14:03:20] [Craft Scheduler Thread - 11 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
 [14:03:55] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[14:09:02] [Async Chat Thread - #6/INFO]: [Not Secure] <BlackWhite_J> ??
+[14:09:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Scyther190> ??
+[14:09:13] [Async Chat Thread - #6/INFO]: [Not Secure] <Fernando_fyjjuk> ??
+[14:09:45] [Server thread/INFO]: snevev has made the advancement [What a Deal!]
+[14:11:10] [User Authenticator #7/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[14:11:12] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[14:11:12] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[14:11:12] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[14:11:12] [Server thread/INFO]: Detención automática no programada
+[14:11:12] [Server thread/INFO]: luxfoo has joined!
+[14:11:12] [Server thread/INFO]: luxfoo[/127.109.168.5:54535] logged in with entity id 29563 at ([world]-698.1560007160488, 63.0, -73.75210657749678)
+[14:11:13] [Craft Scheduler Thread - 26 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[14:11:14] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
+[14:12:53] [Async Chat Thread - #8/INFO]: [Not Secure] <Fernando_fyjjuk> necesito lapiz lazuli xd
+[14:13:32] [Async Chat Thread - #8/INFO]: [Not Secure] <luxfoo> y yo netherite
+[14:13:36] [Async Chat Thread - #8/INFO]: [Not Secure] <luxfoo> trato?
+[14:13:41] [Async Chat Thread - #8/INFO]: [Not Secure] <Scyther190> yo verrugas
+[14:13:47] [Async Chat Thread - #9/INFO]: [Not Secure] <snevev> y yonovia :'c
+[14:14:18] [Server thread/INFO]: Scyther190 issued server command: /home
+[14:16:10] [User Authenticator #8/INFO]: UUID of player DITFKLIN002 is a611b98f-c6ce-3253-af82-fe391b11c5a5
+[14:16:12] [Server thread/INFO]: [vane-admin] [broadcast] DITFKLIN002 se ha unido al servidor
+[14:16:12] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to DITFKLIN002. rspUUID is null: false. done: true. firstUpload: false.
+[14:16:12] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to DITFKLIN002
+[14:16:12] [Server thread/INFO]: Detención automática no programada
+[14:16:12] [Server thread/INFO]: DITFKLIN002 has joined!
+[14:16:12] [Server thread/INFO]: DITFKLIN002[/127.241.96.190:51709] logged in with entity id 37360 at ([world]-790.6999999880791, 80.0, 1373.300000011921)
+[14:16:13] [Craft Scheduler Thread - 11 - EliteMobs/INFO]: [EliteMobs] User a611b98f-c6ce-3253-af82-fe391b11c5a5 data successfully read!
+[14:16:23] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 5'/29373, uuid='967270eb-738f-402f-9e69-b1cfa2b28e34', l='ServerLevel[world]', x=16049.87, y=74.00, z=-16121.34, cpos=[1003, -1008], tl=6413, v=true] died: Zombi de Elite Nivel 5 was slain by Fernando_fyjjuk
+[14:16:24] [Server thread/INFO]: ¡Zombi de Elite Nivel 5 llegó a los cerebros de Fernando_fyjjuk!
+[14:16:41] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml has been queued!
+[14:16:55] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
