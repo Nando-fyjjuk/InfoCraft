@@ -971,3 +971,138 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [16:15:30] [Server thread/INFO]: snevev has joined!
 [16:15:30] [Server thread/INFO]: snevev[/127.174.144.89:60971] logged in with entity id 77067 at ([world]-1118.756711939607, 63.0, 910.7707365908096)
 [16:15:31] [Craft Scheduler Thread - 37 - EliteMobs/INFO]: [EliteMobs] User 81969a47-12b6-3577-8d85-ca9d23372ee6 data successfully read!
+[16:17:38] [Server thread/INFO]: There are 2 of a max of 20 players online: Scyther190, snevev
+[16:17:53] [User Authenticator #13/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[16:17:54] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[16:17:54] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[16:17:54] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[16:17:54] [Server thread/INFO]: Detención automática no programada
+[16:17:54] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[16:17:54] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:40315] logged in with entity id 78132 at ([world_nether]-90.12391809619024, 47.0, -115.73337668672049)
+[16:17:55] [Craft Scheduler Thread - 46 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[16:18:13] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[16:18:13] [Server thread/INFO]: Fernando_fyjjuk has left!
+[16:18:13] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [190ms] ha abandonado el servidor
+[16:18:38] [Server thread/INFO]: There are 2 of a max of 20 players online: Scyther190, snevev
+[16:21:19] [Server thread/INFO]: Scyther190 issued server command: /home
+[16:23:47] [User Authenticator #14/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[16:23:48] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[16:23:48] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[16:23:48] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[16:23:48] [Server thread/INFO]: Detención automática no programada
+[16:23:48] [Server thread/INFO]: luxfoo has joined!
+[16:23:48] [Server thread/INFO]: luxfoo[/127.109.168.5:57061] logged in with entity id 80131 at ([world]-702.1471010631592, 63.5625, -73.31807502689948)
+[16:23:49] [Craft Scheduler Thread - 36 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[16:25:53] [Server thread/INFO]: Scyther190 issued server command: /ag
+[16:31:20] [Server thread/INFO]: Named entity Husk['Zombi Momificado de Elite Nivel 9'/85210, uuid='a627dd9a-7208-448c-a2d2-fc8cb8901f30', l='ServerLevel[world]', x=-340.82, y=66.00, z=840.88, cpos=[-22, 52], tl=827, v=true] died: Zombi Momificado de Elite Nivel 9 was slain by Wolf
+[16:31:56] [Server thread/INFO]: snevev issued server command: /home
+[16:31:59] [Server thread/INFO]: There are 3 of a max of 20 players online: snevev, Scyther190, luxfoo
+[16:32:18] [User Authenticator #15/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[16:32:20] [Netty Epoll Server IO #3/ERROR]: [TabListPing] Error in onPacketOutAsync().
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqueId()" because "player" is null
+	at TabListPing-2.02.jar/com.bobcat00.tablistping.Listeners.processServerToClient(Listeners.java:92) ~[TabListPing-2.02.jar:?]
+	at TabListPing-2.02.jar/com.bobcat00.tablistping.TabListPing$1.onPacketOutAsync(TabListPing.java:111) ~[TabListPing-2.02.jar:?]
+	at TabListPing-2.02.jar/com.comphenix.tinyprotocol.TinyProtocol$PacketInterceptor.write(TinyProtocol.java:601) ~[TabListPing-2.02.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:891) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:969) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:310) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[ProtocolLib.jar:?]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:494) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.network.Connection.lambda$sendPacket$13(Connection.java:476) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:49) ~[ProtocolLib.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:405) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16:32:20] [Netty Epoll Server IO #3/ERROR]: [TabListPing] Error in onPacketInAsync().
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqueId()" because "player" is null
+	at TabListPing-2.02.jar/com.bobcat00.tablistping.Listeners.processClientToServer(Listeners.java:105) ~[TabListPing-2.02.jar:?]
+	at TabListPing-2.02.jar/com.bobcat00.tablistping.TabListPing$1.onPacketInAsync(TabListPing.java:122) ~[TabListPing-2.02.jar:?]
+	at TabListPing-2.02.jar/com.comphenix.tinyprotocol.TinyProtocol$PacketInterceptor.channelRead(TinyProtocol.java:588) ~[TabListPing-2.02.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.InboundPacketInterceptor.channelRead(InboundPacketInterceptor.java:42) ~[ProtocolLib.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.InboundProtocolReader.channelRead(InboundProtocolReader.java:25) ~[ProtocolLib.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202) ~[netty-handler-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164) ~[netty-handler-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289) ~[netty-handler-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.handler.flush.FlushConsolidationHandler.channelRead(FlushConsolidationHandler.java:152) ~[netty-handler-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1357) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16:32:21] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[16:32:21] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[16:32:21] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[16:32:21] [Server thread/INFO]: Detención automática no programada
+[16:32:21] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[16:32:21] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:48159] logged in with entity id 87671 at ([world_nether]-91.30000001192093, 44.0, -115.30000001192093)
+[16:32:22] [Craft Scheduler Thread - 46 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[16:32:23] [Netty Epoll Server IO #3/INFO]: Disconnecting Fernando_fyjjuk for sending keepalive response (8481686) out-of-order!
+[16:32:23] [Server thread/INFO]: Fernando_fyjjuk lost connection: Timed out
+[16:32:23] [Server thread/INFO]: Fernando_fyjjuk has left!
+[16:32:23] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk ha sido expulsado del servidor
+[16:32:27] [User Authenticator #15/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[16:32:28] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[16:32:28] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[16:32:28] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[16:32:28] [Server thread/INFO]: Detención automática no programada
+[16:32:28] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[16:32:28] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:37431] logged in with entity id 87877 at ([world_nether]-91.30000001192093, 44.0, -115.30000001192093)
+[16:32:29] [Craft Scheduler Thread - 46 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[16:33:33] [Server thread/INFO]: Fernando_fyjjuk died
+[16:33:44] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[16:34:00] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[16:35:01] [Server thread/INFO]: Named entity ZombifiedPiglin['Piglin Zombificado de Elite Nivel 2'/90941, uuid='adc40a99-ae5c-4ffa-87bc-29d7e688d853', l='ServerLevel[world_nether]', x=-90.89, y=44.00, z=-117.70, cpos=[-6, -8], tl=620, v=true] died: Piglin Zombificado de Elite Nivel 2 was slain by Fernando_fyjjuk
+[16:35:12] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[16:35:29] [Server thread/INFO]: ¡Fernando_fyjjuk fue acosado hasta la muerte por Piglin Zombificado de Elite Nivel 2!
+[16:35:39] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[16:35:46] [Server thread/INFO]: Scyther190 issued server command: /ag
+[16:35:52] [Server thread/INFO]: Scyther190 issued server command: /home
