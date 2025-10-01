@@ -1,0 +1,2 @@
+[13:16:35 INFO] Successfully loaded nicknames from Json storage.
+[13:16:35 INFO] Deleting 1 week+ old file 2025-09-23.txt
