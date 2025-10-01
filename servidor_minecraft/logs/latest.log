@@ -1816,3 +1816,20 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [20:21:54] [Server thread/INFO]: thegeomusic issued server command: /back
 [20:22:30] [Server thread/INFO]: thegeomusic issued server command: /home
 [20:22:40] [Async Chat Thread - #43/INFO]: [Not Secure] <thegeomusic> casaaa
+[20:22:46] [Server thread/INFO]: snevev issued server command: /back
+[20:23:58] [Server thread/INFO]: snevev issued server command: /em shop dynamic
+[20:24:07] [Server thread/INFO]: thegeomusic issued server command: /msg snevev no habia logro por eso?
+[20:24:40] [Server thread/INFO]: snevev issued server command: /tell thegeomusic mm ns
+[20:26:10] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[20:27:24] [Server thread/INFO]: snevev issued server command: /back
+[20:27:59] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[20:28:29] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa snevev
+[20:28:31] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept Fernando_fyjjuk
+[20:30:04] [Server thread/INFO]: snevev issued server command: /home
+[20:30:08] [Server thread/INFO]: snevev issued server command: /home home
+[20:30:23] [Server thread/INFO]: snevev died
+[20:30:23] [Server thread/INFO]: ¡snevev ha sido ejecutado!
+[20:30:30] [Async Chat Thread - #47/INFO]: [Not Secure] <thegeomusic> QUE
+[20:31:08] [Server thread/INFO]: snevev issued server command: /back
+[20:31:16] [Server thread/INFO]: snevev issued server command: /home warden
+[20:32:20] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
