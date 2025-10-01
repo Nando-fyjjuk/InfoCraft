@@ -1106,3 +1106,12 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [16:35:39] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
 [16:35:46] [Server thread/INFO]: Scyther190 issued server command: /ag
 [16:35:52] [Server thread/INFO]: Scyther190 issued server command: /home
+[16:39:04] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[16:41:01] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[16:41:01] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[16:41:04] [Server thread/INFO]: snevev issued server command: /elitemobs track boss ac2dc82b-d890-471f-b963-621792d1a3f7
+[16:45:41] [Server thread/INFO]: Scyther190 issued server command: /home
+[16:47:01] [Server thread/INFO]: [EliteMobs] Event beast_master.yml has been queued!
+[16:47:01] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
+[16:47:04] [Server thread/INFO]: snevev issued server command: /elitemobs track boss d9071f22-26d4-44db-b500-1126c9ffce69
+[16:47:14] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss d9071f22-26d4-44db-b500-1126c9ffce69
