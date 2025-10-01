@@ -1421,3 +1421,26 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [18:08:39] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa snevev
 [18:08:44] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept Fernando_fyjjuk
 [18:08:52] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[18:09:33] [Server thread/INFO]: snevev issued server command: /home
+[18:09:41] [Server thread/INFO]: snevev issued server command: /home home
+[18:09:46] [User Authenticator #26/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[18:09:47] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[18:09:47] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[18:09:47] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[18:09:47] [Server thread/INFO]: Detención automática no programada
+[18:09:47] [Server thread/INFO]: luxfoo has joined!
+[18:09:47] [Server thread/INFO]: luxfoo[/127.109.168.5:39837] logged in with entity id 158871 at ([world]-665.3000000119209, 84.0, -39.60755125424454)
+[18:09:48] [Craft Scheduler Thread - 101 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[18:09:58] [Server thread/INFO]: snevev lost connection: Disconnected
+[18:09:58] [Server thread/INFO]: snevev has left!
+[18:09:58] [Server thread/INFO]: [vane-admin] [broadcast] snevev [146ms] ha abandonado el servidor
+[18:10:21] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[18:10:21] [Server thread/INFO]: Fernando_fyjjuk has left!
+[18:10:21] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [123ms] ha abandonado el servidor
+[18:11:07] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml has been queued!
+[18:11:07] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
+[18:12:57] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 3c8d1553-847b-48c9-a4c6-3772e71e630f
+[18:12:57] [Server thread/WARN]: [EliteMobs] The following boss had more health than it should: §4「§c1§4」§f §2Duende de Encantamientos
+[18:12:57] [Server thread/WARN]: [EliteMobs] This is a problem usually caused by running more than one plugin that modifies mob health! EliteMobs can't fix this issue because it is being caused by another plugin. If you want EliteMobs to work correctly, find a way to fix this issue with whatever other plugin is causing it.
+[18:12:59] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 3c8d1553-847b-48c9-a4c6-3772e71e630f
+[18:18:16] [Server thread/INFO]: Scyther190 issued server command: /home EXP
