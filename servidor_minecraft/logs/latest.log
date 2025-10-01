@@ -729,3 +729,25 @@ LagFixer - Best Performance Solution!
 [13:55:24] [Server thread/INFO]: Fernando_fyjjuk has left!
 [13:55:24] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [127ms] ha abandonado el servidor
 [13:55:33] [Server thread/INFO]: Scyther190 has made the advancement [Fishy Business]
+[13:58:19] [User Authenticator #5/INFO]: UUID of player snevev is 81969a47-12b6-3577-8d85-ca9d23372ee6
+[13:58:21] [Server thread/INFO]: [vane-admin] [broadcast] snevev se ha unido al servidor
+[13:58:21] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to snevev. rspUUID is null: false. done: true. firstUpload: false.
+[13:58:21] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to snevev
+[13:58:21] [Server thread/INFO]: Detención automática no programada
+[13:58:21] [Server thread/INFO]: snevev has joined!
+[13:58:21] [Server thread/INFO]: snevev[/127.174.144.89:50001] logged in with entity id 11535 at ([world]608.6009806515993, 67.47517402249206, -3092.7565005217284)
+[13:58:22] [Craft Scheduler Thread - 27 - EliteMobs/INFO]: [EliteMobs] User 81969a47-12b6-3577-8d85-ca9d23372ee6 data successfully read!
+[13:58:23] [Server thread/INFO]: BlackWhite_J issued server command: /home
+[13:58:32] [Server thread/INFO]: [SeeMore] Set view distance of snevev to 7 (client view distance is 12).
+[13:59:03] [Server thread/INFO]: [SeeMore] Set view distance of BlackWhite_J to 7 (client view distance is 10).
+[14:01:49] [Async Chat Thread - #4/INFO]: [Not Secure] <BlackWhite_J> hay libros?
+[14:03:17] [User Authenticator #6/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[14:03:19] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[14:03:19] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[14:03:19] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[14:03:19] [Server thread/INFO]: Detención automática no programada
+[14:03:19] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[14:03:19] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:33239] logged in with entity id 18291 at ([world_nether]-92.82270787932896, 44.0, -115.47707003361019)
+[14:03:19] [Server thread/INFO]: Fernando_fyjjuk died
+[14:03:20] [Craft Scheduler Thread - 11 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[14:03:55] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
