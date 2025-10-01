@@ -1115,3 +1115,31 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [16:47:01] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
 [16:47:04] [Server thread/INFO]: snevev issued server command: /elitemobs track boss d9071f22-26d4-44db-b500-1126c9ffce69
 [16:47:14] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss d9071f22-26d4-44db-b500-1126c9ffce69
+[16:48:10] [Server thread/INFO]: Scyther190 issued server command: /home
+[16:48:11] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[16:48:11] [Server thread/INFO]: Fernando_fyjjuk has left!
+[16:48:11] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [128ms] ha abandonado el servidor
+[16:48:15] [Server thread/INFO]: There are 3 of a max of 20 players online: snevev, Scyther190, luxfoo
+[16:48:57] [User Authenticator #16/INFO]: UUID of player BlackWhite_J is de65cb10-d375-316a-91b2-8bc48f8b832d
+[16:48:59] [Server thread/INFO]: [vane-admin] [broadcast] BlackWhite_J se ha unido al servidor
+[16:48:59] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to BlackWhite_J. rspUUID is null: false. done: true. firstUpload: false.
+[16:48:59] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to BlackWhite_J
+[16:48:59] [Server thread/INFO]: Detención automática no programada
+[16:48:59] [Server thread/INFO]: BlackWhite_J has joined!
+[16:48:59] [Server thread/INFO]: BlackWhite_J[/127.150.137.127:50163] logged in with entity id 114517 at ([world]610.4791381826241, 67.0, -3095.390721838043)
+[16:49:00] [Craft Scheduler Thread - 52 - EliteMobs/INFO]: [EliteMobs] User de65cb10-d375-316a-91b2-8bc48f8b832d data successfully read!
+[16:49:15] [Async Chat Thread - #11/INFO]: [Not Secure] <BlackWhite_J> dc?
+[16:50:21] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[16:50:21] [Server thread/INFO]: luxfoo has left!
+[16:50:21] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [130ms] ha abandonado el servidor
+[16:50:23] [Async Chat Thread - #13/INFO]: [Not Secure] <snevev> go pes
+[16:52:53] [Server thread/INFO]: There are 3 of a max of 20 players online: snevev, Scyther190, BlackWhite_J
+[16:54:09] [Server thread/INFO]: Scyther190 issued server command: /home
+[16:54:42] [User Authenticator #17/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[16:54:43] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[16:54:43] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[16:54:43] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[16:54:43] [Server thread/INFO]: Detención automática no programada
+[16:54:43] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[16:54:43] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:58163] logged in with entity id 122642 at ([world_nether]-76.91458054980338, 69.0, -155.85033480245846)
+[16:54:44] [Craft Scheduler Thread - 44 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
