@@ -1273,3 +1273,105 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [17:28:13] [Server thread/INFO]: snevev issued server command: /ag shop help
 [17:28:25] [Server thread/INFO]: snevev issued server command: /elitemobs
 [17:28:33] [Server thread/INFO]: snevev issued server command: /elitemobs track boss 1fa7fafe-caef-42f1-bf98-2de76b84daff
+[17:28:38] [Server thread/INFO]: snevev issued server command: /elitemobs
+[17:28:51] [Server thread/INFO]: snevev issued server command: /ag
+[17:29:36] [Server thread/INFO]: BlackWhite_J issued server command: /tpa snevev
+[17:29:40] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept BlackWhite_J
+[17:30:01] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[17:30:01] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
+[17:30:04] [Server thread/INFO]: snevev issued server command: /elitemobs track boss 2068f114-0dc5-4809-84b0-af23f202eff9
+[17:30:05] [Server thread/INFO]: BlackWhite_J issued server command: /elitemobs track boss 2068f114-0dc5-4809-84b0-af23f202eff9
+[17:30:56] [Server thread/INFO]: Named entity Zombie['「6」 Tótem Zombi'/141235, uuid='c07b3eb2-c347-4dfa-a2c3-416812f13ecc', l='ServerLevel[world]', x=-540.51, y=73.31, z=-217.35, cpos=[-34, -14], tl=996, v=true] died: 「6」 Tótem Zombi was shot by snevev
+[17:30:59] [Server thread/INFO]: Named entity Zombie['「6」 Tótem Zombi'/141234, uuid='5dfe4975-4cb9-431d-b213-33246892fc5b', l='ServerLevel[world]', x=-540.53, y=73.00, z=-215.67, cpos=[-34, -14], tl=1040, v=true] died: 「6」 Tótem Zombi was shot by snevev
+[17:31:13] [Server thread/INFO]: Named entity Zombie['「6」 Tótem Zombi'/141233, uuid='43541b93-fe8e-4735-a772-9b915c87aeef', l='ServerLevel[world]', x=-550.31, y=73.00, z=-228.47, cpos=[-35, -15], tl=1333, v=true] died: 「6」 Tótem Zombi was shot by BlackWhite_J
+[17:31:31] [Server thread/INFO]: Named entity Zombie['「6」 Tótem Zombi'/141232, uuid='3f7c6f2c-2f2d-4e50-a74a-1ec34d488f2f', l='ServerLevel[world]', x=-538.54, y=72.00, z=-247.14, cpos=[-34, -16], tl=1693, v=true] died: 「6」 Tótem Zombi was slain by BlackWhite_J
+[17:31:34] [User Authenticator #22/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[17:31:35] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[17:31:35] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[17:31:35] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[17:31:35] [Server thread/INFO]: Detención automática no programada
+[17:31:35] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[17:31:35] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:48529] logged in with entity id 142399 at ([world]16064.47456810029, 68.0, -16125.75586824152)
+[17:31:36] [Craft Scheduler Thread - 79 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[17:31:47] [Server thread/INFO]: ---------------------------------------------
+[17:31:47] [Server thread/INFO]: El Tótem Zombi ha sido asesinado!
+[17:31:47] [Server thread/INFO]:     1er Dañador: ¡snevev con 62.09 daño!
+[17:31:47] [Server thread/INFO]:     2do Dañador: ¡BlackWhite_J con 4.64 daño!
+[17:31:47] [Server thread/INFO]: 
+[17:31:47] [Server thread/INFO]: Asesinos: BlackWhite_J, snevev
+[17:31:47] [Server thread/INFO]: ---------------------------------------------
+[17:31:47] [Server thread/INFO]: Named entity Zombie['「7」 Cabeza Zombi'/141231, uuid='c0ac2820-2a32-4620-a2cf-7cb2c271123b', l='ServerLevel[world]', x=-535.43, y=67.00, z=-260.61, cpos=[-34, -17], tl=2002, v=true] died: 「7」 Cabeza Zombi burned to death
+[17:31:47] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml ended!
+[17:32:31] [Async Chat Thread - #15/INFO]: [Not Secure] <Fernando_fyjjuk> reparacion por 5 diamantes
+[17:32:42] [Server thread/INFO]: [SeeMore] Set view distance of Fernando_fyjjuk to 7 (client view distance is 12).
+[17:33:12] [Server thread/INFO]: snevev issued server command: /elitemobs
+[17:33:20] [Server thread/INFO]: snevev issued server command: /ag
+[17:33:35] [Server thread/INFO]: snevev issued server command: /elitemobs:em dungeontp
+[17:33:39] [Server thread/INFO]: snevev issued server command: /elitemobs:em dungeontp Dungeon ID (you can't run this manually!)
+[17:33:52] [Server thread/INFO]: snevev issued server command: /elitemobs:em help
+[17:34:12] [Server thread/INFO]: snevev issued server command: /em shop dynamic
+[17:34:34] [User Authenticator #23/INFO]: UUID of player shadowMax is 2e987b91-87b2-32b3-98e0-37aef9266de4
+[17:34:35] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa BlackWhite_J
+[17:34:36] [Server thread/INFO]: [vane-admin] [broadcast] shadowMax se ha unido al servidor
+[17:34:36] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to shadowMax. rspUUID is null: false. done: true. firstUpload: false.
+[17:34:36] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to shadowMax
+[17:34:36] [Server thread/INFO]: Detención automática no programada
+[17:34:36] [Server thread/INFO]: shadowMax has joined!
+[17:34:36] [Server thread/INFO]: shadowMax[/127.190.69.79:38255] logged in with entity id 144105 at ([world]16990.69999998808, 12.0, -15741.699999988079)
+[17:34:37] [Craft Scheduler Thread - 86 - EliteMobs/INFO]: [EliteMobs] User 2e987b91-87b2-32b3-98e0-37aef9266de4 data successfully read!
+[17:34:56] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa shadowMax
+[17:35:03] [Async Chat Thread - #17/INFO]: [Not Secure] <snevev> ,/em shop dynamic
+[17:35:03] [Server thread/INFO]: shadowMax issued server command: /tpaccept
+[17:35:13] [Server thread/INFO]: BlackWhite_J issued server command: /huskhomes:tpaccept Fernando_fyjjuk
+[17:35:22] [Server thread/INFO]: BlackWhite_J issued server command: /em shop dynamic
+[17:35:39] [Server thread/INFO]: snevev issued server command: /em shop dynamic
+[17:35:44] [Async Chat Thread - #17/INFO]: [Not Secure] <shadowMax> xd
+[17:35:52] [Server thread/INFO]: snevev issued server command: /ag
+[17:36:04] [Server thread/INFO]: snevev issued server command: /em shop dynamic
+[17:36:17] [Async Chat Thread - #17/INFO]: [Not Secure] <shadowMax> dejame morir :v
+[17:36:20] [Server thread/INFO]: BlackWhite_J issued server command: /em shop dynamic
+[17:36:20] [Server thread/INFO]: snevev issued server command: /em shop dynamic
+[17:36:53] [Async Chat Thread - #18/INFO]: [Not Secure] <shadowMax> que paso ??
+[17:37:05] [Server thread/INFO]: shadowMax died
+[17:37:35] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[17:37:35] [Server thread/INFO]: Fernando_fyjjuk has left!
+[17:37:35] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [123ms] ha abandonado el servidor
+[17:37:56] [Server thread/INFO]: snevev issued server command: /back
+[17:38:23] [Server thread/INFO]: shadowMax died
+[17:38:55] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_6.PaperweightStarlightRelighterFactory as relighter factory.
+[17:39:21] [Server thread/INFO]: snevev issued server command: /home
+[17:39:28] [Server thread/INFO]: snevev issued server command: /home home
+[17:40:00] [Server thread/INFO]: snevev issued server command: /back
+[17:40:56] [Server thread/INFO]: snevev issued server command: /back
+[17:41:18] [Server thread/INFO]: BlackWhite_J issued server command: /tpa snevev
+[17:41:21] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept BlackWhite_J
+[17:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3556ms or 71 ticks behind
+[17:42:32] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_ThroneRoom_Grasslands_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[17:44:13] [Async Chat Thread - #19/INFO]: [Not Secure] <shadowMax> aaaae
+[17:44:17] [Async Chat Thread - #19/INFO]: [Not Secure] <shadowMax> ssssssssssssssss
+[17:44:31] [Server thread/INFO]: BlackWhite_J issued server command: /home
+[17:44:36] [Server thread/INFO]: snevev issued server command: /sethome warden
+[17:44:44] [Server thread/INFO]: snevev issued server command: /home home
+[17:45:22] [User Authenticator #24/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[17:45:22] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[17:45:22] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[17:45:22] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[17:45:22] [Server thread/INFO]: Detención automática no programada
+[17:45:22] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[17:45:22] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:59855] logged in with entity id 150434 at ([world]17006.623280252727, 12.0, -15754.376413655695)
+[17:45:23] [Craft Scheduler Thread - 84 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[17:46:07] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa BlackWhite_J
+[17:46:36] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Scyther190
+[17:46:56] [Server thread/INFO]: snevev issued server command: /back
+[17:47:02] [Server thread/INFO]: BlackWhite_J lost connection: Disconnected
+[17:47:02] [Server thread/INFO]: BlackWhite_J has left!
+[17:47:02] [Server thread/INFO]: [vane-admin] [broadcast] BlackWhite_J [147ms] ha abandonado el servidor
+[17:47:07] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa snevev
+[17:47:17] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept Fernando_fyjjuk
+[17:47:35] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml ended!
+[17:48:09] [Server thread/INFO]: [SeeMore] Set view distance of Fernando_fyjjuk to 7 (client view distance is 12).
+[17:48:21] [Server thread/INFO]: Fernando_fyjjuk has made the advancement [Sneak 100]
+[17:48:46] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_CircleTemple_Grasslands_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[17:48:53] [Server thread/INFO]: shadowMax lost connection: Disconnected
+[17:48:53] [Server thread/INFO]: shadowMax has left!
+[17:48:53] [Server thread/INFO]: [vane-admin] [broadcast] shadowMax [140ms] ha abandonado el servidor
