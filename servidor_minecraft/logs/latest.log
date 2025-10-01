@@ -679,3 +679,47 @@ LagFixer - Best Performance Solution!
 [14:43:02] [Server thread/INFO]: BlackWhite_J has left!
 [14:43:02] [Server thread/INFO]: [vane-admin] [broadcast] BlackWhite_J [143ms] ha abandonado el servidor
 [14:43:52] [Server thread/INFO]: Luiscue has made the advancement [Ice Bucket Challenge]
+[14:44:15] [Server thread/ERROR]: Entity threw exception at world_nether:-21.5,84.0,-140.5
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goal.WrappedGoal.isRunning()" because "wrappedGoalx" is null
+	at net.minecraft.world.entity.ai.goal.GoalSelector.tick(GoalSelector.java:100) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.serverAiStep(Mob.java:761) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3489) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.aiStep(Mob.java:504) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Zombie.aiStep(Zombie.java:259) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3267) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.tick(Mob.java:381) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:231) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1277) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1483) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:811) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:793) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1724) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[14:44:18] [Server thread/INFO]: [SeeMore] Set view distance of Luiscue to 7 (client view distance is 4).
+[14:44:48] [Server thread/INFO]: Luiscue issued server command: /home th
+[14:45:00] [Server thread/INFO]: Luiscue issued server command: /back
+[14:45:55] [Server thread/INFO]: Luiscue issued server command: /back
+[14:46:01] [Server thread/INFO]: [EliteMobs] Event beast_master.yml has been queued!
+[14:46:01] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
+[14:46:55] [Server thread/INFO]: ---------------------------------------------
+[14:46:55] [Server thread/INFO]: ¡El Maestro de Bestias ha sido atacado salvajemente!
+[14:46:55] [Server thread/INFO]:     1er Dañador: ¡Fernando_fyjjuk con 27.0 daño!
+[14:46:55] [Server thread/INFO]: 
+[14:46:55] [Server thread/INFO]: 
+[14:46:55] [Server thread/INFO]: Asesinos: Fernando_fyjjuk
+[14:46:55] [Server thread/INFO]: ---------------------------------------------
+[14:46:55] [Server thread/INFO]: Named entity Vindicator['「2」 Maestro de Bestias'/4819, uuid='9f6822c1-041e-4843-bc51-e17f6ea93eb6', l='ServerLevel[world]', x=16055.14, y=71.94, z=-16129.19, cpos=[1003, -1009], tl=1069, v=true] died: 「2」 Maestro de Bestias was slain by Iron Golem
+[14:46:55] [Server thread/INFO]: [EliteMobs] Event beast_master.yml ended!
+[14:47:18] [Server thread/INFO]: ¡「2」 Maestro de Bestias reivindicó sus habilidades de lucha con Fernando_fyjjuk!
+[14:47:47] [Server thread/INFO]: Luiscue issued server command: /back
+[14:47:57] [Server thread/INFO]: Luiscue issued server command: /home
+[14:49:48] [Async Chat Thread - #0/INFO]: [Not Secure] <Fernando_fyjjuk> duerman
+[14:51:01] [Server thread/INFO]: Luiscue issued server command: /back
+[14:52:01] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml has been queued!
+[14:52:14] [Server thread/INFO]: Villager Villager['Librarian'/4539, uuid='538c6586-39c8-4ffd-bfd6-de3c5689eab6', l='ServerLevel[world]', x=16033.70, y=72.00, z=-16073.57, cpos=[1002, -1005], tl=8230, v=true] died, message: 'Librarian was slain by Fernando_fyjjuk'
+[14:53:13] [Server thread/INFO]: Luiscue has made the advancement [Enchanter]
