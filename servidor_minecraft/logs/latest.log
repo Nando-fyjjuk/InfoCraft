@@ -1489,3 +1489,27 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [18:33:32] [Server thread/INFO]: Scyther190 issued server command: /home EXP
 [18:35:38] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml ended!
 [18:38:12] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[18:41:07] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[18:41:07] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[18:41:11] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss d9a695cd-7fae-4664-b2b3-72cc62530c51
+[18:42:43] [Server thread/INFO]: ---------------------------------------------
+[18:42:43] [Server thread/INFO]: ¡El Duende Con Armadura ha sido saqueado!
+[18:42:43] [Server thread/INFO]:     1er Dañador: ¡Scyther190 con 170.98 daño!
+[18:42:43] [Server thread/INFO]: 
+[18:42:43] [Server thread/INFO]: 
+[18:42:43] [Server thread/INFO]: Asesinos: Scyther190
+[18:42:43] [Server thread/INFO]: ---------------------------------------------
+[18:42:43] [Server thread/INFO]: Named entity Zombie['「8」 Goblin con Armadura'/168248, uuid='b1a050ef-1a4f-4649-8296-9c6eff014a59', l='ServerLevel[world]', x=-704.38, y=41.50, z=-1072.21, cpos=[-45, -68], tl=1724, v=true] died: 「8」 Goblin con Armadura was slain by Scyther190 using [Scyther's Sword]
+[18:42:43] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[18:43:22] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[18:43:33] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[18:47:07] [Server thread/INFO]: [EliteMobs] Event beast_master.yml has been queued!
+[18:47:07] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
+[18:50:12] [User Authenticator #30/INFO]: UUID of player Silver_servi is 8c1d60db-0677-3e33-8e2b-6f857dd2ea16
+[18:50:14] [Server thread/INFO]: [vane-admin] [broadcast] Silver_servi se ha unido al servidor
+[18:50:14] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Silver_servi. rspUUID is null: false. done: true. firstUpload: false.
+[18:50:14] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Silver_servi
+[18:50:14] [Server thread/INFO]: Detención automática no programada
+[18:50:14] [Server thread/INFO]: Silver_servi has joined!
+[18:50:14] [Server thread/INFO]: Silver_servi[/127.209.191.224:47111] logged in with entity id 170775 at ([world]192.4656866152073, 68.5625, -757.4682394230767)
+[18:50:15] [Craft Scheduler Thread - 115 - EliteMobs/INFO]: [EliteMobs] User 8c1d60db-0677-3e33-8e2b-6f857dd2ea16 data successfully read!
