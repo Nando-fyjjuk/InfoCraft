@@ -1833,3 +1833,48 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [20:31:08] [Server thread/INFO]: snevev issued server command: /back
 [20:31:16] [Server thread/INFO]: snevev issued server command: /home warden
 [20:32:20] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[20:33:13] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[20:33:40] [Server thread/INFO]: snevev issued server command: /back
+[20:34:07] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[20:34:17] [Server thread/INFO]: Fernando_fyjjuk died
+[20:35:13] [Server thread/INFO]: Fernando_fyjjuk died
+[20:35:42] [Async Chat Thread - #49/INFO]: [Not Secure] <thegeomusic> te presto mi super hacha
+[20:35:59] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[20:36:34] [Async Chat Thread - #49/INFO]: [Not Secure] <snevev> es exclusivamente tuya creo}
+[20:36:48] [Async Chat Thread - #49/INFO]: [Not Secure] <thegeomusic> bua
+[20:40:03] [User Authenticator #40/INFO]: UUID of player Luiscue is 845369e1-bc09-3801-a39e-6c8d160e41a6
+[20:40:05] [Server thread/INFO]: [vane-admin] [broadcast] Luiscue se ha unido al servidor
+[20:40:05] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Luiscue. rspUUID is null: false. done: true. firstUpload: false.
+[20:40:05] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Luiscue
+[20:40:05] [Server thread/INFO]: Detención automática no programada
+[20:40:05] [Server thread/INFO]: Luiscue has joined!
+[20:40:05] [Server thread/INFO]: Luiscue[/127.68.144.170:42251] logged in with entity id 266229 at ([world]104.92598369280202, 64.0, -1292.4722297706387)
+[20:40:06] [Craft Scheduler Thread - 166 - EliteMobs/INFO]: [EliteMobs] User 845369e1-bc09-3801-a39e-6c8d160e41a6 data successfully read!
+[20:40:10] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml ended!
+[20:40:31] [Server thread/INFO]: thegeomusic lost connection: Disconnected
+[20:40:31] [Server thread/INFO]: thegeomusic has left!
+[20:40:31] [Server thread/INFO]: [vane-admin] [broadcast] thegeomusic [248ms] ha abandonado el servidor
+[20:40:44] [User Authenticator #40/INFO]: UUID of player thegeomusic is e2188d3f-2e3c-3805-ad41-e887f69a659c
+[20:40:45] [Server thread/INFO]: [vane-admin] [broadcast] thegeomusic se ha unido al servidor
+[20:40:45] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to thegeomusic. rspUUID is null: false. done: true. firstUpload: false.
+[20:40:45] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to thegeomusic
+[20:40:45] [Server thread/INFO]: Detención automática no programada
+[20:40:45] [Server thread/INFO]: thegeomusic has joined!
+[20:40:45] [Server thread/INFO]: thegeomusic[/127.87.153.117:60141] logged in with entity id 266786 at ([world]606.9072501962809, 66.0, -3086.6780236255404)
+[20:40:46] [Craft Scheduler Thread - 166 - EliteMobs/INFO]: [EliteMobs] User e2188d3f-2e3c-3805-ad41-e887f69a659c data successfully read!
+[20:40:56] [Server thread/INFO]: Named entity Drowned['Ahogado de Elite Nivel 12'/266605, uuid='940f5ad3-5f60-4dc4-b440-dab21cace9ac', l='ServerLevel[world]', x=631.92, y=38.70, z=-3065.04, cpos=[39, -192], tl=652, v=true] died: Ahogado de Elite Nivel 12 was slain by Iron Golem
+[20:41:15] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[20:41:15] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[20:41:17] [Server thread/INFO]: snevev issued server command: /elitemobs track boss d8e508c0-55c1-4c34-8a91-ae52f0548cec
+[20:41:19] [Server thread/INFO]: thegeomusic issued server command: /elitemobs track boss d8e508c0-55c1-4c34-8a91-ae52f0548cec
+[20:41:34] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[20:42:30] [Server thread/INFO]: ---------------------------------------------
+[20:42:30] [Server thread/INFO]: ¡El Duende Con Armadura ha sido saqueado!
+[20:42:30] [Server thread/INFO]:     1er Dañador: ¡snevev con 175.5 daño!
+[20:42:30] [Server thread/INFO]: 
+[20:42:30] [Server thread/INFO]: 
+[20:42:30] [Server thread/INFO]: Asesinos: snevev
+[20:42:30] [Server thread/INFO]: ---------------------------------------------
+[20:42:30] [Server thread/INFO]: Named entity Zombie['「7」 Goblin con Armadura'/267193, uuid='940e2f31-089f-43c4-9ac3-648c11e281e2', l='ServerLevel[world]', x=507.06, y=26.86, z=-3019.22, cpos=[31, -189], tl=1500, v=true] died: 「7」 Goblin con Armadura was slain by snevev
+[20:42:30] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[20:42:40] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
