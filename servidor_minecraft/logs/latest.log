@@ -2211,3 +2211,46 @@ java.lang.NullPointerException: null
 [22:00:21] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
 [22:00:21] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
 [22:00:56] [Server thread/INFO]: Luiscue issued server command: /home repa
+[22:06:21] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml has been queued!
+[22:06:21] [Server thread/INFO]: ¡Un Goblin de Monedas ha sido avistado!
+[22:06:24] [Server thread/INFO]: Fernando_fyjjuk issued server command: /elitemobs track boss a0eaf9a4-5a93-4354-a5e8-c7a743e8ff6a
+[22:06:25] [User Authenticator #46/INFO]: UUID of player snevev is 81969a47-12b6-3577-8d85-ca9d23372ee6
+[22:06:26] [Server thread/INFO]: [vane-admin] [broadcast] snevev se ha unido al servidor
+[22:06:26] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to snevev. rspUUID is null: false. done: true. firstUpload: false.
+[22:06:26] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to snevev
+[22:06:26] [Server thread/INFO]: Detención automática no programada
+[22:06:26] [Server thread/INFO]: snevev has joined!
+[22:06:26] [Server thread/INFO]: snevev[/127.174.144.89:40851] logged in with entity id 320731 at ([world_nether]-399.6074443671262, 16.0, 424.3643647201149)
+[22:06:27] [Craft Scheduler Thread - 193 - EliteMobs/INFO]: [EliteMobs] User 81969a47-12b6-3577-8d85-ca9d23372ee6 data successfully read!
+[22:07:53] [Server thread/INFO]: ¡「2」 Goblin de Monedas llegó a los cerebros de Fernando_fyjjuk!
+[22:08:26] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[22:08:26] [Server thread/INFO]: Fernando_fyjjuk has left!
+[22:08:26] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [128ms] ha abandonado el servidor
+[22:09:40] [User Authenticator #47/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[22:09:41] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[22:09:41] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[22:09:41] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[22:09:41] [Server thread/INFO]: Detención automática no programada
+[22:09:41] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[22:09:41] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:42901] logged in with entity id 322964 at ([world]16061.5, 72.0, -16070.5)
+[22:09:42] [Craft Scheduler Thread - 192 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[22:10:16] [Server thread/INFO]: Named entity Ravager['〔2〕 Bestia de Caravana'/323086, uuid='b81a4414-328d-4b95-b630-92638d59d611', l='ServerLevel[world]', x=16032.73, y=77.00, z=-16085.24, cpos=[1002, -1006], tl=644, v=true] died: 〔2〕 Bestia de Caravana was slain by 「2」 Goblin de Monedas
+[22:10:48] [Server thread/INFO]: ---------------------------------------------
+[22:10:48] [Server thread/INFO]: ¡El Goblin de Monedas ha sido saqueado!
+[22:10:48] [Server thread/INFO]:     1er Dañador: ¡Fernando_fyjjuk con 106.81 daño!
+[22:10:48] [Server thread/INFO]: 
+[22:10:48] [Server thread/INFO]: 
+[22:10:48] [Server thread/INFO]: Asesinos: Fernando_fyjjuk
+[22:10:48] [Server thread/INFO]: ---------------------------------------------
+[22:10:48] [Server thread/INFO]: Named entity Zombie['「2」 Goblin de Monedas'/322990, uuid='26474204-08a8-49b6-aaf3-bc8745fe8adf', l='ServerLevel[world]', x=16031.50, y=77.00, z=-16085.46, cpos=[1001, -1006], tl=1330, v=true] died: 「2」 Goblin de Monedas was slain by Fernando_fyjjuk
+[22:10:49] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml ended!
+[22:11:04] [Server thread/INFO]: Named entity Pillager['〔1〕 Guardia de Caravana'/323085, uuid='c8a71e83-e583-476c-a0a7-a9e7cdbcb073', l='ServerLevel[world]', x=16024.92, y=77.00, z=-16073.80, cpos=[1001, -1005], tl=1603, v=true] died: 〔1〕 Guardia de Caravana was slain by Fernando_fyjjuk
+[22:11:15] [Server thread/INFO]: ¡「2」 Goblin de Monedas llegó a los cerebros de Fernando_fyjjuk!
+[22:11:32] [Server thread/INFO]: Luiscue issued server command: /home th
+[22:11:38] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[22:11:51] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[22:12:21] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml has been queued!
+[22:12:21] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
+[22:14:21] [Server thread/INFO]: Luiscue lost connection: Disconnected
+[22:14:21] [Server thread/INFO]: Luiscue has left!
+[22:14:21] [Server thread/INFO]: [vane-admin] [broadcast] Luiscue [141ms] ha abandonado el servidor
