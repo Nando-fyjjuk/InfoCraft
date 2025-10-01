@@ -1694,3 +1694,64 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [20:01:24] [Server thread/INFO]: snevev issued server command: /tell thegeomusic la ciudadela del warden
 [20:01:47] [Async Chat Thread - #27/INFO]: [Not Secure] <snevev> la floor
 [20:02:04] [Async Chat Thread - #28/INFO]: [Not Secure] <snevev> la rojita
+[20:02:31] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[20:02:59] [Server thread/INFO]: There are 3 of a max of 20 players online: Scyther190, snevev, thegeomusic
+[20:03:50] [User Authenticator #37/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[20:03:51] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[20:03:51] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[20:03:51] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[20:03:51] [Server thread/INFO]: Detención automática no programada
+[20:03:51] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[20:03:51] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:54421] logged in with entity id 247141 at ([world]-3266.300000011921, -51.0, 3549.3330654683173)
+[20:03:52] [Craft Scheduler Thread - 168 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[20:03:54] [Server thread/INFO]: Named entity Pillager['〔6〕 Guardia de Caravana'/246926, uuid='d20fd66b-e513-44d7-8f03-aec8ec64fe05', l='ServerLevel[world]', x=657.46, y=64.27, z=-2989.57, cpos=[41, -187], tl=889, v=true] died: 〔6〕 Guardia de Caravana was shot by snevev
+[20:03:57] [Server thread/INFO]: Scyther190 lost connection: Disconnected
+[20:03:57] [Server thread/INFO]: Scyther190 has left!
+[20:03:57] [Server thread/INFO]: [vane-admin] [broadcast] Scyther190 [142ms] ha abandonado el servidor
+[20:04:12] [Server thread/INFO]: Named entity Ravager['〔6〕 Bestia de Caravana'/246929, uuid='527d850f-a5c4-48bb-8369-831ae8bbc686', l='ServerLevel[world]', x=654.92, y=62.54, z=-2986.52, cpos=[40, -187], tl=1239, v=true] died: 〔6〕 Bestia de Caravana was shot by snevev
+[20:04:22] [Server thread/INFO]: Named entity Pillager['〔6〕 Guardia de Caravana'/246928, uuid='bd13224b-7775-414a-bcce-cb8bfb8bf796', l='ServerLevel[world]', x=652.28, y=62.51, z=-2981.34, cpos=[40, -187], tl=1439, v=true] died: 〔6〕 Guardia de Caravana was slain by snevev
+[20:04:30] [Server thread/INFO]: Named entity Ravager['〔7〕 Bestia de Caravana'/245757, uuid='32402159-456c-464c-a856-d7fe8b4bfb6c', l='ServerLevel[world]', x=654.33, y=62.60, z=-2984.58, cpos=[40, -187], tl=5102, v=true] died: 〔7〕 Bestia de Caravana was slain by snevev
+[20:04:31] [Server thread/INFO]: thegeomusic issued server command: /msg snevev pasa coorodssdsdsdsd
+[20:04:42] [Server thread/INFO]: Named entity Pillager['「7」 Pillager Líder de la Caravana'/245756, uuid='a5c07e7a-3958-4c04-ab5a-ad71cca2fdf3', l='ServerLevel[world]', x=652.67, y=62.61, z=-2996.99, cpos=[40, -188], tl=5332, v=true] died: 「7」 Pillager Líder de la Caravana was slain by snevev
+[20:04:42] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml ended!
+[20:05:15] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml has been queued!
+[20:05:15] [Server thread/INFO]: ¡Un Goblin de Monedas ha sido avistado!
+[20:05:27] [Server thread/INFO]: snevev issued server command: /elitemobs track boss 55274b21-6352-44d8-be6e-23f3324bc9b6
+[20:05:35] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[20:05:35] [Server thread/INFO]: Fernando_fyjjuk has left!
+[20:05:35] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [182ms] ha abandonado el servidor
+[20:06:24] [Server thread/INFO]: ---------------------------------------------
+[20:06:24] [Server thread/INFO]: ¡El Goblin de Monedas ha sido saqueado!
+[20:06:24] [Server thread/INFO]:     1er Dañador: ¡snevev con 154.6 daño!
+[20:06:24] [Server thread/INFO]: 
+[20:06:24] [Server thread/INFO]: 
+[20:06:24] [Server thread/INFO]: Asesinos: snevev
+[20:06:24] [Server thread/INFO]: ---------------------------------------------
+[20:06:24] [Server thread/INFO]: Named entity Zombie['「7」 Goblin de Monedas'/247752, uuid='261497e2-fcbf-4264-81b3-8ad062760c0c', l='ServerLevel[world]', x=710.32, y=40.03, z=-3063.14, cpos=[44, -192], tl=1367, v=true] died: 「7」 Goblin de Monedas was slain by snevev
+[20:06:24] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml ended!
+[20:06:54] [Server thread/INFO]: snevev issued server command: /home warden
+[20:06:57] [Server thread/INFO]: snevev issued server command: /tell thegeomusic tp
+[20:07:40] [User Authenticator #38/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[20:07:41] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[20:07:41] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[20:07:41] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[20:07:41] [Server thread/INFO]: Detención automática no programada
+[20:07:41] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[20:07:41] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:33737] logged in with entity id 249340 at ([world]-3266.2985180018222, -50.0, 3549.1232087849207)
+[20:07:42] [Craft Scheduler Thread - 166 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[20:07:58] [Server thread/INFO]: snevev issued server command: /tell thegeomusic tpaa
+[20:08:07] [Server thread/INFO]: thegeomusic issued server command: /tpa snevev
+[20:08:10] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept thegeomusic
+[20:08:30] [Server thread/INFO]: thegeomusic issued server command: /tpa snevev
+[20:08:32] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept thegeomusic
+[20:09:39] [Async Chat Thread - #35/INFO]: [Not Secure] <thegeomusic> que nivel es ?
+[20:10:07] [Server thread/INFO]: thegeomusic issued server command: /home
+[20:10:21] [Server thread/INFO]: snevev issued server command: /tell thegeomusic como??
+[20:10:33] [Server thread/INFO]: thegeomusic issued server command: /msg snevev si lo matamos
+[20:10:39] [Server thread/INFO]: thegeomusic issued server command: /back
+[20:11:04] [Server thread/INFO]: snevev issued server command: /tell thegeomusic esperame aqui
+[20:11:10] [Server thread/INFO]: snevev issued server command: /home home
+[20:11:15] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml has been queued!
+[20:11:15] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
+[20:11:18] [Server thread/INFO]: snevev issued server command: /elitemobs track boss 22f7e98d-0649-4c7a-9de2-8ca4b4dc17b1
+[20:11:21] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
