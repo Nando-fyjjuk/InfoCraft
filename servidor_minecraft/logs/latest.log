@@ -1755,3 +1755,64 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [20:11:15] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
 [20:11:18] [Server thread/INFO]: snevev issued server command: /elitemobs track boss 22f7e98d-0649-4c7a-9de2-8ca4b4dc17b1
 [20:11:21] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[20:12:57] [Server thread/INFO]: snevev issued server command: /tell thegeomusic goo
+[20:13:07] [Server thread/INFO]: thegeomusic issued server command: /back
+[20:13:16] [Server thread/INFO]: [Not Secure] <snevev> Jeeves!
+[20:13:34] [Async Chat Thread - #38/INFO]: [Not Secure] <thegeomusic> quququq
+[20:13:37] [Async Chat Thread - #38/INFO]: [Not Secure] <Fernando_fyjjuk> papus
+[20:13:44] [Server thread/INFO]: thegeomusic issued server command: /home
+[20:13:53] [Async Chat Thread - #38/INFO]: [Not Secure] <Fernando_fyjjuk> se puede guardar xp con frascos y una mesa de encantamiento
+[20:14:04] [Async Chat Thread - #38/INFO]: [Not Secure] <snevev> omaiga
+[20:14:15] [Server thread/INFO]: Fernando_fyjjuk has made the advancement [Cover Me with Diamonds]
+[20:14:33] [Async Chat Thread - #38/INFO]: [Not Secure] <thegeomusic> damn
+[20:15:01] [Server thread/INFO]: snevev issued server command: /tell thegeomusic go matar warden ya toy lsito
+[20:15:13] [Async Chat Thread - #37/INFO]: [Not Secure] <thegeomusic> ogog
+[20:15:20] [Server thread/INFO]: thegeomusic issued server command: /back
+[20:15:43] [Server thread/INFO]: snevev issued server command: /back
+[20:15:49] [Server thread/INFO]: thegeomusic issued server command: /back
+[20:15:56] [Server thread/INFO]: snevev issued server command: /back
+[20:16:04] [Server thread/INFO]: thegeomusic issued server command: /back
+[20:16:51] [Async Chat Thread - #39/INFO]: [Not Secure] <Fernando_fyjjuk> que es mejor?
+[20:16:57] [Async Chat Thread - #39/INFO]: [Not Secure] <Fernando_fyjjuk> filo o golpeo?
+[20:17:53] [Server thread/INFO]: ¡「7」 Cabeza Zombi llegó a los cerebros de snevev!
+[20:17:53] [Server thread/INFO]: ¡snevev ha sido ejecutado!
+[20:18:02] [Server thread/INFO]: snevev issued server command: /back
+[20:18:13] [Server thread/INFO]: snevev issued server command: /tpa thegeomusic
+[20:18:14] [Server thread/INFO]: thegeomusic issued server command: /home
+[20:18:28] [Server thread/INFO]: thegeomusic issued server command: /huskhomes:tpaccept snevev
+[20:18:32] [Async Chat Thread - #41/INFO]: [Not Secure] <thegeomusic> aquiiii
+[20:18:49] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[20:18:55] [Server thread/INFO]: snevev issued server command: /tell thegeomusic pon ./back
+[20:19:03] [Server thread/INFO]: snevev issued server command: /tell thegeomusic y acepta tp fassss
+[20:19:08] [Server thread/INFO]: thegeomusic issued server command: /back
+[20:19:13] [Server thread/INFO]: snevev issued server command: /tell thegeomusic plsss
+[20:19:16] [Server thread/INFO]: snevev issued server command: /tpa thegeomusic
+[20:19:19] [Server thread/INFO]: thegeomusic issued server command: /huskhomes:tpaccept snevev
+[20:19:25] [Server thread/INFO]: snevev issued server command: /tpa thegeomusic
+[20:19:32] [Server thread/INFO]: snevev issued server command: /tpa thegeomusic
+[20:19:33] [Server thread/INFO]: thegeomusic issued server command: /home
+[20:20:07] [Server thread/INFO]: snevev issued server command: /tell thegeomusic pon ./back
+[20:20:11] [Server thread/INFO]: snevev issued server command: /tell thegeomusic y acepta tp fassss
+[20:20:13] [Server thread/INFO]: thegeomusic issued server command: /back
+[20:20:21] [Server thread/INFO]: snevev issued server command: /tpa thegeomusic
+[20:20:32] [Server thread/INFO]: thegeomusic issued server command: /home
+[20:20:53] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[20:20:53] [Server thread/INFO]: Fernando_fyjjuk has left!
+[20:20:53] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [124ms] ha abandonado el servidor
+[20:20:54] [Server thread/INFO]: snevev issued server command: /tell thegeomusic pon ./back
+[20:21:00] [Server thread/INFO]: snevev issued server command: /tell thegeomusic ahi te revivo
+[20:21:08] [Server thread/INFO]: snevev issued server command: /home warden
+[20:21:13] [Server thread/INFO]: thegeomusic issued server command: /msg snevev estoy con el warden ahi
+[20:21:15] [User Authenticator #39/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[20:21:16] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[20:21:16] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[20:21:16] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[20:21:16] [Server thread/INFO]: Detención automática no programada
+[20:21:16] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[20:21:16] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:44803] logged in with entity id 254758 at ([world]-3426.056526991172, -45.0, 3435.8763735120724)
+[20:21:17] [Craft Scheduler Thread - 166 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[20:21:19] [Server thread/INFO]: snevev issued server command: /home warden
+[20:21:32] [Server thread/INFO]: thegeomusic issued server command: /msg snevev lo estoy matando en la lava
+[20:21:54] [Server thread/INFO]: thegeomusic issued server command: /back
+[20:22:30] [Server thread/INFO]: thegeomusic issued server command: /home
+[20:22:40] [Async Chat Thread - #43/INFO]: [Not Secure] <thegeomusic> casaaa
