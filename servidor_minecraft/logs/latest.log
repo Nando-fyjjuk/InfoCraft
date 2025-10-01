@@ -1923,3 +1923,33 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [21:01:46] [Server thread/INFO]: snevev issued server command: /home warden
 [21:01:57] [Server thread/INFO]: snevev issued server command: /back
 [21:02:15] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[21:04:01] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[21:04:20] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[21:04:32] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[21:04:32] [Server thread/INFO]: Fernando_fyjjuk has left!
+[21:04:32] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [126ms] ha abandonado el servidor
+[21:05:34] [Server thread/INFO]: snevev has made the advancement [Local Brewery]
+[21:05:43] [Server thread/INFO]: snevev issued server command: /back
+[21:06:09] [Server thread/INFO]: thegeomusic issued server command: /home
+[21:06:27] [Server thread/INFO]: thegeomusic issued server command: /msg snevev casaaaaa
+[21:06:36] [Server thread/INFO]: thegeomusic issued server command: /msg snevev ayudita
+[21:06:37] [Server thread/INFO]: snevev issued server command: /home home
+[21:06:47] [User Authenticator #41/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[21:06:48] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[21:06:48] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[21:06:48] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[21:06:48] [Server thread/INFO]: Detención automática no programada
+[21:06:48] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[21:06:48] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:34835] logged in with entity id 281741 at ([world]16068.717608076558, 72.0, -16120.766038577804)
+[21:06:49] [Craft Scheduler Thread - 181 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[21:07:00] [Server thread/INFO]: snevev issued server command: /back
+[21:07:03] [Async Chat Thread - #55/INFO]: [Not Secure] <thegeomusic> grx
+[21:07:10] [Server thread/INFO]: thegeomusic issued server command: /back
+[21:07:41] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[21:07:49] [Server thread/INFO]: thegeomusic issued server command: /back
+[21:09:56] [Server thread/INFO]: snevev has made the advancement [Hidden in the Depths]
+[21:10:11] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[21:10:23] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[21:12:01] [Server thread/INFO]: thegeomusic issued server command: /home
+[21:12:27] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[21:12:55] [Server thread/INFO]: thegeomusic issued server command: /back
