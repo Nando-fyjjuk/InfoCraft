@@ -1878,3 +1878,21 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [20:42:30] [Server thread/INFO]: Named entity Zombie['「7」 Goblin con Armadura'/267193, uuid='940e2f31-089f-43c4-9ac3-648c11e281e2', l='ServerLevel[world]', x=507.06, y=26.86, z=-3019.22, cpos=[31, -189], tl=1500, v=true] died: 「7」 Goblin con Armadura was slain by snevev
 [20:42:30] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
 [20:42:40] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[20:43:11] [Server thread/INFO]: snevev issued server command: /home home
+[20:43:30] [Server thread/INFO]: snevev issued server command: /home home
+[20:43:46] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[20:44:07] [Server thread/INFO]: Fernando_fyjjuk died
+[20:44:29] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[20:45:21] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[20:45:32] [Server thread/INFO]: Fernando_fyjjuk died
+[20:46:32] [Server thread/INFO]: Fernando_fyjjuk issued server command: /graves
+[20:47:15] [Server thread/INFO]: [EliteMobs] Event beast_master.yml has been queued!
+[20:47:15] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
+[20:47:39] [Async Chat Thread - #51/INFO]: [Not Secure] <Fernando_fyjjuk> se bugeo mi tumba y perdi un pico de diamante con reparacion y toque de seda xd
+[20:48:07] [Async Chat Thread - #51/INFO]: [Not Secure] <Fernando_fyjjuk> corrijo
+[20:48:12] [Async Chat Thread - #51/INFO]: [Not Secure] <Fernando_fyjjuk> mis dos picos
+[20:48:18] [Async Chat Thread - #51/INFO]: [Not Secure] <Fernando_fyjjuk> lptmr
+[20:48:32] [Server thread/WARN]: thegeomusic moved wrongly!
+[20:48:41] [Server thread/WARN]: thegeomusic moved wrongly!
+[20:50:36] [Server thread/INFO]: Luiscue has made the advancement [The Dummy]
+[20:51:06] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
