@@ -782,3 +782,70 @@ LagFixer - Best Performance Solution!
 [14:16:24] [Server thread/INFO]: ¡Zombi de Elite Nivel 5 llegó a los cerebros de Fernando_fyjjuk!
 [14:16:41] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml has been queued!
 [14:16:55] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[14:17:22] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[14:17:22] [Server thread/INFO]: Fernando_fyjjuk has left!
+[14:17:22] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [182ms] ha abandonado el servidor
+[14:17:45] [Server thread/INFO]: Scyther190 issued server command: /home
+[14:19:19] [Server thread/INFO]: snevev issued server command: /rtp
+[14:19:52] [Server thread/INFO]: snevev issued server command: /tell BlackWhite_J q fue eso
+[14:19:55] [Server thread/INFO]: snevev issued server command: /rtp
+[14:20:03] [Server thread/INFO]: BlackWhite_J issued server command: /msg snevev de que?
+[14:20:14] [Server thread/INFO]: snevev issued server command: /tell BlackWhite_J escuchaste ese sonido??
+[14:20:30] [Server thread/INFO]: BlackWhite_J issued server command: /msg nu estoy con musica
+[14:20:38] [Server thread/INFO]: BlackWhite_J issued server command: /msg snevev estoy con musica xd
+[14:21:30] [Server thread/INFO]: snevev issued server command: /tell BlackWhite_J a chch
+[14:21:38] [Server thread/INFO]: snevev issued server command: /tell BlackWhite_J hoy hay entreno???
+[14:21:54] [Server thread/INFO]: BlackWhite_J issued server command: /msg snevev no hasta q rafa vuevla
+[14:22:12] [Server thread/INFO]: snevev issued server command: /tell BlackWhite_J a donde se fue
+[14:22:22] [Server thread/INFO]: BlackWhite_J issued server command: /msg snevev tacna por la fedup
+[14:22:24] [User Authenticator #9/INFO]: UUID of player AKAsus10 is d708d33f-2ffb-3e49-a8ec-38af8e4e292f
+[14:22:25] [Server thread/INFO]: [vane-trifles] Given 1421 recipes to AKAsus10
+[14:22:25] [Server thread/INFO]: [vane-admin] [broadcast] AKAsus10 se ha unido al servidor
+[14:22:25] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to AKAsus10. rspUUID is null: false. done: true. firstUpload: false.
+[14:22:25] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to AKAsus10
+[14:22:25] [Server thread/INFO]: Detención automática no programada
+[14:22:25] [Server thread/INFO]: AKAsus10 has joined the server for the first time! (#37)
+[14:22:25] [Server thread/INFO]: AKAsus10[/127.138.96.250:47431] logged in with entity id 55347 at ([world]-392.5, 80.0, -102.5)
+[14:22:26] [Craft Scheduler Thread - 33 - EliteMobs/INFO]: [EliteMobs] No player entry detected, generating new entry!
+[14:22:31] [Server thread/INFO]: snevev issued server command: /tell BlackWhite_J q esla fedup
+[14:22:32] [Server thread/INFO]: [vane-core] The player AKAsus10 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[14:22:32] [Server thread/INFO]: [vane-core] The player AKAsus10 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[14:22:32] [Server thread/INFO]: [vane-core] The player AKAsus10 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[14:22:46] [Server thread/INFO]: BlackWhite_J issued server command: /msg snevev jugar por la universidad con otras universidades
+[14:22:58] [User Authenticator #9/INFO]: UUID of player AKAsus10 is d708d33f-2ffb-3e49-a8ec-38af8e4e292f
+[14:22:58] [Server thread/INFO]: AKAsus10 lost connection: You logged in from another location
+[14:22:58] [Server thread/INFO]: AKAsus10 has left!
+[14:22:58] [Server thread/INFO]: [vane-admin] [broadcast] AKAsus10 [557ms] ha sido expulsado del servidor
+[14:23:01] [Server thread/INFO]: [vane-admin] [broadcast] AKAsus10 se ha unido al servidor
+[14:23:01] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to AKAsus10. rspUUID is null: false. done: true. firstUpload: false.
+[14:23:01] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to AKAsus10
+[14:23:01] [Server thread/INFO]: Detención automática no programada
+[14:23:01] [Server thread/INFO]: AKAsus10 has joined!
+[14:23:01] [Server thread/INFO]: AKAsus10[/127.138.96.250:44551] logged in with entity id 57288 at ([world]-392.5, 80.0, -102.5)
+[14:23:02] [Server thread/INFO]: [vane-core] The player AKAsus10 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[14:23:02] [Server thread/INFO]: [vane-core] The player AKAsus10 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[14:23:02] [Server thread/INFO]: [vane-core] The player AKAsus10 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[14:23:02] [Craft Scheduler Thread - 33 - EliteMobs/INFO]: [EliteMobs] User d708d33f-2ffb-3e49-a8ec-38af8e4e292f data successfully read!
+[14:23:16] [Server thread/INFO]: snevev issued server command: /tell BlackWhite_J mrd tan capo?
+[14:23:26] [Server thread/INFO]: BlackWhite_J issued server command: /msg ajaw
+[14:23:34] [Server thread/INFO]: BlackWhite_J issued server command: /msg snevev aja
+[14:24:21] [User Authenticator #10/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[14:24:22] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[14:24:22] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[14:24:22] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[14:24:22] [Server thread/INFO]: Detención automática no programada
+[14:24:22] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[14:24:22] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:48111] logged in with entity id 61714 at ([world]16086.914216028596, 67.0, -16112.310327036012)
+[14:24:23] [Craft Scheduler Thread - 35 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[14:25:25] [Async Chat Thread - #12/INFO]: [Not Secure] <Fernando_fyjjuk> libro de proteccion IV por stack de lapiz lazuli
+[14:25:35] [Server thread/INFO]: snevev issued server command: /tell Fernando_fyjjuk yoyo
+[14:25:42] [Server thread/INFO]: snevev issued server command: /home
+[14:25:47] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa snevev
+[14:26:00] [Server thread/INFO]: snevev issued server command: /back
+[14:26:07] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept Fernando_fyjjuk
+[14:26:09] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tell snevev acepta el to
+[14:26:25] [Async Chat Thread - #12/INFO]: [Not Secure] <Fernando_fyjjuk> falta
+[14:26:27] [Async Chat Thread - #12/INFO]: [Not Secure] <snevev> ese no era
+[14:26:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Fernando_fyjjuk> cual te di
+[14:26:42] [Server thread/INFO]: snevev issued server command: /tell Fernando_fyjjuk xd dame me equivoque
+[14:27:06] [Async Chat Thread - #13/INFO]: [Not Secure] <Fernando_fyjjuk> perate no era prote IV
