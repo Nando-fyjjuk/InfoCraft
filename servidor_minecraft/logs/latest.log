@@ -1635,3 +1635,22 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [19:40:16] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 10'/229090, uuid='82c2e456-5f90-424b-8bce-ca06a92cc9be', l='ServerLevel[world]', x=-709.83, y=64.00, z=528.13, cpos=[-45, 33], tl=2589, v=true] died: Zombi de Elite Nivel 10 was slain by Scyther190 using [Scyther's Sword]
 [19:40:17] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 9'/228143, uuid='f3cf198c-8a08-4bc8-bf3c-b3fb72b7e82c', l='ServerLevel[world]', x=-709.13, y=64.00, z=527.57, cpos=[-45, 32], tl=3204, v=true] died: Zombi de Elite Nivel 9 was slain by Scyther190 using [Scyther's Sword]
 [19:40:19] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 12'/229091, uuid='13e57413-f357-45fc-ba09-f873e4975d1a', l='ServerLevel[world]', x=-709.85, y=64.00, z=527.30, cpos=[-45, 32], tl=2642, v=true] died: Zombi de Elite Nivel 12 was slain by Scyther190 using [Scyther's Sword]
+[19:41:42] [Server thread/INFO]: Gordito_Mayinbu lost connection: Disconnected
+[19:41:42] [Server thread/INFO]: Gordito_Mayinbu has left!
+[19:41:42] [Server thread/INFO]: [vane-admin] [broadcast] Gordito_Mayinbu [679ms] ha abandonado el servidor
+[19:41:59] [User Authenticator #35/INFO]: UUID of player Gordito_Mayinbu is 672cfce6-0160-3968-a82d-0896b66cdae5
+[19:42:00] [Server thread/INFO]: [vane-admin] [broadcast] Gordito_Mayinbu se ha unido al servidor
+[19:42:00] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Gordito_Mayinbu. rspUUID is null: false. done: true. firstUpload: false.
+[19:42:00] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Gordito_Mayinbu
+[19:42:00] [Server thread/INFO]: Detención automática no programada
+[19:42:00] [Server thread/INFO]: Gordito_Mayinbu has joined!
+[19:42:00] [Server thread/INFO]: Gordito_Mayinbu[/127.255.23.112:46171] logged in with entity id 234028 at ([world]-40.57098257673183, 66.20452532703852, -108.65440451450846)
+[19:42:00] [Craft Scheduler Thread - 140 - EliteMobs/INFO]: [EliteMobs] User 672cfce6-0160-3968-a82d-0896b66cdae5 data successfully read!
+[19:42:52] [Server thread/INFO]: DITFKLIN002 issued server command: /home x
+[19:45:16] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss da943bbd-537d-4e27-b50a-aa6b092e605e
+[19:45:59] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[19:47:44] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml ended!
+[19:50:34] [Server thread/INFO]: snevev issued server command: /home warden
+[19:51:05] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 7'/238557, uuid='5e908dd9-5c49-48dd-a895-15994d25a58b', l='ServerLevel[world]', x=-724.30, y=-14.00, z=593.47, cpos=[-46, 37], tl=2011, v=true] died: Zombi de Elite Nivel 7 was slain by DITFKLIN002
+[19:51:12] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[19:51:45] [Server thread/INFO]: Gordito_Mayinbu has made the advancement [Acquire Hardware]
