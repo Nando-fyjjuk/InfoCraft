@@ -2183,3 +2183,21 @@ java.lang.NullPointerException: null
 [21:40:19] [Server thread/INFO]: [SeeMore] Set view distance of Frankoskrrr to 7 (client view distance is 12).
 [21:40:29] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
 [21:44:02] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[21:44:33] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[21:44:52] [Server thread/INFO]: Fernando_fyjjuk died
+[21:46:16] [Server thread/INFO]: Luiscue issued server command: /sethome repa
+[21:46:33] [Async Chat Thread - #57/INFO]: [Not Secure] <Fernando_fyjjuk> necesito todo el lapiz lazuli posible
+[21:46:38] [Async Chat Thread - #57/INFO]: [Not Secure] <Fernando_fyjjuk> que piden
+[21:47:53] [Server thread/INFO]: Luiscue has made the advancement [What a Deal!]
+[21:47:53] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml ended!
+[21:48:02] [Server thread/INFO]: Luiscue issued server command: /home th
+[21:48:06] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Luiscue
+[21:48:53] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Frankoskrrr
+[21:49:05] [Async Chat Thread - #59/INFO]: [Not Secure] <Frankoskrrr> toy en el nether
+[21:49:08] [Server thread/INFO]: Luiscue issued server command: /back
+[21:49:09] [Async Chat Thread - #59/INFO]: [Not Secure] <Fernando_fyjjuk> mejor
+[21:49:18] [Server thread/INFO]: Frankoskrrr issued server command: /huskhomes:tpaccept Fernando_fyjjuk
+[21:49:33] [Server thread/INFO]: [SeeMore] Set view distance of Luiscue to 7 (client view distance is 4).
+[21:50:02] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Frankoskrrr
+[21:50:05] [Server thread/INFO]: Frankoskrrr issued server command: /huskhomes:tpaccept Fernando_fyjjuk
+[21:54:26] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml ended!
