@@ -1545,3 +1545,8 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [18:59:50] [Server thread/INFO]: Gordito_Mayinbu has left!
 [18:59:50] [Server thread/INFO]: [vane-admin] [broadcast] Gordito_Mayinbu [118ms] ha abandonado el servidor
 [19:00:20] [Server thread/INFO]: DITFKLIN002 issued server command: /home x
+[19:01:50] [Server thread/INFO]: Scyther190 issued server command: /sethome luxfo
+[19:04:41] [Server thread/INFO]: Scyther190 issued server command: /sethome home
+[19:04:46] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[19:04:49] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[19:08:50] [Server thread/WARN]: DITFKLIN002 moved too quickly! -9.714849565098007,-2.0,-1.4653008854198788
