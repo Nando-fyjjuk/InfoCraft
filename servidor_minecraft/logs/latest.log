@@ -795,3 +795,64 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [15:25:02] [Server thread/INFO]: luxfoo has left!
 [15:25:02] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [124ms] ha abandonado el servidor
 [15:25:14] [Server thread/INFO]: Scyther190 issued server command: /home
+[15:26:53] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[15:27:49] [User Authenticator #6/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[15:27:50] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[15:27:50] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[15:27:50] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[15:27:50] [Server thread/INFO]: Detención automática no programada
+[15:27:50] [Server thread/INFO]: luxfoo has joined!
+[15:27:50] [Server thread/INFO]: luxfoo[/127.109.168.5:52047] logged in with entity id 33328 at ([world]-842.8078352118821, 69.02847363537255, 297.7787935438091)
+[15:27:51] [Craft Scheduler Thread - 29 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[15:28:07] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[15:28:07] [Server thread/INFO]: luxfoo has left!
+[15:28:07] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [132ms] ha abandonado el servidor
+[15:28:44] [Server thread/INFO]: Luiscue issued server command: /home
+[15:29:01] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[15:29:01] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
+[15:29:02] [User Authenticator #7/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[15:29:04] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[15:29:04] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[15:29:04] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[15:29:04] [Server thread/INFO]: Detención automática no programada
+[15:29:04] [Server thread/INFO]: luxfoo has joined!
+[15:29:04] [Server thread/INFO]: luxfoo[/127.109.168.5:45261] logged in with entity id 34112 at ([world]-842.8078352118821, 69.0, 297.7787935438091)
+[15:29:05] [Craft Scheduler Thread - 29 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[15:29:11] [Server thread/INFO]: DITFKLIN002 issued server command: /sethome z
+[15:29:15] [Server thread/INFO]: Luiscue issued server command: /back
+[15:29:24] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[15:29:24] [Server thread/INFO]: luxfoo has left!
+[15:29:24] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [180ms] ha abandonado el servidor
+[15:29:27] [Server thread/INFO]: DITFKLIN002 issued server command: /tpa z
+[15:29:45] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[15:30:23] [User Authenticator #8/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[15:30:24] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[15:30:24] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[15:30:24] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[15:30:24] [Server thread/INFO]: Detención automática no programada
+[15:30:24] [Server thread/INFO]: luxfoo has joined!
+[15:30:24] [Server thread/INFO]: luxfoo[/127.109.168.5:55295] logged in with entity id 35104 at ([world]-845.4513794570372, 68.0, 296.35159775314986)
+[15:30:25] [Craft Scheduler Thread - 26 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[15:30:53] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[15:30:53] [Server thread/INFO]: luxfoo has left!
+[15:30:53] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [294ms] ha abandonado el servidor
+[15:31:20] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Luiscue
+[15:31:55] [User Authenticator #9/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[15:31:56] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[15:31:56] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[15:31:56] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[15:31:56] [Server thread/INFO]: Detención automática no programada
+[15:31:56] [Server thread/INFO]: luxfoo has joined!
+[15:31:56] [Server thread/INFO]: luxfoo[/127.109.168.5:36955] logged in with entity id 36268 at ([world]-845.4513794570372, 68.42527412219724, 296.614477625123)
+[15:31:56] [Server thread/INFO]: ¡luxfoo fue devorado por Goblin del Tesoro 「7」!
+[15:31:57] [Craft Scheduler Thread - 32 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[15:32:42] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa Scyther190
+[15:33:09] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[15:33:36] [Server thread/INFO]: DITFKLIN002 issued server command: /sethome x
+[15:33:40] [Server thread/INFO]: Scyther190 issued server command: /huskhomes:tpaccept Fernando_fyjjuk
+[15:34:36] [Server thread/INFO]: luxfoo issued server command: /home
+[15:34:38] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[15:34:44] [Server thread/INFO]: Piglin Zombificado de Elite Nivel 11 Convirtió a Fernando_fyjjuk en jamón!
+[15:34:55] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home aaa
+[15:35:01] [Server thread/INFO]: [EliteMobs] Event full_moon.yml has been queued!
+[15:35:20] [Server thread/INFO]: Named entity ZombifiedPiglin['Piglin Zombificado de Elite Nivel 13'/36787, uuid='52209d0f-698b-4824-a5f5-ac84729fb556', l='ServerLevel[world_nether]', x=-90.26, y=45.00, z=-145.69, cpos=[-6, -10], tl=3536, v=true] died: Piglin Zombificado de Elite Nivel 13 was shot by Fernando_fyjjuk
