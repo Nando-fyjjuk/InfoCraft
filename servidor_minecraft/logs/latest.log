@@ -1472,3 +1472,20 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [18:29:08] [Server thread/INFO]: luxfoo has joined!
 [18:29:08] [Server thread/INFO]: luxfoo[/127.109.168.5:48625] logged in with entity id 164807 at ([world]-710.8131816022258, 59.0, -49.5567681294672)
 [18:29:09] [Craft Scheduler Thread - 112 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[18:30:10] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[18:30:10] [Server thread/INFO]: luxfoo has left!
+[18:30:10] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [177ms] ha abandonado el servidor
+[18:30:44] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[18:31:44] [User Authenticator #29/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[18:31:45] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[18:31:45] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[18:31:45] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[18:31:45] [Server thread/INFO]: Detención automática no programada
+[18:31:45] [Server thread/INFO]: luxfoo has joined!
+[18:31:45] [Server thread/INFO]: luxfoo[/127.109.168.5:43473] logged in with entity id 165918 at ([world]-702.0987357338736, 63.0, -53.528573325477254)
+[18:31:46] [Craft Scheduler Thread - 108 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[18:33:24] [Server thread/INFO]: Named entity Zombie['「7」 Duende de Encantamientos'/165988, uuid='70dd5cdd-c3b3-4e25-8d2c-493f37739bcf', l='ServerLevel[world]', x=-686.92, y=63.94, z=-83.34, cpos=[-43, -6], tl=1931, v=true] died: 「7」 Duende de Encantamientos burned to death
+[18:33:24] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml ended!
+[18:33:32] [Server thread/INFO]: Scyther190 issued server command: /home EXP
+[18:35:38] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml ended!
+[18:38:12] [Server thread/INFO]: Scyther190 issued server command: /home scyther
