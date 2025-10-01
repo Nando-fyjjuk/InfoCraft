@@ -1654,3 +1654,43 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [19:51:05] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 7'/238557, uuid='5e908dd9-5c49-48dd-a895-15994d25a58b', l='ServerLevel[world]', x=-724.30, y=-14.00, z=593.47, cpos=[-46, 37], tl=2011, v=true] died: Zombi de Elite Nivel 7 was slain by DITFKLIN002
 [19:51:12] [Server thread/INFO]: Scyther190 issued server command: /home scyther
 [19:51:45] [Server thread/INFO]: Gordito_Mayinbu has made the advancement [Acquire Hardware]
+[19:51:47] [Server thread/INFO]: snevev issued server command: /home home
+[19:51:52] [Server thread/INFO]: Gordito_Mayinbu has made the advancement [Isn't It Iron Pick]
+[19:52:41] [Server thread/INFO]: snevev issued server command: /home warden
+[19:52:55] [Server thread/INFO]: snevev issued server command: /home warden
+[19:53:04] [Server thread/WARN]: snevev moved wrongly!
+[19:54:21] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[19:54:31] [Server thread/INFO]: DITFKLIN002 lost connection: Disconnected
+[19:54:31] [Server thread/INFO]: DITFKLIN002 has left!
+[19:54:31] [Server thread/INFO]: [vane-admin] [broadcast] DITFKLIN002 [139ms] ha abandonado el servidor
+[19:55:11] [Server thread/INFO]: snevev issued server command: /home home
+[19:55:14] [Server thread/INFO]: snevev issued server command: /home home
+[19:55:42] [Server thread/INFO]: Gordito_Mayinbu was slain by Lvl 5 | Zombie
+[19:55:50] [Server thread/INFO]: Gordito_Mayinbu lost connection: Disconnected
+[19:55:50] [Server thread/INFO]: Gordito_Mayinbu has left!
+[19:55:50] [Server thread/INFO]: [vane-admin] [broadcast] Gordito_Mayinbu [384ms] ha abandonado el servidor
+[19:58:34] [Server thread/INFO]: snevev issued server command: /home warden
+[19:59:38] [User Authenticator #36/INFO]: UUID of player thegeomusic is e2188d3f-2e3c-3805-ad41-e887f69a659c
+[19:59:39] [Server thread/INFO]: [vane-admin] [broadcast] thegeomusic se ha unido al servidor
+[19:59:39] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to thegeomusic. rspUUID is null: false. done: true. firstUpload: false.
+[19:59:39] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to thegeomusic
+[19:59:39] [Server thread/INFO]: Detención automática no programada
+[19:59:39] [Server thread/INFO]: thegeomusic has joined!
+[19:59:39] [Server thread/INFO]: thegeomusic[/127.87.153.117:57931] logged in with entity id 245379 at ([world]617.6999999880791, 71.5625, -3084.0714960984765)
+[19:59:40] [Craft Scheduler Thread - 162 - EliteMobs/INFO]: [EliteMobs] User e2188d3f-2e3c-3805-ad41-e887f69a659c data successfully read!
+[19:59:59] [Server thread/INFO]: snevev issued server command: /tell thegeomusic no sabes q me encontre
+[20:00:07] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
+[20:00:07] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[20:00:12] [Server thread/INFO]: snevev issued server command: /elitemobs track boss 2c100f56-a830-49bd-86df-de29415c32db
+[20:00:26] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 2c100f56-a830-49bd-86df-de29415c32db
+[20:00:32] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 2c100f56-a830-49bd-86df-de29415c32db
+[20:00:38] [Server thread/INFO]: Scyther190 issued server command: /rtp
+[20:00:44] [Server thread/INFO]: snevev issued server command: /home home
+[20:00:57] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 2c100f56-a830-49bd-86df-de29415c32db
+[20:00:57] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 2c100f56-a830-49bd-86df-de29415c32db
+[20:00:57] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 2c100f56-a830-49bd-86df-de29415c32db
+[20:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7929ms or 158 ticks behind
+[20:00:58] [Server thread/INFO]: thegeomusic issued server command: /msg snevev quququququq
+[20:01:24] [Server thread/INFO]: snevev issued server command: /tell thegeomusic la ciudadela del warden
+[20:01:47] [Async Chat Thread - #27/INFO]: [Not Secure] <snevev> la floor
+[20:02:04] [Async Chat Thread - #28/INFO]: [Not Secure] <snevev> la rojita
