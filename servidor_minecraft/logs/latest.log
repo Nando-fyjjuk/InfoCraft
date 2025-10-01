@@ -1564,3 +1564,74 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [19:18:07] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
 [19:18:20] [Server thread/INFO]: Scyther190 issued server command: /home scyther
 [19:19:03] [Server thread/INFO]: [SeeMore] Set view distance of Gordito_Mayinbu to 7 (client view distance is 12).
+[19:21:49] [Server thread/INFO]: Silver_servi issued server command: /home yu
+[19:22:14] [Server thread/INFO]: Silver_servi died
+[19:22:35] [Server thread/INFO]: Gordito_Mayinbu has made the advancement [Stone Age]
+[19:23:02] [Server thread/INFO]: Gordito_Mayinbu has made the advancement [Getting an Upgrade]
+[19:23:05] [Server thread/INFO]: DITFKLIN002 issued server command: /home x
+[19:24:07] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml has been queued!
+[19:24:07] [Server thread/INFO]: ¡Un Goblin del Tesoro ha sido avistado!
+[19:24:10] [Server thread/INFO]: Gordito_Mayinbu issued server command: /elitemobs track boss 66f71bea-3445-4ae4-bed3-b14af143a463
+[19:24:11] [Server thread/INFO]: Gordito_Mayinbu issued server command: /elitemobs track boss 66f71bea-3445-4ae4-bed3-b14af143a463
+[19:24:12] [Server thread/INFO]: Gordito_Mayinbu issued server command: /elitemobs track boss 66f71bea-3445-4ae4-bed3-b14af143a463
+[19:24:18] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 66f71bea-3445-4ae4-bed3-b14af143a463
+[19:24:26] [Server thread/INFO]: Silver_servi lost connection: Disconnected
+[19:24:26] [Server thread/INFO]: Silver_servi has left!
+[19:24:26] [Server thread/INFO]: [vane-admin] [broadcast] Silver_servi [199ms] ha abandonado el servidor
+[19:27:47] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[19:28:36] [Server thread/INFO]: ---------------------------------------------
+[19:28:36] [Server thread/INFO]: ¡El Goblin del Tesoro ha sido saqueado!
+[19:28:36] [Server thread/INFO]:     1er Dañador: ¡Scyther190 con 82.93 daño!
+[19:28:36] [Server thread/INFO]: 
+[19:28:36] [Server thread/INFO]: 
+[19:28:36] [Server thread/INFO]: Asesinos: Scyther190
+[19:28:36] [Server thread/INFO]: ---------------------------------------------
+[19:28:36] [Server thread/INFO]: Named entity Zombie['Goblin del Tesoro 「8」'/216557, uuid='0ffe750a-94d5-4cd8-a3b8-50a93578809f', l='ServerLevel[world]', x=-459.85, y=86.00, z=-43.15, cpos=[-29, -3], tl=2112, v=true] died: Goblin del Tesoro 「8」 was shot by Scyther190
+[19:28:36] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml ended!
+[19:30:07] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[19:30:07] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
+[19:30:14] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss 846bca02-af5d-43d4-b9c8-47f81485feae
+[19:30:54] [User Authenticator #34/INFO]: UUID of player snevev is 81969a47-12b6-3577-8d85-ca9d23372ee6
+[19:30:55] [Server thread/INFO]: Scyther190 issued server command: /ag
+[19:30:55] [Server thread/INFO]: [vane-admin] [broadcast] snevev se ha unido al servidor
+[19:30:55] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to snevev. rspUUID is null: false. done: true. firstUpload: false.
+[19:30:55] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to snevev
+[19:30:55] [Server thread/INFO]: Detención automática no programada
+[19:30:55] [Server thread/INFO]: snevev has joined!
+[19:30:55] [Server thread/INFO]: snevev[/127.174.144.89:58525] logged in with entity id 220094 at ([world]607.3045871380856, 66.0, -3086.4670652058485)
+[19:30:56] [Craft Scheduler Thread - 133 - EliteMobs/INFO]: [EliteMobs] User 81969a47-12b6-3577-8d85-ca9d23372ee6 data successfully read!
+[19:32:51] [Server thread/INFO]: Named entity Zombie['「8」 Tótem Zombi'/219696, uuid='9633c924-5c13-4f67-af4f-a319a835a5da', l='ServerLevel[world]', x=-827.50, y=63.31, z=580.39, cpos=[-52, 36], tl=3269, v=true] died: 「8」 Tótem Zombi was slain by Scyther190 using [Scyther's Sword]
+[19:32:59] [Server thread/INFO]: Named entity Zombie['「8」 Tótem Zombi'/219695, uuid='81187a5e-8e6a-43d0-b81d-97dbfd617344', l='ServerLevel[world]', x=-827.78, y=63.00, z=580.92, cpos=[-52, 36], tl=3438, v=true] died: 「8」 Tótem Zombi was blown up by 「8」 Cabeza Zombi
+[19:33:20] [Server thread/INFO]: Gordito_Mayinbu has made the advancement [Monster Hunter]
+[19:33:20] [Server thread/INFO]: Named entity Zombie['「8」 Tótem Zombi'/219694, uuid='60ea8e4f-b7fb-4bcb-9383-14e21a540c7e', l='ServerLevel[world]', x=-824.70, y=63.00, z=572.58, cpos=[-52, 35], tl=3852, v=true] died: 「8」 Tótem Zombi was slain by Scyther190 using [Scyther's Sword]
+[19:33:26] [Server thread/INFO]: Named entity Zombie['「8」 Tótem Zombi'/219693, uuid='89c7e609-2eca-45c6-b464-ffce402d8610', l='ServerLevel[world]', x=-822.06, y=63.00, z=572.68, cpos=[-52, 35], tl=3978, v=true] died: 「8」 Tótem Zombi was slain by Scyther190 using [Scyther's Sword]
+[19:33:54] [Server thread/INFO]: ---------------------------------------------
+[19:33:54] [Server thread/INFO]: El Tótem Zombi ha sido asesinado!
+[19:33:54] [Server thread/INFO]:     1er Dañador: ¡Scyther190 con 59.0 daño!
+[19:33:54] [Server thread/INFO]: 
+[19:33:54] [Server thread/INFO]: 
+[19:33:54] [Server thread/INFO]: Asesinos: Scyther190
+[19:33:54] [Server thread/INFO]: ---------------------------------------------
+[19:33:54] [Server thread/INFO]: Named entity Zombie['「8」 Cabeza Zombi'/219692, uuid='4fc3f1f5-ec91-4662-bbc3-f2654c80fda2', l='ServerLevel[world]', x=-818.91, y=63.00, z=576.69, cpos=[-52, 36], tl=4531, v=true] died: 「8」 Cabeza Zombi was slain by Scyther190 using [Scyther's Sword]
+[19:33:54] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml ended!
+[19:35:23] [Server thread/INFO]: Scyther190 issued server command: /ag
+[19:35:28] [Server thread/INFO]: [EliteMobs] Scyther190 ha desbloqueado el rango de gremio Novato!
+[19:35:57] [Server thread/INFO]: Scyther190 issued server command: /ag
+[19:36:07] [Server thread/INFO]: [EliteMobs] Event full_moon.yml has been queued!
+[19:36:07] [Server thread/INFO]: ¡Se escuchan los aullidos de un Hombre-Lobo Alfa!
+[19:36:15] [Server thread/INFO]: snevev issued server command: /elitemobs track boss da943bbd-537d-4e27-b50a-aa6b092e605e
+[19:36:15] [Server thread/INFO]: Scyther190 issued server command: /elitemobs track boss da943bbd-537d-4e27-b50a-aa6b092e605e
+[19:36:59] [Server thread/INFO]: Named entity Husk['Zombi Momificado de Elite Nivel 5'/225740, uuid='d351020c-094b-48bd-8935-240bcd59585a', l='ServerLevel[world]', x=-676.72, y=63.00, z=534.45, cpos=[-43, 33], tl=706, v=true] died: Zombi Momificado de Elite Nivel 5 was shot by Scyther190
+[19:37:22] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/226734, uuid='fd581807-f8dd-4d69-96d7-8d0a6d06ef2b', l='ServerLevel[world]', x=-1182.25, y=135.88, z=-319.78, cpos=[-74, -20], tl=560, v=true] died: 〔1〕 Omega Lobo was shot by Skeleton
+[19:38:01] [Server thread/INFO]: DITFKLIN002 issued server command: /home x
+[19:38:12] [Server thread/INFO]: DITFKLIN002 issued server command: /home z
+[19:38:14] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/227100, uuid='d91de29e-a975-4b6f-8a07-765252cebdd3', l='ServerLevel[world]', x=580.62, y=62.53, z=-3073.33, cpos=[36, -193], tl=1389, v=true] died: 〔7〕 Omega Lobo was slain by snevev
+[19:38:17] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/227746, uuid='6ce13afb-a287-45e5-a241-cfa15c1cd942', l='ServerLevel[world]', x=-1148.62, y=113.14, z=-398.82, cpos=[-72, -25], tl=1057, v=true] died: 〔1〕 Omega Lobo was shot by Skeleton
+[19:38:30] [Server thread/INFO]: Named entity Wolf['〔7〕 Omega Lobo'/229854, uuid='dd1aaa6a-1176-4607-a265-f51ad6cceb37', l='ServerLevel[world]', x=563.01, y=62.57, z=-3069.25, cpos=[35, -192], tl=159, v=true] died: 〔7〕 Omega Lobo was slain by snevev
+[19:38:37] [Server thread/INFO]: Named entity Wolf['〔7〕 Hombre-Lobo Gamma'/226858, uuid='1b171688-6785-4e8e-ba13-dd928e3b2fdb', l='ServerLevel[world]', x=568.61, y=62.62, z=-3073.49, cpos=[35, -193], tl=1982, v=true] died: 〔7〕 Hombre-Lobo Gamma was slain by snevev
+[19:38:37] [Server thread/INFO]: Gordito_Mayinbu was shot by Lvl 4 | Skeleton
+[19:39:02] [Server thread/INFO]: Named entity Wolf['〔8〕 Omega Lobo'/227543, uuid='c07f79c2-351f-4b68-b2b1-544a9e7da8a5', l='ServerLevel[world]', x=-698.32, y=63.71, z=633.19, cpos=[-44, 39], tl=2094, v=true] died: 〔8〕 Omega Lobo was shot by Skeleton
+[19:39:23] [Server thread/INFO]: [EliteMobs] Event full_moon.yml ended!
+[19:40:16] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 10'/229090, uuid='82c2e456-5f90-424b-8bce-ca06a92cc9be', l='ServerLevel[world]', x=-709.83, y=64.00, z=528.13, cpos=[-45, 33], tl=2589, v=true] died: Zombi de Elite Nivel 10 was slain by Scyther190 using [Scyther's Sword]
+[19:40:17] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 9'/228143, uuid='f3cf198c-8a08-4bc8-bf3c-b3fb72b7e82c', l='ServerLevel[world]', x=-709.13, y=64.00, z=527.57, cpos=[-45, 32], tl=3204, v=true] died: Zombi de Elite Nivel 9 was slain by Scyther190 using [Scyther's Sword]
+[19:40:19] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 12'/229091, uuid='13e57413-f357-45fc-ba09-f873e4975d1a', l='ServerLevel[world]', x=-709.85, y=64.00, z=527.30, cpos=[-45, 32], tl=2642, v=true] died: Zombi de Elite Nivel 12 was slain by Scyther190 using [Scyther's Sword]
