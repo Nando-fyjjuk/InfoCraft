@@ -1375,3 +1375,36 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getUniqu
 [17:48:53] [Server thread/INFO]: shadowMax lost connection: Disconnected
 [17:48:53] [Server thread/INFO]: shadowMax has left!
 [17:48:53] [Server thread/INFO]: [vane-admin] [broadcast] shadowMax [140ms] ha abandonado el servidor
+[17:51:13] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[17:51:13] [Server thread/INFO]: Fernando_fyjjuk has left!
+[17:51:13] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk [128ms] ha abandonado el servidor
+[17:51:17] [Server thread/INFO]: snevev issued server command: /tell Fernando_fyjjuk tira home
+[17:51:31] [Server thread/INFO]: [Not Secure] [Server] carajo
+[17:51:43] [Server thread/INFO]: [Not Secure] [Server] me va a cachar el warden
+[17:51:43] [Server thread/INFO]: snevev issued server command: /back
+[17:51:45] [Async Chat Thread - #21/INFO]: [Not Secure] <snevev> XDDD
+[17:51:46] [Async Chat Thread - #21/INFO]: [Not Secure] <Scyther190> qye paso?
+[17:51:55] [User Authenticator #25/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[17:51:56] [Server thread/INFO]: [vane-admin] [broadcast] Fernando_fyjjuk se ha unido al servidor
+[17:51:56] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk. rspUUID is null: false. done: true. firstUpload: false.
+[17:51:56] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Fernando_fyjjuk
+[17:51:56] [Server thread/INFO]: Detención automática no programada
+[17:51:56] [Server thread/INFO]: Fernando_fyjjuk has joined!
+[17:51:56] [Server thread/INFO]: Fernando_fyjjuk[/127.26.171.230:38321] logged in with entity id 152485 at ([world]-3447.7665642942593, -51.0, 3488.4286131625695)
+[17:51:57] [Craft Scheduler Thread - 102 - EliteMobs/INFO]: [EliteMobs] User aeb1b697-fc7e-3e14-a02d-8ff5941126a0 data successfully read!
+[17:51:59] [Server thread/INFO]: snevev issued server command: /back
+[17:52:02] [Server thread/INFO]: snevev issued server command: /tell Fernando_fyjjuk tira home
+[17:52:25] [Server thread/INFO]: Fernando_fyjjuk issued server command: /delhome granja
+[17:52:36] [Server thread/INFO]: Fernando_fyjjuk issued server command: /sethome warden
+[17:53:02] [Server thread/INFO]: Fernando_fyjjuk died
+[17:53:20] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[17:53:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[17:55:10] [Server thread/INFO]: Fernando_fyjjuk died
+[17:55:19] [Async Chat Thread - #23/INFO]: [Not Secure] <Fernando_fyjjuk> mis niveles :(
+[17:55:25] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home warden
+[17:56:25] [Server thread/INFO]: Fernando_fyjjuk issued server command: /home 3
+[17:56:36] [Server thread/INFO]: Fernando_fyjjuk died
+[17:57:09] [Server thread/INFO]: Fernando_fyjjuk issued server command: /tpa snevev
+[17:57:22] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept Fernando_fyjjuk
+[17:59:07] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
+[17:59:07] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
