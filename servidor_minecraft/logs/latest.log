@@ -4,3 +4,41 @@
 [00:01:16] [Server thread/INFO]: [EliteMobs] Event full_moon.yml has been queued!
 [00:01:29] [Server thread/INFO]: ¡Goblin del Tesoro 「5」 llegó a los cerebros de Luiscue!
 [00:01:36] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 9'/8147, uuid='0a970790-2b14-4565-9ffc-acb1baa10736', l='ServerLevel[world]', x=-588.02, y=79.00, z=-55.79, cpos=[-37, -4], tl=1891, v=true] died: Esqueleto de Elite Nivel 9 was slain by luxfoo
+[00:02:16] [Server thread/INFO]: Luiscue issued server command: /back
+[00:03:16] [Server thread/INFO]: There are 3 of a max of 20 players online: luxfoo, thegeomusic, Luiscue
+[00:03:38] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_6.PaperweightStarlightRelighterFactory as relighter factory.
+[00:03:45] [User Authenticator #4/INFO]: UUID of player snevev is 81969a47-12b6-3577-8d85-ca9d23372ee6
+[00:03:47] [Server thread/INFO]: [vane-admin] [broadcast] snevev se ha unido al servidor
+[00:03:47] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to snevev. rspUUID is null: false. done: true. firstUpload: false.
+[00:03:47] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to snevev
+[00:03:47] [Server thread/INFO]: Detención automática no programada
+[00:03:47] [Server thread/INFO]: snevev has joined!
+[00:03:47] [Server thread/INFO]: snevev[/127.249.240.7:54611] logged in with entity id 13462 at ([world_nether]-1128.4063821471545, 40.0, -366.4311091481436)
+[00:03:48] [Craft Scheduler Thread - 12 - EliteMobs/INFO]: [EliteMobs] User 81969a47-12b6-3577-8d85-ca9d23372ee6 data successfully read!
+[00:04:10] [Server thread/INFO]: luxfoo issued server command: /home
+[00:04:35] [Server thread/INFO]: thegeomusic issued server command: /back
+[00:04:58] [Async Chat Thread - #4/INFO]: [Not Secure] <thegeomusic> veeen
+[00:05:01] [Async Chat Thread - #4/INFO]: [Not Secure] <thegeomusic> mira a herobrine
+[00:05:02] [Server thread/INFO]: Luiscue issued server command: /back
+[00:05:18] [Server thread/INFO]: snevev issued server command: /tpa thegeomusic
+[00:05:24] [Server thread/INFO]: thegeomusic issued server command: /huskhomes:tpaccept snevev
+[00:06:15] [Async Chat Thread - #6/INFO]: [Not Secure] <thegeomusic> ven esta encerrado
+[00:06:45] [Async Chat Thread - #6/INFO]: [Not Secure] <thegeomusic> ahhhh
+[00:06:47] [Server thread/INFO]: thegeomusic issued server command: /home
+[00:09:04] [Server thread/INFO]: luxfoo has made the advancement [Into Fire]
+[00:09:13] [Async Chat Thread - #8/INFO]: [Not Secure] <thegeomusic> NOOO
+[00:09:17] [Async Chat Thread - #8/INFO]: [Not Secure] <snevev> qqq
+[00:09:28] [Async Chat Thread - #8/INFO]: [Not Secure] <snevev> dijiste q lo mate xd
+[00:09:39] [Async Chat Thread - #8/INFO]: [Not Secure] <thegeomusic> donde JAJASJKFJLSA
+[00:10:06] [Async Chat Thread - #9/INFO]: [Not Secure] <snevev> mejor ven tiu
+[00:10:10] [Server thread/INFO]: snevev issued server command: /back
+[00:10:14] [Server thread/INFO]: snevev issued server command: /back
+[00:10:19] [Async Chat Thread - #9/INFO]: [Not Secure] <thegeomusic> ya
+[00:10:37] [Server thread/INFO]: thegeomusic issued server command: /tpa snevev
+[00:10:44] [Server thread/INFO]: snevev issued server command: /back
+[00:10:53] [Server thread/INFO]: snevev issued server command: /back
+[00:11:03] [Async Chat Thread - #9/INFO]: [Not Secure] <snevev> tu hacia mi
+[00:11:08] [Server thread/INFO]: thegeomusic issued server command: /tpa snevev
+[00:11:18] [Server thread/INFO]: There are 4 of a max of 20 players online: luxfoo, thegeomusic, Luiscue, snevev
+[00:11:27] [Server thread/INFO]: thegeomusic issued server command: /tpa snevev
+[00:11:44] [Server thread/INFO]: thegeomusic issued server command: /tpa snevev
