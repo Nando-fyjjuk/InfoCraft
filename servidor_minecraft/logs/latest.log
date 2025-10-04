@@ -176,3 +176,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [01:00:05] [Server thread/INFO]: Luiscue issued server command: /home repa
 [01:02:16] [Server thread/INFO]: [Not Secure] <Luiscue> Jeeves!
 [01:02:36] [Server thread/INFO]: Scyther190 issued server command: /sethome home
+[01:03:00] [Server thread/INFO]: There are 4 of a max of 20 players online: luxfoo, Scyther190, Luiscue, snevev
+[01:03:43] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[01:04:07] [Server thread/INFO]: luxfoo issued server command: /home
+[01:06:19] [Server thread/INFO]: Villager Villager['Nitwit'/16153, uuid='3676ca48-5824-4523-a940-6a041a7882e2', l='ServerLevel[world]', x=-278.30, y=63.03, z=675.36, cpos=[-18, 42], tl=63805, v=true] died, message: 'Nitwit drowned'
+[01:08:09] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss 22acefad-03c2-4e65-898d-7a820ffd4b71
+[01:09:41] [Server thread/INFO]: Luiscue has made the advancement [A Seedy Place]
+[01:11:27] [Server thread/INFO]: Scyther190 issued server command: /sethome scyther
+[01:11:34] [Server thread/INFO]: Scyther190 issued server command: /home EXP
+[01:11:47] [Server thread/INFO]: Scyther190 died
+[01:12:02] [Server thread/INFO]: Scyther190 issued server command: /sethome scyther
+[01:12:07] [Server thread/INFO]: Scyther190 issued server command: /home EXP
