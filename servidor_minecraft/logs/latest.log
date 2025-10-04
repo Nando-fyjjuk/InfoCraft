@@ -111,3 +111,32 @@
 [00:41:22] [Server thread/INFO]: Named entity Zombie['「7」 Cabeza Zombi'/50009, uuid='3ef3d274-cf9c-470c-9ce7-b0f374b51e63', l='ServerLevel[world]', x=-414.20, y=65.00, z=726.54, cpos=[-26, 45], tl=2424, v=true] died: 「7」 Cabeza Zombi was slain by Luiscue
 [00:41:25] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml ended!
 [00:42:32] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
+[00:44:20] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
+[00:44:20] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[00:44:52] [Server thread/INFO]: Luiscue issued server command: /home repa
+[00:45:12] [Server thread/INFO]: luxfoo has made the advancement [Eye Spy]
+[00:45:13] [Server thread/INFO]: Named entity Ravager['〔7〕 Bestia de Caravana'/59286, uuid='dc16a665-a86d-4fe3-833d-d053ad250c0a', l='ServerLevel[world]', x=-403.86, y=65.00, z=727.33, cpos=[-26, 45], tl=1061, v=true] died: 〔7〕 Bestia de Caravana was slain by Luiscue
+[00:45:16] [Server thread/INFO]: Named entity Ravager['〔7〕 Bestia de Caravana'/59336, uuid='69b8410b-4b70-4670-a401-f3f4fbdf5df9', l='ServerLevel[world]', x=-405.27, y=65.00, z=728.73, cpos=[-26, 45], tl=1086, v=true] died: 〔7〕 Bestia de Caravana was slain by Luiscue
+[00:45:29] [Server thread/INFO]: Named entity Ravager['〔7〕 Bestia de Caravana'/59334, uuid='8e6bbf5e-ae84-4e74-a107-99c0bc48f28e', l='ServerLevel[world]', x=-404.06, y=65.00, z=726.56, cpos=[-26, 45], tl=1336, v=true] died: 〔7〕 Bestia de Caravana was slain by Luiscue
+[00:45:37] [Server thread/INFO]: Named entity Pillager['〔6〕 Guardia de Caravana'/59333, uuid='ca0d0211-1e68-47e8-9d9e-359af07bfac5', l='ServerLevel[world]', x=-403.37, y=65.00, z=728.47, cpos=[-26, 45], tl=1490, v=true] died: 〔6〕 Guardia de Caravana was slain by Luiscue
+[00:45:39] [User Authenticator #5/INFO]: UUID of player Scyther190 is a82af51d-a5c8-32dc-a772-26c761f289c2
+[00:45:42] [Server thread/INFO]: [vane-admin] [broadcast] Scyther190 se ha unido al servidor
+[00:45:42] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190. rspUUID is null: false. done: true. firstUpload: false.
+[00:45:42] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Scyther190
+[00:45:42] [Server thread/INFO]: Detención automática no programada
+[00:45:42] [Server thread/INFO]: Scyther190 has joined!
+[00:45:42] [Server thread/INFO]: Scyther190[/127.90.131.19:33057] logged in with entity id 61266 at ([world]-603.6977809321032, 26.0, -1097.5110985063316)
+[00:45:42] [Craft Scheduler Thread - 65 - EliteMobs/INFO]: [EliteMobs] User a82af51d-a5c8-32dc-a772-26c761f289c2 data successfully read!
+[00:45:43] [Server thread/INFO]: ¡〔7〕 Bestia de Caravana le mostró a Luiscue quién está a cargo!
+[00:46:19] [Server thread/INFO]: Luiscue issued server command: /home repa
+[00:46:28] [Server thread/INFO]: ¡〔1〕 Bestia de Caravana le mostró a Luiscue quién está a cargo!
+[00:47:35] [Server thread/INFO]: Luiscue issued server command: /death
+[00:49:33] [Server thread/INFO]: snevev issued server command: /home home
+[00:50:20] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml has been queued!
+[00:50:20] [Server thread/INFO]: ¡El Rey Zombie ha sido avistado!
+[00:50:26] [Server thread/INFO]: snevev issued server command: /elitemobs track boss 22acefad-03c2-4e65-898d-7a820ffd4b71
+[00:50:27] [Server thread/INFO]: Named entity Pillager['〔1〕 Guardia de Caravana'/63332, uuid='3f273096-d7ce-4f30-87e0-28bec047e861', l='ServerLevel[world]', x=-438.90, y=70.66, z=772.87, cpos=[-28, 48], tl=4399, v=true] died: 〔1〕 Guardia de Caravana was slain by Luiscue
+[00:50:28] [Server thread/INFO]: Named entity Pillager['〔1〕 Guardia de Caravana'/63334, uuid='f9628227-012a-4a51-9e00-acb4ae6749c7', l='ServerLevel[world]', x=-438.97, y=70.66, z=772.91, cpos=[-28, 48], tl=4420, v=true] died: 〔1〕 Guardia de Caravana was slain by Luiscue
+[00:52:04] [Server thread/INFO]: Named entity Pillager['「7」 Pillager Líder de la Caravana'/59285, uuid='5f2ec227-9040-4c89-b5de-0726c0032b69', l='ServerLevel[world]', x=-417.57, y=68.00, z=782.33, cpos=[-27, 48], tl=9271, v=true] died: 「7」 Pillager Líder de la Caravana was slain by Luiscue
+[00:52:04] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml ended!
+[00:52:04] [Server thread/INFO]: snevev has made the advancement [Stay Hydrated!]
