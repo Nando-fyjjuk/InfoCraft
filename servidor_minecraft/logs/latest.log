@@ -69,3 +69,45 @@
 [00:29:48] [Server thread/INFO]: Named entity Silverfish['Balrog 「7」'/35667, uuid='37915a08-ad63-4285-9841-a618f387dbe3', l='ServerLevel[world]', x=-284.06, y=39.52, z=749.63, cpos=[-18, 46], tl=414, v=true] died: Balrog 「7」 was slain by Luiscue
 [00:29:48] [Server thread/INFO]: [EliteMobs] Event balrog.yml ended!
 [00:31:36] [Server thread/INFO]: [SeeMore] Set view distance of Luiscue to 7 (client view distance is 4).
+[00:32:36] [Server thread/INFO]: There are 4 of a max of 20 players online: Luiscue, snevev, luxfoo, thegeomusic
+[00:32:58] [Server thread/INFO]: luxfoo has made the advancement [What a Deal!]
+[00:33:16] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[00:33:16] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[00:33:19] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss 7d38081e-c090-44f2-8c22-5f6f848b66a8
+[00:33:20] [Server thread/INFO]: luxfoo issued server command: /elitemobs track boss 7d38081e-c090-44f2-8c22-5f6f848b66a8
+[00:33:44] [Server thread/INFO]: thegeomusic has completed the challenge [It Spreads]
+[00:34:51] [Server thread/INFO]: snevev has made the advancement [Spooky Scary Skeleton]
+[00:35:05] [Async Chat Thread - #20/INFO]: [Not Secure] <thegeomusic> yeeeeeeezus
+[00:35:17] [Async Chat Thread - #20/INFO]: [Not Secure] <snevev> XDDD
+[00:37:10] [Server thread/INFO]: Luiscue issued server command: /home repa
+[00:38:11] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_HiddenChamber_Desert_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[00:38:21] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 0'/43780, uuid='4c214df7-2f8e-49fa-98dd-5a09a2b6443b', l='ServerLevel[world]', x=-303.50, y=65.00, z=789.50, cpos=[-19, 49], tl=2871, v=true] died: Esqueleto de Elite Nivel 0 burned to death
+[00:38:26] [Server thread/INFO]: Luiscue issued server command: /back
+[00:38:56] [Server thread/INFO]: There are 4 of a max of 20 players online: Luiscue, snevev, luxfoo, thegeomusic
+[00:39:16] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[00:39:16] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
+[00:39:23] [Server thread/WARN]: luxfoo moved too quickly! 5.496751623342618,-1.2491870787446828,11.878421823395456
+[00:39:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4118ms or 82 ticks behind
+[00:39:23] [Server thread/WARN]: [BetterStructures] Failed to spawn regional boss BB_TeethArena_Grasslands_Boss.yml! The filename for this boss probably does not match the filename that should be in ~/plugins/EliteMobs/custombosses/
+[00:39:29] [Server thread/INFO]: Luiscue issued server command: /elitemobs track boss 7c65c5f7-978d-4943-a89c-573e60038ebf
+[00:39:32] [Server thread/INFO]: Luiscue issued server command: /back
+[00:40:05] [Server thread/INFO]: Luiscue has made the advancement [Ol' Betsy]
+[00:40:24] [Server thread/INFO]: snevev issued server command: /tell thegeomusic lo encontre
+[00:40:33] [Server thread/INFO]: Named entity Zombie['「7」 Tótem Zombi'/50013, uuid='8851db37-c543-49ef-b710-f835ca6d030b', l='ServerLevel[world]', x=-436.35, y=69.31, z=752.73, cpos=[-28, 47], tl=1440, v=true] died: 「7」 Tótem Zombi was slain by Luiscue
+[00:40:37] [Server thread/INFO]: Named entity Zombie['「7」 Tótem Zombi'/50012, uuid='dbbf3a3d-2528-44a3-b98a-391a0b0e7c7e', l='ServerLevel[world]', x=-439.25, y=69.00, z=750.63, cpos=[-28, 46], tl=1524, v=true] died: 「7」 Tótem Zombi was slain by Luiscue
+[00:40:43] [Server thread/INFO]: thegeomusic issued server command: /msg snevev yujuu espera, ceno y busco lingotitossss
+[00:40:43] [Server thread/INFO]: Named entity Zombie['「7」 Tótem Zombi'/50011, uuid='4af400ea-33a5-45b4-a775-231b8a590380', l='ServerLevel[world]', x=-443.81, y=69.00, z=748.84, cpos=[-28, 46], tl=1641, v=true] died: 「7」 Tótem Zombi was slain by Luiscue
+[00:40:47] [Server thread/INFO]: thegeomusic lost connection: Disconnected
+[00:40:47] [Server thread/INFO]: thegeomusic has left!
+[00:40:47] [Server thread/INFO]: [vane-admin] [broadcast] thegeomusic [151ms] ha abandonado el servidor
+[00:40:54] [Server thread/INFO]: Named entity Zombie['「7」 Tótem Zombi'/50010, uuid='ac342c1f-1116-43f0-9e67-46397021a3b9', l='ServerLevel[world]', x=-446.99, y=68.00, z=736.79, cpos=[-28, 46], tl=1850, v=true] died: 「7」 Tótem Zombi was burned to a crisp while fighting Luiscue
+[00:41:22] [Server thread/INFO]: ---------------------------------------------
+[00:41:22] [Server thread/INFO]: El Tótem Zombi ha sido asesinado!
+[00:41:22] [Server thread/INFO]:     1er Dañador: ¡Luiscue con 66.0 daño!
+[00:41:22] [Server thread/INFO]: 
+[00:41:22] [Server thread/INFO]: 
+[00:41:22] [Server thread/INFO]: Asesinos: Luiscue
+[00:41:22] [Server thread/INFO]: ---------------------------------------------
+[00:41:22] [Server thread/INFO]: Named entity Zombie['「7」 Cabeza Zombi'/50009, uuid='3ef3d274-cf9c-470c-9ce7-b0f374b51e63', l='ServerLevel[world]', x=-414.20, y=65.00, z=726.54, cpos=[-26, 45], tl=2424, v=true] died: 「7」 Cabeza Zombi was slain by Luiscue
+[00:41:25] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml ended!
+[00:42:32] [Server thread/INFO]: [SeeMore] Set view distance of luxfoo to 7 (client view distance is 12).
