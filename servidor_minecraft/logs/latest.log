@@ -140,3 +140,39 @@
 [00:52:04] [Server thread/INFO]: Named entity Pillager['「7」 Pillager Líder de la Caravana'/59285, uuid='5f2ec227-9040-4c89-b5de-0726c0032b69', l='ServerLevel[world]', x=-417.57, y=68.00, z=782.33, cpos=[-27, 48], tl=9271, v=true] died: 「7」 Pillager Líder de la Caravana was slain by Luiscue
 [00:52:04] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml ended!
 [00:52:04] [Server thread/INFO]: snevev has made the advancement [Stay Hydrated!]
+[00:53:14] [Server thread/INFO]: There are 4 of a max of 20 players online: luxfoo, Scyther190, Luiscue, snevev
+[00:53:16] [Server thread/INFO]: Luiscue issued server command: /elitemobs track boss 22acefad-03c2-4e65-898d-7a820ffd4b71
+[00:53:24] [Server thread/INFO]: Luiscue issued server command: /elitemobs track boss 60b4e0e9-19d4-4692-918d-126155cdfada
+[00:54:55] [Server thread/INFO]: Luiscue issued server command: /home repa
+[00:55:52] [Server thread/ERROR]: Entity threw exception at world_nether:136.5,42.0,-412.5
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goal.WrappedGoal.isRunning()" because "wrappedGoalx" is null
+	at net.minecraft.world.entity.ai.goal.GoalSelector.tick(GoalSelector.java:100) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.serverAiStep(Mob.java:761) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3489) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.aiStep(Mob.java:504) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Zombie.aiStep(Zombie.java:259) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3267) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.Mob.tick(Mob.java:381) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:231) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1277) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1483) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:811) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:793) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1724) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:56:20] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml has been queued!
+[00:56:20] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
+[00:56:29] [Server thread/INFO]: Luiscue issued server command: /elitemobs track boss a518e807-fae2-4c38-bb71-d9c0c5bddc62
+[00:57:09] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml ended!
+[00:57:42] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml ended!
+[00:58:09] [Server thread/WARN]: luxfoo moved wrongly!
+[00:59:50] [Server thread/INFO]: Named entity Hoglin['Hoglin de Elite Nivel 9'/86187, uuid='7d6bda97-5b20-4d54-903d-8e637fb2ea3e', l='ServerLevel[world_nether]', x=854.53, y=25.31, z=-354.61, cpos=[53, -23], tl=805, v=true] died: Hoglin de Elite Nivel 9 tried to swim in lava
+[01:00:01] [Server thread/INFO]: Luiscue issued server command: /home repa
+[01:00:05] [Server thread/INFO]: Luiscue issued server command: /home repa
+[01:02:16] [Server thread/INFO]: [Not Secure] <Luiscue> Jeeves!
+[01:02:36] [Server thread/INFO]: Scyther190 issued server command: /sethome home
