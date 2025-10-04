@@ -42,3 +42,15 @@
 [00:11:18] [Server thread/INFO]: There are 4 of a max of 20 players online: luxfoo, thegeomusic, Luiscue, snevev
 [00:11:27] [Server thread/INFO]: thegeomusic issued server command: /tpa snevev
 [00:11:44] [Server thread/INFO]: thegeomusic issued server command: /tpa snevev
+[00:11:56] [Server thread/INFO]: snevev issued server command: /huskhomes:tpaccept thegeomusic
+[00:12:13] [Async Chat Thread - #10/INFO]: [Not Secure] <snevev> mira su vida
+[00:12:45] [Server thread/INFO]: thegeomusic has made the advancement [Those Were the Days]
+[00:12:47] [Server thread/INFO]: thegeomusic has made the advancement [War Pigs]
+[00:13:28] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml ended!
+[00:15:32] [Async Chat Thread - #12/INFO]: [Not Secure] <snevev> solo a los brutos
+[00:16:07] [Server thread/INFO]: thegeomusic issued server command: /home
+[00:16:35] [Server thread/INFO]: thegeomusic issued server command: /back
+[00:16:52] [Server thread/INFO]: thegeomusic has made the advancement [Oh Shiny]
+[00:18:37] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 1'/26524, uuid='a2131b4c-783b-44f0-a18d-92bd198d2d56', l='ServerLevel[world]', x=-229.50, y=65.00, z=753.50, cpos=[-15, 47], tl=769, v=true] died: Esqueleto de Elite Nivel 1 burned to death
+[00:18:55] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 3'/26210, uuid='cb5db035-30c7-4dd8-a1f7-b5bc44ec1fa9', l='ServerLevel[world]', x=-250.50, y=66.00, z=788.50, cpos=[-16, 49], tl=1385, v=true] died: Esqueleto de Elite Nivel 3 burned to death
+[00:21:43] [Server thread/INFO]: luxfoo died
