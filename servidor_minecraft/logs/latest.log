@@ -54,3 +54,18 @@
 [00:18:37] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 1'/26524, uuid='a2131b4c-783b-44f0-a18d-92bd198d2d56', l='ServerLevel[world]', x=-229.50, y=65.00, z=753.50, cpos=[-15, 47], tl=769, v=true] died: Esqueleto de Elite Nivel 1 burned to death
 [00:18:55] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 3'/26210, uuid='cb5db035-30c7-4dd8-a1f7-b5bc44ec1fa9', l='ServerLevel[world]', x=-250.50, y=66.00, z=788.50, cpos=[-16, 49], tl=1385, v=true] died: Esqueleto de Elite Nivel 3 burned to death
 [00:21:43] [Server thread/INFO]: luxfoo died
+[00:22:55] [Server thread/INFO]: thegeomusic issued server command: /home
+[00:23:17] [Server thread/INFO]: thegeomusic issued server command: /msg snevev encontraste plantilllaaaaa?
+[00:23:31] [Server thread/INFO]: snevev issued server command: /tell thegeomusic plantilla de q
+[00:24:23] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml ended!
+[00:25:08] [Server thread/INFO]: thegeomusic issued server command: /msg snevev netherita
+[00:27:16] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
+[00:27:16] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
+[00:27:28] [Server thread/INFO]: snevev issued server command: /tell thegeomusic aaa eso
+[00:27:33] [Server thread/INFO]: snevev issued server command: /tell thegeomusic nop todavia no
+[00:29:16] [Server thread/INFO]: thegeomusic has made the advancement [Stay Hydrated!]
+[00:29:45] [Server thread/INFO]: Named entity Silverfish['Raug 〔7〕'/35763, uuid='8c7edf56-dcc1-4df7-b30e-54c86fccf8a5', l='ServerLevel[world]', x=-282.61, y=39.00, z=750.80, cpos=[-18, 46], tl=66, v=true] died: Raug 〔7〕 was slain by Luiscue
+[00:29:46] [Server thread/INFO]: Named entity Silverfish['Raug 〔7〕'/35791, uuid='faeac89b-232b-40db-b459-ac6dabbb8bf1', l='ServerLevel[world]', x=-283.59, y=39.00, z=749.67, cpos=[-18, 46], tl=27, v=true] died: Raug 〔7〕 was slain by Luiscue
+[00:29:48] [Server thread/INFO]: Named entity Silverfish['Balrog 「7」'/35667, uuid='37915a08-ad63-4285-9841-a618f387dbe3', l='ServerLevel[world]', x=-284.06, y=39.52, z=749.63, cpos=[-18, 46], tl=414, v=true] died: Balrog 「7」 was slain by Luiscue
+[00:29:48] [Server thread/INFO]: [EliteMobs] Event balrog.yml ended!
+[00:31:36] [Server thread/INFO]: [SeeMore] Set view distance of Luiscue to 7 (client view distance is 4).
