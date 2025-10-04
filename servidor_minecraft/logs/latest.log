@@ -187,3 +187,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [01:11:47] [Server thread/INFO]: Scyther190 died
 [01:12:02] [Server thread/INFO]: Scyther190 issued server command: /sethome scyther
 [01:12:07] [Server thread/INFO]: Scyther190 issued server command: /home EXP
+[01:14:38] [Server thread/INFO]: snevev has completed the challenge [Cover Me in Debris]
+[01:14:42] [Server thread/INFO]: Luiscue has made the advancement [The Parrots and the Bats]
+[01:15:04] [Server thread/INFO]: Scyther190 issued server command: /home scyther
+[01:18:57] [Server thread/INFO]: Named entity Vex['Fae de Rayo 「7」'/111997, uuid='53f1a51e-937b-400c-abde-3fd96a166e2a', l='ServerLevel[world]', x=-187.00, y=72.11, z=989.77, cpos=[-12, 61], tl=516, v=true] died: Fae de Rayo 「7」 was slain by Luiscue
+[01:20:19] [Server thread/INFO]: There are 4 of a max of 20 players online: luxfoo, Luiscue, snevev, Scyther190
+[01:20:58] [Server thread/INFO]: Named entity Vex['Fae de Hielo 「7」'/111996, uuid='7ef3e152-fb3f-4789-840f-9f3a32a360f8', l='ServerLevel[world]', x=-197.82, y=83.49, z=986.24, cpos=[-13, 61], tl=2933, v=true] died: Fae de Hielo 「7」 was slain by Luiscue
+[01:21:55] [Server thread/INFO]: Named entity Piglin['Piglin de Elite Nivel 8'/114026, uuid='b468dae8-3d36-4605-a806-0a7bc2f0fec2', l='ServerLevel[world_nether]', x=-103.89, y=57.23, z=9.48, cpos=[-7, 0], tl=2479, v=true] died: Piglin de Elite Nivel 8 was slain by Hoglin
+[01:23:00] [Server thread/INFO]: Named entity Vex['Fae de Fuego 「6」'/111995, uuid='2d520806-df39-40f6-833f-8849937faae7', l='ServerLevel[world]', x=-211.47, y=81.03, z=1023.97, cpos=[-14, 63], tl=5376, v=true] died: Fae de Fuego 「6」 was shot by Luiscue
+[01:23:00] [Server thread/INFO]: Luiscue has made the advancement [Take Aim]
+[01:23:00] [Server thread/INFO]: [EliteMobs] Event fae.yml ended!
+[01:24:08] [Server thread/INFO]: Named entity Vex['Fae de Rayo 「6」'/120463, uuid='75b4f240-8381-43d2-a56b-e503cb209a1d', l='ServerLevel[world]', x=-213.49, y=69.53, z=1015.52, cpos=[-14, 63], tl=575, v=true] died: Fae de Rayo 「6」 was slain by Luiscue
+[01:24:33] [Server thread/INFO]: Luiscue issued server command: /home repa
+[01:25:05] [Server thread/INFO]: Luiscue issued server command: /home repa
+[01:25:09] [Server thread/INFO]: ¡Fae de Fuego 「7」 ha atormentado a Luiscue!
+[01:25:21] [Server thread/INFO]: [EliteMobs] Event fae.yml ended!
+[01:25:21] [Server thread/INFO]: [EliteMobs] Event fae.yml ended!
+[01:25:33] [Server thread/INFO]: [EliteMobs] Event charms_goblin.yml ended!
+[01:25:50] [Server thread/INFO]: luxfoo has made the advancement [Hidden in the Depths]
+[01:26:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+a<--[HERE]
+[01:26:40] [Server thread/INFO]: There are 4 of a max of 20 players online: luxfoo, snevev, Scyther190, Luiscue
+[01:29:05] [Server thread/INFO]: Luiscue issued server command: /home repa
+[01:29:12] [Server thread/INFO]: Luiscue lost connection: Disconnected
+[01:29:12] [Server thread/INFO]: Luiscue has left!
+[01:29:12] [Server thread/INFO]: [vane-admin] [broadcast] Luiscue [141ms] ha abandonado el servidor
+[01:30:22] [Server thread/INFO]: luxfoo issued server command: /home
+[01:32:14] [Server thread/INFO]: [SeeMore] Set view distance of Scyther190 to 7 (client view distance is 9).
