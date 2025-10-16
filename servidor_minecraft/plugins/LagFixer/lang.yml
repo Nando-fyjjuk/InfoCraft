@@ -1,0 +1,53 @@
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+# ░██╗░░░░░░█████╗░░██████╗░░░███████╗██╗██╗░░██╗███████╗██████╗░░
+# ░██║░░░░░██╔══██╗██╔════╝░░░██╔════╝██║╚██╗██╔╝██╔════╝██╔══██╗░
+# ░██║░░░░░███████║██║░░██╗░░░█████╗░░██║░╚███╔╝░█████╗░░██████╔╝░
+# ░██║░░░░░██╔══██║██║░░╚██╗░░██╔══╝░░██║░██╔██╗░██╔══╝░░██╔══██╗░
+# ░███████╗██║░░██║╚██████╔╝░░██║░░░░░██║██╔╝╚██╗███████╗██║░░██║░
+# ░╚══════╝╚═╝░░╚═╝░╚═════╝░░░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝░
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+# -----------------> TUTORIALS <-----------------#
+#
+# Hex colors and gradients usage:
+# - https://docs.advntr.dev/minimessage/format.html
+#
+# (SOON) PlaceholderAPI usage:
+# - Format: <papi:[papi_placeholder]>
+# - Example: <papi:luckperms_prefix>
+#
+# -----------------> TUTORIALS <-----------------#
+
+# soon it will be possible to translate all messages
+messages:
+  Main:
+    no_access: '<gray>Te falta el permiso para este módulo: <yellow><permission>'
+    disabled_module: <gray>El módulo <yellow><module> <gray>está deshabilitado, la
+      administración debe habilitar esta función.
+    player_only: <gray>Este comando solo puede ser ejecutado por un jugador.
+  
+  RedstoneLimiter:
+    alert: <gray>Se bloquearon <yellow><ticks> <gray>ticks de redstone en el chunk
+      en <gradient:#c48d00:#fffb00><location></gradient><gray>.
+    cooldown: <gray>Puedes usar <material> de nuevo en <gradient:#c48d00:#fffb00><cooldown></gradient><gray>ms.
+  
+  WorldCleaner:
+    countingdown: # Message format -> "second=message"
+      - 15=<gradient:#ff3c00:#ffff00>¡Advertencia!</gradient> <gray>En <color:#ff8800><remaining>
+        <gray>segundos el servidor será limpiado de entidades y objetos.
+      - 5=<gradient:#ff3c00:#ffff00>¡Advertencia!</gradient> <gray>En <color:#ff8800><remaining>
+        <gray>segundos el servidor será limpiado de entidades y objetos.
+      - 0=<gray>Se han eliminado exitosamente <color:#ff8800><items>x <gray>objetos,
+        <color:#ff8800><creatures>x <gray>criaturas y <color:#ff8800><projectiles>x
+        <gray>proyectiles.
+    items:
+      abyss: # abyss is the place where all deleted items go, and players can get them back by typing the /abyss command
+        close: <gray>¡El abismo se ha cerrado exitosamente!
+        open: '<gray>El abismo se ha abierto exitosamente, recupera tus objetos: <yellow>/abyss'
+        empty: <gray>El abismo está <blue>vacío<gray>, espera a que se abra de nuevo.
+        closed: <gray>El abismo está <red>cerrado<gray>, espera a que se abra de nuevo.
+        opened: <gray>¡El inventario del abismo se ha <green>abierto<gray> exitosamente!
+        gui:
+          name: <white>¡Abismo! <dark_gray>(<gray>página <page><dark_gray>)
+          previous: <dark_gray>← <red><b>¡PÁGINA ANTERIOR!</b>
+          next: <dark_gray>→ <green><b>¡PÁGINA SIGUIENTE!</b>

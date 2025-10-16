@@ -1,0 +1,50 @@
+# Message that appears when not enough players are present to start an arena.
+notEnoughPlayersMessage: '&8[EliteMobs] &c¡Necesitas al menos $amount para comenzar
+  la partida!'
+# Title that appears when an arena is starting.
+startingMessage: '&2¡Comenzando!'
+# Subtitle that appears when an arena is starting.
+startingSubtitle: '&2en $count...'
+# Message that appears when an arena is full.
+arenaFullMessage: '&4[EliteMobs] &c¡La arena está llena! ¡Puedes espectar mientras
+  esperas que termine!'
+# Message that appears when a player attempts to join an active arena.
+arenasOngoingMessage: '&4[EliteMobs] &cNo puedes unirte a la arena ahora - ¡hay una
+  partida en curso! ¡Puedes espectar mientras esperas que termine!'
+# Message that appears to remind players how to start an arena after joining as a player.
+instanceStartHintMessage: '&2[EliteMobs] &aPuedes iniciar la instancia haciendo &2/em
+  start'
+# Message that appears to remind players how to leave an arena.
+instanceQuitHintMessage: '&4[EliteMobs] &cPuedes salir de la instancia haciendo &4/em
+  quit'
+# Message that appears when players join an arena.
+arenaJoinPlayerMessage: "&2[EliteMobs] &aPuedes iniciar la arena haciendo &2/em start\
+  \ &asi hay al menos &2$count &ajugadores en ella. \nPuedes salir de la arena haciendo\
+  \ &c/em quit"
+# Message that appears to remind players how to leave an arena after joining as a spectator.
+arenaJoinSpectatorMessage: '&2[EliteMobs] &aPuedes salir de la arena en cualquier
+  momento usando &2/em quit'
+# Title message that appears when a wave is starting.
+waveTitle: '&aOleada &2$wave'
+# Subtitle message that appears when a wave is starting.
+waveSubtitle: ''
+# Title that appears when an arena is completed.
+victoryTitle: '&2¡Victoria!'
+# Subtitle that appears when an arena is completed.
+victorySubtitle: '&a¡Completaste &2$wave &aoleadas!'
+# Title that appears when players fail an arena.
+defeatTitle: '&4¡Derrota!'
+# Subitle that appears when players fail an arena.
+defeatSubtitle: ¡&cAlcanzaste la oleada &4$wave&c!
+# Message broadcasted when players beat an arena.
+victoryBroadcast: ¡La Arena $arenaName fue conquistada por $players!
+# Title that appears when a player joins an arena.
+joinPlayerTitle: ¡&aComienza con &2/em start &a!
+# Subtitle that appears when a player joins an arena.
+joinPlayerSubtitle: ¡&cSal con &4/em quit &c!
+# Title that appears when a spectator joins an arena.
+joinSpectatorTitle: '&a¡Ahora espectando!'
+# Subtitle that appears when a spectator joins an arena.
+joinSpectatorSubtitle: ¡&cSal con &4/em quit &c!
+# Sets the message sent to players if they do not have permission to enter an arena.
+noArenaPermissionMessage: '[EliteMobs] ¡No tienes permiso para entrar en esta arena!'

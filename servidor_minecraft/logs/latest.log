@@ -1,0 +1,962 @@
+[21:24:28] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[21:24:28] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
+[21:24:28] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:24:30] [ServerMain/INFO]: [PluginInitializerManager] Initialized 48 plugins
+[21:24:30] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (10):
+ - AreaPlanter (1.4), HuskHomes (4.9.9), Protect (3.1.1), SpawnEggDrops (1.1.6), vane-admin (1.19.0), vane-core (1.19.0), vane-permissions (1.19.0), vane-portals (1.19.0), vane-regions (1.19.0), vane-trifles (1.19.0)
+[21:24:30] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (38):
+ - AttackThrough (1.0.1), BackpackPlus (2.0.1), BetterStructures (2.0.0), Chunky (1.4.40), ChunkyBorder (1.2.23), Clumps (5.0), CustomJoinMessages (17.9.1), DeleteBats (1.0-SNAPSHOT), DiscordSRV (1.30.1), DragonRebirth (1.0), DynamicLight (${project.version}), EliteMobs (9.5.4), FastAsyncWorldEdit (2.13.2), FasterHappyGhasts (1.0.0), FishRewards (1.6.6), Geyser-Spigot (2.8.3-SNAPSHOT), GravesX (4.9.8.3), HarvestMaster (1.0.6), HexNicks (3.2.0), LagFixer (1.4.27 [build 120]), LevelledMobs (4.3.2.1 b125), LuckPerms (5.5.0), Multiverse-Core (5.2.1), PlayerCarry (1.1), ProtocolLib (5.4.0), ReanimateMC (1.2.02), ResourcePackManager (1.6.0), SeeMore (1.0.2), SilkAmethyst (1.2.1), SkinsRestorer (15.8.2), Stackable (1.0-SNAPSHOT), TabListPing (2.02), VeinMiner (2.3.0), ViaBackwards (5.4.2), ViaVersion (5.4.2), VillagerInABukkit (1.3.0), XPBottling (1.0.0), floodgate (2.2.4-SNAPSHOT (b118-40d320a))
+[21:24:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:24:38] [ServerMain/INFO]: Loaded 1415 recipes
+[21:24:38] [ServerMain/INFO]: Loaded 1544 advancements
+[21:24:38] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[21:24:38] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 483.1ms
+[21:24:38] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[21:24:38] [Server thread/INFO]: Loading properties
+[21:24:38] [Server thread/INFO]: This server is running Paper version 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[21:24:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:24:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:24:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:24:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:24:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:24:39] [Server thread/INFO]: Default game type: SURVIVAL
+[21:24:39] [Server thread/INFO]: Generating keypair
+[21:24:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:24:39] [Server thread/INFO]: Using epoll channel type
+[21:24:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:24:39] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[21:24:39] [Server thread/INFO]: [vane-core] Loading head library...
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loading 4 libraries... please wait
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/com/zaxxer/HikariCP/7.0.2/HikariCP-7.0.2.jar
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/com/mysql/mysql-connector-j/9.4.0/mysql-connector-j-9.4.0.jar
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/com/google/protobuf/protobuf-java/4.31.1/protobuf-java-4.31.1.jar
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/org/xerial/sqlite-jdbc/3.50.3.0/sqlite-jdbc-3.50.3.0.jar
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/org/postgresql/postgresql/42.7.7/postgresql-42.7.7.jar
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.49.3/checker-qual-3.49.3.jar
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loading 3 libraries... please wait
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/commons-io/commons-io/2.19.0/commons-io-2.19.0.jar
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.8.0/oshi-core-6.8.0.jar
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/net/java/dev/jna/jna/5.17.0/jna-5.17.0.jar
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/net/java/dev/jna/jna-platform/5.17.0/jna-platform-5.17.0.jar
+[21:24:41] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/InfoCraft/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar
+[21:24:41] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
+[21:24:41] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
+[21:24:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[21:24:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[21:24:42] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[21:24:42] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[21:24:43] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
+[21:24:43] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[21:24:44] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[21:24:44] [Server thread/INFO]: [floodgate] Took 547ms to boot Floodgate
+[21:24:44] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.13.2
+[21:24:44] [Server thread/WARN]: 
+**********************************************
+** You are using the Spigot-mapped FAWE jar on a modern Paper version.
+** This will result in slower first-run times and wasted disk space from plugin remapping.
+** Download the Paper FAWE jar from Modrinth to avoid this: https://modrinth.com/plugin/fastasyncworldedit/
+**********************************************
+[21:24:45] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@64d42ebd]
+[21:24:45] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.2.1
+[21:24:45] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
+[21:24:45] [Server thread/INFO]: [vane-core] Loading server plugin vane-core v1.19.0
+[21:24:45] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
+[21:24:45] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[21:24:45] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[21:24:45] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.2.1 b125
+[21:24:45] [Server thread/INFO]: [LevelledMobs] Loading commands
+[21:24:46] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.30.1
+[21:24:46] [Server thread/INFO]: [vane-regions] Loading server plugin vane-regions v1.19.0
+[21:24:46] [Server thread/INFO]: [EliteMobs] Loading server plugin EliteMobs v9.5.4
+[21:24:46] [Server thread/INFO]: [EliteMobs] MagmaCore v1.13-SNAPSHOT initialized!
+[21:24:46] [Server thread/INFO]: [EliteMobs] Registered /logify command
+[21:24:46] [Server thread/WARN]: [EliteMobs] Error loading WorldGuard. EliteMob-specific flags will not work. Except if you just reloaded the plugin, in which case they will totally work.
+[21:24:46] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[21:24:46] [Server thread/INFO]: [BackpackPlus] Loading server plugin BackpackPlus v2.0.1
+[21:24:46] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
+[21:24:46] [Server thread/INFO]: [XPBottling] Loading server plugin XPBottling v1.0.0
+[21:24:46] [Server thread/INFO]: [CustomJoinMessages] Loading server plugin CustomJoinMessages v17.9.1
+[21:24:46] [Server thread/INFO]: [DragonRebirth] Loading server plugin DragonRebirth v1.0
+[21:24:46] [Server thread/INFO]: [HuskHomes] Loading server plugin HuskHomes v4.9.9
+[21:24:46] [Server thread/INFO]: [HuskHomes] Registered 'on_load' hooks
+[21:24:46] [Server thread/INFO]: [HuskHomes] Successfully loaded HuskHomes v4.9.9
+[21:24:46] [Server thread/INFO]: [FasterHappyGhasts] Loading server plugin FasterHappyGhasts v1.0.0
+[21:24:46] [Server thread/INFO]: [PlayerCarry] Loading server plugin PlayerCarry v1.1
+[21:24:46] [Server thread/INFO]: [SilkAmethyst] Loading server plugin SilkAmethyst v1.2.1
+[21:24:46] [Server thread/INFO]: [DeleteBats] Loading server plugin DeleteBats v1.0-SNAPSHOT
+[21:24:46] [Server thread/INFO]: [DynamicLight] Loading server plugin DynamicLight v${project.version}
+[21:24:46] [Server thread/INFO]: [[38;5;11m⚡[0m] Loading server plugin LagFixer v1.4.27 [build 120]
+[21:24:46] [Server thread/INFO]: [AttackThrough] Loading server plugin AttackThrough v1.0.1
+[21:24:46] [Server thread/INFO]: [SpawnEggDrops] Loading server plugin SpawnEggDrops v1.1.6
+[21:24:46] [Server thread/INFO]: [VillagerInABukkit] Loading server plugin VillagerInABukkit v1.3.0
+[21:24:46] [Server thread/INFO]: [Protect] Loading server plugin Protect v3.1.1
+[21:24:46] [Server thread/INFO]: [HarvestMaster] Loading server plugin HarvestMaster v1.0.6
+[21:24:46] [Server thread/INFO]: [vane-portals] Loading server plugin vane-portals v1.19.0
+[21:24:46] [Server thread/INFO]: [vane-trifles] Loading server plugin vane-trifles v1.19.0
+[21:24:46] [Server thread/INFO]: [Stackable] Loading server plugin Stackable v1.0-SNAPSHOT
+[21:24:46] [Server thread/INFO]: [AreaPlanter] Loading server plugin AreaPlanter v1.4
+[21:24:46] [Server thread/INFO]: [ReanimateMC] Loading server plugin ReanimateMC v1.2.02
+[21:24:46] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.3.0
+[21:24:46] [Server thread/INFO]: [vane-admin] Loading server plugin vane-admin v1.19.0
+[21:24:46] [Server thread/INFO]: [Clumps] Loading server plugin Clumps v5.0
+[21:24:46] [Server thread/INFO]: [GravesX] Loading server plugin GravesX v4.9.8.3
+[21:24:46] [Server thread/INFO]: [BetterStructures] Loading server plugin BetterStructures v2.0.0
+[21:24:46] [Server thread/INFO]: [BetterStructures] MagmaCore v1.13-SNAPSHOT initialized!
+[21:24:46] [Server thread/INFO]: [BetterStructures] /logify is already registered, skipping.
+[21:24:46] [Server thread/INFO]: [BetterStructures] WorldGuard is not enabled! WorldGuard is recommended when using the EliteMobs integration.
+[21:24:46] [Server thread/INFO]: [HexNicks] Loading server plugin HexNicks v3.2.0
+[21:24:46] [Server thread/INFO]: [vane-permissions] Loading server plugin vane-permissions v1.19.0
+[21:24:46] [Server thread/INFO]: [SeeMore] Loading server plugin SeeMore v1.0.2
+[21:24:46] [Server thread/INFO]: [ChunkyBorder] Loading server plugin ChunkyBorder v1.2.23
+[21:24:46] [Server thread/INFO]: [ResourcePackManager] Loading server plugin ResourcePackManager v1.6.0
+[21:24:46] [Server thread/INFO]: [ResourcePackManager] MagmaCore v1.13-SNAPSHOT initialized!
+[21:24:46] [Server thread/INFO]: [ResourcePackManager] /logify is already registered, skipping.
+[21:24:46] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.2
+[21:24:46] [Server thread/INFO]: [TabListPing] Loading server plugin TabListPing v2.02
+[21:24:46] [Server thread/INFO]: [FishRewards] Loading server plugin FishRewards v1.6.6
+[21:24:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:24:46] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
+[21:24:46] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.13.2
+[21:24:46] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[21:24:46] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[21:24:46] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:24:46] [ForkJoinPool.commonPool-worker-1/INFO]: [Protect] You are running the latest version of Protect
+[21:24:46] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:24:46] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_6.PaperweightFaweAdapter as the Bukkit adapter
+[21:24:47] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[21:24:47] [ForkJoinPool.commonPool-worker-1/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] A new release for FastAsyncWorldEdit is available: 2.14.0. You are currently on 2.13.2.
+Download from https://modrinth.com/plugin/fastasyncworldedit, https://hangar.papermc.io/IntellectualSites/FastAsyncWorldEdit or https://www.spigotmc.org/resources/13932
+[21:24:47] [ForkJoinPool.commonPool-worker-1/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 1199 build(s) out of date.
+You are running build 0, the latest version is build 1199.
+Update at https://ci.athion.net/job/FastAsyncWorldEdit
+[21:24:48] [Server thread/INFO]:         __    
+[21:24:48] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
+[21:24:48] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[21:24:48] [Server thread/INFO]: 
+[21:24:48] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[21:24:48] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[21:24:49] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[21:24:49] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[21:24:49] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2116ms)
+[21:24:49] [Server thread/INFO]: [vane-core] Enabling vane-core v1.19.0
+[21:24:49] [Server thread/INFO]: [vane-core] Serving official vane resource pack
+[21:24:49] [Server thread/INFO]: [vane-core] Distributing resource pack from 'https://oddlama.github.io/vane/resourcepacks/v1.19.0.zip' with sha1 941e0a9a7c227e35d6b7595b26a9d089a98e4a07
+[21:24:49] [Server thread/INFO]: [vane-regions] Enabling vane-regions v1.19.0
+[21:24:49] [Server thread/INFO]: [Protect] Enabling Protect v3.1.1
+[21:24:49] [Server thread/INFO]: [vane-portals] Enabling vane-portals v1.19.0
+[21:24:50] [Server thread/INFO]: [vane-trifles] Enabling vane-trifles v1.19.0
+[21:24:50] [Server thread/INFO]: [AreaPlanter] Enabling AreaPlanter v1.4
+[21:24:50] [Server thread/INFO]: [AreaPlanter] 
+ _____             _____ _         _              _____        _____         _   _       _ 
+|  _  |___ ___ ___|  _  | |___ ___| |_ ___ ___   |     |___   |   __|___ ___| |_| |___ _| |
+|     |  _| -_| .'|   __| | .'|   |  _| -_|  _|  |-   -|_ -|  |   __|   | .'| . | | -_| . |
+|__|__|_| |___|__,|__|  |_|__,|_|_|_| |___|_|    |_____|___|  |_____|_|_|__,|___|_|___|___|
+[21:24:50] [Server thread/INFO]: [vane-admin] Enabling vane-admin v1.19.0
+[21:24:50] [Server thread/INFO]: [vane-admin] Detención automática programada en 20m
+[21:24:50] [Server thread/INFO]: [Clumps] Enabling Clumps v5.0
+[21:24:50] [Server thread/INFO]: [vane-permissions] Enabling vane-permissions v1.19.0
+[21:24:50] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.2
+[21:24:51] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
+[21:24:51] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[21:24:52] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:24:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:24:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:24:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:24:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:24:52] [Server thread/INFO]: Preparing level "world"
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.2
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: cf773a3
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:24:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:24:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:24:53] [Server thread/INFO]: Preparing spawn area: 0%
+[21:24:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:24:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:24:54] [Server thread/INFO]: Time elapsed: 1182 ms
+[21:24:54] [Server thread/INFO]: [vane-regions] Loaded 1 regions for world world(e8bf6b61-e3f3-48f0-94b6-77d228c6688b)
+[21:24:54] [Server thread/INFO]: [vane-portals] Loaded 0 portals for world world(e8bf6b61-e3f3-48f0-94b6-77d228c6688b)
+[21:24:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:24:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:24:54] [Server thread/INFO]: Time elapsed: 397 ms
+[21:24:54] [Server thread/INFO]: [vane-regions] Loaded 0 regions for world world_nether(0ae18b52-4861-45eb-a538-7e941c941dcc)
+[21:24:54] [Server thread/INFO]: [vane-portals] Loaded 0 portals for world world_nether(0ae18b52-4861-45eb-a538-7e941c941dcc)
+[21:24:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:24:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:24:55] [Server thread/INFO]: Time elapsed: 215 ms
+[21:24:55] [Server thread/INFO]: [vane-regions] Loaded 0 regions for world world_the_end(2317b46b-3cef-48e2-a075-47653571ab65)
+[21:24:55] [Server thread/INFO]: [vane-portals] Loaded 0 portals for world world_the_end(2317b46b-3cef-48e2-a075-47653571ab65)
+[21:24:55] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
+[21:24:55] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[21:24:55] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[21:24:55] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.2.1
+[21:24:56] [Server thread/INFO]: [Multiverse-Core] API service loaded!
+[21:24:56] [Server thread/INFO]: [Multiverse-Core] Version 5.2.1 (API v5.2) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
+[21:24:56] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
+[21:24:56] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
+[21:24:57] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.2.1 b125
+[21:24:57] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[21:24:57] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[21:24:57] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.7 for nametag support
+[21:24:57] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[21:24:57] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[21:24:57] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[21:24:57] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[21:24:57] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[21:24:57] [Server thread/INFO]: [LevelledMobs] Current rules hash: d69b51fbcdd6dd5f999003bbda79549dd3f3fef43f9fd6cdb43421ba9c25c053
+[21:24:57] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[21:24:57] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[21:24:57] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[21:24:57] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[21:24:57] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 241ms)
+[21:24:57] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.30.1
+[21:24:57] [Server thread/INFO]: [EliteMobs] Enabling EliteMobs v9.5.4
+[21:24:57] [Server thread/INFO]:  _____ _     _____ _____ ________  ______________  _____
+[21:24:57] [Server thread/INFO]: |  ___| |   |_   _|_   _|  ___|  \/  |  _  | ___ \/  ___|
+[21:24:57] [Server thread/INFO]: | |__ | |     | |   | | | |__ | .  . | | | | |_/ /\ `--.
+[21:24:57] [Server thread/INFO]: |  __|| |     | |   | | |  __|| |\/| | | | | ___ \ `--. \
+[21:24:57] [Server thread/INFO]: | |___| |_____| |_  | | | |___| |  | \ \_/ / |_/ //\__/ /
+[21:24:57] [Server thread/INFO]: \____/\_____/\___/  \_/ \____/\_|  |_/\___/\____/ \____/
+[21:24:57] [Server thread/INFO]: By MagmaGuy - v. 9.5.4
+[21:24:57] [Server thread/INFO]: [EliteMobs] Supported server version detected: v1_21_R5
+[21:24:57] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 83 ms to scan 121 urls, producing 0 keys and 0 values
+[21:24:58] [Server thread/INFO]: [EliteMobs] Other boss mob plugins have been detected, high compatibility mode will be used!
+[21:24:58] [pool-32-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (1cc66c00dd0d091057d8a04adf1cc0714d8391ad)
+[21:24:58] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 83 ms to scan 1 urls, producing 1 keys and 60 values
+[21:24:58] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 19 ms to scan 1 urls, producing 1 keys and 16 values
+[21:24:59] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:24:59] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] ===================================================
+[21:24:59] [DiscordSRV - Initialization/ERROR]: [DiscordSRV]  
+[21:24:59] [DiscordSRV - Initialization/ERROR]: [DiscordSRV]  DiscordSRV could not connect to Discord because:
+[21:24:59] [DiscordSRV - Initialization/ERROR]: [DiscordSRV]  The bot token is invalid
+[21:24:59] [DiscordSRV - Initialization/ERROR]: [DiscordSRV]  
+[21:24:59] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] ===================================================
+[21:25:01] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 10 ms to scan 1 urls, producing 1 keys and 71 values
+[21:25:01] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 29 ms to scan 1 urls, producing 10 keys and 220 values
+[21:25:01] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 4 ms to scan 1 urls, producing 1 keys and 15 values
+[21:25:01] [Server thread/INFO]: [EliteMobs] WorldGuard compatibility is not enabled!
+[21:25:01] [Server thread/INFO]: [EliteMobs] Opened database successfully
+[21:25:01] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 5 ms to scan 1 urls, producing 1 keys and 116 values
+[21:25:03] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 6 ms to scan 1 urls, producing 1 keys and 73 values
+[21:25:03] [Server thread/WARN]: [EliteMobs] File  /workspaces/InfoCraft/servidor_minecraft/./em_primis_wormhole does not exist!
+[21:25:03] [Server thread/WARN]: [EliteMobs] File  /workspaces/InfoCraft/servidor_minecraft/./em_oasis_wormhole does not exist!
+[21:25:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 8 ms to scan 1 urls, producing 1 keys and 134 values
+[21:25:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[21:25:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 4 ms to scan 1 urls, producing 1 keys and 33 values
+[21:25:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 4 ms to scan 1 urls, producing 1 keys and 24 values
+[21:25:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[21:25:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 8 values
+[21:25:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[21:25:04] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[21:25:04] [Server thread/INFO]: [BackpackPlus] Enabling BackpackPlus v2.0.1
+[21:25:04] [Server thread/INFO]: [BackpackPlus] [Pack] No update needed; current readme is up to date.
+[21:25:04] [Server thread/INFO]: [BackpackPlus] [Settings] Configuration loaded successfully. No missing fields detected.
+[21:25:04] [Server thread/INFO]: [BackpackPlus] [Database] Configuration loaded successfully. No missing fields detected.
+[21:25:04] [Server thread/INFO]: [BackpackPlus] [Database] SQLite Successfully connected to database
+[21:25:04] [Server thread/INFO]: [BackpackPlus] Tables and indexes created successfully.
+[21:25:04] [Server thread/INFO]: [BackpackPlus] Language used: es
+[21:25:04] [Server thread/INFO]: [BackpackPlus] [ResourcePackManager] Is enabled, the resource pack will be managed by the ResourcePackManager.
+[21:25:04] [Server thread/INFO]: [BackpackPlus] Plugin initialized successfully.
+[21:25:04] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
+[21:25:04] [Server thread/INFO]: [XPBottling] Enabling XPBottling v1.0.0
+[21:25:04] [Server thread/INFO]: [XPBottling] XP Bottling has been enabled!
+[21:25:04] [Server thread/INFO]: [CustomJoinMessages] Enabling CustomJoinMessages v17.9.1
+[21:25:05] [Server thread/INFO]: [CustomJoinMessages] [ACF] Enabled Asynchronous Tab Completion Support!
+[21:25:05] [Server thread/INFO]: [DragonRebirth] Enabling DragonRebirth v1.0
+[21:25:05] [Server thread/INFO]: [DragonRebirth] Dragon Rebirth Plugin has been enabled!
+[21:25:05] [Server thread/INFO]: [DragonRebirth] Dragon Rebirth Plugin enabled successfully!
+[21:25:05] [Server thread/INFO]: [HuskHomes] Enabling HuskHomes v4.9.9
+[21:25:05] [Server thread/INFO]: [HuskHomes] Registered 'on_enable' hooks
+[21:25:05] [Server thread/INFO]: [HuskHomes] Successfully enabled HuskHomes v4.9.9
+[21:25:05] [Server thread/INFO]: [FasterHappyGhasts] Enabling FasterHappyGhasts v1.0.0
+[21:25:05] [Server thread/INFO]: [FasterHappyGhasts] FasterHappyGhasts enabled!
+[21:25:05] [Server thread/INFO]: [PlayerCarry] Enabling PlayerCarry v1.1
+[21:25:05] [Server thread/INFO]: [SilkAmethyst] Enabling SilkAmethyst v1.2.1
+[21:25:05] [Server thread/INFO]: [SilkAmethyst] Silk Amethyst Enabled!
+[21:25:05] [Server thread/INFO]: [DeleteBats] Enabling DeleteBats v1.0-SNAPSHOT
+[21:25:05] [Server thread/INFO]: [DynamicLight] Enabling DynamicLight v${project.version}
+[21:25:05] [Server thread/INFO]: [DynamicLight] Loaded 21 items with light levels.
+[21:25:05] [Server thread/INFO]: [DynamicLight] DynamicLight has been enabled!
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] Enabling LagFixer v1.4.27 [build 120]
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] Remember to leave a rating! ★ ★ ★ ★ ★
+
+
+
+
+
+LagFixer - Best Performance Solution!
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░██╗░░░░░░█████╗░░██████╗░░░███████╗██╗██╗░░██╗███████╗██████╗░░
+░██║░░░░░██╔══██╗██╔════╝░░░██╔════╝██║╚██╗██╔╝██╔════╝██╔══██╗░
+░██║░░░░░███████║██║░░██╗░░░█████╗░░██║░╚███╔╝░█████╗░░██████╔╝░
+░██║░░░░░██╔══██║██║░░╚██╗░░██╔══╝░░██║░██╔██╗░██╔══╝░░██╔══██╗░
+░███████╗██║░░██║╚██████╔╝░░██║░░░░░██║██╔╝╚██╗███████╗██║░░██║░
+░╚══════╝╚═╝░░╚═╝░╚═════╝░░░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+
+
+
+
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Enabling manager...
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Started listening console for LagFixer errors!
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Enabled manager in 2ms!
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Enabling manager...
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded fork support ~ xyz.lychee.lagfixer.support.Paper
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded nms support ~ xyz.lychee.lagfixer.nms.v1_21_R5.SupportNms
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Enabled manager in 12ms!
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Enabling manager...
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Enabled manager in 73ms!
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Enabling manager...
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook WildStacker, reason: Plugin not found
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook UltimateStacker, reason: Plugin not found
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook spark, reason: Plugin not found
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook ModelEngine, reason: Plugin not found
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook RoseStacker, reason: Plugin not found
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook PlaceholderAPI, reason: Plugin not found
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Enabled manager in 0ms!
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Enabling manager...
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Enabled manager in 3ms!
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Enabling manager...
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Enabled manager in 0ms!
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Enabling manager...
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully loaded module RedstoneLimiter in 3ms.
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully loaded module InstantLeafDecay in 1ms.
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] [STDOUT] Unknown "EntityType" enum value: POTION
+[21:25:05] [Server thread/WARN]: Nag author(s): '[lychee]' of 'LagFixer v1.4.27 [build 120]' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully loaded module WorldCleaner in 2ms.
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully loaded module MobAiReducer in 16ms.
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully loaded module LagMonitor in 3ms.
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully loaded module EntityLimiter in 2ms.
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully loaded module AbilityLimiter in 1ms.
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Enabled manager in 85ms!
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Enabling manager...
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Enabled manager in 113ms!
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] Remember to leave a rating! ★ ★ ★ ★ ★
+[21:25:05] [Server thread/INFO]: [[38;5;11m⚡[0m] ❤ Support us https://ko-fi.com/lajczik
+[21:25:05] [Server thread/INFO]: [AttackThrough] Enabling AttackThrough v1.0.1
+[21:25:05] [Server thread/INFO]: [AttackThrough] Enabled !
+[21:25:05] [Server thread/INFO]: [SpawnEggDrops] Enabling SpawnEggDrops v1.1.6
+[21:25:05] [Server thread/INFO]: SpawnEggDrops >> Plugin has been enabled!
+[21:25:05] [Server thread/INFO]: [VillagerInABukkit] Enabling VillagerInABukkit v1.3.0
+[21:25:06] [Server thread/INFO]: [HarvestMaster] Enabling HarvestMaster v1.0.6
+[21:25:06] [Server thread/INFO]: [Stackable] Enabling Stackable v1.0-SNAPSHOT
+[21:25:06] [Server thread/INFO]: [ReanimateMC] Enabling ReanimateMC v1.2.02
+[21:25:06] [Server thread/INFO]: ReanimateMC running on version 1.2.02!
+[21:25:06] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.3.0
+[21:25:06] [Server thread/INFO]: [VeinMiner] Using "sqlite" for persistent data storage.
+[21:25:06] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[21:25:06] [Server thread/INFO]: [VeinMiner] Added 14 aliases.
+[21:25:06] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 28 unique blocks.
+[21:25:06] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 12 unique blocks.
+[21:25:06] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 14 unique blocks.
+[21:25:06] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 4 unique blocks.
+[21:25:06] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 10 unique blocks.
+[21:25:06] [Server thread/WARN]: [VeinMiner] No block list configured for category with id "Hand"! Is this intentional?
+[21:25:06] [Server thread/INFO]: [VeinMiner] Registered category with id "Hand" holding 0 unique items and 0 unique blocks.
+[21:25:06] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[21:25:06] [Server thread/INFO]: [VeinMiner] Registering commands
+[21:25:06] [Server thread/INFO]: [VeinMiner] Registering events
+[21:25:06] [Server thread/INFO]: [VeinMiner] Vault not found. Economy support suspended
+[21:25:06] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[21:25:06] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[21:25:06] [Server thread/INFO]: [GravesX] Enabling GravesX v4.9.8.3
+[21:25:06] [Server thread/INFO]: [GravesX] Loading Libraries for GravesX
+[21:25:06] [Server thread/INFO]: [GravesX] Loading library com.zaxxer.HikariCP version 6.3.0.
+[21:25:06] [Server thread/INFO]: [GravesX] Loading library com.zaxxer:HikariCP:6.3.0
+[21:25:06] [ForkJoinPool.commonPool-worker-2/INFO]: [VeinMiner] You are on the latest version of VeinMiner!
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:1.7.36
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library org.javassist:javassist:3.29.2-GA
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library io.micrometer:micrometer-core:1.5.10
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library org.hdrhistogram:HdrHistogram:2.1.12
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library org.latencyutils:LatencyUtils:2.0.3
+[21:25:07] [Server thread/INFO]: [GravesX] Loaded library com.zaxxer.HikariCP version 6.3.0 and shaded successfully.
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library org.xerial.sqlite-jdbc version 3.50.3.0.
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library org.xerial:sqlite-jdbc:3.50.3.0
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:1.7.36
+[21:25:07] [Server thread/INFO]: [GravesX] Loaded library org.xerial.sqlite-jdbc version 3.50.3.0 successfully.
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library org.json.json version 20250517.
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library org.json:json:20250517
+[21:25:07] [Server thread/INFO]: [GravesX] Loaded library org.json.json version 20250517 successfully.
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library com.github.oshi.oshi-core version 6.8.2.
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library com.github.oshi:oshi-core:6.8.2
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library net.java.dev.jna:jna:5.17.0
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library net.java.dev.jna:jna-platform:5.17.0
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:2.0.17
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library io.github.pandalxb:jLibreHardwareMonitor:1.0.5
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library io.github.pandalxb:jPowerShell:1.0.0
+[21:25:07] [Server thread/INFO]: [GravesX] Loaded library com.github.oshi.oshi-core version 6.8.2 successfully.
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library com.h2database.h2 version 2.3.232.
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library com.h2database:h2:2.3.232
+[21:25:07] [Server thread/INFO]: [GravesX] Loaded library com.h2database.h2 version 2.3.232 and shaded successfully.
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-api version 4.24.0.
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.24.0
+[21:25:07] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.24.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:26.0.2
+[21:25:08] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-api version 4.24.0 and shaded successfully.
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-text-minimessage version 4.24.0.
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-minimessage:4.24.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.24.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.24.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:26.0.2
+[21:25:08] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-text-minimessage version 4.24.0 and shaded successfully.
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-text-serializer-gson version 4.24.0.
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson:4.24.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-json:4.24.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.24.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.24.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:option:1.1.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library org.jspecify:jspecify:1.0.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library com.google.code.gson:gson:2.8.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library com.google.auto.service:auto-service-annotations:1.1.1
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-commons:4.24.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:26.0.2
+[21:25:08] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-text-serializer-gson version 4.24.0 and shaded successfully.
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-platform-bukkit version 4.4.1.
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-bukkit:4.4.1
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-api:4.4.1
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.21.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.21.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-bungeecord:4.4.1
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-legacy:4.21.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-nbt:4.21.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:26.0.2
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson:4.21.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-json:4.21.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:option:1.1.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library org.jspecify:jspecify:1.0.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library com.google.auto.service:auto-service-annotations:1.1.1
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-commons:4.21.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson-legacy-impl:4.21.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-json-legacy-impl:4.21.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-facet:4.4.1
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-viaversion:4.4.1
+[21:25:08] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-platform-bukkit version 4.4.1 and shaded successfully.
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library com.github.puregero.multilib version 1.2.4.
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib:1.2.4
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:22.0.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-common:1.2.4
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-bukkit:1.2.4
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-multipaper:1.2.4
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-common:1.2.4
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-bukkit:1.2.4
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-paper:1.2.4
+[21:25:08] [Server thread/INFO]: [GravesX] Loaded library com.github.puregero.multilib version 1.2.4 and shaded successfully.
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library org.apache.commons.commons-text version 1.14.0.
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library org.apache.commons:commons-text:1.14.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loading library org.apache.commons:commons-lang3:3.18.0
+[21:25:08] [Server thread/INFO]: [GravesX] Loaded library org.apache.commons.commons-text version 1.14.0 and shaded successfully.
+[21:25:08] [Server thread/INFO]: [GravesX] Finished Loading Libraries for GravesX.
+[21:25:08] [Server thread/INFO]: [GravesX] Integration: Hooked into ProtocolLib 5.4.0.
+[21:25:09] [Server thread/INFO]: [GravesX] Integration: Hooked into FastAsyncWorldEdit 2.13.2.
+[21:25:10] [Server thread/INFO]: [GravesX] Integration: Hooked into MiniMessage.
+[21:25:10] [Server thread/WARN]: [GravesX] Compatibility: Paper or a Paper fork detected. To ensure holograms disappear correctly when looting graves, make sure 'armor-stands-tick' or 'armor-stands.tick' is set to true. This is not a bug.
+[21:25:10] [Server thread/INFO]: [GravesX] Integration: Hooked into LuckPerms 5.5.0.
+[21:25:10] [Server thread/INFO]: [GravesX] Integration: Hooked into Geyser-Spigot 2.8.3-SNAPSHOT.
+[21:25:10] [Server thread/INFO]: [GravesX] Integration: Hooked into floodgate 2.2.4-SNAPSHOT (b118-40d320a).
+[21:25:10] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Starting...
+[21:25:10] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.pool.HikariPool] Graves H2 - Added connection conn0: url=jdbc:h2:file:/workspaces/InfoCraft/servidor_minecraft/plugins/GravesX/data/graves.data user=SA
+[21:25:10] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Start completed.
+[21:25:10] [Server thread/WARN]: [GravesX] No SQLite database at plugins/GravesX/data/data.db; skipping migration.
+[21:25:10] [Folia Async Scheduler Thread #2/INFO]: [GravesX] Loading grave maps...
+[21:25:10] [Folia Async Scheduler Thread #2/WARN]: [GravesX] Grave e1fb552b-7dd2-40c7-827f-bfa5cdcf2047 at location World: world, x: 104, y: 68, z: -706 has the following missing from grave data: owner_texture, owner_texture_signature, killer_type. This shouldn't affect grave behavior. Do not report this as a bug.
+[21:25:10] [Folia Async Scheduler Thread #2/WARN]: [GravesX] Grave 2f19de4e-e59e-4fd4-9e9f-78e0b26c863b at location World: world, x: 87, y: 67, z: -691 has the following missing from grave data: owner_texture, owner_texture_signature. This shouldn't affect grave behavior. Do not report this as a bug.
+[21:25:10] [Folia Async Scheduler Thread #2/INFO]: [GravesX] Loaded 2 grave maps into cache.
+[21:25:10] [Folia Async Scheduler Thread #4/INFO]: [GravesX] Loading Block Map cache...
+[21:25:10] [Folia Async Scheduler Thread #4/INFO]: [GravesX] Loaded 2 Blocks into the Block Map Cache.
+[21:25:10] [Folia Async Scheduler Thread #1/INFO]: [GravesX] Loading Entity Map Cache for armorstand...
+[21:25:10] [Folia Async Scheduler Thread #1/INFO]: [GravesX] Loaded 0 entities into Entity Map Cache for armorstand.
+[21:25:10] [Folia Async Scheduler Thread #5/INFO]: [GravesX] Loading Entity Map Cache for itemframe...
+[21:25:10] [Folia Async Scheduler Thread #5/INFO]: [GravesX] Loaded 0 entities into Entity Map Cache for itemframe.
+[21:25:10] [Folia Async Scheduler Thread #0/INFO]: [GravesX] Loading Holograms into Hologram Map Cache...
+[21:25:10] [Folia Async Scheduler Thread #0/INFO]: [GravesX] Loaded 6 Holograms into Hologram Map Cache.
+[21:25:10] [Server thread/INFO]: [GravesX] Metrics has been enabled. All metrics will be sent to https://bstats.org/plugin/bukkit/Graves/12849 and https://bstats.org/plugin/bukkit/GravesX/23069.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Enabling BetterStructures v2.0.0
+[21:25:10] [Server thread/INFO]:     ____       __  __            _____ __                  __                      
+[21:25:10] [Server thread/INFO]:    / __ )___  / /_/ /____  _____/ ___// /________  _______/ /___  __________  _____
+[21:25:10] [Server thread/INFO]:   / __  / _ \/ __/ __/ _ \/ ___/\__ \/ __/ ___/ / / / ___/ __/ / / / ___/ _ \/ ___/
+[21:25:10] [Server thread/INFO]:  / /_/ /  __/ /_/ /_/  __/ /   ___/ / /_/ /  / /_/ / /__/ /_/ /_/ / /  /  __(__  ) 
+[21:25:10] [Server thread/INFO]: /_____/\___/\__/\__/\___/_/   /____/\__/_/   \__,_/\___/\__/\__,_/_/   \___/____/
+[21:25:10] [Server thread/INFO]: [BetterStructures] Initialized version 2.0.0!
+[21:25:10] [Server thread/INFO]: [BetterStructures] Supported server version detected: v1_21_R5
+[21:25:10] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 35 ms to scan 1 urls, producing 1 keys and 5 values
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key ambush in configuration file treasure_special.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key critical_strike in configuration file treasure_special.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key void_strike in configuration file treasure_special.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key dune_speed in configuration file treasure_special.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key void_shot in configuration file treasure_special.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/infernal_infusion in configuration file treasure_special.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/draconic in configuration file treasure_special.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/soul_harvest in configuration file treasure_special.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/daybroken in configuration file treasure_special.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key levitation_shot in configuration file treasure_special.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/mighty_wind in configuration file treasure_special.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key ambush in configuration file treasure_overworld_underground.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key critical_strike in configuration file treasure_overworld_underground.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key void_strike in configuration file treasure_overworld_underground.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key dune_speed in configuration file treasure_overworld_underground.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key void_shot in configuration file treasure_overworld_underground.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/infernal_infusion in configuration file treasure_overworld_underground.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/draconic in configuration file treasure_overworld_underground.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/soul_harvest in configuration file treasure_overworld_underground.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/daybroken in configuration file treasure_overworld_underground.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key levitation_shot in configuration file treasure_overworld_underground.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/mighty_wind in configuration file treasure_overworld_underground.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key ambush in configuration file treasure_nether.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key critical_strike in configuration file treasure_nether.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key void_strike in configuration file treasure_nether.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key dune_speed in configuration file treasure_nether.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key void_shot in configuration file treasure_nether.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/infernal_infusion in configuration file treasure_nether.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/draconic in configuration file treasure_nether.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/soul_harvest in configuration file treasure_nether.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/daybroken in configuration file treasure_nether.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key levitation_shot in configuration file treasure_nether.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/mighty_wind in configuration file treasure_nether.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key ambush in configuration file treasure_overworld_surface.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key critical_strike in configuration file treasure_overworld_surface.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key void_strike in configuration file treasure_overworld_surface.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key dune_speed in configuration file treasure_overworld_surface.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key void_shot in configuration file treasure_overworld_surface.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/infernal_infusion in configuration file treasure_overworld_surface.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/draconic in configuration file treasure_overworld_surface.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/soul_harvest in configuration file treasure_overworld_surface.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/daybroken in configuration file treasure_overworld_surface.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key levitation_shot in configuration file treasure_overworld_surface.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/mighty_wind in configuration file treasure_overworld_surface.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key ambush in configuration file treasure_end.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key critical_strike in configuration file treasure_end.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key void_strike in configuration file treasure_end.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key dune_speed in configuration file treasure_end.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key void_shot in configuration file treasure_end.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/infernal_infusion in configuration file treasure_end.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/draconic in configuration file treasure_end.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/soul_harvest in configuration file treasure_end.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/daybroken in configuration file treasure_end.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key levitation_shot in configuration file treasure_end.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [BetterStructures] Failed to get valid enchantment from key _technical/mighty_wind in configuration file treasure_end.yml ! This is almost certainly because another plugin is using enchantments that are pretending to be vanilla Minecraft enchantments, when they aren't, and doing so in a way that doesn't allow items to be enchanted via normal means. This enchantment will be ignored for generating items, you can ignore this warning if you didn't plan to use this enchantment in the first place. Warnings about this specific enchantment will now be suppressed.
+[21:25:10] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 6 ms to scan 1 urls, producing 1 keys and 29 values
+[21:25:10] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[21:25:10] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 25 ms to scan 121 urls, producing 0 keys and 0 values
+[21:25:23] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 1 ms to scan 1 urls, producing 1 keys and 10 values
+[21:25:23] [Server thread/INFO]: [HexNicks] Enabling HexNicks v3.2.0
+[21:25:23] [Server thread/INFO]: [HexNicks] Successfully loaded nicknames from Json storage.
+[21:25:23] [Server thread/INFO]: [HexNicks] Deleting 1 week+ old file 2025-09-28.txt
+[21:25:23] [Server thread/INFO]: [SeeMore] Enabling SeeMore v1.0.2
+[21:25:24] [Server thread/INFO]: [ChunkyBorder] Enabling ChunkyBorder v1.2.23
+[21:25:24] [Server thread/INFO]: [ResourcePackManager] Enabling ResourcePackManager v1.6.0
+[21:25:24] [Server thread/INFO]: 
+  ___  ___ ___ __  __                             
+ | _ \/ __| _ \  \/  |__ _ _ _  __ _ __ _ ___ _ _ 
+ |   /\__ \  _/ |\/| / _` | ' \/ _` / _` / -_) '_|
+ |_|_\|___/_| |_|  |_\__,_|_||_\__,_\__, \___|_|  
+                                    |___/         
+[21:25:24] [Server thread/INFO]: ResourcePackManager v.1.6.0
+[21:25:24] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 39 ms to scan 1 urls, producing 1 keys and 14 values
+[21:25:25] [Server thread/INFO]: [ResourcePackManager] Creating blueprint folder
+[21:25:25] [Server thread/INFO]: [ResourcePackManager] Copying image
+[21:25:25] [Server thread/INFO]: [ResourcePackManager] Copying mcmeta
+[21:25:25] [Server thread/INFO]: [TabListPing] Enabling TabListPing v2.02
+[21:25:25] [Server thread/INFO]: [TabListPing] Detected 1.21.7, using net.minecraft.network.protocol.common.ClientboundKeepAlivePacket & net.minecraft.network.protocol.common.ServerboundKeepAlivePacket
+[21:25:25] [Server thread/INFO]: [TabListPing] Metrics enabled if allowed by plugins/bStats/config.yml
+[21:25:25] [Server thread/INFO]: [FishRewards] Enabling FishRewards v1.6.6
+[21:25:25] [Server thread/INFO]: [FishRewards] loaded 4 packs
+[21:25:26] [Server thread/INFO]: [spark] Starting background profiler...
+[21:25:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:25:26] [Server thread/INFO]: [Geyser-Spigot] 
+[21:25:26] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b903 (git-master-61a1ddd)
+[21:25:26] [Server thread/INFO]: [Geyser-Spigot] 
+[21:25:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:25:29] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[21:25:29] [Server thread/INFO]: [Geyser-Spigot] Done (2.875s)! Run /geyser help for help!
+[21:25:29] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.113. Download it here: https://geysermc.org/download
+[21:25:29] [Server thread/INFO]: Done preparing level "world" (37.357s)
+[21:25:29] [Server thread/INFO]: Running delayed init tasks
+[21:25:29] [Craft Scheduler Thread - 6 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[21:25:29] [Craft Scheduler Thread - 12 - EliteMobs/INFO]: [EliteMobs] Latest public release is 9.5.7
+[21:25:29] [Craft Scheduler Thread - 12 - EliteMobs/INFO]: [EliteMobs] Your version is 9.5.4
+[21:25:29] [Craft Scheduler Thread - 12 - EliteMobs/WARN]: [EliteMobs] [EliteMobs] A newer version of this plugin is available for download!
+[21:25:29] [Craft Scheduler Thread - 16 - BetterStructures/INFO]: [BetterStructures] Latest public release is 2.0.3
+[21:25:29] [Craft Scheduler Thread - 16 - BetterStructures/INFO]: [BetterStructures] Your version is 2.0.0
+[21:25:29] [Craft Scheduler Thread - 15 - BackpackPlus/INFO]: =============================[BackpackPlus]=============================
+[21:25:29] [Craft Scheduler Thread - 15 - BackpackPlus/INFO]: The plugin is up to date: (RELEASE 2.0.1)
+[21:25:29] [Craft Scheduler Thread - 15 - BackpackPlus/INFO]: =============================[BackpackPlus]=============================
+[21:25:29] [Craft Scheduler Thread - 18 - ResourcePackManager/INFO]: [ResourcePackManager] Latest public release is 1.6.0
+[21:25:29] [Craft Scheduler Thread - 18 - ResourcePackManager/INFO]: [ResourcePackManager] Your version is 1.6.0
+[21:25:29] [Craft Scheduler Thread - 16 - BetterStructures/WARN]: [BetterStructures] A newer version of this plugin is available for download!
+[21:25:29] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.30.1
+[21:25:29] [Craft Scheduler Thread - 18 - ResourcePackManager/INFO]: [ResourcePackManager] You are running the latest version!
+[21:25:29] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.5.1, you're on: 5.4.2
+[21:25:29] [Server thread/INFO]: Done (62.298s)! For help, type "help"
+[21:25:29] [Server thread/INFO]: [GravesX] Registering Crash Handler...
+[21:25:29] [Server thread/INFO]: [GravesX] Registered Crash Handler. Server will handle crashes in a separate thread.
+[21:25:29] [Folia Async Scheduler Thread #0/WARN]: [GravesX] You are using an outdated version of GravesX.
+[21:25:29] [Folia Async Scheduler Thread #0/WARN]: [GravesX] Installed Version: 4.9.8.3
+[21:25:29] [Folia Async Scheduler Thread #0/WARN]: [GravesX] Latest Version:  4.9.9.4
+[21:25:29] [Folia Async Scheduler Thread #0/WARN]: [GravesX] Grab the latest release from https://www.spigotmc.org/resources/118271/
+[21:25:32] [Craft Scheduler Thread - 10 - ResourcePackManager/INFO]: [ResourcePackManager] Resource pack for vane-core has not changed for 3 seconds, considering it stable.
+[21:25:32] [Craft Scheduler Thread - 10 - ResourcePackManager/INFO]: [ResourcePackManager] Resource pack for ResourcePackManager has not changed for 3 seconds, considering it stable.
+[21:25:32] [Craft Scheduler Thread - 10 - ResourcePackManager/INFO]: [ResourcePackManager] Resource pack for BackpackPlus has not changed for 3 seconds, considering it stable.
+[21:25:32] [Craft Scheduler Thread - 10 - ResourcePackManager/INFO]: [ResourcePackManager] Resource pack for EliteMobs has not changed for 3 seconds, considering it stable.
+[21:25:33] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] All resource packs are stable, sending resource pack to players.
+[21:25:33] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Added supported resource pack BackpackPlus_resource_pack.zip without a priority!
+[21:25:33] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Hard collision for file /workspaces/InfoCraft/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/pack.png detected! Auto-resolved based on highest priority.
+[21:25:33] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Hard collision for file /workspaces/InfoCraft/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/pack.mcmeta detected! Auto-resolved based on highest priority.
+[21:25:33] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Hard collision for file /workspaces/InfoCraft/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/pack.png detected! Auto-resolved based on highest priority.
+[21:25:34] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Hard collision for file /workspaces/InfoCraft/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/pack.mcmeta detected! Auto-resolved based on highest priority.
+[21:25:34] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Hard collision for file /workspaces/InfoCraft/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/pack.png detected! Auto-resolved based on highest priority.
+[21:25:34] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Hard collision for file /workspaces/InfoCraft/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/pack.mcmeta detected! Auto-resolved based on highest priority.
+[21:25:34] [Craft Scheduler Thread - 18 - HuskHomes/INFO]: [HuskHomes] Registered 'after_load' hooks
+[21:25:35] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Starting autohost!
+[21:25:35] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Successfully saved UUID: 2b80a1c8-00e3-4a68-9ede-70bcdc39f880
+[21:25:35] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Server initialized successfully: Server initialized successfully
+[21:25:35] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Remote server already has this resource pack! Response: false
+[21:25:35] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Uploading resource!
+[21:25:36] [Craft Scheduler Thread - 17 - ResourcePackManager/INFO]: [ResourcePackManager] Uploaded resource pack for automatic hosting! url: https://magmaguy.com/rsp/2b80a1c8-00e3-4a68-9ede-70bcdc39f880
+[21:26:18] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Khvicha K77
+[21:26:18] [localSession-7-2/INFO]: [Geyser-Spigot] Khvicha K77 (logged in as: Khvicha_K77) has connected to the Java server
+[21:26:18] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, EliteMobs, ProtocolLib]
+[21:26:19] [Server thread/INFO]: [vane-admin] [broadcast] .Khvicha_K77 se ha unido al servidor
+[21:26:19] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77. rspUUID is null: false. done: true. firstUpload: false.
+[21:26:19] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77
+[21:26:19] [Server thread/INFO]: [vane-admin] Detención automática interrumpida
+[21:26:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 joined (UUID: 00000000-0000-0000-0009-01f6a628710a)
+[21:26:19] [Server thread/INFO]: .Khvicha_K77 has joined!
+[21:26:20] [Server thread/INFO]: .Khvicha_K77[/127.40.76.130:0] logged in with entity id 119 at ([world]-677.1054, 68.0, -64.986176)
+[21:26:20] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[21:26:20] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[21:26:20] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[21:26:20] [Server thread/INFO]: [SeeMore] Set view distance of .Khvicha_K77 to 7 (client view distance is 7).
+[21:26:20] [Craft Scheduler Thread - 11 - EliteMobs/INFO]: [EliteMobs] User 00000000-0000-0000-0009-01f6a628710a data successfully read!
+[21:30:29] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml has been queued!
+[21:30:29] [Server thread/INFO]: ¡Un Goblin Con Armadura ha sido avistado!
+[21:34:35] [User Authenticator #0/INFO]: UUID of player Luiscue is 845369e1-bc09-3801-a39e-6c8d160e41a6
+[21:34:38] [Server thread/INFO]: [vane-admin] [broadcast] Luiscue se ha unido al servidor
+[21:34:38] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Luiscue. rspUUID is null: false. done: true. firstUpload: false.
+[21:34:38] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Luiscue
+[21:34:38] [Server thread/INFO]: Detención automática no programada
+[21:34:38] [Server thread/INFO]: Luiscue has joined!
+[21:34:38] [Server thread/INFO]: Luiscue[/127.68.144.170:56395] logged in with entity id 1991 at ([world]-295.3075491893852, 63.0, 677.21652925102)
+[21:34:38] [Craft Scheduler Thread - 18 - EliteMobs/INFO]: [EliteMobs] User 845369e1-bc09-3801-a39e-6c8d160e41a6 data successfully read!
+[21:35:25] [Server thread/INFO]: ¡「2」 Goblin con Armadura llegó a los cerebros de .Khvicha_K77!
+[21:36:29] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml has been queued!
+[21:36:29] [Server thread/INFO]: ¡Una caravana Pillager ha sido avistada!
+[21:37:17] [Server thread/INFO]: Named entity Ravager['〔6〕 Bestia de Caravana'/3633, uuid='0f4ebaef-6d12-4c44-a9ed-cc50ff38519d', l='ServerLevel[world]', x=-282.66, y=64.00, z=689.02, cpos=[-18, 43], tl=966, v=true] died: 〔6〕 Bestia de Caravana was slain by Luiscue
+[21:37:39] [Server thread/INFO]: Named entity Ravager['〔7〕 Bestia de Caravana'/4196, uuid='a2fabf6c-7bbd-405d-8f7a-c555d334bc04', l='ServerLevel[world]', x=-285.48, y=64.00, z=689.09, cpos=[-18, 43], tl=391, v=true] died: 〔7〕 Bestia de Caravana was slain by Luiscue
+[21:37:51] [Server thread/INFO]: Named entity Ravager['〔7〕 Bestia de Caravana'/4198, uuid='f4647546-2eb9-4011-b199-53dc13f18195', l='ServerLevel[world]', x=-282.52, y=65.00, z=691.30, cpos=[-18, 43], tl=643, v=true] died: 〔7〕 Bestia de Caravana was slain by Luiscue
+[21:37:58] [Server thread/INFO]: ¡〔7〕 Bestia de Caravana le mostró a Luiscue quién está a cargo!
+[21:38:49] [Server thread/INFO]: ¡〔1〕 Bestia de Caravana le mostró a Luiscue quién está a cargo!
+[21:39:59] [Server thread/INFO]: Named entity Pillager['〔1〕 Guardia de Caravana'/5305, uuid='0ffc05a5-4e19-4146-81c9-d03c0a20e8be', l='ServerLevel[world]', x=-283.00, y=64.21, z=706.19, cpos=[-18, 44], tl=1348, v=true] died: 〔1〕 Guardia de Caravana was slain by Luiscue
+[21:40:06] [Server thread/INFO]: ¡〔7〕 Bestia de Caravana le mostró a Luiscue quién está a cargo!
+[21:40:59] [Server thread/INFO]: ¡〔1〕 Bestia de Caravana le mostró a Luiscue quién está a cargo!
+[21:42:29] [Server thread/INFO]: [EliteMobs] Event beast_master.yml has been queued!
+[21:42:29] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
+[21:44:01] [Server thread/INFO]: Named entity Ravager['〔7〕 Bestia de Caravana'/7114, uuid='aa896dc6-8e97-49d3-bcc1-6ce92ac9b3f7', l='ServerLevel[world]', x=-327.95, y=65.00, z=707.33, cpos=[-21, 44], tl=1597, v=true] died: 〔7〕 Bestia de Caravana was slain by Luiscue
+[21:44:17] [Server thread/INFO]: ¡〔7〕 Bestia de Caravana le mostró a Luiscue quién está a cargo!
+[21:46:24] [Server thread/INFO]: There are 2 of a max of 20 players online: .Khvicha_K77, Luiscue
+[21:46:34] [Server thread/INFO]: ¡「4」 Maestro de Bestias reivindicó sus habilidades de lucha con Luiscue!
+[21:48:27] [User Authenticator #1/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[21:48:28] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[21:48:28] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[21:48:28] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[21:48:28] [Server thread/INFO]: Detención automática no programada
+[21:48:28] [Server thread/INFO]: luxfoo has joined!
+[21:48:28] [Server thread/INFO]: luxfoo[/127.44.74.197:36851] logged in with entity id 9745 at ([world]-697.2741381107536, 63.0, -74.34222411316358)
+[21:48:29] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml has been queued!
+[21:48:29] [Server thread/INFO]: ¡Un Goblin del Tesoro ha sido avistado!
+[21:48:29] [Craft Scheduler Thread - 11 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[21:48:40] [Server thread/INFO]: ¡「6」 Maestro de Bestias reivindicó sus habilidades de lucha con Luiscue!
+[21:48:50] [Server thread/INFO]: luxfoo issued server command: /home
+[21:49:02] [Server thread/INFO]: luxfoo was kicked due to keepalive timeout!
+[21:49:02] [Server thread/INFO]: luxfoo lost connection: Timed out
+[21:49:02] [Server thread/INFO]: luxfoo has left!
+[21:49:02] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [461ms] ha sido expulsado del servidor
+[21:49:38] [User Authenticator #2/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[21:49:39] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[21:49:39] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[21:49:39] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[21:49:39] [Server thread/INFO]: Detención automática no programada
+[21:49:39] [Server thread/INFO]: luxfoo has joined!
+[21:49:39] [Server thread/INFO]: luxfoo[/127.44.74.197:49673] logged in with entity id 10648 at ([world]-697.2741381107536, 63.0, -74.34222411316358)
+[21:49:40] [Craft Scheduler Thread - 11 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[21:50:07] [Async Chat Thread - #0/INFO]: [Not Secure] <luxfoo> AAA
+[21:50:11] [Async Chat Thread - #1/INFO]: [Not Secure] <luxfoo> aaaa
+[21:50:12] [Server thread/INFO]: luxfoo was kicked due to keepalive timeout!
+[21:50:12] [Server thread/INFO]: luxfoo lost connection: Timed out
+[21:50:12] [Server thread/INFO]: luxfoo has left!
+[21:50:12] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [360ms] ha sido expulsado del servidor
+[21:50:24] [User Authenticator #2/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[21:50:25] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[21:50:25] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[21:50:25] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[21:50:25] [Server thread/INFO]: Detención automática no programada
+[21:50:25] [Server thread/INFO]: luxfoo has joined!
+[21:50:25] [Server thread/INFO]: luxfoo[/127.44.74.197:60023] logged in with entity id 11131 at ([world]-697.2741381107536, 63.0, -74.34222411316358)
+[21:50:26] [Craft Scheduler Thread - 22 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[21:50:54] [Async Chat Thread - #1/INFO]: [Not Secure] <luxfoo> xd
+[21:50:57] [Server thread/INFO]: luxfoo was kicked due to keepalive timeout!
+[21:50:57] [Server thread/INFO]: luxfoo lost connection: Timed out
+[21:50:57] [Server thread/INFO]: luxfoo has left!
+[21:50:57] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [795ms] ha sido expulsado del servidor
+[21:51:58] [Server thread/INFO]: ---------------------------------------------
+[21:51:58] [Server thread/INFO]: ¡El Goblin del Tesoro ha sido saqueado!
+[21:51:58] [Server thread/INFO]:     1er Dañador: ¡Luiscue con 87.5 daño!
+[21:51:58] [Server thread/INFO]: 
+[21:51:58] [Server thread/INFO]: 
+[21:51:58] [Server thread/INFO]: Asesinos: Luiscue
+[21:51:58] [Server thread/INFO]: ---------------------------------------------
+[21:51:58] [Server thread/INFO]: Named entity Zombie['Goblin del Tesoro 「7」'/9760, uuid='5eedb9f8-46c3-4880-9189-6afc5ee654c7', l='ServerLevel[world]', x=-541.26, y=73.00, z=648.64, cpos=[-34, 40], tl=3894, v=true] died: Goblin del Tesoro 「7」 was burned to a crisp while fighting Luiscue
+[21:51:58] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml ended!
+[21:52:53] [Server thread/INFO]: Villager Villager['Fletcher'/2002, uuid='5b07df38-6808-46cb-831d-1b4707815d4c', l='ServerLevel[world]', x=-273.44, y=62.52, z=684.93, cpos=[-18, 42], tl=19749, v=true] died, message: 'Fletcher was slain by 〔7〕 Bestia de Caravana'
+[21:53:02] [Server thread/INFO]: Named entity Wolf['〔7〕 Lobo Salvaje'/13391, uuid='c088aa11-b56b-4f35-86d8-edeb1a61a432', l='ServerLevel[world]', x=-393.76, y=65.00, z=657.46, cpos=[-25, 41], tl=110, v=true] died: 〔7〕 Lobo Salvaje fell from a high place
+[21:53:02] [Server thread/INFO]: Villager Villager['Librarian'/2011, uuid='9b38f59a-d294-4426-b8a6-a1827349dee6', l='ServerLevel[world]', x=-268.81, y=64.02, z=705.12, cpos=[-17, 44], tl=19465, v=true] died, message: 'Librarian was slain by 〔7〕 Bestia de Caravana'
+[21:53:10] [Server thread/INFO]: Named entity Wolf['〔7〕 Lobo Salvaje'/13401, uuid='2fe43c0e-5da0-47e0-adbf-692629de2485', l='ServerLevel[world]', x=-367.53, y=64.00, z=667.76, cpos=[-23, 41], tl=258, v=true] died: 〔7〕 Lobo Salvaje was slain by Luiscue
+[21:53:50] [Server thread/INFO]: ¡〔7〕 Bestia de Caravana le mostró a Luiscue quién está a cargo!
+[21:54:29] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml has been queued!
+[21:54:29] [Server thread/INFO]: ¡Un Goblin de Monedas ha sido avistado!
+[21:58:25] [Server thread/INFO]: ¡「4」 Maestro de Bestias reivindicó sus habilidades de lucha con Luiscue!
+[21:59:29] [Server thread/INFO]: [EliteMobs] Event armor_goblin.yml ended!
+[22:00:29] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml has been queued!
+[22:00:29] [Server thread/INFO]: Un Goblin Armado ha sido avistado!
+[22:01:02] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Khvicha K77 has disconnected from the Java server because of Bedrock client disconnected
+[22:01:02] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 disconnected
+[22:01:02] [Server thread/INFO]: .Khvicha_K77 lost connection: Disconnected
+[22:01:02] [Server thread/INFO]: .Khvicha_K77 has left!
+[22:01:02] [Server thread/INFO]: [vane-admin] [broadcast] .Khvicha_K77 [0ms] ha abandonado el servidor
+[22:01:17] [Server thread/INFO]: ¡〔4〕 Bestia de Caravana le mostró a Luiscue quién está a cargo!
+[22:01:23] [Server thread/INFO]: Luiscue lost connection: Disconnected
+[22:01:23] [Server thread/INFO]: Luiscue has left!
+[22:01:23] [Server thread/INFO]: [vane-admin] [broadcast] Luiscue [149ms] ha abandonado el servidor
+[22:01:23] [Server thread/INFO]: [vane-admin] Detención automática programada en 20m
+[22:04:33] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username Khvicha K77
+[22:04:33] [localSession-7-3/INFO]: [Geyser-Spigot] Khvicha K77 (logged in as: Khvicha_K77) has connected to the Java server
+[22:04:34] [Server thread/INFO]: [vane-admin] [broadcast] .Khvicha_K77 se ha unido al servidor
+[22:04:34] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77. rspUUID is null: false. done: true. firstUpload: false.
+[22:04:34] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to .Khvicha_K77
+[22:04:34] [Server thread/INFO]: [vane-admin] Detención automática interrumpida
+[22:04:34] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 joined (UUID: 00000000-0000-0000-0009-01f6a628710a)
+[22:04:34] [Server thread/INFO]: .Khvicha_K77 has joined!
+[22:04:34] [Server thread/INFO]: .Khvicha_K77[/127.40.76.130:0] logged in with entity id 18575 at ([world]-742.28784, 64.5, -119.7421)
+[22:04:34] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:04:34] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:04:34] [Server thread/INFO]: [vane-core] The player .Khvicha_K77 rejected the resource pack. This will cause client-side issues with formatted text for them.
+[22:04:35] [Craft Scheduler Thread - 31 - EliteMobs/INFO]: [EliteMobs] User 00000000-0000-0000-0009-01f6a628710a data successfully read!
+[22:04:35] [Server thread/INFO]: [SeeMore] Set view distance of .Khvicha_K77 to 7 (client view distance is 7).
+[22:06:02] [Server thread/INFO]: [EliteMobs] Event pillager_caravan.yml ended!
+[22:06:29] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml has been queued!
+[22:06:29] [Server thread/INFO]: La Abominación del Dr. Craftenmine ha sido vista!
+[22:10:51] [User Authenticator #3/INFO]: UUID of player Luiscue is 845369e1-bc09-3801-a39e-6c8d160e41a6
+[22:10:52] [Server thread/INFO]: [vane-admin] [broadcast] Luiscue se ha unido al servidor
+[22:10:52] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Luiscue. rspUUID is null: false. done: true. firstUpload: false.
+[22:10:52] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to Luiscue
+[22:10:52] [Server thread/INFO]: Detención automática no programada
+[22:10:52] [Server thread/INFO]: Luiscue has joined!
+[22:10:52] [Server thread/INFO]: Luiscue[/127.68.144.170:56077] logged in with entity id 22020 at ([world]-293.5, 63.0, 679.5)
+[22:10:53] [Craft Scheduler Thread - 31 - EliteMobs/INFO]: [EliteMobs] User 845369e1-bc09-3801-a39e-6c8d160e41a6 data successfully read!
+[22:12:07] [Server thread/INFO]: Named entity Zombie['「1」 Goblin Armado'/22044, uuid='6761815e-a64b-40b8-b7ae-5cd1af2e2c2b', l='ServerLevel[world]', x=-390.26, y=64.00, z=596.69, cpos=[-25, 37], tl=1483, v=true] died: 「1」 Goblin Armado burned to death
+[22:12:08] [Server thread/INFO]: [EliteMobs] Event weapons_goblin.yml ended!
+[22:12:29] [Server thread/INFO]: [EliteMobs] Event dead_moon.yml has been queued!
+[22:12:35] [Server thread/INFO]: [EliteMobs] Event beast_master.yml ended!
+[22:15:02] [Server thread/INFO]: Luiscue issued server command: /death
+[22:15:32] [Server thread/INFO]: Luiscue issued server command: /death
+[22:21:00] [Server thread/INFO]: Named entity Zombie['「2」 Tótem Zombi'/19782, uuid='482793e3-ac05-410f-bd92-3950335e9605', l='ServerLevel[world]', x=-693.50, y=62.94, z=-86.28, cpos=[-44, -6], tl=17419, v=true] died: 「2」 Tótem Zombi burned to death
+[22:21:17] [Server thread/INFO]: ¡「2」 Cabeza Zombi llegó a los cerebros de .Khvicha_K77!
+[22:22:27] [Server thread/INFO]: Named entity Zombie['「1」 Tótem Zombi'/19780, uuid='61657140-47ad-4199-bb91-3d9bd9cf541a', l='ServerLevel[world]', x=-738.00, y=57.00, z=-87.77, cpos=[-47, -6], tl=19156, v=true] died: 「1」 Tótem Zombi was shot by 「1」 Tótem Zombi
+[22:22:32] [Server thread/INFO]: [SeeMore] Set view distance of Luiscue to 7 (client view distance is 4).
+[22:23:30] [Server thread/INFO]: [EliteMobs] Event coins_goblin.yml ended!
+[22:24:57] [Server thread/INFO]: ¡「1」 Cabeza Zombi llegó a los cerebros de .Khvicha_K77!
+[22:26:36] [Server thread/INFO]: ¡「1」 Cabeza Zombi llegó a los cerebros de .Khvicha_K77!
+[22:27:10] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Khvicha K77 has disconnected from the Java server because of Bedrock client disconnected
+[22:27:10] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 disconnected
+[22:27:10] [Server thread/INFO]: .Khvicha_K77 lost connection: Disconnected
+[22:27:10] [Server thread/INFO]: .Khvicha_K77 has left!
+[22:27:10] [Server thread/INFO]: [vane-admin] [broadcast] .Khvicha_K77 [0ms] ha abandonado el servidor
+[22:31:44] [User Authenticator #4/INFO]: UUID of player luxfoo is 191b6c80-af37-3dc2-9392-21edc209a363
+[22:31:45] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo se ha unido al servidor
+[22:31:45] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo. rspUUID is null: false. done: true. firstUpload: false.
+[22:31:45] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to luxfoo
+[22:31:45] [Server thread/INFO]: Detención automática no programada
+[22:31:45] [Server thread/INFO]: luxfoo has joined!
+[22:31:45] [Server thread/INFO]: luxfoo[/127.44.74.197:55919] logged in with entity id 30399 at ([world]-695.6315754647404, 63.0, -75.41315905036316)
+[22:31:46] [Craft Scheduler Thread - 32 - EliteMobs/INFO]: [EliteMobs] User 191b6c80-af37-3dc2-9392-21edc209a363 data successfully read!
+[22:32:01] [Server thread/INFO]: There are 2 of a max of 20 players online: Luiscue, luxfoo
+[22:32:16] [Async Chat Thread - #2/INFO]: [Not Secure] <luxfoo> como consigo perlas de ender super easy?
+[22:33:32] [Server thread/INFO]: There are 2 of a max of 20 players online: Luiscue, luxfoo
+[22:36:37] [Server thread/INFO]: [EliteMobs] Event zombie_totem.yml ended!
+[22:37:29] [Server thread/INFO]: [EliteMobs] Event full_moon.yml has been queued!
+[22:44:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+lit<--[HERE]
+[22:44:39] [Server thread/INFO]: There are 2 of a max of 20 players online: Luiscue, luxfoo
+[22:46:06] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 7'/33408, uuid='f51a15b7-d711-42b3-bfaf-93b3c2950853', l='ServerLevel[world]', x=-673.03, y=67.00, z=-88.09, cpos=[-43, -6], tl=574, v=true] died: Esqueleto de Elite Nivel 7 was slain by luxfoo
+[22:47:11] [Server thread/INFO]: luxfoo lost connection: Disconnected
+[22:47:11] [Server thread/INFO]: luxfoo has left!
+[22:47:11] [Server thread/INFO]: [vane-admin] [broadcast] luxfoo [123ms] ha abandonado el servidor
+[22:48:20] [Server thread/INFO]: Villager Villager['Villager'/22047, uuid='f8f0ee27-4d83-408a-b35c-8c6b8c70dc12', l='ServerLevel[world]', x=-283.30, y=63.75, z=694.53, cpos=[-18, 43], tl=39597, v=true] died, message: 'Villager was slain by Husk'
+[22:56:52] [Server thread/INFO]: Luiscue lost connection: Disconnected
+[22:56:52] [Server thread/INFO]: Luiscue has left!
+[22:56:52] [Server thread/INFO]: [vane-admin] [broadcast] Luiscue [147ms] ha abandonado el servidor
+[22:56:52] [Server thread/INFO]: [vane-admin] Detención automática programada en 20m
+[22:57:05] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[22:57:15] [Server thread/INFO]: Stopping the server
+[22:57:15] [Server thread/INFO]: Stopping server
+[22:57:15] [Server thread/INFO]: [FishRewards] Disabling FishRewards v1.6.6
+[22:57:15] [Server thread/INFO]: [TabListPing] Disabling TabListPing v2.02
+[22:57:15] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.2
+[22:57:15] [Server thread/INFO]: [ResourcePackManager] Disabling ResourcePackManager v1.6.0
+[22:57:15] [Server thread/INFO]: [ResourcePackManager] Disabling ResourcePackManager
+[22:57:15] [Server thread/INFO]: [ChunkyBorder] Disabling ChunkyBorder v1.2.23
+[22:57:15] [Server thread/INFO]: [SeeMore] Disabling SeeMore v1.0.2
+[22:57:15] [Server thread/INFO]: [vane-permissions] Disabling vane-permissions v1.19.0
+[22:57:15] [Server thread/INFO]: [HexNicks] Disabling HexNicks v3.2.0
+[22:57:15] [Server thread/INFO]: [BetterStructures] Disabling BetterStructures v2.0.0
+[22:57:15] [Server thread/INFO]: [BetterStructures] Shutdown!
+[22:57:15] [Server thread/INFO]: [GravesX] Disabling GravesX v4.9.8.3
+[22:57:15] [Server thread/INFO]: [GravesX] Saving Grave inventories before shutting down...
+[22:57:15] [Server thread/INFO]: [GravesX] Grave inventories saved.
+[22:57:15] [Server thread/INFO]: [GravesX] Shutting Down GravesX...
+[22:57:15] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Shutdown initiated...
+[22:57:15] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Shutdown completed.
+[22:57:15] [Server thread/INFO]: [GravesX] Unloading GraveManager...
+[22:57:15] [Server thread/INFO]: [GravesX] Unloaded GraveManager Successfully.
+[22:57:15] [Server thread/INFO]: [GravesX] Unloading IntegrationManager...
+[22:57:15] [Server thread/INFO]: [GravesX] Unloaded IntegrationManager Successfully.
+[22:57:15] [Server thread/INFO]: [GravesX] Unloading RecipeManager...
+[22:57:15] [Server thread/INFO]: [GravesX] Unloaded RecipeManager Successfully.
+[22:57:15] [Server thread/INFO]: [GravesX] Shutdown Completed :)
+[22:57:15] [Server thread/INFO]: [Clumps] Disabling Clumps v5.0
+[22:57:15] [Server thread/INFO]: [vane-admin] Disabling vane-admin v1.19.0
+[22:57:15] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.3.0
+[22:57:15] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[22:57:15] [Server thread/INFO]: [ReanimateMC] Disabling ReanimateMC v1.2.02
+[22:57:15] [Server thread/INFO]: ReanimateMC has been disabled.
+[22:57:15] [Server thread/INFO]: [AreaPlanter] Disabling AreaPlanter v1.4
+[22:57:15] [Server thread/INFO]: [AreaPlanter] AreaPlanter has been disabled.
+[22:57:15] [Server thread/INFO]: [Stackable] Disabling Stackable v1.0-SNAPSHOT
+[22:57:15] [Server thread/INFO]: [vane-trifles] Disabling vane-trifles v1.19.0
+[22:57:15] [Server thread/INFO]: [vane-portals] Disabling vane-portals v1.19.0
+[22:57:15] [Server thread/INFO]: [HarvestMaster] Disabling HarvestMaster v1.0.6
+[22:57:15] [Server thread/INFO]: [Protect] Disabling Protect v3.1.1
+[22:57:15] [Server thread/INFO]: [VillagerInABukkit] Disabling VillagerInABukkit v1.3.0
+[22:57:15] [Server thread/INFO]: [SpawnEggDrops] Disabling SpawnEggDrops v1.1.6
+[22:57:15] [Server thread/INFO]: [AttackThrough] Disabling AttackThrough v1.0.1
+[22:57:15] [Server thread/INFO]: [AttackThrough] Disabled !
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.4.27 [build 120]
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 0ms!
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 1ms!
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 0ms!
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabling manager...
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabled manager in 2ms!
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module RedstoneLimiter in 0ms.
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module InstantLeafDecay in 0ms.
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module WorldCleaner in 1ms.
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module MobAiReducer in 0ms.
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module LagMonitor in 0ms.
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module EntityLimiter in 0ms.
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module AbilityLimiter in 0ms.
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 1ms!
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
+[22:57:15] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 5ms!
+[22:57:15] [Server thread/INFO]: [DynamicLight] Disabling DynamicLight v${project.version}
+[22:57:15] [Server thread/INFO]: [DynamicLight] DynamicLight has been disabled!
+[22:57:15] [Server thread/INFO]: [DeleteBats] Disabling DeleteBats v1.0-SNAPSHOT
+[22:57:15] [Server thread/INFO]: [SilkAmethyst] Disabling SilkAmethyst v1.2.1
+[22:57:15] [Server thread/INFO]: [SilkAmethyst] Silk Amethyst Disabled!
+[22:57:15] [Server thread/INFO]: [PlayerCarry] Disabling PlayerCarry v1.1
+[22:57:15] [Server thread/INFO]: [FasterHappyGhasts] Disabling FasterHappyGhasts v1.0.0
+[22:57:15] [Server thread/INFO]: [FasterHappyGhasts] FasterHappyGhasts disabled!
+[22:57:15] [Server thread/INFO]: [HuskHomes] Disabling HuskHomes v4.9.9
+[22:57:15] [Server thread/INFO]: [HuskHomes] Disabling HuskHomes v4.9.9...
+[22:57:15] [Server thread/INFO]: [HuskHomes] Successfully disabled HuskHomes v4.9.9
+[22:57:15] [Server thread/INFO]: [DragonRebirth] Disabling DragonRebirth v1.0
+[22:57:15] [Server thread/INFO]: [DragonRebirth] Dragon Rebirth Plugin has been disabled!
+[22:57:15] [Server thread/INFO]: [CustomJoinMessages] Disabling CustomJoinMessages v17.9.1
+[22:57:15] [Server thread/INFO]: [XPBottling] Disabling XPBottling v1.0.0
+[22:57:15] [Server thread/INFO]: [XPBottling] XP Bottling has been disabled!
+[22:57:15] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.2
+[22:57:15] [Server thread/INFO]: [BackpackPlus] Disabling BackpackPlus v2.0.1
+[22:57:15] [Server thread/INFO]: [BackpackPlus] SQLite Successfully disconnected from the database
+[22:57:15] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[22:57:15] [Server thread/INFO]: [EliteMobs] Disabling EliteMobs v9.5.4
+[22:57:15] [Server thread/INFO]: [EliteMobs] Starting EliteMobs shutdown sequence...
+[22:57:15] [Server thread/INFO]: [EliteMobs] Saving EliteMobs databases...
+[22:57:15] [Server thread/INFO]: [EliteMobs] All done! Good night.
+[22:57:15] [Server thread/INFO]: [vane-regions] Disabling vane-regions v1.19.0
+[22:57:15] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.2.1 b125
+[22:57:15] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[22:57:15] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[22:57:15] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 2ms)
+[22:57:15] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
+[22:57:15] [Craft Scheduler Thread - 9 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[22:57:15] [Craft Scheduler Thread - 6 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[22:57:15] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[22:57:15] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[22:57:15] [Server thread/INFO]: [vane-core] Disabling vane-core v1.19.0
+[22:57:15] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
+[22:57:15] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:57:15] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:57:15] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:57:15] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.2.1
+[22:57:15] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.13.2
+[22:57:15] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:57:15] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[22:57:15] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[22:57:15] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
+[22:57:15] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[22:57:15] [Server thread/INFO]: Saving players
+[22:57:15] [WebSocketConnectReadThread-210/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[22:57:15] [Server thread/INFO]: Saving worlds
+[22:57:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:57:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:57:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:57:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:57:15] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 39 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[22:57:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[22:57:15] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[22:57:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:57:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:57:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:57:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:57:16] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 19 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[22:57:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[22:57:16] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[22:57:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:57:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:57:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:57:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:57:16] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 18 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[22:57:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[22:57:16] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[22:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:57:16] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[22:57:16] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[22:57:16] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[22:57:16] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

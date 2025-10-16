@@ -1,0 +1,10 @@
+caught-fish-message: '¡Has pescado [pack]!'
+command-reward-message: '&bHas recibido la recompensa, el comando fue ejecutado.'
+not-enough-space: '¡No tienes suficiente espacio en el inventario!'
+no-right: '&bNo tienes permisos.'
+enable-plugin-prefix: true
+open-pack-message: 'Has abierto [pack]'
+plugin-prefix: '&9&l[&aFishRewards&9] &b'
+entity-reward-message: '&4¡Hay entidades flotando cerca!'
+enable-pack-message: true
+item-reward-message: '&bHas recibido &a{itemname} &bcantidad: &a{count}'

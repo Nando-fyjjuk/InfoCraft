@@ -1,0 +1,98 @@
+# Dragon Rebirth Plugin Configuration
+# Advanced End Dragon Phase Two Challenge
+
+# Phase Two Settings
+phase-two:
+  # Dragon health in phase two (default: 400)
+  dragon-health: 500.0
+  
+  # Dragon speed multiplier (default: 0.4)
+  dragon-speed: 0.4
+  
+  # Damage reduction for dragon (default: 0.8 = 20% reduction)
+  damage-reduction: 0.8
+  
+  # Special attack interval in seconds (default: 15)
+  special-attack-interval: 15
+
+# Special Attacks Configuration
+special-attacks:
+  # Basic attacks
+  fireball-barrage: true
+  lightning-strike: true
+  poison-breath: true
+  summon-minions: true
+  
+  # Advanced Phase Two Attacks
+  fire-storm: false          # Fire Storm - disabled
+  dark-vortex: true          # Dark Gravitational Vortex - new!
+  energy-drain: true         # Energy Drain from players
+  frost-shock: true          # Freezing Frost Shock
+  chaos-storm: false         # Chaos Storm - disabled
+  meteor-rain: true          # Glowing Meteor Rain
+  
+  # Attack Settings
+  fireball-count: 12          # Number of fireballs
+  minion-count: 6             # Number of minions
+  
+  # Advanced Attack Settings
+  fire-storm-duration: 60     # Fire storm duration (ticks) - disabled
+  dark-vortex-duration: 100   # Dark vortex duration (ticks)
+  dark-vortex-range: 25.0     # Dark vortex effect range
+  dark-vortex-pull-strength: 0.5  # Vortex pull strength
+  dark-vortex-damage: 3.0     # Dark vortex damage
+  energy-drain-amount: 8      # Energy drain amount
+  frost-damage: 4.0           # Frost shock damage
+  meteor-rain-count: 30       # Number of meteors (increased from 25 to 30)
+  meteor-rain-radius: 35.0    # Meteor rain area radius (increased)
+  meteor-explosion-power: 3.5 # Meteor explosion power (increased)
+  meteor-rain-duration: 60    # Meteor storm duration in seconds (increased from 45 to 60)
+  meteor-rain-interval: 5     # Interval between meteors in ticks (5 ticks = 0.25 seconds)
+  meteor-ground-duration: 12000 # How long meteors stay on ground in ticks (10 minutes)
+
+# نظام البرق المستمر - جديد!
+continuous-lightning:
+  enabled: true               # تفعيل البرق المستمر
+  interval: 10                # الفترة بالثواني بين موجات البرق
+  strikes-per-wave: 3         # عدد ضربات البرق في كل موجة
+  radius: 40.0                # نطاق ضرب البرق حول التنين
+  real-damage: false          # هل البرق يسبب ضرر حقيقي أم بصري فقط
+
+# Player Help Chests System
+help-chests:
+  enabled: true               # Enable help chest system
+  range: 60.0                 # Maximum distance from dragon to receive chest
+  spawn-radius: 15.0          # Chest spawn radius around player
+  include-weapons: true       # Include enhanced weapons
+  include-armor: true         # Include enhanced armor
+  include-food: true          # Include food and healing potions
+  include-utility: true       # Include useful materials and tools
+
+# Fire Charge Reward at 50% Health
+fire-charge-reward:
+  enabled: true               # Enable Fire Charge system when dragon weakens
+  health-threshold: 50.0      # Health percentage to give Fire Charges
+  amount: 10                  # Number of Fire Charges per player
+  range: 60.0                 # Maximum distance from dragon to receive Fire Charges
+
+# Continuous Lightning System
+continuous-lightning:
+  enabled: true               # Enable continuous lightning strikes
+  interval: 10                # Interval between lightning waves (seconds)
+  strikes-per-wave: 3         # Number of lightning strikes per wave
+  radius: 40.0                # Lightning strike radius around dragon
+  real-damage: false          # Whether lightning causes real damage
+
+# Messages (English)
+messages:
+  phase-two-start: "⚡ The Dragon is not defeated yet! ⚡"
+  dragon-reborn: "🐉 The Dragon has returned stronger than before! 🐉"
+  victory: "🎉 End Dragon defeated in Phase Two! Well done! 🎉"
+  
+# Area Settings
+area:
+  # Maximum range for special attacks
+  max-attack-range: 50
+  
+  # Maximum range for poison breath
+  poison-range: 30

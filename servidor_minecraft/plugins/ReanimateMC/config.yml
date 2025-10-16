@@ -1,0 +1,43 @@
+language: "es"
+first_run: false
+setup_completed: false
+
+reanimation:
+  require_special_item: true
+  required_item: GOLDEN_CARROT
+  duration_ticks: 30
+  health_restored: 7
+  cooldown: 40
+  revive_cooldown: 40
+
+knockout:
+  enabled: true
+  duration_seconds: 60
+  movement_disabled: true
+  use_particles: true
+  heartbeat_sound: true
+  blindness: false
+  suicide_hold_seconds: 3
+  weakness_level: 1
+  fatigue_level: 1
+
+execution:
+  enabled: true
+  hold_duration_ticks: 40
+  message_broadcast: true
+
+effects_on_revive:
+  regeneration: 10
+  resistance: 20
+
+prone:
+  enabled: true
+  allow_crawl: true
+  crawl_slowness_level: 5
+  auto_crawl: false
+
+looting:
+  enabled: false
+
+tablist:
+  enabled: true

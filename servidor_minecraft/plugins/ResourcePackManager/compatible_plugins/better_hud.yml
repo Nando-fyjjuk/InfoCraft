@@ -1,0 +1,8 @@
+isEnabled: true
+pluginName: BetterHUD
+encrypts: true
+distributes: false
+zips: true
+reloadCommand: betterhud reload
+resourcePackUpdated: false
+localPath: BackpackPlus/pack/resourcepack.zip
